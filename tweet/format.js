@@ -1,0 +1,32 @@
+import twitter from "twitter-text";
+import size from "./size.js";
+
+const firstEmoji = String.fromCodePoint(parseInt("1F947", 16));
+const secondEmoji = String.fromCodePoint(parseInt("1F948", 16));
+const thirdEmoji = String.fromCodePoint(parseInt("1F949", 16));
+const podiumEmojis = [firstEmoji, secondEmoji, thirdEmoji];
+
+const checkEmoji = String.fromCodePoint(parseInt("2705", 16));
+const timerEmoji = String.fromCodePoint(parseInt("23F3", 16));
+
+export default function format(ranklist) {
+  let tweets = [], tweetLine = "", tweetLines = [], tweetSizes;
+
+  ranklist.forEach((candidate) => {
+    tweetLine = "";
+    tweetLine += candidate.rank < 4 ? `${podiumEmojis[candidate.rank - 1]} ` : `${candidate.rank} - `;
+    tweetLine += `${candidate.name}: ${candidate.votes}`;
+    tweetLine += candidate.confirmed ? ` ${checkEmoji}` : ` ${timerEmoji}`
+
+    tweetLines.push(tweetLine);
+  });
+
+  tweetSizes = size(tweetLines);
+
+  tweetSizes.forEach(el => {
+    let tweet = el.join("\n");
+    tweets.push(tweet);
+  })
+  
+  return tweets;
+}

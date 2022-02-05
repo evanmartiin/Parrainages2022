@@ -1,7 +1,8 @@
 import { TwitterApi } from "twitter-api-v2";
 import dotenv from "dotenv";
-import ranking, { ranklist, tweetBody } from "./rank/ranking.js";
+import ranking, { ranklist } from "./rank/ranking.js";
 import fetchData, { data } from "./fetchData.js";
+import format from "./tweet/format.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -14,8 +15,8 @@ const twitterClient = new TwitterApi({
 const tweet = async () => {
     await fetchData();
     ranking(data);
-    console.log(ranklist, tweetBody);
-  // twitterClient.v2.tweet({ "text": "Hello world" });
+    const tweets = format(ranklist);
+    tweets.forEach(tw => twitterClient.v2.tweet({ "text": tw }))
 };
 
 tweet();

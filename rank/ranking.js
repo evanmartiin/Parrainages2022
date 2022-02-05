@@ -1,8 +1,8 @@
-import format from "./format.js";
+import format from "../tweet/format.js";
 import validation from "./validation.js";
 import votes from "./votes.js";
 
-export let ranklist = [], tweetBody = "";
+export let ranklist = [];
 
 export default function ranking(data) {
   votes(data, ranklist);
@@ -19,8 +19,6 @@ export default function ranking(data) {
   });
 
   validation(data, ranklist);
-
-  tweetBody = format(ranklist);
 }
 
 const alphabet = (a, b) => {
