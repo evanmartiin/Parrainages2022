@@ -16,6 +16,7 @@ const tweet = async () => {
     await fetchData();
     ranking(data);
     const tweets = format(ranklist);
+    console.log(tweets);
     tweets.forEach(tw => twitterClient.v2.tweet({ "text": tw }))
 };
 

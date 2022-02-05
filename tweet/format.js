@@ -10,7 +10,7 @@ const checkEmoji = String.fromCodePoint(parseInt("2705", 16));
 const timerEmoji = String.fromCodePoint(parseInt("23F3", 16));
 
 export default function format(ranklist) {
-  let tweets = [], tweetLine = "", tweetLines = [], tweetSizes;
+  let tweets = [], tweetLine = "", tweetLines = [];
 
   ranklist.forEach((candidate) => {
     tweetLine = "";
@@ -21,12 +21,7 @@ export default function format(ranklist) {
     tweetLines.push(tweetLine);
   });
 
-  tweetSizes = size(tweetLines);
+  tweets = size(tweetLines);
 
-  tweetSizes.forEach(el => {
-    let tweet = el.join("\n");
-    tweets.push(tweet);
-  })
-  
   return tweets;
 }

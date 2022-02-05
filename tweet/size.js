@@ -1,8 +1,7 @@
 import twitter from "twitter-text";
 
 export default function size(lines) {
-    let tweets = [[]], totalLength = 0;
-    console.log(lines);
+    let tweets = [[]], totalLength = 0, joinedTweets = [];
 
     lines.forEach(line => {
         const length = twitter.parseTweet(line).weightedLength;
@@ -14,8 +13,12 @@ export default function size(lines) {
             tweets.push([line])
             totalLength = 0;
         }
-        console.log(totalLength);
     });
 
-    return tweets;
+    tweets.forEach(el => {
+      let tweet = el.join("\n");
+      joinedTweets.push(tweet)
+    })
+
+    return joinedTweets;
 }
