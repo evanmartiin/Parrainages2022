@@ -1,17 +1,11 @@
 import format from "./format.js";
+import validation from "./validation.js";
+import votes from "./votes.js";
 
 export let ranklist = [], tweetBody = "";
 
 export default function ranking(data) {
-  data.forEach((vote) => {
-    const single = ranklist.find((el) => el.name === vote[6]);
-
-    if (single) {
-      single.votes++;
-    } else {
-      ranklist.push({ name: vote[6], votes: 1 });
-    }
-  });
+  votes(data, ranklist);
 
   ranklist.sort(alphabet);
   ranklist.sort((a, b) => b.votes - a.votes);
@@ -23,6 +17,8 @@ export default function ranking(data) {
       candidate.rank = index + 1;
     }
   });
+
+  validation(data, ranklist);
 
   tweetBody = format(ranklist);
 }
