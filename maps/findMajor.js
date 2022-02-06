@@ -14,9 +14,12 @@ export default function findMajor(arr) {
 
     counts.sort((a, b) => b.votes - a.votes)
     
-    if (counts[1] && counts[0].votes === counts[1].votes) {
-        return "Égalité"
-    } else {
-        return [counts[0].name, counts[0].votes];
+    const major = { name: [counts[0].name], votes: counts[0].votes };
+
+    while (counts[1] && counts[0].votes === counts[1].votes) {
+        major.name.push(counts[1].name);
+        counts.splice(0, 1);
     }
+
+    return major;
 }

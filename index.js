@@ -21,17 +21,20 @@ const tweet = async () => {
 
     let tweetId;
 
-    await twitterClient.v2.tweet(tweets[0]).then(res => tweetId = res.data.id)
-    tweets.splice(0, 1);
+    // await twitterClient.v2.tweet(tweets[0]).then(res => tweetId = res.data.id)
+    // tweets.splice(0, 1);
     
-    while (tweets[0]) {
-        await twitterClient.v2.reply(tweets[0], tweetId).then(res => tweetId = res.data.id)
-        tweets.splice(0, 1);
-    }
+    // while (tweets[0]) {
+    //     await twitterClient.v2.reply(tweets[0], tweetId).then(res => tweetId = res.data.id)
+    //     tweets.splice(0, 1);
+    // }
 
     const depRanking = majorByDep(data);
 
     const candRanking = majorByCandidate(data);
+    depRanking.forEach(el => {
+        console.log(el)
+    });
 };
 
 tweet();
