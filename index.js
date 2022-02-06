@@ -32,9 +32,6 @@ const tweet = async () => {
     const depRanking = majorByDep(data);
 
     const candRanking = majorByCandidate(data);
-    depRanking.forEach(el => {
-        console.log(el)
-    });
 };
 
 tweet();

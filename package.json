@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
   "keywords": [],
@@ -17,6 +14,5 @@
     "node-fetch": "^3.2.0",
     "twitter-api-v2": "^1.10.0",
     "twitter-text": "^3.1.0"
-  },
-  "devDependencies": {}
+  }
 }
