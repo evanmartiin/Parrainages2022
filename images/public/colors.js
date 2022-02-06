@@ -1,6 +1,6 @@
 export const colors = [
   {
-    name: "default",
+    name: "Aucun vote",
     color: "#eeeeee",
   },
   {
