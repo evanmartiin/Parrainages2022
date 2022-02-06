@@ -22,7 +22,7 @@ export default function format(ranklist) {
 
     tweetLines.push(tweetLine);
   });
-
+  
   tweets = size(tweetLines);
 
   return tweets;

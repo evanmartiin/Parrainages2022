@@ -3,6 +3,8 @@ import dotenv from "dotenv";
 import ranking, { ranklist } from "./rank/ranking.js";
 import fetchData, { data } from "./fetchData.js";
 import format from "./tweet/format.js";
+import majorByDep from "./maps/majorByDep.js";
+import majorByCandidate from "./maps/majorByCandidate.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -26,6 +28,10 @@ const tweet = async () => {
         await twitterClient.v2.reply(tweets[0], tweetId).then(res => tweetId = res.data.id)
         tweets.splice(0, 1);
     }
+
+    const depRanking = majorByDep(data);
+
+    const candRanking = majorByCandidate(data);
 };
 
 tweet();

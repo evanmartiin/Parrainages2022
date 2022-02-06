@@ -6,10 +6,10 @@ export let ranklist = [];
 
 export default function ranking(data) {
   votes(data, ranklist);
-
+  
   ranklist.sort(alphabet);
   ranklist.sort((a, b) => b.votes - a.votes);
-
+  
   ranklist.forEach((candidate, index) => {
     if (ranklist[index - 1] && ranklist[index - 1].votes === candidate.votes) {
       candidate.rank = index;
@@ -17,7 +17,7 @@ export default function ranking(data) {
       candidate.rank = index + 1;
     }
   });
-
+  
   validation(data, ranklist);
 }
 
