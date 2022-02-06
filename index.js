@@ -6,6 +6,7 @@ import format from "./tweet/format.js";
 import majorByDep from "./maps/majorByDep.js";
 import majorByCandidate from "./maps/majorByCandidate.js";
 import majorByRegion from "./maps/majorByRegion.js";
+import percentByGender from "./maps/percentByGender.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -31,10 +32,9 @@ const tweet = async () => {
     }
 
     const depRanking = majorByDep(data);
-
     const candRanking = majorByCandidate(data);
-
     const regionRanking = majorByRegion(data);
+    const genderRanking = percentByGender(data);
 };
 
 tweet();

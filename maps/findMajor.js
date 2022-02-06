@@ -2,14 +2,14 @@ export default function findMajor(arr) {
     const counts = [];
 
     arr.forEach(el => {
-        let candidate = counts.find(e => e.name === el);
+        let value = counts.find(e => e.name === el);
         
-        if (!candidate) {
+        if (!value) {
             counts.push({ name: el, votes: 0 })
-            candidate = counts.find(e => e.name === el);
+            value = counts.find(e => e.name === el);
         }
 
-        candidate.votes++;
+        value.votes++;
     });
 
     counts.sort((a, b) => b.votes - a.votes)
