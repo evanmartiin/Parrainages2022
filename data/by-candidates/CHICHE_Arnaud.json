@@ -1,1 +1,69 @@
-{"nom":"CHICHE Arnaud","votes_confirmes":1,"votes_totaux":1,"rang":21,"valide":false,"parrainages":[{"genre":"M.","nom":"HAVART Ludovic","fonction":"Maire","circonscription":"Neuvilly","departement":"Nord","date":"2022-02-03"}],"stats":{"genre":{"total":1,"valeurs":[{"key":"M.","value":1,"rang":1}]},"fonction":{"total":1,"valeurs":[{"key":"Maire","value":1,"rang":1}]},"circonscription":{"total":1,"valeurs":[{"key":"Neuvilly","value":1,"rang":1}]},"departement":{"total":1,"valeurs":[{"key":"Nord","value":1,"rang":1}]},"date":{"total":1,"valeurs":[{"key":"2022-02-03","value":1,"rang":1}]}}}
+{
+  "nom": "CHICHE Arnaud",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 21,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "HAVART Ludovic",
+      "fonction": "Maire",
+      "circonscription": "Neuvilly",
+      "departement": "Nord",
+      "date": "2022-02-03"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Neuvilly",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Nord",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-02-03",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,1 +1,213 @@
-{"nom":"KUZMANOVIC Georges","votes_confirmes":9,"votes_totaux":9,"rang":16,"valide":false,"parrainages":[{"genre":"M.","nom":"ALLIOT Jean-François","fonction":"Maire","circonscription":"Villeneuve-la-Dondagre","departement":"Yonne","date":"2022-02-01"},{"genre":"M.","nom":"DURAND Denis","fonction":"Maire","circonscription":"Bengy-sur-Craon","departement":"Cher","date":"2022-02-03"},{"genre":"M.","nom":"VEYRAC Yves","fonction":"Maire","circonscription":"Montaut","departement":"Dordogne","date":"2022-02-03"},{"genre":"M.","nom":"DEVILLERS Claude","fonction":"Maire","circonscription":"Lomont-sur-Crête","departement":"Doubs","date":"2022-02-03"},{"genre":"M.","nom":"MECHET René","fonction":"Maire","circonscription":"Chassigny","departement":"Haute-Marne","date":"2022-02-03"},{"genre":"M.","nom":"KINDT Patrick","fonction":"Maire","circonscription":"Chidrac","departement":"Puy-de-Dôme","date":"2022-02-03"},{"genre":"M.","nom":"SCHEUER Jean-Louis","fonction":"Maire","circonscription":"Drulingen","departement":"Bas-Rhin","date":"2022-02-03"},{"genre":"M.","nom":"SAUVAGE Laurent","fonction":"Maire","circonscription":"Villers-sous-Ailly","departement":"Somme","date":"2022-02-03"},{"genre":"M.","nom":"WATELAIN Philippe","fonction":"Maire","circonscription":"Villers-Campsart","departement":"Somme","date":"2022-02-03"}],"stats":{"genre":{"total":9,"valeurs":[{"key":"M.","value":9,"rang":1}]},"fonction":{"total":9,"valeurs":[{"key":"Maire","value":9,"rang":1}]},"circonscription":{"total":9,"valeurs":[{"key":"Villeneuve-la-Dondagre","value":1,"rang":1},{"key":"Bengy-sur-Craon","value":1,"rang":1},{"key":"Montaut","value":1,"rang":1},{"key":"Lomont-sur-Crête","value":1,"rang":1},{"key":"Chassigny","value":1,"rang":1},{"key":"Chidrac","value":1,"rang":1},{"key":"Drulingen","value":1,"rang":1},{"key":"Villers-sous-Ailly","value":1,"rang":1},{"key":"Villers-Campsart","value":1,"rang":1}]},"departement":{"total":9,"valeurs":[{"key":"Somme","value":2,"rang":1},{"key":"Yonne","value":1,"rang":2},{"key":"Cher","value":1,"rang":2},{"key":"Dordogne","value":1,"rang":2},{"key":"Doubs","value":1,"rang":2},{"key":"Haute-Marne","value":1,"rang":2},{"key":"Puy-de-Dôme","value":1,"rang":2},{"key":"Bas-Rhin","value":1,"rang":2}]},"date":{"total":9,"valeurs":[{"key":"2022-02-03","value":8,"rang":1},{"key":"2022-02-01","value":1,"rang":2}]}}}
+{
+  "nom": "KUZMANOVIC Georges",
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
+  "rang": 16,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "ALLIOT Jean-François",
+      "fonction": "Maire",
+      "circonscription": "Villeneuve-la-Dondagre",
+      "departement": "Yonne",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DURAND Denis",
+      "fonction": "Maire",
+      "circonscription": "Bengy-sur-Craon",
+      "departement": "Cher",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VEYRAC Yves",
+      "fonction": "Maire",
+      "circonscription": "Montaut",
+      "departement": "Dordogne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DEVILLERS Claude",
+      "fonction": "Maire",
+      "circonscription": "Lomont-sur-Crête",
+      "departement": "Doubs",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MECHET René",
+      "fonction": "Maire",
+      "circonscription": "Chassigny",
+      "departement": "Haute-Marne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "KINDT Patrick",
+      "fonction": "Maire",
+      "circonscription": "Chidrac",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SCHEUER Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Drulingen",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SAUVAGE Laurent",
+      "fonction": "Maire",
+      "circonscription": "Villers-sous-Ailly",
+      "departement": "Somme",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "WATELAIN Philippe",
+      "fonction": "Maire",
+      "circonscription": "Villers-Campsart",
+      "departement": "Somme",
+      "date": "2022-02-03"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 9,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 9,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "Villeneuve-la-Dondagre",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Bengy-sur-Craon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montaut",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Lomont-sur-Crête",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chassigny",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chidrac",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Drulingen",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Villers-sous-Ailly",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Villers-Campsart",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "Somme",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Yonne",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Cher",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Dordogne",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Haute-Marne",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Puy-de-Dôme",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "date": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "2022-02-03",
+          "value": 8,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-01",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    }
+  }
+}

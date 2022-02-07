@@ -1,1 +1,195 @@
-{"nom":"TAUBIRA Christiane","votes_confirmes":8,"votes_totaux":8,"rang":17,"valide":false,"parrainages":[{"genre":"M.","nom":"DURAND Jean-Luc","fonction":"Conseiller départemental","circonscription":"","departement":"Aude","date":"2022-02-03"},{"genre":"M.","nom":"CORREIA Éric","fonction":"Président d'un EPCI à fiscalité propre","circonscription":"CA du Grand Guéret","departement":"Creuse","date":"2022-02-03"},{"genre":"M.","nom":"SONILHAC Jacques","fonction":"Maire","circonscription":"Sansan","departement":"Gers","date":"2022-02-03"},{"genre":"M.","nom":"BERTHELOT Anthony","fonction":"Maire","circonscription":"Indre","departement":"Loire-Atlantique","date":"2022-02-03"},{"genre":"M.","nom":"NEAU Hervé","fonction":"Maire","circonscription":"Rezé","departement":"Loire-Atlantique","date":"2022-02-03"},{"genre":"Mme","nom":"VINEL Marie-Claude","fonction":"Maire","circonscription":"Felzins","departement":"Lot","date":"2022-02-03"},{"genre":"M.","nom":"CAPS Antony","fonction":"Conseiller départemental","circonscription":"","departement":"Meurthe-et-Moselle","date":"2022-02-03"},{"genre":"M.","nom":"CHILOT Étienne","fonction":"Maire","circonscription":"Montacher-Villegardin","departement":"Yonne","date":"2022-02-03"}],"stats":{"genre":{"total":8,"valeurs":[{"key":"M.","value":7,"rang":1},{"key":"Mme","value":1,"rang":2}]},"fonction":{"total":8,"valeurs":[{"key":"Maire","value":5,"rang":1},{"key":"Conseiller.e départemental.e","value":2,"rang":2},{"key":"Président.e d'un EPCI à fiscalité propre","value":1,"rang":3}]},"circonscription":{"total":6,"valeurs":[{"key":"CA du Grand Guéret","value":1,"rang":1},{"key":"Sansan","value":1,"rang":1},{"key":"Indre","value":1,"rang":1},{"key":"Rezé","value":1,"rang":1},{"key":"Felzins","value":1,"rang":1},{"key":"Montacher-Villegardin","value":1,"rang":1}]},"departement":{"total":8,"valeurs":[{"key":"Loire-Atlantique","value":2,"rang":1},{"key":"Aude","value":1,"rang":2},{"key":"Creuse","value":1,"rang":2},{"key":"Gers","value":1,"rang":2},{"key":"Lot","value":1,"rang":2},{"key":"Meurthe-et-Moselle","value":1,"rang":2},{"key":"Yonne","value":1,"rang":2}]},"date":{"total":8,"valeurs":[{"key":"2022-02-03","value":8,"rang":1}]}}}
+{
+  "nom": "TAUBIRA Christiane",
+  "votes_confirmes": 8,
+  "votes_totaux": 8,
+  "rang": 17,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "DURAND Jean-Luc",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Aude",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CORREIA Éric",
+      "fonction": "Président d'un EPCI à fiscalité propre",
+      "circonscription": "CA du Grand Guéret",
+      "departement": "Creuse",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SONILHAC Jacques",
+      "fonction": "Maire",
+      "circonscription": "Sansan",
+      "departement": "Gers",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERTHELOT Anthony",
+      "fonction": "Maire",
+      "circonscription": "Indre",
+      "departement": "Loire-Atlantique",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "NEAU Hervé",
+      "fonction": "Maire",
+      "circonscription": "Rezé",
+      "departement": "Loire-Atlantique",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "VINEL Marie-Claude",
+      "fonction": "Maire",
+      "circonscription": "Felzins",
+      "departement": "Lot",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CAPS Antony",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHILOT Étienne",
+      "fonction": "Maire",
+      "circonscription": "Montacher-Villegardin",
+      "departement": "Yonne",
+      "date": "2022-02-03"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 8,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 7,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "fonction": {
+      "total": 8,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 5,
+          "rang": 1
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Président.e d'un EPCI à fiscalité propre",
+          "value": 1,
+          "rang": 3
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 6,
+      "valeurs": [
+        {
+          "key": "CA du Grand Guéret",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Sansan",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Indre",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Rezé",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Felzins",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montacher-Villegardin",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 8,
+      "valeurs": [
+        {
+          "key": "Loire-Atlantique",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Aude",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Creuse",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Gers",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Lot",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Meurthe-et-Moselle",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Yonne",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "date": {
+      "total": 8,
+      "valeurs": [
+        {
+          "key": "2022-02-03",
+          "value": 8,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

@@ -47,7 +47,7 @@ export default function byCandidates(data) {
         candidate.stats.circonscription = stats(candidate.stats.circonscription);
         candidate.stats.departement = stats(candidate.stats.departement);
         candidate.stats.date = stats(candidate.stats.date);
-        fs.writeFileSync(path.resolve('data/by-candidates/', candidate.nom.replace(/\s+/g, '_') + '.json'), JSON.stringify(candidate));
+        fs.writeFileSync(path.resolve('data/by-candidates/', candidate.nom.replace(/\s+/g, '_') + '.json'), JSON.stringify(candidate, null, 2));
     });
-    fs.writeFileSync(path.resolve('data/by-candidates/', 'all_candidates.json'), JSON.stringify(candidates));
+    fs.writeFileSync(path.resolve('data/by-candidates/', 'all_candidates.json'), JSON.stringify(candidates, null, 2));
 }
