@@ -3,34 +3,37 @@ import { colors } from "./public/colors";
 import { data } from "./public/data";
 import "./styles.css";
 
-function visualize(arr) {
-  let svgs = Array.from(document.getElementsByTagName("path"));
+const visualize = (arr) => {
+  fetch("https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json")
+  .then((response) => response.text())
+  .then((res) => console.log(res));
+  // let svgs = Array.from(document.getElementsByTagName("path"));
   
-  svgs.forEach((dep) => {
-    dep.setAttribute("stroke", "#000");
-    dep.setAttribute("stroke-miterlimit", "3.974");
-    dep.setAttribute("stroke-width", ".2");
+  // svgs.forEach((dep) => {
+  //   dep.setAttribute("stroke", "#000");
+  //   dep.setAttribute("stroke-miterlimit", "3.974");
+  //   dep.setAttribute("stroke-width", ".2");
 
-    let dom = arr.find((el) => el.name === dep.attributes.title.value);
-    let color = colors.find(el => el.name === (dom ? dom.major.name[0] : "Aucun vote")).color;
-    dep.setAttribute("fill", color)
-  });
+  //   let dom = arr.find((el) => el.name === dep.attributes.title.value);
+  //   let color = colors.find(el => el.name === (dom ? dom.major.name[0] : "Aucun vote")).color;
+  //   dep.setAttribute("fill", color)
+  // });
 
-  let legend = document.getElementsByClassName("legend")[0];
+  // let legend = document.getElementsByClassName("legend")[0];
 
-  colors.forEach(colorSet => {
-    let caption = document.createElement("div");
-    caption.classList.add("caption");
-    legend.appendChild(caption);
+  // colors.forEach(colorSet => {
+  //   let caption = document.createElement("div");
+  //   caption.classList.add("caption");
+  //   legend.appendChild(caption);
 
-    let div = document.createElement("div");
-    div.style.backgroundColor = colorSet.color;
-    caption.appendChild(div);
+  //   let div = document.createElement("div");
+  //   div.style.backgroundColor = colorSet.color;
+  //   caption.appendChild(div);
 
-    let p = document.createElement("p");
-    p.innerHTML = colorSet.name;
-    caption.appendChild(p);
-  })
+  //   let p = document.createElement("p");
+  //   p.innerHTML = colorSet.name;
+  //   caption.appendChild(p);
+  // })
 }
 
 visualize(data);

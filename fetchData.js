@@ -7,5 +7,5 @@ export default async function fetchData() {
     "https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.txt"
   )
     .then((response) => response.text())
-    .then((res) => (data = JSON.parse(res).data));
+    .then((res) => (data = JSON.parse(res).data))
 }
