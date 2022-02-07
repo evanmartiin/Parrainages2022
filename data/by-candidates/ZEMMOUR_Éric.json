@@ -1,0 +1,469 @@
+{
+  "nom": "ZEMMOUR Éric",
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "TELLIER Pierre",
+      "fonction": "Maire",
+      "circonscription": "Migné",
+      "departement": "Indre",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "MONCEAU Didier",
+      "fonction": "Maire",
+      "circonscription": "Marsainvilliers",
+      "departement": "Loiret",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "CASUSO Patrick",
+      "fonction": "Maire",
+      "circonscription": "Dinteville",
+      "departement": "Haute-Marne",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "VIVIER Francis",
+      "fonction": "Maire",
+      "circonscription": "Bathelémont",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "HURAUT Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Thillombois",
+      "departement": "Meuse",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "GAUDÉ Hervé",
+      "fonction": "Maire",
+      "circonscription": "Malroy",
+      "departement": "Moselle",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "RENAUT Jean",
+      "fonction": "Maire",
+      "circonscription": "Silly-en-Saulnois",
+      "departement": "Moselle",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEULIN Maurice",
+      "fonction": "Maire",
+      "circonscription": "Rouvroy-les-Merles",
+      "departement": "Oise",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "NAPORA Pierre",
+      "fonction": "Maire",
+      "circonscription": "Antilly",
+      "departement": "Oise",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE VIGNERAL Guillaume",
+      "fonction": "Maire",
+      "circonscription": "Ri",
+      "departement": "Orne",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "GAIRIN Marc",
+      "fonction": "Maire",
+      "circonscription": "Momy",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "FAYARD Daniel",
+      "fonction": "Maire",
+      "circonscription": "Taponas",
+      "departement": "Rhône",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LANNETTE MICHAUT Vanessa",
+      "fonction": "Maire",
+      "circonscription": "Vayres",
+      "departement": "Haute-Vienne",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "PIETRI Marie-Blanche",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Seine-Saint-Denis",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "GYSELINCK Philippe",
+      "fonction": "Maire",
+      "circonscription": "Bony",
+      "departement": "Aisne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHARMETANT Guy",
+      "fonction": "Maire",
+      "circonscription": "Montbeugny",
+      "departement": "Allier",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DEFORGE Bernard",
+      "fonction": "Maire",
+      "circonscription": "Hargnies",
+      "departement": "Ardennes",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAURENT Sébastien",
+      "fonction": "Maire",
+      "circonscription": "Sery",
+      "departement": "Ardennes",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BIGNON Emilien",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Aix-Villemaur-Pâlis",
+      "departement": "Aube",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BRÉMENT Christian",
+      "fonction": "Maire",
+      "circonscription": "Gyé-sur-Seine",
+      "departement": "Aube",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAURENT François",
+      "fonction": "Maire",
+      "circonscription": "Blignicourt",
+      "departement": "Aube",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMOINE Pascal",
+      "fonction": "Maire",
+      "circonscription": "Fontaine",
+      "departement": "Aube",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MALANGIN Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Saint-Germain-de-Vibrac",
+      "departement": "Charente-Maritime",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PINEAU Maurice",
+      "fonction": "Maire",
+      "circonscription": "Saint-Georges-de-Longuepierre",
+      "departement": "Charente-Maritime",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BAILLEUX Dominique",
+      "fonction": "Maire",
+      "circonscription": "Curley",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOMMIER Loup",
+      "fonction": "Maire",
+      "circonscription": "Gurgy-le-Château",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHODRON DE COURCEL Marie",
+      "fonction": "Maire",
+      "circonscription": "Écutigny",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PERRIN François",
+      "fonction": "Maire",
+      "circonscription": "Bonnencontre",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RIVIERE BOVE Brigitte",
+      "fonction": "Maire",
+      "circonscription": "Beaumont-sur-Vingeanne",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SURMULET Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Le Lesme",
+      "departement": "Eure",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BIZ Éric",
+      "fonction": "Maire",
+      "circonscription": "Gavarret-sur-Aulouste",
+      "departement": "Gers",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BUGGIN Philippe",
+      "fonction": "Maire",
+      "circonscription": "Saint-Germain-d'Esteuil",
+      "departement": "Gironde",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAMOTHE Philippe",
+      "fonction": "Maire",
+      "circonscription": "Lartigue",
+      "departement": "Gironde",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PARDES Jérôme",
+      "fonction": "Maire",
+      "circonscription": "Salaunes",
+      "departement": "Gironde",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BELLIER Pascale",
+      "fonction": "Maire",
+      "circonscription": "Allichamps",
+      "departement": "Haute-Marne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VOLOT Julien",
+      "fonction": "Maire",
+      "circonscription": "Signéville",
+      "departement": "Haute-Marne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ARNOLD Rudy",
+      "fonction": "Maire",
+      "circonscription": "Ognéville",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "HUEL Roland",
+      "fonction": "Maire",
+      "circonscription": "Tramont-Lassus",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VENTRUCCI Serge",
+      "fonction": "Maire",
+      "circonscription": "Mercy-le-Bas",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMOINE Ronald",
+      "fonction": "Maire",
+      "circonscription": "Saint-André-en-Barrois",
+      "departement": "Meuse",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GAUTHIER Florian",
+      "fonction": "Maire",
+      "circonscription": "Fraquelfing",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "KAPFER René",
+      "fonction": "Maire",
+      "circonscription": "Lelling",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PATTAR Alain",
+      "fonction": "Maire",
+      "circonscription": "Insming",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MENSION Alain",
+      "fonction": "Maire",
+      "circonscription": "Raimbeaucourt",
+      "departement": "Nord",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOULIN Edgar",
+      "fonction": "Maire",
+      "circonscription": "Saint-Ellier-les-Bois",
+      "departement": "Orne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CABEZA Fernand",
+      "fonction": "Maire",
+      "circonscription": "Arboussols",
+      "departement": "Pyrénées-Orientales",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LORENTZ Béatrice",
+      "fonction": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Sommerau",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MALINGREY Christophe",
+      "fonction": "Maire",
+      "circonscription": "Nordheim",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "RINGWALD Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Montreux-Vieux",
+      "departement": "Haut-Rhin",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "THIEN Jérémy",
+      "fonction": "Maire",
+      "circonscription": "Jullié",
+      "departement": "Rhône",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VEILLON Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Visoncourt",
+      "departement": "Haute-Saône",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BELIGNÉ Philippe",
+      "fonction": "Maire",
+      "circonscription": "La Truchère",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "D'ANGLEJAN Alain",
+      "fonction": "Maire",
+      "circonscription": "La Comelle",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARSEILLE Frederic",
+      "fonction": "Maire",
+      "circonscription": "Thoix",
+      "departement": "Somme",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LANSADE Marc Etienne",
+      "fonction": "Maire",
+      "circonscription": "Cogolin",
+      "departement": "Var",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BARRIERE Jean-Paul",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Val d'Issoire",
+      "departement": "Haute-Vienne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GUIBERT Philippe",
+      "fonction": "Maire",
+      "circonscription": "Dompierre-les-Églises",
+      "departement": "Haute-Vienne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GROSJEAN Olivier",
+      "fonction": "Maire",
+      "circonscription": "Valleroy-le-Sec",
+      "departement": "Vosges",
+      "date": "2022-02-03"
+    }
+  ]
+}
