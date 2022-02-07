@@ -16,7 +16,7 @@ const exceptions = [
     ["Conseiller de Paris", "Conseiller.e de Paris"],
     ["Conseillère de Paris", "Conseiller.e de Paris"],
     ["Maire délégué d'une commune associée ou d'une commune déléguée", "Maire délégué.e d'une commune associée ou d'une commune déléguée"],
-    ["Maire déléguée d'une commune associée ou d'une commune déléguées", "Maire délégué.e d'une commune associée ou d'une commune déléguée"],
+    ["Maire déléguée d'une commune associée ou d'une commune déléguée", "Maire délégué.e d'une commune associée ou d'une commune déléguée"],
 ]
 
 export default function stats(data) {
