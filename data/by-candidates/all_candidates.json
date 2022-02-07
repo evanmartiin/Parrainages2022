@@ -12541,7 +12541,7 @@
             "rang": 8
           },
           {
-            "key": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+            "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
             "value": 1,
             "rang": 10
           },
@@ -16900,13 +16900,8 @@
           },
           {
             "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-            "value": 9,
+            "value": 11,
             "rang": 2
-          },
-          {
-            "key": "Maire déléguée d'une commune associée ou d'une commune déléguée",
-            "value": 2,
-            "rang": 3
           }
         ]
       },
@@ -24242,16 +24237,11 @@
           },
           {
             "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-            "value": 2,
+            "value": 3,
             "rang": 2
           },
           {
             "key": "Conseiller.e départemental.e",
-            "value": 1,
-            "rang": 3
-          },
-          {
-            "key": "Maire déléguée d'une commune associée ou d'une commune déléguée",
             "value": 1,
             "rang": 3
           }
@@ -25201,13 +25191,8 @@
           },
           {
             "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-            "value": 8,
+            "value": 14,
             "rang": 2
-          },
-          {
-            "key": "Maire déléguée d'une commune associée ou d'une commune déléguée",
-            "value": 6,
-            "rang": 3
           }
         ]
       },
@@ -27755,13 +27740,8 @@
             "rang": 1
           },
           {
-            "key": "Maire déléguée d'une commune associée ou d'une commune déléguée",
-            "value": 1,
-            "rang": 2
-          },
-          {
             "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-            "value": 1,
+            "value": 2,
             "rang": 2
           }
         ]
