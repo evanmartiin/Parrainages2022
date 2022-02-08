@@ -9,8 +9,8 @@ import majorByRegion from "./maps/majorByRegion.js";
 import percentByGender from "./maps/percentByGender.js";
 import fs from 'fs';
 import path from 'path';
-import byCandidates from "./byCandidates.js";
-import byDepartments from "./byDepartments.js";
+import byCandidates from "./data/byCandidates.js";
+import byDepartments from "./data/byDepartments.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -22,13 +22,13 @@ const twitterClient = new TwitterApi({
 
 const tweet = async () => {
   await fetchData();
-  fs.writeFileSync(path.resolve('data/raw.json'), JSON.stringify(data));
+  fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data));
   byCandidates(data);
   byDepartments(data);
-  ranking(data);
-  const tweets = format(ranklist);
+  // ranking(data);
+  // const tweets = format(ranklist);
 
-  let tweetId;
+  // let tweetId;
 
   // await twitterClient.v2.tweet(tweets[0]).then(res => tweetId = res.data.id)
   // tweets.splice(0, 1);

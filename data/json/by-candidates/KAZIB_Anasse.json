@@ -1,0 +1,389 @@
+{
+  "nom": "KAZIB Anasse",
+  "votes_confirmes": 21,
+  "votes_totaux": 21,
+  "rang": 15,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "LAMANDE Xavier",
+      "fonction": "Maire",
+      "circonscription": "Ernes",
+      "departement": "Calvados",
+      "date": "2022-02-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BEAULIEU Jean-Marc",
+      "fonction": "Maire",
+      "circonscription": "Serval",
+      "departement": "Aisne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOCHET Éric",
+      "fonction": "Maire",
+      "circonscription": "Chéry-lès-Pouilly",
+      "departement": "Aisne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMOINE Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Franqueville",
+      "departement": "Aisne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOREL Pierre",
+      "fonction": "Maire",
+      "circonscription": "Becquigny",
+      "departement": "Aisne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMERCIER Jean-Jacques",
+      "fonction": "Maire",
+      "circonscription": "Pierrepont",
+      "departement": "Calvados",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "NACHTERGAELE Franck",
+      "fonction": "Maire",
+      "circonscription": "Villy-lez-Falaise",
+      "departement": "Calvados",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAZET Bernard",
+      "fonction": "Maire",
+      "circonscription": "Groléjac",
+      "departement": "Dordogne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VOELTZEL Guillaume",
+      "fonction": "Maire",
+      "circonscription": "Gamaches-en-Vexin",
+      "departement": "Eure",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE GALARD Guy",
+      "fonction": "Maire",
+      "circonscription": "Sainte-Marie",
+      "departement": "Gers",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DIANA Serge",
+      "fonction": "Maire",
+      "circonscription": "Sérempuy",
+      "departement": "Gers",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAFFOURCADE Robert",
+      "fonction": "Maire",
+      "circonscription": "Castet-Arrouy",
+      "departement": "Gers",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SALIS Daniel",
+      "fonction": "Maire",
+      "circonscription": "Le Bouyssou",
+      "departement": "Lot",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOREAUX Denis",
+      "fonction": "Maire",
+      "circonscription": "Baye",
+      "departement": "Marne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "HOUCKERT Patricia",
+      "fonction": "Maire",
+      "circonscription": "Jouy-en-Argonne",
+      "departement": "Meuse",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEIDELINGER Jean-François",
+      "fonction": "Maire",
+      "circonscription": "Maizeroy",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEYER Gérard",
+      "fonction": "Maire",
+      "circonscription": "Prévocourt",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RICHARD Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Saint-Hubert",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SCHERER Adrien Edy",
+      "fonction": "Maire",
+      "circonscription": "Rémering",
+      "departement": "Moselle",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BUSSON Karine",
+      "fonction": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Charny Orée de Puisaye",
+      "departement": "Yonne",
+      "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CANCELA Bruno",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Valravillon",
+      "departement": "Yonne",
+      "date": "2022-02-03"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 21,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 18,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 3,
+          "rang": 2
+        }
+      ]
+    },
+    "fonction": {
+      "total": 21,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 19,
+          "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 2,
+          "rang": 2
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 21,
+      "valeurs": [
+        {
+          "key": "Baye",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Becquigny",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Castet-Arrouy",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Charny Orée de Puisaye",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chéry-lès-Pouilly",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Ernes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Franqueville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Gamaches-en-Vexin",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Groléjac",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Jouy-en-Argonne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Le Bouyssou",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Maizeroy",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Pierrepont",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Prévocourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Rémering",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Hubert",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Sainte-Marie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Serval",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Sérempuy",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Valravillon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Villy-lez-Falaise",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 21,
+      "valeurs": [
+        {
+          "key": "Aisne",
+          "value": 4,
+          "rang": 1
+        },
+        {
+          "key": "Moselle",
+          "value": 4,
+          "rang": 1
+        },
+        {
+          "key": "Calvados",
+          "value": 3,
+          "rang": 3
+        },
+        {
+          "key": "Gers",
+          "value": 3,
+          "rang": 3
+        },
+        {
+          "key": "Yonne",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Dordogne",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Eure",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Lot",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Marne",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Meuse",
+          "value": 1,
+          "rang": 6
+        }
+      ]
+    },
+    "date": {
+      "total": 21,
+      "valeurs": [
+        {
+          "key": "2022-02-03",
+          "value": 20,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-01",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    }
+  }
+}
