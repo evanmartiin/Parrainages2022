@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import byCandidates from "./data/byCandidates.js";
 import byDepartments from "./data/byDepartments.js";
+import byCommunes from "./data/byCommunes.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -20,6 +21,7 @@ const tweet = async () => {
   fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data, null, 2));
   byCandidates(data);
   byDepartments(data);
+  byCommunes(data);
 
   // const tweets = format(ranklist);
 
