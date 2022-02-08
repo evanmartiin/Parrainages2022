@@ -1,36 +1,41 @@
 {
   "nom": "Paris",
-  "total": 76,
+  "total": 113,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 51,
+      "value": 57,
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 10,
+      "key": "PÉCRESSE Valérie",
+      "value": 22,
       "rang": 2
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 6,
+      "key": "MACRON Emmanuel",
+      "value": 14,
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 5,
+      "key": "ROUSSEL Fabien",
+      "value": 10,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
-      "value": 3,
+      "value": 6,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
+      "value": 3,
       "rang": 6
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 1,
+      "rang": 7
     }
   ]
 }

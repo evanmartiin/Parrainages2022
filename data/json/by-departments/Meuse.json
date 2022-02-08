@@ -1,76 +1,91 @@
 {
   "nom": "Meuse",
-  "total": 39,
+  "total": 95,
   "votes": [
     {
-      "key": "ASSELINEAU François",
-      "value": 8,
+      "key": "ARTHAUD Nathalie",
+      "value": 35,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 7,
+      "key": "ASSELINEAU François",
+      "value": 18,
       "rang": 2
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
+      "key": "PÉCRESSE Valérie",
+      "value": 8,
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 7,
+      "rang": 4
+    },
+    {
+      "key": "LASSALLE Jean",
       "value": 4,
-      "rang": 3
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "KAZIB Anasse",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
       "key": "MACRON Emmanuel",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "ROUSSEL Fabien",
       "value": 2,
-      "rang": 5
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 1,
-      "rang": 11
+      "rang": 14
     },
     {
-      "key": "KAZIB Anasse",
+      "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 11
+      "rang": 14
     },
     {
-      "key": "LE PEN Marine",
+      "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 11
+      "rang": 14
     },
     {
-      "key": "ROUSSEL Fabien",
+      "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 11
+      "rang": 14
     }
   ]
 }

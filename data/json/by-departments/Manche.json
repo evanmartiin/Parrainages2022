@@ -1,31 +1,66 @@
 {
   "nom": "Manche",
-  "total": 25,
+  "total": 56,
   "votes": [
     {
-      "key": "HIDALGO Anne",
-      "value": 6,
-      "rang": 1
-    },
-    {
       "key": "MACRON Emmanuel",
-      "value": 6,
+      "value": 12,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 5,
-      "rang": 3
+      "key": "HIDALGO Anne",
+      "value": 10,
+      "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 5,
+      "value": 7,
       "rang": 3
     },
     {
+      "key": "ARTHAUD Nathalie",
+      "value": 6,
+      "rang": 4
+    },
+    {
       "key": "PÉCRESSE Valérie",
-      "value": 3,
-      "rang": 5
+      "value": 6,
+      "rang": 4
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 5,
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 11
     }
   ]
 }

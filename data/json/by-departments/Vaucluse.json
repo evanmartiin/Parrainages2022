@@ -1,26 +1,51 @@
 {
   "nom": "Vaucluse",
-  "total": 8,
+  "total": 22,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 4,
+      "value": 6,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 2,
-      "rang": 2
+      "value": 6,
+      "rang": 1
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 3
     },
     {
       "key": "LASSALLE Jean",
+      "value": 2,
+      "rang": 4
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 3
+      "rang": 5
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 5
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 5
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 5
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 3
+      "rang": 5
     }
   ]
 }

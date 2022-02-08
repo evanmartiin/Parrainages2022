@@ -1,21 +1,26 @@
 {
   "nom": "Bas-Rhin",
-  "total": 34,
+  "total": 55,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 17,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 8,
+      "value": 14,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 6,
+      "value": 8,
       "rang": 3
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
@@ -23,29 +28,29 @@
       "rang": 4
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
-      "rang": 5
-    },
-    {
       "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 5
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 5
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
-      "value": 1,
+      "value": 2,
       "rang": 8
+    },
+    {
+      "key": "BEKAERT Corinne",
+      "value": 1,
+      "rang": 9
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

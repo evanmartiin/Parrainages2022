@@ -1,46 +1,56 @@
 {
   "nom": "Corrèze",
-  "total": 16,
+  "total": 32,
   "votes": [
     {
-      "key": "ROUSSEL Fabien",
-      "value": 5,
+      "key": "PÉCRESSE Valérie",
+      "value": 10,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 3,
+      "key": "ROUSSEL Fabien",
+      "value": 6,
       "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 2,
+      "value": 4,
       "rang": 3
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 3
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
-      "value": 1,
+      "value": 2,
       "rang": 5
     },
     {
       "key": "LASSALLE Jean",
-      "value": 1,
+      "value": 2,
       "rang": 5
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 1,
+      "value": 2,
       "rang": 5
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 8
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 5
+      "rang": 8
     }
   ]
 }

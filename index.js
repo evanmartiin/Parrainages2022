@@ -1,16 +1,13 @@
 import { TwitterApi } from "twitter-api-v2";
 import dotenv from "dotenv";
 import ranking, { ranklist } from "./rank/ranking.js";
-import fetchData, { data } from "./fetchData.js";
+import fetchData, { data } from "./data/fetchData.js";
 import format from "./tweet/format.js";
-import majorByDep from "./maps/majorByDep.js";
-import majorByCandidate from "./maps/majorByCandidate.js";
-import majorByRegion from "./maps/majorByRegion.js";
-import percentByGender from "./maps/percentByGender.js";
 import fs from 'fs';
 import path from 'path';
 import byCandidates from "./data/byCandidates.js";
 import byDepartments from "./data/byDepartments.js";
+import byRegions from "./data/byRegions.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -38,10 +35,6 @@ const tweet = async () => {
   //     tweets.splice(0, 1);
   // }
 
-  const depRanking = majorByDep(data);
-  const candRanking = majorByCandidate(data);
-  const regionRanking = majorByRegion(data);
-  const genderRanking = percentByGender(data);
   // fs.writeFileSync(path.resolve('gender.json'), JSON.stringify(genderRanking));
 };
 

@@ -1,26 +1,31 @@
 {
   "nom": "Var",
-  "total": 12,
+  "total": 33,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 6,
+      "key": "PÉCRESSE Valérie",
+      "value": 16,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 4,
+      "key": "MACRON Emmanuel",
+      "value": 9,
       "rang": 2
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 3
+      "rang": 4
     }
   ]
 }

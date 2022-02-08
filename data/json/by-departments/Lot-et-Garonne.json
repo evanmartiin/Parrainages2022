@@ -1,41 +1,61 @@
 {
   "nom": "Lot-et-Garonne",
-  "total": 19,
+  "total": 47,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 7,
+      "value": 15,
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 4,
+      "key": "ARTHAUD Nathalie",
+      "value": 7,
       "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
-      "rang": 2
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
+      "value": 5,
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 4
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 5
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 1,
-      "rang": 4
+      "value": 3,
+      "rang": 5
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "THOUY Hélène",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ROCCA Martin",
       "value": 1,
-      "rang": 4
+      "rang": 10
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 10
     }
   ]
 }

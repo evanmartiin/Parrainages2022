@@ -1,0 +1,87 @@
+{
+  "nom": "SMATI  Rafik",
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 23,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "BRENDER Claude",
+      "fonction": "Maire",
+      "circonscription": "Fessenheim",
+      "departement": "Haut-Rhin",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRANDCHAMP Jacques",
+      "fonction": "Maire",
+      "circonscription": "Publier",
+      "departement": "Haute-Savoie",
+      "date": "2022-02-08"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Fessenheim",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Publier",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Haut-Rhin",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

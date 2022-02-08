@@ -1,21 +1,56 @@
 {
   "nom": "Maine-et-Loire",
-  "total": 8,
+  "total": 24,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 5,
+      "value": 8,
       "rang": 1
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 4,
+      "rang": 2
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 3
     },
     {
       "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 2
+      "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 1,
+      "key": "JADOT Yannick",
+      "value": 2,
       "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 3
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 7
     }
   ]
 }

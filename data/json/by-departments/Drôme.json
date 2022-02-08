@@ -1,31 +1,71 @@
 {
   "nom": "Drôme",
-  "total": 12,
+  "total": 53,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 14,
       "rang": 1
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
+      "key": "PÉCRESSE Valérie",
+      "value": 9,
       "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 1,
-      "rang": 3
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
+      "value": 8,
       "rang": 3
     },
     {
       "key": "LASSALLE Jean",
+      "value": 5,
+      "rang": 4
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 3,
+      "rang": 5
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
+      "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 3
+      "rang": 11
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 11
     }
   ]
 }

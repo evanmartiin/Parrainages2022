@@ -1,41 +1,56 @@
 {
   "nom": "Eure-et-Loir",
-  "total": 13,
+  "total": 33,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 4,
+      "key": "PÉCRESSE Valérie",
+      "value": 11,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 2,
+      "value": 6,
       "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 5,
+      "rang": 3
     },
     {
       "key": "LASSALLE Jean",
-      "value": 2,
-      "rang": 2
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 2,
-      "rang": 2
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 1,
+      "value": 2,
       "rang": 5
     },
     {
       "key": "THOUY Hélène",
-      "value": 1,
+      "value": 2,
       "rang": 5
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 7
     }
   ]
 }

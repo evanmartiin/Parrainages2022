@@ -1,51 +1,71 @@
 {
   "nom": "Seine-et-Marne",
-  "total": 61,
+  "total": 99,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 35,
+      "value": 54,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 17,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 7,
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
+      "key": "ROUSSEL Fabien",
+      "value": 5,
       "rang": 4
     },
     {
       "key": "POUTOU Philippe",
-      "value": 2,
-      "rang": 4
+      "value": 4,
+      "rang": 5
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 2,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 1,
-      "rang": 7
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
+      "value": 2,
       "rang": 7
     },
     {
       "key": "THOUY Hélène",
-      "value": 1,
+      "value": 2,
       "rang": 7
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 9
     }
   ]
 }

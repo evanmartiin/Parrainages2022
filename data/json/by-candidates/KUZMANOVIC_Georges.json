@@ -1,8 +1,8 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 9,
-  "votes_totaux": 9,
-  "rang": 16,
+  "votes_confirmes": 25,
+  "votes_totaux": 25,
+  "rang": 17,
   "valide": false,
   "parrainages": [
     {
@@ -76,34 +76,177 @@
       "circonscription": "Villers-Campsart",
       "departement": "Somme",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUCHER Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Ville-sur-Lumes",
+      "departement": "Ardennes",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "WARZEE Thierry",
+      "fonction": "Maire",
+      "circonscription": "Lametz",
+      "departement": "Ardennes",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "JEHANNE Daniel",
+      "fonction": "Maire",
+      "circonscription": "Le Mesnil-Simon",
+      "departement": "Calvados",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUDOUET Eric",
+      "fonction": "Maire",
+      "circonscription": "Étalante",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "TERREAUX Michel",
+      "fonction": "Maire",
+      "circonscription": "Lembras",
+      "departement": "Dordogne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUCHEZ Philippe",
+      "fonction": "Maire",
+      "circonscription": "Éclaires",
+      "departement": "Marne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "PÉRARDEL Joël",
+      "fonction": "Maire",
+      "circonscription": "Francheville",
+      "departement": "Marne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "PEREZ Eugène",
+      "fonction": "Maire",
+      "circonscription": "Chamouilley",
+      "departement": "Haute-Marne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RÉGÉ Nathalie",
+      "fonction": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Geville",
+      "departement": "Meuse",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "CASTEL Gervais",
+      "fonction": "Maire",
+      "circonscription": "Tramecourt",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHAMPAGNE Robert",
+      "fonction": "Maire",
+      "circonscription": "Maisnil",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "VISENTIN Patrick",
+      "fonction": "Maire",
+      "circonscription": "Chérisy",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "GREZEL Guy",
+      "fonction": "Maire",
+      "circonscription": "Villers-sur-Saulnot",
+      "departement": "Haute-Saône",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "LHUILIER Patrick",
+      "fonction": "Maire",
+      "circonscription": "Vitry-sur-Loire",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MANGIN Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Varmonzey",
+      "departement": "Vosges",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROLIN Denis",
+      "fonction": "Maire",
+      "circonscription": "Pleuvezain",
+      "departement": "Vosges",
+      "date": "2022-02-08"
     }
   ],
   "stats": {
     "genre": {
-      "total": 9,
+      "total": 25,
       "valeurs": [
         {
           "key": "M.",
-          "value": 9,
+          "value": 24,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 9,
+      "total": 25,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 9,
+          "value": 24,
           "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 9,
+      "total": 25,
       "valeurs": [
         {
           "key": "Bengy-sur-Craon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chamouilley",
           "value": 1,
           "rang": 1
         },
@@ -118,7 +261,37 @@
           "rang": 1
         },
         {
+          "key": "Chérisy",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Drulingen",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Francheville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Geville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Lametz",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Le Mesnil-Simon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Lembras",
           "value": 1,
           "rang": 1
         },
@@ -128,7 +301,32 @@
           "rang": 1
         },
         {
+          "key": "Maisnil",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Montaut",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Pleuvezain",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Tramecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Varmonzey",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Ville-sur-Lumes",
           "value": 1,
           "rang": 1
         },
@@ -146,66 +344,136 @@
           "key": "Villers-sous-Ailly",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Villers-sur-Saulnot",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Vitry-sur-Loire",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Éclaires",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Étalante",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 9,
+      "total": 25,
       "valeurs": [
         {
-          "key": "Somme",
-          "value": 2,
+          "key": "Pas-de-Calais",
+          "value": 3,
           "rang": 1
         },
         {
-          "key": "Bas-Rhin",
-          "value": 1,
-          "rang": 2
-        },
-        {
-          "key": "Cher",
-          "value": 1,
+          "key": "Ardennes",
+          "value": 2,
           "rang": 2
         },
         {
           "key": "Dordogne",
-          "value": 1,
-          "rang": 2
-        },
-        {
-          "key": "Doubs",
-          "value": 1,
+          "value": 2,
           "rang": 2
         },
         {
           "key": "Haute-Marne",
-          "value": 1,
+          "value": 2,
           "rang": 2
+        },
+        {
+          "key": "Marne",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Somme",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Vosges",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Calvados",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Cher",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Côte-d'Or",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Haute-Saône",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Meuse",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 2
+          "rang": 8
+        },
+        {
+          "key": "Saône-et-Loire",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Yonne",
           "value": 1,
-          "rang": 2
+          "rang": 8
         }
       ]
     },
     "date": {
-      "total": 9,
+      "total": 25,
       "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 16,
+          "rang": 1
+        },
         {
           "key": "2022-02-03",
           "value": 8,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 2
+          "rang": 3
         }
       ]
     }

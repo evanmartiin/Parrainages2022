@@ -1,46 +1,71 @@
 {
   "nom": "Côtes-d'Armor",
-  "total": 18,
+  "total": 61,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 12,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 3,
-      "rang": 2
-    },
-    {
       "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 11,
       "rang": 2
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 1,
-      "rang": 4
+      "key": "ARTHAUD Nathalie",
+      "value": 8,
+      "rang": 3
     },
     {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 4
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
+      "key": "PÉCRESSE Valérie",
+      "value": 7,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 1,
+      "value": 7,
       "rang": 4
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 4,
+      "rang": 6
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 6
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 2,
+      "rang": 8
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 8
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 10
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 4
+      "rang": 10
     }
   ]
 }

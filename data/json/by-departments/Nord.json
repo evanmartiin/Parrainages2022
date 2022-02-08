@@ -1,61 +1,71 @@
 {
   "nom": "Nord",
-  "total": 65,
+  "total": 118,
   "votes": [
     {
       "key": "ROUSSEL Fabien",
-      "value": 18,
+      "value": 29,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 17,
+      "value": 23,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 13,
+      "value": 21,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 6,
+      "value": 16,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
-      "value": 3,
+      "value": 8,
+      "rang": 5
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 8,
       "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 4,
+      "rang": 7
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "CHICHE Arnaud",
-      "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "EGGER Clara",
-      "value": 1,
       "rang": 8
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
+      "value": 2,
       "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 1,
+      "value": 2,
       "rang": 8
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 11
     }
   ]
 }

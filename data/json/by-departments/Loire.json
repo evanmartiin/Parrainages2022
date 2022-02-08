@@ -1,36 +1,56 @@
 {
   "nom": "Loire",
-  "total": 14,
+  "total": 42,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 4,
-      "rang": 1
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 4,
-      "rang": 1
-    },
-    {
       "key": "PÉCRESSE Valérie",
-      "value": 3,
+      "value": 12,
+      "rang": 1
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 7,
+      "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 6,
       "rang": 3
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
+      "key": "ROUSSEL Fabien",
+      "value": 5,
       "rang": 4
     },
     {
       "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 4
+      "value": 4,
+      "rang": 5
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 4
+      "rang": 8
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 8
     }
   ]
 }

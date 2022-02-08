@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import byRegions from './byRegions.js';
 import stats from './stats.js';
 
 export default function byDepartments(data) {
@@ -25,6 +26,8 @@ export default function byDepartments(data) {
     })
 
     fs.writeFileSync(path.resolve('data/json/by-departments/', 'all_departments.json'), JSON.stringify(departments, null, 2));
+
+    byRegions(departments);
 }
 
 const alphabet = (a, b) => {

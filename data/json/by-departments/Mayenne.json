@@ -1,36 +1,46 @@
 {
   "nom": "Mayenne",
-  "total": 15,
+  "total": 21,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 9,
+      "value": 11,
       "rang": 1
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 3,
+      "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 2,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
       "value": 1,
-      "rang": 3
+      "rang": 4
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 3
+      "rang": 4
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "LE PEN Marine",
       "value": 1,
-      "rang": 3
+      "rang": 4
     }
   ]
 }

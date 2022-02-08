@@ -1,31 +1,36 @@
 {
   "nom": "Hauts-de-Seine",
-  "total": 20,
+  "total": 49,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 8,
+      "value": 27,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 12,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 4,
       "rang": 3
     },
     {
-      "key": "JADOT Yannick",
-      "value": 1,
+      "key": "ROUSSEL Fabien",
+      "value": 3,
       "rang": 4
     },
     {
-      "key": "ROUSSEL Fabien",
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 4
+      "rang": 6
     }
   ]
 }

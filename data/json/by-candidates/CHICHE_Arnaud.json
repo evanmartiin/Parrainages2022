@@ -1,8 +1,8 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 21,
+  "votes_confirmes": 4,
+  "votes_totaux": 4,
+  "rang": 22,
   "valide": false,
   "parrainages": [
     {
@@ -12,32 +12,76 @@
       "circonscription": "Neuvilly",
       "departement": "Nord",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "SICRE-DOYOTTE Paulette",
+      "fonction": "Maire",
+      "circonscription": "Neuvic",
+      "departement": "Dordogne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "HENNE VERT Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Binarville",
+      "departement": "Marne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "GOUSSEN Pierre",
+      "fonction": "Maire",
+      "circonscription": "Grivillers",
+      "departement": "Somme",
+      "date": "2022-02-08"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 4,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 4,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 4,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 4,
       "valeurs": [
+        {
+          "key": "Binarville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Grivillers",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Neuvic",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Neuvilly",
           "value": 1,
@@ -46,22 +90,42 @@
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 4,
       "valeurs": [
         {
+          "key": "Dordogne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Marne",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Nord",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Somme",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 4,
       "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "2022-02-03",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

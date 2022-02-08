@@ -1,41 +1,66 @@
 {
   "nom": "Ardèche",
-  "total": 10,
+  "total": 28,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 2,
-      "rang": 1
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 2,
-      "rang": 1
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 2,
+      "value": 6,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 1,
+      "value": 5,
+      "rang": 2
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 5,
+      "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 3,
       "rang": 4
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 5
     },
     {
       "key": "BARNIER Michel",
       "value": 1,
-      "rang": 4
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 6
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 4
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 4
+      "rang": 6
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 1,
+      "rang": 6
     }
   ]
 }

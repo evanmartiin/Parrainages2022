@@ -1,8 +1,8 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
-  "rang": 18,
+  "votes_confirmes": 6,
+  "votes_totaux": 6,
+  "rang": 20,
   "valide": false,
   "parrainages": [
     {
@@ -28,34 +28,63 @@
       "circonscription": "Bettrechies",
       "departement": "Nord",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUCHER Joël",
+      "fonction": "Maire",
+      "circonscription": "Rancennes",
+      "departement": "Ardennes",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "SCHITTECATTE Cédric",
+      "fonction": "Maire",
+      "circonscription": "Épenouse",
+      "departement": "Doubs",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "FERBER Pierre-Henri",
+      "fonction": "Maire",
+      "circonscription": "La Demie",
+      "departement": "Haute-Saône",
+      "date": "2022-02-08"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
           "key": "M.",
-          "value": 3,
+          "value": 6,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 6,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
           "key": "Bettrechies",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Demie",
           "value": 1,
           "rang": 1
         },
@@ -65,17 +94,42 @@
           "rang": 1
         },
         {
+          "key": "Rancennes",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Épeigné-les-Bois",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Épenouse",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
+          "key": "Ardennes",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Dordogne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Haute-Saône",
           "value": 1,
           "rang": 1
         },
@@ -92,10 +146,15 @@
       ]
     },
     "date": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
           "key": "2022-02-03",
+          "value": 3,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-08",
           "value": 3,
           "rang": 1
         }

@@ -1,21 +1,46 @@
 {
   "nom": "Alpes-de-Haute-Provence",
-  "total": 9,
+  "total": 24,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 11,
       "rang": 1
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 2
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 3
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 3
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 5
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 2
+      "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "LE PEN Marine",
       "value": 1,
-      "rang": 2
+      "rang": 5
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 5
     }
   ]
 }

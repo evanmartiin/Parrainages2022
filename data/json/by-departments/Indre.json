@@ -1,61 +1,76 @@
 {
   "nom": "Indre",
-  "total": 14,
+  "total": 35,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 7,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
+      "key": "PÉCRESSE Valérie",
+      "value": 5,
       "rang": 2
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
+      "key": "LASSALLE Jean",
+      "value": 4,
       "rang": 3
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 3
+      "value": 3,
+      "rang": 4
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 6
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 6
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 6
+    },
+    {
+      "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 3
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 3
+      "rang": 10
     },
     {
       "key": "MACRON Emmanuel",
       "value": 1,
-      "rang": 3
+      "rang": 10
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 3
+      "rang": 10
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "THOUY Hélène",
       "value": 1,
-      "rang": 3
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 1,
-      "rang": 3
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 3
+      "rang": 10
     }
   ]
 }

@@ -1,66 +1,71 @@
 {
   "nom": "Haute-Marne",
-  "total": 46,
+  "total": 100,
   "votes": [
     {
       "key": "ASSELINEAU François",
-      "value": 17,
+      "value": 27,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 8,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 21,
       "rang": 2
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 4,
+      "key": "ARTHAUD Nathalie",
+      "value": 19,
       "rang": 3
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
+      "key": "PÉCRESSE Valérie",
+      "value": 11,
       "rang": 4
     },
     {
       "key": "MACRON Emmanuel",
+      "value": 4,
+      "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 4
+      "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 2,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 7
+      "rang": 6
     },
     {
       "key": "KUZMANOVIC Georges",
-      "value": 1,
+      "value": 2,
       "rang": 9
     },
     {
       "key": "LASSALLE Jean",
-      "value": 1,
+      "value": 2,
       "rang": 9
     },
     {
       "key": "POUTOU Philippe",
-      "value": 1,
+      "value": 2,
       "rang": 9
     },
     {
       "key": "THOUY Hélène",
-      "value": 1,
+      "value": 2,
       "rang": 9
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 13
     }
   ]
 }

@@ -1,66 +1,76 @@
 {
   "nom": "Orne",
-  "total": 20,
+  "total": 51,
   "votes": [
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 5,
+      "key": "PÉCRESSE Valérie",
+      "value": 13,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 3,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 7,
       "rang": 2
     },
     {
+      "key": "ASSELINEAU François",
+      "value": 6,
+      "rang": 3
+    },
+    {
       "key": "MACRON Emmanuel",
-      "value": 2,
-      "rang": 3
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 3
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 5
+      "value": 5,
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
-      "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "MIGUET Nicolas",
-      "value": 1,
+      "value": 4,
       "rang": 5
     },
     {
       "key": "POUTOU Philippe",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 5
+      "rang": 12
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 5
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 5
+      "rang": 12
     }
   ]
 }

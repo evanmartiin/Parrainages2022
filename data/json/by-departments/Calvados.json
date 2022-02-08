@@ -1,46 +1,86 @@
 {
   "nom": "Calvados",
-  "total": 28,
+  "total": 75,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 13,
+      "value": 20,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 6,
+      "value": 18,
       "rang": 2
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 10,
+      "rang": 3
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 4,
+      "rang": 4
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 5
     },
     {
       "key": "KAZIB Anasse",
       "value": 3,
-      "rang": 3
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 2,
-      "rang": 4
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 1,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
+      "value": 3,
       "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 1,
+      "value": 3,
       "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 12
     }
   ]
 }

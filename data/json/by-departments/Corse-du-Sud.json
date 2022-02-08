@@ -1,15 +1,15 @@
 {
   "nom": "Corse-du-Sud",
-  "total": 9,
+  "total": 17,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 5,
+      "value": 10,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 2,
+      "value": 3,
       "rang": 2
     },
     {
@@ -19,6 +19,16 @@
     },
     {
       "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 3
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 1,
+      "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
       "value": 1,
       "rang": 3
     }

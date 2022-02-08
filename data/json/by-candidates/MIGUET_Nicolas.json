@@ -1,7 +1,7 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
   "rang": 19,
   "valide": false,
   "parrainages": [
@@ -20,32 +20,108 @@
       "circonscription": "La Lande-Saint-Siméon",
       "departement": "Orne",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRENIER Jean",
+      "fonction": "Maire",
+      "circonscription": "Puisieux-et-Clanlieu",
+      "departement": "Aisne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "HENNINOT Pierre-Jean",
+      "fonction": "Maire",
+      "circonscription": "Cilly",
+      "departement": "Aisne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "OSMOND Michel",
+      "fonction": "Maire",
+      "circonscription": "Mandres",
+      "departement": "Eure",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BREQUE Nicole",
+      "fonction": "Maire",
+      "circonscription": "Saint-Araille",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "ANDRÉ Rémy",
+      "fonction": "Maire",
+      "circonscription": "Montrodat",
+      "departement": "Lozère",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "GILBERT Bertrand",
+      "fonction": "Maire",
+      "circonscription": "Brouains",
+      "departement": "Manche",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MITTAUX Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Abaucourt-Hautecourt",
+      "departement": "Meuse",
+      "date": "2022-02-08"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 8,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 2,
+          "value": 9,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 9,
       "valeurs": [
+        {
+          "key": "Abaucourt-Hautecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Brouains",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Cilly",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Fontaine-la-Louvet",
           "value": 1,
@@ -55,31 +131,81 @@
           "key": "La Lande-Saint-Siméon",
           "value": 1,
           "rang": 1
-        }
-      ]
-    },
-    "departement": {
-      "total": 2,
-      "valeurs": [
+        },
         {
-          "key": "Eure",
+          "key": "Mandres",
           "value": 1,
           "rang": 1
         },
         {
-          "key": "Orne",
+          "key": "Montrodat",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Puisieux-et-Clanlieu",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Araille",
           "value": 1,
           "rang": 1
         }
       ]
     },
-    "date": {
-      "total": 2,
+    "departement": {
+      "total": 9,
       "valeurs": [
+        {
+          "key": "Aisne",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Eure",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Haute-Garonne",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Lozère",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Manche",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Meuse",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Orne",
+          "value": 1,
+          "rang": 3
+        }
+      ]
+    },
+    "date": {
+      "total": 9,
+      "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 7,
+          "rang": 1
+        },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

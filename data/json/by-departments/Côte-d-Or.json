@@ -1,61 +1,86 @@
 {
   "nom": "Côte-d'Or",
-  "total": 55,
+  "total": 113,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 15,
+      "value": 28,
       "rang": 1
     },
     {
       "key": "ASSELINEAU François",
-      "value": 9,
+      "value": 21,
       "rang": 2
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 8,
+      "key": "PÉCRESSE Valérie",
+      "value": 15,
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 6,
+      "key": "ARTHAUD Nathalie",
+      "value": 11,
       "rang": 4
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 7,
+      "rang": 5
+    },
+    {
       "key": "ZEMMOUR Éric",
-      "value": 5,
+      "value": 7,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
-      "rang": 6
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 5,
       "rang": 7
     },
     {
       "key": "LASSALLE Jean",
-      "value": 2,
+      "value": 4,
       "rang": 8
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
+      "value": 3,
+      "rang": 9
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
       "rang": 9
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 9
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 9
+      "rang": 14
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 14
     }
   ]
 }

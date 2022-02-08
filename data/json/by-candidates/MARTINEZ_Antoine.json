@@ -1,0 +1,136 @@
+{
+  "nom": "MARTINEZ Antoine",
+  "votes_confirmes": 5,
+  "votes_totaux": 5,
+  "rang": 21,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "BARAT Vincent",
+      "fonction": "Maire",
+      "circonscription": "Saint-Aubin",
+      "departement": "Aube",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERGERAT Gérard",
+      "fonction": "Maire",
+      "circonscription": "Juvanzé",
+      "departement": "Aube",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELCHET Philippe",
+      "fonction": "Maire",
+      "circonscription": "La Monselie",
+      "departement": "Cantal",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "JACQUES Michele",
+      "fonction": "Maire",
+      "circonscription": "Châteney",
+      "departement": "Haute-Saône",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "RUBIO David",
+      "fonction": "Maire",
+      "circonscription": "Roche-et-Raucourt",
+      "departement": "Haute-Saône",
+      "date": "2022-02-08"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 5,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 4,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "fonction": {
+      "total": 5,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 5,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 5,
+      "valeurs": [
+        {
+          "key": "Châteney",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Juvanzé",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Monselie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Roche-et-Raucourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Aubin",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 5,
+      "valeurs": [
+        {
+          "key": "Aube",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Haute-Saône",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Cantal",
+          "value": 1,
+          "rang": 3
+        }
+      ]
+    },
+    "date": {
+      "total": 5,
+      "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 5,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,41 +1,71 @@
 {
   "nom": "Creuse",
-  "total": 9,
+  "total": 25,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 2,
+      "value": 4,
       "rang": 1
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
+      "value": 4,
       "rang": 1
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
+      "key": "ARTHAUD Nathalie",
+      "value": 3,
       "rang": 3
     },
     {
       "key": "LASSALLE Jean",
-      "value": 1,
-      "rang": 3
+      "value": 2,
+      "rang": 4
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 2,
+      "rang": 4
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 2,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 4
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 3
+      "rang": 8
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 8
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 3
+      "rang": 8
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 3
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 8
     }
   ]
 }

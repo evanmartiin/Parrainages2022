@@ -1,8 +1,8 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
-  "rang": 19,
+  "votes_confirmes": 23,
+  "votes_totaux": 23,
+  "rang": 18,
   "valide": false,
   "parrainages": [
     {
@@ -20,66 +20,429 @@
       "circonscription": "Villiers-le-Bâcle",
       "departement": "Essonne",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE FAY Jean-François",
+      "fonction": "Maire",
+      "circonscription": "Épagny",
+      "departement": "Aisne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MENON Michel",
+      "fonction": "Maire",
+      "circonscription": "Mazerier",
+      "departement": "Allier",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BROTTES Bernard",
+      "fonction": "Maire",
+      "circonscription": "La Voulte-sur-Rhône",
+      "departement": "Ardèche",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "LACLIE Philippe",
+      "fonction": "Maire",
+      "circonscription": "Bercloux",
+      "departement": "Charente-Maritime",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "LATTARD Denis",
+      "fonction": "Maire",
+      "circonscription": "Autichamp",
+      "departement": "Drôme",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUBUC Thierry",
+      "fonction": "Maire",
+      "circonscription": "Brion",
+      "departement": "Isère",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "ZILLIOX Charles",
+      "fonction": "Maire",
+      "circonscription": "Bessey",
+      "departement": "Loire",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUVAL Laurent",
+      "fonction": "Maire",
+      "circonscription": "Languidic",
+      "departement": "Morbihan",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHAVONNET Pierre",
+      "fonction": "Maire",
+      "circonscription": "Gerberoy",
+      "departement": "Oise",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE FRANCE Guillain",
+      "fonction": "Maire",
+      "circonscription": "Croutoy",
+      "departement": "Oise",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "GUILMIN Maxime",
+      "fonction": "Maire",
+      "circonscription": "Montsecret-Clairefougère",
+      "departement": "Orne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "SALLIOT Julien",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Montsecret-Clairefougère",
+      "departement": "Orne",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "ARMANET Henri",
+      "fonction": "Maire",
+      "circonscription": "Estarvielle",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MERMET Eric",
+      "fonction": "Maire",
+      "circonscription": "Crissey",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEUNIER Edouard",
+      "fonction": "Maire",
+      "circonscription": "Queige",
+      "departement": "Savoie",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "CAMP Alain",
+      "fonction": "Maire",
+      "circonscription": "Chavannaz",
+      "departement": "Haute-Savoie",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUST Emmanuel",
+      "fonction": "Maire",
+      "circonscription": "Saint-Pierre-le-Vieux",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "TABESSE Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Biville-la-Baignarde",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BARBAUX Lydie",
+      "fonction": "Maire",
+      "circonscription": "Plombières-les-Bains",
+      "departement": "Vosges",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "CALIN Thierry",
+      "fonction": "Maire",
+      "circonscription": "Harchéchamp",
+      "departement": "Vosges",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "DURAND Thierry",
+      "fonction": "Maire",
+      "circonscription": "Cruzy-le-Châtel",
+      "departement": "Yonne",
+      "date": "2022-02-08"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 23,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 22,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 23,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 2,
+          "value": 22,
           "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 23,
       "valeurs": [
+        {
+          "key": "Montsecret-Clairefougère",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Autichamp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Bercloux",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Bessey",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Biville-la-Baignarde",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Brion",
+          "value": 1,
+          "rang": 2
+        },
         {
           "key": "Calan",
           "value": 1,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Chavannaz",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Crissey",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Croutoy",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Cruzy-le-Châtel",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Estarvielle",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Gerberoy",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Harchéchamp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "La Voulte-sur-Rhône",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Languidic",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Mazerier",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Plombières-les-Bains",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Queige",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Saint-Pierre-le-Vieux",
+          "value": 1,
+          "rang": 2
         },
         {
           "key": "Villiers-le-Bâcle",
           "value": 1,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Épagny",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "departement": {
-      "total": 2,
+      "total": 23,
       "valeurs": [
         {
-          "key": "Essonne",
-          "value": 1,
+          "key": "Morbihan",
+          "value": 2,
           "rang": 1
         },
         {
-          "key": "Morbihan",
-          "value": 1,
+          "key": "Oise",
+          "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Orne",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Seine-Maritime",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Vosges",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Aisne",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Allier",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Ardèche",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Charente-Maritime",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Drôme",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Essonne",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Hautes-Pyrénées",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Isère",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Loire",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Savoie",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Saône-et-Loire",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Yonne",
+          "value": 1,
+          "rang": 6
         }
       ]
     },
     "date": {
-      "total": 2,
+      "total": 23,
       "valeurs": [
+        {
+          "key": "2022-02-08",
+          "value": 21,
+          "rang": 1
+        },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 1
+          "rang": 2
         }
       ]
     }
