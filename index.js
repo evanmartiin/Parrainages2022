@@ -1,13 +1,11 @@
 import { TwitterApi } from "twitter-api-v2";
 import dotenv from "dotenv";
-import ranking, { ranklist } from "./rank/ranking.js";
 import fetchData, { data } from "./data/fetchData.js";
 import format from "./tweet/format.js";
 import fs from 'fs';
 import path from 'path';
 import byCandidates from "./data/byCandidates.js";
 import byDepartments from "./data/byDepartments.js";
-import byRegions from "./data/byRegions.js";
 dotenv.config();
 
 const twitterClient = new TwitterApi({
@@ -22,7 +20,7 @@ const tweet = async () => {
   fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data));
   byCandidates(data);
   byDepartments(data);
-  // ranking(data);
+
   // const tweets = format(ranklist);
 
   // let tweetId;

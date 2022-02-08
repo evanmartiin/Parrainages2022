@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import byRegions from './byRegions.js';
-import stats from './stats.js';
+import stats from './utils/stats.js';
 
 export default function byDepartments(data) {
     const departments = [];

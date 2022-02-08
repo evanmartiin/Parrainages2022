@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import { rawRegions } from '../public/regions.js';
-import stats from './stats.js';
+import { rawRegions } from './utils/regions.js';
+import stats from './utils/stats.js';
 
 export default function byRegions(data) {
     const regions = [];

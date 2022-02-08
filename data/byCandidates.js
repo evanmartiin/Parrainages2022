@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import ranking from '../rank/ranking.js';
-import stats from './stats.js';
+import ranking from './utils/rank/ranking.js';
+import stats from './utils/stats.js';
 
 export default function byCandidates(data) {
     const voteStats = ranking(data)
