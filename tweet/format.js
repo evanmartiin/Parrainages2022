@@ -1,4 +1,3 @@
-import twitter from "twitter-text";
 import size from "./size.js";
 
 const firstEmoji = String.fromCodePoint(parseInt("1F947", 16));
