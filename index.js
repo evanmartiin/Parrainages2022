@@ -17,7 +17,7 @@ const twitterClient = new TwitterApi({
 
 const tweet = async () => {
   await fetchData();
-  fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data));
+  fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data, null, 2));
   byCandidates(data);
   byDepartments(data);
 
