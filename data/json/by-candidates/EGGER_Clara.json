@@ -1,7 +1,7 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 6,
-  "votes_totaux": 6,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
   "rang": 20,
   "valide": false,
   "parrainages": [
@@ -52,31 +52,39 @@
       "circonscription": "La Demie",
       "departement": "Haute-Saône",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOCHET Patrick",
+      "fonction": "Maire",
+      "circonscription": "Quincy-sous-le-Mont",
+      "departement": "Aisne",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 6,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 6,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
         {
           "key": "Bettrechies",
@@ -90,6 +98,11 @@
         },
         {
           "key": "Moulin-Neuf",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Quincy-sous-le-Mont",
           "value": 1,
           "rang": 1
         },
@@ -111,8 +124,13 @@
       ]
     },
     "departement": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
+        {
+          "key": "Aisne",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Ardennes",
           "value": 1,
@@ -146,7 +164,7 @@
       ]
     },
     "date": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
         {
           "key": "2022-02-03",
@@ -157,6 +175,11 @@
           "key": "2022-02-08",
           "value": 3,
           "rang": 1
+        },
+        {
+          "key": "2022-02-10",
+          "value": 1,
+          "rang": 3
         }
       ]
     }

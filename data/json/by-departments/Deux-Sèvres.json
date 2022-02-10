@@ -1,41 +1,46 @@
 {
   "nom": "Deux-Sèvres",
-  "total": 19,
+  "total": 27,
   "votes": [
     {
       "key": "JADOT Yannick",
-      "value": 6,
+      "value": 9,
       "rang": 1
     },
     {
       "key": "HIDALGO Anne",
-      "value": 4,
+      "value": 6,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
       "value": 4,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 2,
+      "value": 3,
       "rang": 4
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 5
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 5
+      "rang": 6
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "nom": "Sarthe",
-  "total": 37,
+  "total": 42,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 11,
+      "value": 13,
       "rang": 1
     },
     {
@@ -14,8 +14,13 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 4,
+      "value": 5,
       "rang": 3
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 3,
+      "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -28,34 +33,29 @@
       "rang": 4
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "JADOT Yannick",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 8
+      "rang": 7
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

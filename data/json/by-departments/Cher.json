@@ -1,6 +1,6 @@
 {
   "nom": "Cher",
-  "total": 23,
+  "total": 26,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -18,44 +18,44 @@
       "rang": 2
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
-      "rang": 4
-    },
-    {
       "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 4
+      "value": 3,
+      "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
+      "value": 3,
+      "rang": 2
+    },
+    {
+      "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 4
+      "rang": 6
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 7
+      "rang": 8
     }
   ]
 }

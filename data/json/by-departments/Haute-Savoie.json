@@ -1,6 +1,6 @@
 {
   "nom": "Haute-Savoie",
-  "total": 33,
+  "total": 40,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -8,49 +8,59 @@
       "rang": 1
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
+      "key": "PÉCRESSE Valérie",
+      "value": 6,
       "rang": 2
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "JADOT Yannick",
       "value": 4,
-      "rang": 2
+      "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "POUTOU Philippe",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
+      "value": 3,
+      "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 8
+      "rang": 9
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 9
     },
     {
       "key": "SMATI  Rafik",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

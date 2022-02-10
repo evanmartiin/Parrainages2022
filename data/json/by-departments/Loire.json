@@ -1,21 +1,26 @@
 {
   "nom": "Loire",
-  "total": 42,
+  "total": 50,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 12,
+      "value": 15,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 7,
+      "value": 8,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 6,
+      "value": 7,
       "rang": 3
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 5,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
@@ -23,13 +28,8 @@
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 4,
-      "rang": 5
-    },
-    {
       "key": "JADOT Yannick",
-      "value": 3,
+      "value": 4,
       "rang": 6
     },
     {
@@ -44,6 +44,11 @@
     },
     {
       "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 1,
       "rang": 8
     },

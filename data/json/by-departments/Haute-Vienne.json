@@ -1,15 +1,15 @@
 {
   "nom": "Haute-Vienne",
-  "total": 48,
+  "total": 59,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 29,
+      "value": 35,
       "rang": 1
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 6,
+      "value": 7,
       "rang": 2
     },
     {
@@ -24,13 +24,23 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 3,
-      "rang": 5
+      "value": 4,
+      "rang": 4
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 1,
+      "value": 2,
       "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 1,
+      "rang": 7
     }
   ]
 }

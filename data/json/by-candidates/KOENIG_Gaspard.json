@@ -1,8 +1,8 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 23,
-  "votes_totaux": 23,
-  "rang": 18,
+  "votes_confirmes": 27,
+  "votes_totaux": 27,
+  "rang": 17,
   "valide": false,
   "parrainages": [
     {
@@ -188,15 +188,47 @@
       "circonscription": "Cruzy-le-Châtel",
       "departement": "Yonne",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MORLET Guy",
+      "fonction": "Maire",
+      "circonscription": "Chuffilly-Roche",
+      "departement": "Ardennes",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BILLARD John",
+      "fonction": "Maire",
+      "circonscription": "Le Favril",
+      "departement": "Eure-et-Loir",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELAUNAY Alain",
+      "fonction": "Maire",
+      "circonscription": "Montilly-sur-Noireau",
+      "departement": "Orne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GIRARD Christophe",
+      "fonction": "Conseiller de Paris",
+      "circonscription": "",
+      "departement": "Paris",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 23,
+      "total": 27,
       "valeurs": [
         {
           "key": "M.",
-          "value": 22,
+          "value": 26,
           "rang": 1
         },
         {
@@ -207,12 +239,17 @@
       ]
     },
     "fonction": {
-      "total": 23,
+      "total": 27,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 22,
+          "value": 25,
           "rang": 1
+        },
+        {
+          "key": "Conseiller.e de Paris",
+          "value": 1,
+          "rang": 2
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
@@ -222,7 +259,7 @@
       ]
     },
     "circonscription": {
-      "total": 23,
+      "total": 26,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -261,6 +298,11 @@
         },
         {
           "key": "Chavannaz",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Chuffilly-Roche",
           "value": 1,
           "rang": 2
         },
@@ -305,7 +347,17 @@
           "rang": 2
         },
         {
+          "key": "Le Favril",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Mazerier",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Montilly-sur-Noireau",
           "value": 1,
           "rang": 2
         },
@@ -337,32 +389,32 @@
       ]
     },
     "departement": {
-      "total": 23,
+      "total": 27,
       "valeurs": [
+        {
+          "key": "Orne",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Morbihan",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Oise",
           "value": 2,
-          "rang": 1
-        },
-        {
-          "key": "Orne",
-          "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Seine-Maritime",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Aisne",
@@ -371,6 +423,11 @@
         },
         {
           "key": "Allier",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Ardennes",
           "value": 1,
           "rang": 6
         },
@@ -395,6 +452,11 @@
           "rang": 6
         },
         {
+          "key": "Eure-et-Loir",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Haute-Savoie",
           "value": 1,
           "rang": 6
@@ -411,6 +473,11 @@
         },
         {
           "key": "Loire",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Paris",
           "value": 1,
           "rang": 6
         },
@@ -432,7 +499,7 @@
       ]
     },
     "date": {
-      "total": 23,
+      "total": 27,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -440,9 +507,14 @@
           "rang": 1
         },
         {
+          "key": "2022-02-10",
+          "value": 4,
+          "rang": 2
+        },
+        {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 2
+          "rang": 3
         }
       ]
     }

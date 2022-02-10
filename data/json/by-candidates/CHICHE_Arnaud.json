@@ -1,8 +1,8 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 4,
-  "votes_totaux": 4,
-  "rang": 22,
+  "votes_confirmes": 5,
+  "votes_totaux": 5,
+  "rang": 21,
   "valide": false,
   "parrainages": [
     {
@@ -36,36 +36,44 @@
       "circonscription": "Grivillers",
       "departement": "Somme",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RAVIER Nathalie",
+      "fonction": "Maire",
+      "circonscription": "Méru",
+      "departement": "Oise",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
-          "key": "M.",
-          "value": 2,
+          "key": "Mme",
+          "value": 3,
           "rang": 1
         },
         {
-          "key": "Mme",
+          "key": "M.",
           "value": 2,
-          "rang": 1
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 4,
+          "value": 5,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "Binarville",
@@ -74,6 +82,11 @@
         },
         {
           "key": "Grivillers",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Méru",
           "value": 1,
           "rang": 1
         },
@@ -90,7 +103,7 @@
       ]
     },
     "departement": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "Dordogne",
@@ -108,6 +121,11 @@
           "rang": 1
         },
         {
+          "key": "Oise",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Somme",
           "value": 1,
           "rang": 1
@@ -115,7 +133,7 @@
       ]
     },
     "date": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -124,6 +142,11 @@
         },
         {
           "key": "2022-02-03",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "2022-02-10",
           "value": 1,
           "rang": 2
         }

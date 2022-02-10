@@ -1,41 +1,41 @@
 {
   "nom": "Haute-Corse",
-  "total": 35,
+  "total": 45,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 10,
+      "value": 15,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 4,
+      "value": 5,
+      "rang": 2
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 5,
+      "rang": 2
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 5,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
       "value": 4,
-      "rang": 2
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 4,
-      "rang": 2
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 3,
       "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 3,
+      "value": 4,
       "rang": 5
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 3,
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",

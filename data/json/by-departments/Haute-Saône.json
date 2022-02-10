@@ -1,66 +1,66 @@
 {
   "nom": "Haute-Saône",
-  "total": 59,
+  "total": 79,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
+      "value": 12,
+      "rang": 1
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 12,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 7,
-      "rang": 2
+      "value": 8,
+      "rang": 3
     },
     {
       "key": "POUTOU Philippe",
+      "value": 8,
+      "rang": 3
+    },
+    {
+      "key": "ARTHAUD Nathalie",
       "value": 7,
-      "rang": 2
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 6,
-      "rang": 4
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 5,
       "rang": 5
     },
     {
       "key": "LASSALLE Jean",
-      "value": 5,
+      "value": 7,
       "rang": 5
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 4,
+      "key": "HIDALGO Anne",
+      "value": 5,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 5,
       "rang": 7
     },
     {
       "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 8
+      "value": 3,
+      "rang": 9
     },
     {
-      "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 8
+      "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 9
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 2,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 2,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "ASSELINEAU François",

@@ -1,56 +1,61 @@
 {
   "nom": "Bretagne",
-  "total": 169,
+  "total": 200,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 46,
+      "value": 49,
       "rang": 1
     },
     {
       "key": "HIDALGO Anne",
-      "value": 40,
+      "value": 47,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 20,
+      "value": 29,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 16,
+      "value": 19,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 16,
-      "rang": 4
+      "value": 17,
+      "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 10,
+      "value": 12,
       "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 6,
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 4,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 4,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 3,
-      "rang": 9
+      "rang": 8
     },
     {
       "key": "POUTOU Philippe",
-      "value": 3,
-      "rang": 9
+      "value": 4,
+      "rang": 8
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "KAZIB Anasse",
@@ -63,19 +68,19 @@
       "rang": 11
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 13
+      "rang": 14
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 25,
-  "votes_totaux": 25,
+  "votes_confirmes": 27,
+  "votes_totaux": 27,
   "rang": 17,
   "valide": false,
   "parrainages": [
@@ -204,15 +204,31 @@
       "circonscription": "Pleuvezain",
       "departement": "Vosges",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "BORIE Jean-François",
+      "fonction": "Maire",
+      "circonscription": "Beaulieu",
+      "departement": "Ardèche",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "TISSIER Jean-Pierre",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Montholon",
+      "departement": "Yonne",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 25,
+      "total": 27,
       "valeurs": [
         {
           "key": "M.",
-          "value": 24,
+          "value": 26,
           "rang": 1
         },
         {
@@ -223,23 +239,28 @@
       ]
     },
     "fonction": {
-      "total": 25,
+      "total": 27,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 24,
+          "value": 25,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 25,
+      "total": 27,
       "valeurs": [
+        {
+          "key": "Beaulieu",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Bengy-sur-Craon",
           "value": 1,
@@ -311,6 +332,11 @@
           "rang": 1
         },
         {
+          "key": "Montholon",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Pleuvezain",
           "value": 1,
           "rang": 1
@@ -368,7 +394,7 @@
       ]
     },
     "departement": {
-      "total": 25,
+      "total": 27,
       "valeurs": [
         {
           "key": "Pas-de-Calais",
@@ -406,59 +432,64 @@
           "rang": 2
         },
         {
+          "key": "Yonne",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Ardèche",
+          "value": 1,
+          "rang": 9
+        },
+        {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Calvados",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Saône-et-Loire",
           "value": 1,
-          "rang": 8
-        },
-        {
-          "key": "Yonne",
-          "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     },
     "date": {
-      "total": 25,
+      "total": 27,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -471,9 +502,14 @@
           "rang": 2
         },
         {
+          "key": "2022-02-10",
+          "value": 2,
+          "rang": 3
+        },
+        {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

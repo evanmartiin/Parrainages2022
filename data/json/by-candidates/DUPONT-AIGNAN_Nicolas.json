@@ -1,7 +1,7 @@
 {
   "nom": "DUPONT-AIGNAN Nicolas",
-  "votes_confirmes": 232,
-  "votes_totaux": 232,
+  "votes_confirmes": 280,
+  "votes_totaux": 280,
   "rang": 8,
   "valide": false,
   "parrainages": [
@@ -1860,56 +1860,450 @@
       "circonscription": "Enghien-les-Bains",
       "departement": "Val-d'Oise",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "JUILLET Claude",
+      "fonction": "Maire",
+      "circonscription": "Champagne-en-Valromey",
+      "departement": "Ain",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BESANCON Tony",
+      "fonction": "Maire",
+      "circonscription": "Quatre-Champs",
+      "departement": "Ardennes",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "NICOLAS Pascal",
+      "fonction": "Maire",
+      "circonscription": "Sapogne-sur-Marche",
+      "departement": "Ardennes",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "TURCHI Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Auflance",
+      "departement": "Ardennes",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAILIER Denis",
+      "fonction": "Maire",
+      "circonscription": "Avant-lès-Ramerupt",
+      "departement": "Aube",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "NOBLET Pascal",
+      "fonction": "Maire",
+      "circonscription": "Semoine",
+      "departement": "Aube",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "ALLAVENA Didier",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Valdallière",
+      "departement": "Calvados",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "COTARD Pascal",
+      "fonction": "Maire",
+      "circonscription": "Amayé-sur-Seulles",
+      "departement": "Calvados",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "VILLIERE Noël",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Dialan sur Chaîne",
+      "departement": "Calvados",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHARDON Philippe",
+      "fonction": "Maire",
+      "circonscription": "Montigny-sur-Aube",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "JOBARD Marcel",
+      "fonction": "Maire",
+      "circonscription": "Villy-le-Moutier",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "LECONTE Roland",
+      "fonction": "Maire",
+      "circonscription": "Rougemont",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "CARNIS Vincent",
+      "fonction": "Maire",
+      "circonscription": "Ermenonville-la-Petite",
+      "departement": "Eure-et-Loir",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEJEAN Patrick",
+      "fonction": "Maire",
+      "circonscription": "Fontarèches",
+      "departement": "Gard",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "PAGE Eric",
+      "fonction": "Maire",
+      "circonscription": "Saint-Girons-d'Aiguevives",
+      "departement": "Gironde",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BARDY Thomas",
+      "fonction": "Maire",
+      "circonscription": "Arbrissel",
+      "departement": "Ille-et-Vilaine",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHANEY Denise",
+      "fonction": "Maire",
+      "circonscription": "Chêne-Bernard",
+      "departement": "Jura",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DAMNON Christophe",
+      "fonction": "Maire",
+      "circonscription": "Fraroz",
+      "departement": "Jura",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GROS Gérard",
+      "fonction": "Maire",
+      "circonscription": "Saint-Vidal",
+      "departement": "Haute-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BEAUFILS Bernard",
+      "fonction": "Maire",
+      "circonscription": "La Fage-Montivernoux",
+      "departement": "Lozère",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELAMARE Pierre-Yves",
+      "fonction": "Maire",
+      "circonscription": "Varrains",
+      "departement": "Maine-et-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMOUSSU Joël",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Buais-Les-Monts",
+      "departement": "Manche",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MALOU-SOUCAT Olivier",
+      "fonction": "Maire",
+      "circonscription": "Humbauville",
+      "departement": "Marne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARCHAND Pascal",
+      "fonction": "Maire",
+      "circonscription": "Livry-Louvercy",
+      "departement": "Marne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "THIERIOT Damien",
+      "fonction": "Maire",
+      "circonscription": "Lezéville",
+      "departement": "Haute-Marne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "ANSMANT Claude",
+      "fonction": "Maire",
+      "circonscription": "Saulmory-Villefranche",
+      "departement": "Meuse",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "NANAN Manuel",
+      "fonction": "Maire",
+      "circonscription": "Nantillois",
+      "departement": "Meuse",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "SAIDANI Vincent",
+      "fonction": "Maire",
+      "circonscription": "Maucourt-sur-Orne",
+      "departement": "Meuse",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHONÉ Jean-Marc",
+      "fonction": "Maire",
+      "circonscription": "Oron",
+      "departement": "Moselle",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "EGLER Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Alzing",
+      "departement": "Moselle",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "VIEREN Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Saint-Martin-du-Puy",
+      "departement": "Nièvre",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELABASLE Stanislas",
+      "fonction": "Maire",
+      "circonscription": "Montreuil-la-Cambe",
+      "departement": "Orne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BALESTA Patrick",
+      "fonction": "Maire",
+      "circonscription": "Autevielle-Saint-Martin-Bideren",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUPOUY-BAS Pierre",
+      "fonction": "Maire",
+      "circonscription": "Pouliacq",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GEORGER Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Reutenbourg",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "VALTON Romaric",
+      "fonction": "Maire",
+      "circonscription": "Courtesoult-et-Gatey",
+      "departement": "Haute-Saône",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CANARD Elisabeth",
+      "fonction": "Maire",
+      "circonscription": "Beauvernois",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MAJEWSKI Dorothée",
+      "fonction": "Conseillère régionale",
+      "circonscription": "Bourgogne-Franche-Comté",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MICONNET Robert",
+      "fonction": "Maire",
+      "circonscription": "Mouthier-en-Bresse",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHEDHOMME Christian",
+      "fonction": "Maire",
+      "circonscription": "Commerveil",
+      "departement": "Sarthe",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "RACINE Pierre-Marie-Robert",
+      "fonction": "Maire",
+      "circonscription": "Valence-en-Brie",
+      "departement": "Seine-et-Marne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GENIEY Claude",
+      "fonction": "Maire",
+      "circonscription": "Loubers",
+      "departement": "Tarn",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "PORTAL Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Flassans-sur-Issole",
+      "departement": "Var",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHANAUX Jean-Paul",
+      "fonction": "Maire",
+      "circonscription": "Gignéville",
+      "departement": "Vosges",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRANDEMANGE Eric",
+      "fonction": "Maire",
+      "circonscription": "Damblain",
+      "departement": "Vosges",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "PREVOT-PIERRE David",
+      "fonction": "Maire",
+      "circonscription": "Pont-sur-Madon",
+      "departement": "Vosges",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "TALLOTTE Claude",
+      "fonction": "Maire",
+      "circonscription": "Battexey",
+      "departement": "Vosges",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "SUREAU Martine",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Essonne",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 232,
+      "total": 280,
       "valeurs": [
         {
           "key": "M.",
-          "value": 213,
+          "value": 257,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 19,
+          "value": 23,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 232,
+      "total": 280,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 225,
+          "value": 268,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 7,
+          "value": 10,
           "rang": 2
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Conseiller.e régional.e",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "circonscription": {
-      "total": 232,
+      "total": 279,
       "valeurs": [
+        {
+          "key": "Valdallière",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Champsevraine",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Val d'Erdre-Auxence",
           "value": 2,
-          "rang": 1
-        },
-        {
-          "key": "Valdallière",
-          "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Aigny",
@@ -1927,7 +2321,17 @@
           "rang": 4
         },
         {
+          "key": "Alzing",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Amanty",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Amayé-sur-Seulles",
           "value": 1,
           "rang": 4
         },
@@ -1938,6 +2342,11 @@
         },
         {
           "key": "Aouze",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Arbrissel",
           "value": 1,
           "rang": 4
         },
@@ -1972,12 +2381,27 @@
           "rang": 4
         },
         {
+          "key": "Auflance",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Aulnay-l'Aître",
           "value": 1,
           "rang": 4
         },
         {
           "key": "Aumâtre",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Autevielle-Saint-Martin-Bideren",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Avant-lès-Ramerupt",
           "value": 1,
           "rang": 4
         },
@@ -2002,6 +2426,11 @@
           "rang": 4
         },
         {
+          "key": "Battexey",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Beauchemin",
           "value": 1,
           "rang": 4
@@ -2013,6 +2442,11 @@
         },
         {
           "key": "Beaupouyet",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Beauvernois",
           "value": 1,
           "rang": 4
         },
@@ -2092,6 +2526,11 @@
           "rang": 4
         },
         {
+          "key": "Bourgogne-Franche-Comté",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Bourguignon-lès-la-Charité",
           "value": 1,
           "rang": 4
@@ -2132,6 +2571,11 @@
           "rang": 4
         },
         {
+          "key": "Buais-Les-Monts",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Busnes",
           "value": 1,
           "rang": 4
@@ -2158,6 +2602,11 @@
         },
         {
           "key": "Cenans",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Champagne-en-Valromey",
           "value": 1,
           "rang": 4
         },
@@ -2192,7 +2641,17 @@
           "rang": 4
         },
         {
+          "key": "Chêne-Bernard",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Collonge-la-Madeleine",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Commerveil",
           "value": 1,
           "rang": 4
         },
@@ -2217,6 +2676,11 @@
           "rang": 4
         },
         {
+          "key": "Courtesoult-et-Gatey",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Cuverville",
           "value": 1,
           "rang": 4
@@ -2232,7 +2696,17 @@
           "rang": 4
         },
         {
+          "key": "Damblain",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Dambron",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Dialan sur Chaîne",
           "value": 1,
           "rang": 4
         },
@@ -2253,6 +2727,11 @@
         },
         {
           "key": "Enghien-les-Bains",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Ermenonville-la-Petite",
           "value": 1,
           "rang": 4
         },
@@ -2282,12 +2761,27 @@
           "rang": 4
         },
         {
+          "key": "Flassans-sur-Issole",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Fontarèches",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Fontiers-Cabardès",
           "value": 1,
           "rang": 4
         },
         {
           "key": "Frampas",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Fraroz",
           "value": 1,
           "rang": 4
         },
@@ -2313,6 +2807,11 @@
         },
         {
           "key": "Germainville",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Gignéville",
           "value": 1,
           "rang": 4
         },
@@ -2353,6 +2852,11 @@
         },
         {
           "key": "Heuqueville",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Humbauville",
           "value": 1,
           "rang": 4
         },
@@ -2403,6 +2907,11 @@
         },
         {
           "key": "La Croix-en-Champagne",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "La Fage-Montivernoux",
           "value": 1,
           "rang": 4
         },
@@ -2497,6 +3006,11 @@
           "rang": 4
         },
         {
+          "key": "Lezéville",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Liffol-le-Petit",
           "value": 1,
           "rang": 4
@@ -2508,6 +3022,16 @@
         },
         {
           "key": "Linzeux",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Livry-Louvercy",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Loubers",
           "value": 1,
           "rang": 4
         },
@@ -2557,6 +3081,11 @@
           "rang": 4
         },
         {
+          "key": "Maucourt-sur-Orne",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Mauran",
           "value": 1,
           "rang": 4
@@ -2592,7 +3121,17 @@
           "rang": 4
         },
         {
+          "key": "Montigny-sur-Aube",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Montjustin-et-Velotte",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Montreuil-la-Cambe",
           "value": 1,
           "rang": 4
         },
@@ -2617,7 +3156,17 @@
           "rang": 4
         },
         {
+          "key": "Mouthier-en-Bresse",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Mévouillon",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Nantillois",
           "value": 1,
           "rang": 4
         },
@@ -2653,6 +3202,11 @@
         },
         {
           "key": "Oricourt",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Oron",
           "value": 1,
           "rang": 4
         },
@@ -2697,12 +3251,27 @@
           "rang": 4
         },
         {
+          "key": "Pont-sur-Madon",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Pontigny",
           "value": 1,
           "rang": 4
         },
         {
           "key": "Poulangy",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Pouliacq",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Quatre-Champs",
           "value": 1,
           "rang": 4
         },
@@ -2718,6 +3287,11 @@
         },
         {
           "key": "Renneville",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Reutenbourg",
           "value": 1,
           "rang": 4
         },
@@ -2747,6 +3321,11 @@
           "rang": 4
         },
         {
+          "key": "Rougemont",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Ruffigné",
           "value": 1,
           "rang": 4
@@ -2772,7 +3351,17 @@
           "rang": 4
         },
         {
+          "key": "Saint-Girons-d'Aiguevives",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Saint-Léonard-en-Beauce",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Saint-Martin-du-Puy",
           "value": 1,
           "rang": 4
         },
@@ -2807,6 +3396,11 @@
           "rang": 4
         },
         {
+          "key": "Saint-Vidal",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Sainte-Maure",
           "value": 1,
           "rang": 4
@@ -2832,7 +3426,22 @@
           "rang": 4
         },
         {
+          "key": "Sapogne-sur-Marche",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Saulmory-Villefranche",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Savigny-le-Vieux",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Semoine",
           "value": 1,
           "rang": 4
         },
@@ -2932,6 +3541,11 @@
           "rang": 4
         },
         {
+          "key": "Valence-en-Brie",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Valeyrac",
           "value": 1,
           "rang": 4
@@ -2943,6 +3557,11 @@
         },
         {
           "key": "Varenne-Saint-Germain",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Varrains",
           "value": 1,
           "rang": 4
         },
@@ -3007,6 +3626,11 @@
           "rang": 4
         },
         {
+          "key": "Villy-le-Moutier",
+          "value": 1,
+          "rang": 4
+        },
+        {
           "key": "Vilsberg",
           "value": 1,
           "rang": 4
@@ -3044,27 +3668,32 @@
       ]
     },
     "departement": {
-      "total": 232,
+      "total": 280,
       "valeurs": [
         {
           "key": "Haute-Marne",
-          "value": 21,
+          "value": 22,
           "rang": 1
         },
         {
           "key": "Vosges",
-          "value": 14,
+          "value": 18,
           "rang": 2
         },
         {
-          "key": "Moselle",
-          "value": 13,
+          "key": "Ardennes",
+          "value": 15,
           "rang": 3
         },
         {
-          "key": "Ardennes",
-          "value": 12,
-          "rang": 4
+          "key": "Moselle",
+          "value": 15,
+          "rang": 3
+        },
+        {
+          "key": "Marne",
+          "value": 11,
+          "rang": 5
         },
         {
           "key": "Somme",
@@ -3072,289 +3701,324 @@
           "rang": 5
         },
         {
-          "key": "Marne",
-          "value": 9,
-          "rang": 6
-        },
-        {
-          "key": "Pas-de-Calais",
-          "value": 8,
+          "key": "Meuse",
+          "value": 10,
           "rang": 7
         },
         {
           "key": "Haute-Saône",
-          "value": 7,
+          "value": 8,
           "rang": 8
         },
         {
           "key": "Manche",
-          "value": 7,
-          "rang": 8
-        },
-        {
-          "key": "Meuse",
-          "value": 7,
+          "value": 8,
           "rang": 8
         },
         {
           "key": "Orne",
-          "value": 7,
+          "value": 8,
           "rang": 8
         },
         {
-          "key": "Aisne",
-          "value": 6,
-          "rang": 12
+          "key": "Pas-de-Calais",
+          "value": 8,
+          "rang": 8
         },
         {
-          "key": "Doubs",
-          "value": 6,
+          "key": "Calvados",
+          "value": 7,
           "rang": 12
         },
         {
           "key": "Eure-et-Loir",
-          "value": 6,
+          "value": 7,
           "rang": 12
+        },
+        {
+          "key": "Saône-et-Loire",
+          "value": 7,
+          "rang": 12
+        },
+        {
+          "key": "Aisne",
+          "value": 6,
+          "rang": 15
+        },
+        {
+          "key": "Aube",
+          "value": 6,
+          "rang": 15
+        },
+        {
+          "key": "Côte-d'Or",
+          "value": 6,
+          "rang": 15
+        },
+        {
+          "key": "Doubs",
+          "value": 6,
+          "rang": 15
+        },
+        {
+          "key": "Jura",
+          "value": 6,
+          "rang": 15
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 6,
-          "rang": 12
+          "rang": 15
         },
         {
           "key": "Yonne",
           "value": 5,
-          "rang": 16
-        },
-        {
-          "key": "Aube",
-          "value": 4,
-          "rang": 17
-        },
-        {
-          "key": "Calvados",
-          "value": 4,
-          "rang": 17
+          "rang": 21
         },
         {
           "key": "Dordogne",
           "value": 4,
-          "rang": 17
-        },
-        {
-          "key": "Jura",
-          "value": 4,
-          "rang": 17
+          "rang": 22
         },
         {
           "key": "Oise",
           "value": 4,
-          "rang": 17
-        },
-        {
-          "key": "Saône-et-Loire",
-          "value": 4,
-          "rang": 17
-        },
-        {
-          "key": "Côte-d'Or",
-          "value": 3,
-          "rang": 23
+          "rang": 22
         },
         {
           "key": "Drôme",
           "value": 3,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Eure",
           "value": 3,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Gers",
           "value": 3,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Hautes-Alpes",
           "value": 3,
-          "rang": 23
+          "rang": 24
+        },
+        {
+          "key": "Maine-et-Loire",
+          "value": 3,
+          "rang": 24
+        },
+        {
+          "key": "Pyrénées-Atlantiques",
+          "value": 3,
+          "rang": 24
+        },
+        {
+          "key": "Sarthe",
+          "value": 3,
+          "rang": 24
         },
         {
           "key": "Seine-Maritime",
           "value": 3,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Val-d'Oise",
           "value": 3,
-          "rang": 23
+          "rang": 24
+        },
+        {
+          "key": "Ain",
+          "value": 2,
+          "rang": 33
         },
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 2,
-          "rang": 30
+          "rang": 33
+        },
+        {
+          "key": "Gironde",
+          "value": 2,
+          "rang": 33
         },
         {
           "key": "Haute-Garonne",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Hautes-Pyrénées",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Indre",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Loir-et-Cher",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Lot-et-Garonne",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
-          "key": "Maine-et-Loire",
+          "key": "Lozère",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Nord",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
-          "key": "Sarthe",
+          "key": "Seine-et-Marne",
           "value": 2,
-          "rang": 30
+          "rang": 33
         },
         {
           "key": "Vienne",
           "value": 2,
-          "rang": 30
-        },
-        {
-          "key": "Ain",
-          "value": 1,
-          "rang": 40
+          "rang": 33
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 40
+          "rang": 45
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 45
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Côtes-d'Armor",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
-          "key": "Gironde",
+          "key": "Essonne",
           "value": 1,
-          "rang": 40
+          "rang": 45
+        },
+        {
+          "key": "Gard",
+          "value": 1,
+          "rang": 45
         },
         {
           "key": "Haut-Rhin",
           "value": 1,
-          "rang": 40
+          "rang": 45
+        },
+        {
+          "key": "Haute-Loire",
+          "value": 1,
+          "rang": 45
         },
         {
           "key": "Haute-Savoie",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 40
+          "rang": 45
+        },
+        {
+          "key": "Ille-et-Vilaine",
+          "value": 1,
+          "rang": 45
         },
         {
           "key": "Indre-et-Loire",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Isère",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Loire-Atlantique",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
-          "key": "Lozère",
+          "key": "Nièvre",
           "value": 1,
-          "rang": 40
-        },
-        {
-          "key": "Pyrénées-Atlantiques",
-          "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
-          "key": "Seine-et-Marne",
+          "key": "Tarn",
           "value": 1,
-          "rang": 40
+          "rang": 45
+        },
+        {
+          "key": "Var",
+          "value": 1,
+          "rang": 45
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Vendée",
           "value": 1,
-          "rang": 40
+          "rang": 45
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 40
+          "rang": 45
         }
       ]
     },
     "date": {
-      "total": 232,
+      "total": 280,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -3367,9 +4031,14 @@
           "rang": 2
         },
         {
+          "key": "2022-02-10",
+          "value": 48,
+          "rang": 3
+        },
+        {
           "key": "2022-02-01",
           "value": 10,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

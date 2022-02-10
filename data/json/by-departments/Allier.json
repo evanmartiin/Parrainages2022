@@ -1,31 +1,31 @@
 {
   "nom": "Allier",
-  "total": 34,
+  "total": 40,
   "votes": [
     {
       "key": "ROUSSEL Fabien",
-      "value": 12,
+      "value": 13,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 6,
+      "value": 7,
       "rang": 2
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 5,
+      "rang": 3
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 3,
-      "rang": 3
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 3,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "JADOT Yannick",
@@ -44,6 +44,16 @@
     },
     {
       "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 1,
       "rang": 7
     },

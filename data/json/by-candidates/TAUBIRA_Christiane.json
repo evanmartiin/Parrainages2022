@@ -1,7 +1,7 @@
 {
   "nom": "TAUBIRA Christiane",
-  "votes_confirmes": 36,
-  "votes_totaux": 36,
+  "votes_confirmes": 47,
+  "votes_totaux": 47,
   "rang": 16,
   "valide": false,
   "parrainages": [
@@ -292,30 +292,118 @@
       "circonscription": "",
       "departement": "Vaucluse",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARIEN Michel",
+      "fonction": "Maire",
+      "circonscription": "Espinasse-Vozelle",
+      "departement": "Allier",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "SUTRA Alain",
+      "fonction": "Maire",
+      "circonscription": "Tarascon-sur-Ariège",
+      "departement": "Ariège",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOLINOZ Patrick",
+      "fonction": "Maire",
+      "circonscription": "Venarey-les-Laumes",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "SIMONNET Jacqueline",
+      "fonction": "Conseillère régionale",
+      "circonscription": "Nouvelle-Aquitaine",
+      "departement": "Dordogne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "TOURRENG Olivier",
+      "fonction": "Maire",
+      "circonscription": "Boulc",
+      "departement": "Drôme",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELAHAYE Christophe",
+      "fonction": "Conseiller régional",
+      "circonscription": "Occitanie",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "PAUL Gérard",
+      "fonction": "Maire",
+      "circonscription": "Lias",
+      "departement": "Gers",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "THEYE Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Ladevèze-Ville",
+      "departement": "Gers",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "SAINTORENS Denis",
+      "fonction": "Maire",
+      "circonscription": "Pissos",
+      "departement": "Landes",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DAUVERGNE Philippe",
+      "fonction": "Maire",
+      "circonscription": "Marigny-l'Église",
+      "departement": "Nièvre",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DALONGEVILLE Fabrice",
+      "fonction": "Maire",
+      "circonscription": "Auger-Saint-Vincent",
+      "departement": "Oise",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 36,
+      "total": 47,
       "valeurs": [
         {
           "key": "M.",
-          "value": 22,
+          "value": 31,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 14,
+          "value": 16,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 36,
+      "total": 47,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 21,
+          "value": 30,
           "rang": 1
         },
         {
@@ -325,7 +413,7 @@
         },
         {
           "key": "Conseiller.e régional.e",
-          "value": 5,
+          "value": 7,
           "rang": 3
         },
         {
@@ -336,7 +424,7 @@
       ]
     },
     "circonscription": {
-      "total": 27,
+      "total": 38,
       "valeurs": [
         {
           "key": "Bourgogne-Franche-Comté",
@@ -344,134 +432,179 @@
           "rang": 1
         },
         {
+          "key": "Nouvelle-Aquitaine",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Occitanie",
+          "value": 2,
+          "rang": 1
+        },
+        {
           "key": "Alise-Sainte-Reine",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Ancemont",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Arbois",
           "value": 1,
-          "rang": 2
+          "rang": 4
+        },
+        {
+          "key": "Auger-Saint-Vincent",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "Auvergne-Rhône-Alpes",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Bernières-sur-Mer",
           "value": 1,
-          "rang": 2
+          "rang": 4
+        },
+        {
+          "key": "Boulc",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "CA du Grand Guéret",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Chambost-Longessaigne",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Courgoul",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Cézens",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Darcey",
           "value": 1,
-          "rang": 2
+          "rang": 4
+        },
+        {
+          "key": "Espinasse-Vozelle",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "Felzins",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "La Chapelle-des-Fougeretz",
           "value": 1,
-          "rang": 2
+          "rang": 4
+        },
+        {
+          "key": "Ladevèze-Ville",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Lias",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Marigny-l'Église",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "Marles-les-Mines",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Melay",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Monnières",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Montacher-Villegardin",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
-          "key": "Nouvelle-Aquitaine",
+          "key": "Pissos",
           "value": 1,
-          "rang": 2
-        },
-        {
-          "key": "Occitanie",
-          "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Pommevic",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Rezé",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Saint-Gilles",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Sansan",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Sommant",
           "value": 1,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Soyans",
           "value": 1,
-          "rang": 2
+          "rang": 4
+        },
+        {
+          "key": "Tarascon-sur-Ariège",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "Venarey-les-Laumes",
+          "value": 1,
+          "rang": 4
         }
       ]
     },
     "departement": {
-      "total": 36,
+      "total": 47,
       "valeurs": [
         {
           "key": "Saône-et-Loire",
@@ -479,124 +612,159 @@
           "rang": 1
         },
         {
+          "key": "Côte-d'Or",
+          "value": 3,
+          "rang": 2
+        },
+        {
+          "key": "Gers",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "Loire-Atlantique",
           "value": 3,
           "rang": 2
         },
         {
-          "key": "Côte-d'Or",
+          "key": "Drôme",
           "value": 2,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Jura",
           "value": 2,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Rhône",
           "value": 2,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Allier",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Ariège",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Calvados",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Cantal",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Charente-Maritime",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
-          "key": "Drôme",
+          "key": "Dordogne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Gard",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
-          "key": "Gers",
+          "key": "Haute-Garonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Ille-et-Vilaine",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Landes",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Nièvre",
+          "value": 1,
+          "rang": 8
+        },
+        {
+          "key": "Oise",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Yonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         }
       ]
     },
     "date": {
-      "total": 36,
+      "total": 47,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -604,9 +772,14 @@
           "rang": 1
         },
         {
+          "key": "2022-02-10",
+          "value": 11,
+          "rang": 2
+        },
+        {
           "key": "2022-02-03",
           "value": 8,
-          "rang": 2
+          "rang": 3
         }
       ]
     }

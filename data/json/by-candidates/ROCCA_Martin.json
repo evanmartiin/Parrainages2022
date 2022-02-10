@@ -1,8 +1,8 @@
 {
   "nom": "ROCCA Martin",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 24,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 23,
   "valide": false,
   "parrainages": [
     {
@@ -12,54 +12,77 @@
       "circonscription": "Castelculier",
       "departement": "Lot-et-Garonne",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "SIMÉON Janny",
+      "fonction": "Maire",
+      "circonscription": "La Chapelle-Saint-André",
+      "departement": "Nièvre",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Castelculier",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Chapelle-Saint-André",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Lot-et-Garonne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Nièvre",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-08",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-10",
           "value": 1,
           "rang": 1
         }

@@ -1,76 +1,76 @@
 {
   "nom": "Marne",
-  "total": 73,
+  "total": 93,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 15,
+      "value": 21,
       "rang": 1
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 16,
+      "rang": 2
     },
     {
       "key": "ASSELINEAU François",
       "value": 14,
-      "rang": 2
+      "rang": 3
     },
     {
-      "key": "MACRON Emmanuel",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 11,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 9,
-      "rang": 4
+      "rang": 5
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 9,
-      "rang": 4
+      "key": "LE PEN Marine",
+      "value": 6,
+      "rang": 6
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 6
+      "rang": 7
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 10
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 2,
-      "rang": 8
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 8
+      "rang": 10
     },
     {
       "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 10
+      "rang": 12
     }
   ]
 }

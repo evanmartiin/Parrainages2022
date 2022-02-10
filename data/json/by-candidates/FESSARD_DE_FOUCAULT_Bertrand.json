@@ -1,0 +1,69 @@
+{
+  "nom": "FESSARD DE FOUCAULT Bertrand",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 25,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "BOUCHAUD Guy",
+      "fonction": "Maire",
+      "circonscription": "Saint-Mesmin",
+      "departement": "Dordogne",
+      "date": "2022-02-10"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Saint-Mesmin",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Dordogne",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-02-10",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

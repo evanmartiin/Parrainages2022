@@ -1,10 +1,10 @@
 {
   "nom": "Ain",
-  "total": 46,
+  "total": 56,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 16,
+      "value": 19,
       "rang": 1
     },
     {
@@ -14,11 +14,16 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 5,
+      "value": 6,
       "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 4,
+      "rang": 4
+    },
+    {
+      "key": "JADOT Yannick",
       "value": 4,
       "rang": 4
     },
@@ -28,9 +33,14 @@
       "rang": 4
     },
     {
-      "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 6
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -43,14 +53,19 @@
       "rang": 7
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 9
+      "rang": 11
+    },
+    {
+      "key": "RIVOAL Stéphanie",
+      "value": 1,
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 9
+      "rang": 11
     }
   ]
 }

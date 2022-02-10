@@ -4,15 +4,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite build && vite preview"
   },
   "devDependencies": {
     "sass": "^1.49.7",
     "vite": "^2.7.2"
   },
   "dependencies": {
-    "canvas": "^2.9.0",
-    "d3": "^7.3.0",
-    "html2canvas": "^1.4.1"
+    "d3": "^7.3.0"
   }
 }

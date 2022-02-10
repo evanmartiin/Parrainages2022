@@ -1,46 +1,61 @@
 {
   "nom": "Ariège",
-  "total": 32,
+  "total": 54,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 16,
+      "value": 26,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 5,
+      "value": 7,
       "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
+      "value": 7,
+      "rang": 2
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 4,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 3,
+      "value": 4,
       "rang": 4
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "JADOT Yannick",
       "value": 1,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 5
+      "rang": 6
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "MACRON Emmanuel",
       "value": 1,
-      "rang": 5
+      "rang": 6
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 6
     }
   ]
 }

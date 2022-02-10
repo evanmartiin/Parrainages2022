@@ -1,20 +1,20 @@
 {
   "nom": "Pyrénées-Atlantiques",
-  "total": 76,
+  "total": 89,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 26,
+      "value": 32,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 9,
+      "value": 10,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 10,
       "rang": 2
     },
     {
@@ -24,13 +24,18 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 6,
-      "rang": 5
+      "value": 7,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 6,
-      "rang": 5
+      "rang": 6
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 7
     },
     {
       "key": "JADOT Yannick",
@@ -38,34 +43,34 @@
       "rang": 7
     },
     {
-      "key": "HIDALGO Anne",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "LE PEN Marine",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

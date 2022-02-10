@@ -1,25 +1,25 @@
 {
   "nom": "Pays de la Loire",
-  "total": 155,
+  "total": 178,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 43,
+      "value": 50,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 40,
+      "value": 46,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 21,
+      "value": 25,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 11,
+      "value": 13,
       "rang": 4
     },
     {
@@ -28,29 +28,29 @@
       "rang": 5
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 7,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 8,
       "rang": 6
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 6,
+      "key": "LASSALLE Jean",
+      "value": 7,
       "rang": 7
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 6,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 4,
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 4,
       "rang": 9
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 3,
-      "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -59,18 +59,18 @@
     },
     {
       "key": "ASSELINEAU François",
-      "value": 1,
-      "rang": 12
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 12
+      "rang": 13
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "nom": "Oise",
-  "total": 67,
+  "total": 76,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 12,
+      "value": 14,
       "rang": 1
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 12,
+      "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 11,
-      "rang": 2
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 10,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
-      "rang": 4
+      "value": 11,
+      "rang": 3
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -33,14 +33,14 @@
       "rang": 5
     },
     {
-      "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 7
+      "key": "ZEMMOUR Éric",
+      "value": 4,
+      "rang": 5
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "JADOT Yannick",
       "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "HIDALGO Anne",
@@ -63,6 +63,11 @@
       "rang": 12
     },
     {
+      "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 12
+    },
+    {
       "key": "KAZIB Anasse",
       "value": 1,
       "rang": 12
@@ -79,6 +84,11 @@
     },
     {
       "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 1,
       "rang": 12
     }

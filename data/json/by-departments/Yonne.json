@@ -1,6 +1,6 @@
 {
   "nom": "Yonne",
-  "total": 54,
+  "total": 72,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -9,73 +9,78 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 10,
+      "value": 13,
       "rang": 2
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 6,
+      "rang": 3
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 5,
+      "rang": 4
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 5,
-      "rang": 3
-    },
-    {
-      "key": "KAZIB Anasse",
-      "value": 4,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
+      "value": 5,
       "rang": 4
     },
     {
-      "key": "ROUSSEL Fabien",
+      "key": "KAZIB Anasse",
       "value": 4,
-      "rang": 4
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 2,
       "rang": 7
     },
     {
       "key": "LASSALLE Jean",
-      "value": 2,
+      "value": 4,
+      "rang": 7
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 4,
       "rang": 7
     },
     {
       "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 9
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 10
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 9
-    },
-    {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
-      "rang": 9
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 9
+      "rang": 13
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 9
+      "rang": 13
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 9
+      "rang": 13
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 9
+      "rang": 13
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "nom": "THOUY Hélène",
-  "votes_confirmes": 48,
-  "votes_totaux": 48,
+  "votes_confirmes": 56,
+  "votes_totaux": 56,
   "rang": 15,
   "valide": false,
   "parrainages": [
@@ -388,46 +388,110 @@
       "circonscription": "Barville",
       "departement": "Vosges",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RICHEZ-LEROUGE Véronique",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Charente-Maritime",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "PETIT Mélanie",
+      "fonction": "Maire",
+      "circonscription": "Voiscreville",
+      "departement": "Eure",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "SENECLAUZE Christian",
+      "fonction": "Maire",
+      "circonscription": "Montbrun-Bocage",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "ALONSO Michel",
+      "fonction": "Maire",
+      "circonscription": "Beaumont-Village",
+      "departement": "Indre-et-Loire",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "KOLODZIEJ Jocelyne",
+      "fonction": "Maire",
+      "circonscription": "Coin-sur-Seille",
+      "departement": "Moselle",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELALANDRE Julien",
+      "fonction": "Maire",
+      "circonscription": "Jumièges",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "DALICIEUX Pascal",
+      "fonction": "Maire",
+      "circonscription": "Blennes",
+      "departement": "Seine-et-Marne",
+      "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "VARACHAUD Agnès",
+      "fonction": "Maire",
+      "circonscription": "Saint-Mathieu",
+      "departement": "Haute-Vienne",
+      "date": "2022-02-10"
     }
   ],
   "stats": {
     "genre": {
-      "total": 48,
+      "total": 56,
       "valeurs": [
         {
           "key": "M.",
-          "value": 29,
+          "value": 33,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 19,
+          "value": 23,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 48,
+      "total": 56,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 45,
+          "value": 52,
           "rang": 1
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Conseiller.e régional.e",
           "value": 2,
           "rang": 2
-        },
-        {
-          "key": "Conseiller.e départemental.e",
-          "value": 1,
-          "rang": 3
         }
       ]
     },
     "circonscription": {
-      "total": 47,
+      "total": 54,
       "valeurs": [
         {
           "key": "Ansignan",
@@ -451,6 +515,16 @@
         },
         {
           "key": "Bassillon-Vauzé",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Beaumont-Village",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Blennes",
           "value": 1,
           "rang": 1
         },
@@ -500,6 +574,11 @@
           "rang": 1
         },
         {
+          "key": "Coin-sur-Seille",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Condes",
           "value": 1,
           "rang": 1
@@ -545,6 +624,11 @@
           "rang": 1
         },
         {
+          "key": "Jumièges",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Lemps",
           "value": 1,
           "rang": 1
@@ -556,6 +640,11 @@
         },
         {
           "key": "Mareau-aux-Bois",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montbrun-Bocage",
           "value": 1,
           "rang": 1
         },
@@ -630,6 +719,11 @@
           "rang": 1
         },
         {
+          "key": "Saint-Mathieu",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Saint-Ouen-Marchefroy",
           "value": 1,
           "rang": 1
@@ -660,6 +754,11 @@
           "rang": 1
         },
         {
+          "key": "Voiscreville",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Île-De-France",
           "value": 1,
           "rang": 1
@@ -667,207 +766,227 @@
       ]
     },
     "departement": {
-      "total": 48,
+      "total": 56,
       "valeurs": [
+        {
+          "key": "Seine-et-Marne",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Ardennes",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Drôme",
           "value": 2,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Eure",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Eure-et-Loir",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Gironde",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Haut-Rhin",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Lot-et-Garonne",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
-          "key": "Seine-et-Marne",
+          "key": "Moselle",
           "value": 2,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Seine-Maritime",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Ain",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Aisne",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Aube",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Bouches-du-Rhône",
           "value": 1,
-          "rang": 10
+          "rang": 13
+        },
+        {
+          "key": "Charente-Maritime",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Côtes-d'Armor",
           "value": 1,
-          "rang": 10
-        },
-        {
-          "key": "Eure",
-          "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Haute-Corse",
           "value": 1,
-          "rang": 10
+          "rang": 13
+        },
+        {
+          "key": "Haute-Garonne",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 10
+          "rang": 13
+        },
+        {
+          "key": "Haute-Vienne",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 10
+          "rang": 13
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Loir-et-Cher",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 10
-        },
-        {
-          "key": "Moselle",
-          "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Orne",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Paris",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Pyrénées-Orientales",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 10
-        },
-        {
-          "key": "Seine-Maritime",
-          "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Vienne",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Vosges",
           "value": 1,
-          "rang": 10
+          "rang": 13
         },
         {
           "key": "Yonne",
           "value": 1,
-          "rang": 10
+          "rang": 13
         }
       ]
     },
     "date": {
-      "total": 48,
+      "total": 56,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -880,9 +999,14 @@
           "rang": 2
         },
         {
+          "key": "2022-02-10",
+          "value": 8,
+          "rang": 3
+        },
+        {
           "key": "2022-02-01",
           "value": 2,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

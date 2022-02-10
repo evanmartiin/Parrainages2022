@@ -1,16 +1,26 @@
 {
   "nom": "Lot",
-  "total": 35,
+  "total": 40,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
+      "value": 12,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 6,
       "rang": 2
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 3
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
@@ -23,18 +33,8 @@
       "rang": 3
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 3,
-      "rang": 5
-    },
-    {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
+      "value": 3,
       "rang": 7
     },
     {

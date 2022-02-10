@@ -1,36 +1,41 @@
 {
   "nom": "Corse-du-Sud",
-  "total": 17,
+  "total": 24,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 10,
+      "value": 11,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 3,
+      "value": 5,
       "rang": 2
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
-      "rang": 3
-    },
-    {
       "key": "JADOT Yannick",
-      "value": 1,
+      "value": 2,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 1,
+      "value": 2,
       "rang": 3
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 3
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 3
+      "rang": 6
     }
   ]
 }
