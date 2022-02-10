@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import stats from './utils/stats.js';
 
 export default function byCommunes(data) {
     const communes = [];
