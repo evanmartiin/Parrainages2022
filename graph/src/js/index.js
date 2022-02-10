@@ -1,7 +1,7 @@
-import "../styles/styles.scss";
+import "@styles/styles.scss";
 
-import byCandidates from "./byCandidates.js";
-import byDepartments from "./byDepartments.js";
+import byCandidates from "@js/byCandidates.js";
+import byDepartments from "@js/byDepartments.js";
 
 // document.getElementById("filterByRegions").addEventListener("click", byRegions);
 document.getElementById("filterByDepartments").addEventListener("click", byDepartments);
