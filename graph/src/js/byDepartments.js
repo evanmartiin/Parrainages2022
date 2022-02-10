@@ -1,4 +1,4 @@
-import { colors } from "./colors.js"
+import { colors } from "@js/colors.js"
 
 export default async function byDepartments () {
     let data = await fetch("https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-departments/all_departments.json")
