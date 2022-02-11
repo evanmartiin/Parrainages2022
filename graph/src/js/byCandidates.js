@@ -53,7 +53,7 @@ export default async function byCandidates(candidate) {
         day: "2-digit",
       });
       document.getElementsByClassName("title")[0].innerHTML = `Parrainages de ${candidate.nom} par départements au ${currentDate}`;
-      document.getElementsByClassName("subtitle")[0].innerHTML = `${candidate.rang}ème place</br>${candidate.votes_totaux} votes${candidate.votes_confirmes !== candidate.votes_totaux ? ` dont ${candidate.votes_confirmes} valables` : ''}</br>${candidate.valide ? "Qualifié.e" : "Pas encore qualifié.e"}`;
+      document.getElementsByClassName("subtitle")[0].innerHTML = `${candidate.rang}${candidate.rang > 1 ? "ème" : "ère"} place</br>${candidate.votes_totaux} parrainages${candidate.votes_confirmes !== candidate.votes_totaux ? ` dont ${candidate.votes_confirmes} valables` : ''}</br>${candidate.valide ? "Qualifié.e" : "Pas encore qualifié.e"}`;
 
       const rawDates = data.stats.date.valeurs
       rawDates.forEach(date => { date.key = Date.parse(date.key) })
@@ -75,6 +75,13 @@ export default async function byCandidates(candidate) {
           document.getElementsByClassName("time-graph")[0].style.display = "flex";
         document.getElementsByClassName("time-graph")[0].prepend(graph)
 
+        const tickFormats = []
+        dates.forEach(date => {
+          let dateObj = new Date(date.date);
+          tickFormats.push(('0' + dateObj.getDate()).slice(-2) + '/'
+          + ('0' + (dateObj.getMonth()+1)).slice(-2))
+        })
+
         // set the dimensions and margins of the graph
             var margin = {top: 10, right: 10, bottom: 20, left: 40},
                 width = 300 - margin.left - margin.right,
@@ -92,10 +99,10 @@ export default async function byCandidates(candidate) {
                 // Add X axis --> it is a date format
                 var x = d3.scaleTime()
                 .domain(d3.extent(dates, function(d) { return d.date; }))
-                .range([ 0, width ]).nice();
+                .range([ 0, width ]);
                 svg.append("g")
                 .attr("transform", "translate(0," + height + ")")
-                .call(d3.axisBottom(x));
+                .call(d3.axisBottom(x).ticks(dates.length).tickFormat((d,i) => tickFormats[i]));
 
                 // Add Y axis
                 var y = d3.scaleLinear()
