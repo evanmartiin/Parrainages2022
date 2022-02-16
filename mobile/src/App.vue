@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <!-- <Home/> -->
-    <CandidatePage/>
+    <!-- <CandidatePage/> -->
+    <!-- <GeneralStats/> -->
+    <About/>
     <Footer/>
   </div>
 </template>
@@ -10,13 +12,17 @@
 import Home from './pages/Home.vue'
 import CandidatePage from './pages/CandidatePage.vue'
 import Footer from './components/Footer.vue'
+import GeneralStats from './pages/GeneralStats.vue'
+import About from './pages/About.vue'
 
 export default {
   name: 'App',
   components: {
     Home,
     CandidatePage,
-    Footer
+    Footer,
+    GeneralStats,
+    About
   }
 }
 </script>

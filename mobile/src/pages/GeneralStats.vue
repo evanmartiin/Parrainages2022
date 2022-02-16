@@ -1,5 +1,5 @@
 <template>
-  <div class="candidate-page">
+  <div class="general-stats">
     <Header :needsBack="true"/>
     <Hero/>
     <Map/>
@@ -10,8 +10,8 @@
 
 <script>
 import Header from '../components/Header.vue'
-import Hero from '../components/candidate/Hero.vue'
-import Map from '../components/candidate/Map.vue'
+import Hero from '../components/stats/Hero.vue'
+import Map from '../components/stats/Map.vue'
 import Departments from '../components/candidate/Departments.vue'
 import Stats from '../components/candidate/Stats.vue'
 

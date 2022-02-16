@@ -2,8 +2,22 @@
   <div v-if="light" class="light-button">
     <img src="../assets/img/arrow.png" alt="">
   </div>
+  <div v-else-if="blue" class="button blue">
+    <button v-if="reverse" class="reverse">
+      <div><img src="../assets/img/arrow-blue.png" alt=""></div>
+      <p>{{ title }}</p>
+    </button>
+    <button v-else>
+      <p>{{ title }}</p>
+      <div><img src="../assets/img/arrow-blue.png" alt=""></div>
+    </button>
+  </div>
   <div v-else class="button">
-    <button>
+    <button v-if="reverse" class="reverse">
+      <div><img src="../assets/img/arrow.png" alt=""></div>
+      <p>{{ title }}</p>
+    </button>
+    <button v-else>
       <p>{{ title }}</p>
       <div><img src="../assets/img/arrow.png" alt=""></div>
     </button>
@@ -15,7 +29,9 @@ export default {
   name: 'Button',
   props: {
     title: String,
-    light: Boolean
+    light: Boolean,
+    reverse: Boolean,
+    blue: Boolean
   }
 }
 </script>
@@ -80,6 +96,10 @@ button div img {
   transform: rotateY(180deg);
 }
 
+button.reverse div img {
+  transform: rotateY(0deg);
+}
+
 button:active, button:focus {
   background-color: #E1000F;
   color: #ffffff;
@@ -97,5 +117,23 @@ button:active, button:focus {
 .light-button img {
   width: 20px;
   transform: rotateY(180deg);
+}
+
+.button.blue button, .button.blue:before, .button.blue:after {
+  border-color: #ffffff;
+}
+
+.blue button {
+  background-color: #000091;
+  color: #ffffff;
+}
+
+.blue div {
+  background-color: #ffffff;
+}
+
+.blue button:active, .blue button:focus {
+  background-color: #ffffff;
+  color: #000091;
 }
 </style>
