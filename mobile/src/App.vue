@@ -75,4 +75,8 @@ p {
   font-size: 14px;
   margin: 0;
 }
+
+link {
+  display: block;
+}
 </style>

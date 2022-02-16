@@ -4,7 +4,7 @@
     <div class="content">
       <h2>{{ rank }}. {{ name }}</h2>
       <p>{{ votes }} parrainages</p>
-      <Button title="Voir en détail"/>
+      <v-link href="/candidate-page"><Button title="Voir en détail"/></v-link>
     </div>
   </div>
   <div v-else class="candidate no-podium">
@@ -13,12 +13,13 @@
       <h2>{{ rank }}. {{ name }}</h2>
       <p>{{ votes }} parrainages</p>
     </div>
-    <Button :light="true"/>
+    <v-link href="/candidate-page"><Button :light="true"/></v-link>
   </div>
 </template>
 
 <script>
 import Button from './Button.vue'
+import VLink from './VLink.vue'
 
 export default {
   name: 'Candidate',
@@ -29,7 +30,8 @@ export default {
     podium: Boolean
   },
   components: {
-    Button
+    Button,
+    VLink
   }
 }
 </script>

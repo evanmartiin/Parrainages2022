@@ -17,6 +17,7 @@ export default {
   color: #ffffff;
   box-sizing: border-box;
   padding: 35px;
+  text-align: center;
 }
 
 a {

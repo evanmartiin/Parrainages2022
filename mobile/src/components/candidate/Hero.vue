@@ -101,5 +101,6 @@ export default {
   font-weight: bold;
   padding: 2px 10px;
   margin-left: 15px;
+  font-family: "Marianne";
 }
 </style>

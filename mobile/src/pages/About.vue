@@ -7,16 +7,19 @@
         <br><br>Gouiziek beg war wechoù, kanañ. Ac'hanoc'h poazhañ tro tra, koant. C’hoar ankouna’haat hi tro, c’houzoug. Houarn wechoù liorzh holen, prizius. Da hemañ kreisteiz mevel, rumm. Douarnenez warnoc'h Kemper skuizh, stourm. Mouezh ahont Skos amañ, hemañ. Louet kaol hi c’hroc’hen, eo. Pod dimeziñ bro dienn, grib. Veaj out gouelañ kazetenn, bloavezh.
         <br><br>Evezh eoul C’hall korn, treuziñ. Penn ni hervez  anezho, ha. Druez trouz heol biz, noazh. War asied doujañs bern, ael.</p>
     </div>
+    <Footer/>
   </div>
 </template>
 
 <script>
 import Header from '../components/Header.vue'
+import Footer from '../components/Footer.vue'
 
 export default {
   name: 'About',
   components: {
-    Header
+    Header,
+    Footer
   }
 }
 </script>

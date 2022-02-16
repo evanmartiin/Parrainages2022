@@ -5,18 +5,20 @@
       <h1>6225 votes,</h1>
       <p>il reste 21 jours avant la clôture.</p>
     </div>
-    <Button id="first" title="C'est quoi ?"/>
-    <Button title="Statistiques générales"/>
+    <v-link href="/about"><Button id="first" title="C'est quoi ?"/></v-link>
+    <v-link href="/general-stats"><Button title="Statistiques générales"/></v-link>
   </div>
 </template>
 
 <script>
 import Button from '../Button.vue'
+import VLink from '../VLink.vue'
 
 export default {
   name: 'Hero',
   components: {
-    Button
+    Button,
+    VLink
   }
 }
 </script>

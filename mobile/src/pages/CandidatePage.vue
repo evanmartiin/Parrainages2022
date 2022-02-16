@@ -5,6 +5,7 @@
     <Map/>
     <Departments/>
     <Stats/>
+    <Footer/>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Hero from '../components/candidate/Hero.vue'
 import Map from '../components/candidate/Map.vue'
 import Departments from '../components/candidate/Departments.vue'
 import Stats from '../components/candidate/Stats.vue'
+import Footer from '../components/Footer.vue'
 
 export default {
   name: 'CandidatePage',
@@ -22,7 +24,8 @@ export default {
     Hero,
     Map,
     Departments,
-    Stats
+    Stats,
+    Footer
   }
 }
 </script>

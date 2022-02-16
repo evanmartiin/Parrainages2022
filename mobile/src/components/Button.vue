@@ -1,30 +1,31 @@
 <template>
-  <div v-if="light" class="light-button">
-    <img src="../assets/img/arrow.png" alt="">
-  </div>
-  <div v-else-if="blue" class="button blue">
-    <button v-if="reverse" class="reverse">
-      <div><img src="../assets/img/arrow-blue.png" alt=""></div>
-      <p>{{ title }}</p>
-    </button>
-    <button v-else>
-      <p>{{ title }}</p>
-      <div><img src="../assets/img/arrow-blue.png" alt=""></div>
-    </button>
-  </div>
-  <div v-else class="button">
-    <button v-if="reverse" class="reverse">
-      <div><img src="../assets/img/arrow.png" alt=""></div>
-      <p>{{ title }}</p>
-    </button>
-    <button v-else>
-      <p>{{ title }}</p>
-      <div><img src="../assets/img/arrow.png" alt=""></div>
-    </button>
-  </div>
+    <div v-if="light" class="light-button">
+      <img src="../assets/img/arrow.png" alt="">
+    </div>
+    <div v-else-if="blue" class="button blue">
+      <button v-if="reverse" class="reverse">
+        <div><img src="../assets/img/arrow-blue.png" alt=""></div>
+        <p>{{ title }}</p>
+      </button>
+      <button v-else>
+        <p>{{ title }}</p>
+        <div><img src="../assets/img/arrow-blue.png" alt=""></div>
+      </button>
+    </div>
+    <div v-else class="button">
+      <button v-if="reverse" class="reverse">
+        <div><img src="../assets/img/arrow.png" alt=""></div>
+        <p>{{ title }}</p>
+      </button>
+      <button v-else>
+        <p>{{ title }}</p>
+        <div><img src="../assets/img/arrow.png" alt=""></div>
+      </button>
+    </div>
 </template>
 
 <script>
+
 export default {
   name: 'Button',
   props: {
