@@ -5,25 +5,23 @@
       <h1>6225 votes,</h1>
       <p>il reste 21 jours avant la clôture.</p>
     </div>
-    <v-link href="/about"><Button id="first" title="C'est quoi ?"/></v-link>
-    <v-link href="/general-stats"><Button title="Statistiques générales"/></v-link>
+    <router-link to="/about"><Button id="first" title="C'est quoi ?"/></router-link>
+    <router-link to="/general"><Button title="Statistiques générales"/></router-link>
   </div>
 </template>
 
 <script>
-import Button from '../Button.vue'
-import VLink from '../VLink.vue'
+import Button from '@/components/Button.vue'
 
 export default {
   name: 'Hero',
   components: {
-    Button,
-    VLink
+    Button
   }
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .hero {
   background-color: #000091;
   color: #ffffff;

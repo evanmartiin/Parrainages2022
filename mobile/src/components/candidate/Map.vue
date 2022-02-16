@@ -6,7 +6,7 @@
     </div>
     <div class="carte">
       <p>Nombre de parrainages au 15 février</p>
-      <img src="../../assets/img/france-dep.png" alt="">
+      <img src="@/assets/img/france-dep.png" alt="">
     </div>
     <div class="legend">
       <div class="legendEl">
@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import Button from '../Button.vue'
+import Button from '@/components/Button.vue'
 
 export default {
   name: 'Map',
@@ -36,7 +36,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .map {
   width: 100%;
   background-color: #000091;

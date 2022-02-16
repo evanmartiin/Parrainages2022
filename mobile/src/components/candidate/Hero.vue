@@ -1,7 +1,7 @@
 <template>
   <div class="hero">
     <div class="details">
-      <img src="../../assets/img/candidates/PÉCRESSE.png" alt="">
+      <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
       <div class="text">
         <h1>Emmanuel MACRON</h1>
         <p><a href="">La République en Marche</a></p>
@@ -9,11 +9,11 @@
     </div>
     <div class="stats">
       <div class="rank">
-        <img src="../../assets/img/rank.png" alt="">
+        <img src="@/assets/img/rank.png" alt="">
         <p>2ème place</p>
       </div>
       <div class="votes">
-        <img src="../../assets/img/votes.png" alt="">
+        <img src="@/assets/img/votes.png" alt="">
         <p>1050 parrainages <br><span>dont 1023 valables</span></p>
         <div class="validated">Qualifié</div>
       </div>
@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .hero {
   background-color: #ffffff;
   box-sizing: border-box;

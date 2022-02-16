@@ -14,7 +14,7 @@
     </div>
 
     <div class="fonction">
-      <img src="../../assets/img/fonction-graph.png" alt="">
+      <img src="@/assets/img/fonction-graph.png" alt="">
       <div class="caption">
         <div class="el">
           <div style="background-color: #C9191E"></div>
@@ -46,17 +46,12 @@
 </template>
 
 <script>
-import Button from '../Button.vue'
-
 export default {
-  name: 'Stats',
-  components: {
-    Button
-  }
+  name: 'Stats'
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .stats {
   width: 100%;
   background-color: #000091;

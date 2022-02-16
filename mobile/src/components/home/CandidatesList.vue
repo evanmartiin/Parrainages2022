@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import Candidate from './Candidate.vue'
+import Candidate from '@/components/home/Candidate.vue'
 
 export default {
   components: { Candidate },
@@ -19,7 +19,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 h1 {
   margin-bottom: 35px;
 }

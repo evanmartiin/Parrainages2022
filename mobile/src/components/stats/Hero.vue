@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import Button from '../Button.vue'
+import Button from '@/components/Button.vue'
 
 export default {
   name: 'Hero',
@@ -20,7 +20,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .hero {
   background-color: #ffffff;
   box-sizing: border-box;

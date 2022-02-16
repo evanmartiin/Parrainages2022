@@ -1,25 +1,24 @@
 <template>
   <div v-if="podium" class="candidate podium">
-    <img src="../assets/img/candidates/PÉCRESSE.png" alt="">
+    <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
     <div class="content">
       <h2>{{ rank }}. {{ name }}</h2>
       <p>{{ votes }} parrainages</p>
-      <v-link href="/candidate-page"><Button title="Voir en détail"/></v-link>
+      <router-link to="/candidate"><Button title="Voir en détail"/></router-link>
     </div>
   </div>
   <div v-else class="candidate no-podium">
-    <img src="../assets/img/candidates/PÉCRESSE.png" alt="">
+    <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
     <div class="content">
       <h2>{{ rank }}. {{ name }}</h2>
       <p>{{ votes }} parrainages</p>
     </div>
-    <v-link href="/candidate-page"><Button :light="true"/></v-link>
+    <router-link to="/candidate"><Button :light="true"/></router-link>
   </div>
 </template>
 
 <script>
-import Button from './Button.vue'
-import VLink from './VLink.vue'
+import Button from '@/components/Button.vue'
 
 export default {
   name: 'Candidate',
@@ -30,13 +29,12 @@ export default {
     podium: Boolean
   },
   components: {
-    Button,
-    VLink
+    Button
   }
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .candidate.podium {
   display: grid;
   grid-template-columns: 70px 15px 1fr;

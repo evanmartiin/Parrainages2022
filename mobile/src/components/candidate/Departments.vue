@@ -4,21 +4,21 @@
       <h1>Top départements</h1>
       <div class="podium">
         <div class="el">
-          <img src="../../assets/img/first-place.png" alt="">
+          <img src="@/assets/img/first-place.png" alt="">
           <div class="content">
             <h2>Ardèche</h2>
             <p>41 parrainages</p>
           </div>
         </div>
         <div class="el">
-          <img src="../../assets/img/second-place.png" alt="">
+          <img src="@/assets/img/second-place.png" alt="">
           <div class="content">
             <h2>Territoire de Belfort</h2>
             <p>32 parrainages</p>
           </div>
         </div>
         <div class="el">
-          <img src="../../assets/img/third-place.png" alt="">
+          <img src="@/assets/img/third-place.png" alt="">
           <div class="content">
             <h2>Yvelines</h2>
             <p>26 parrainages</p>
@@ -30,13 +30,13 @@
 
     <div class="line-graph">
       <p>Évolution du nombre de parrainages</p>
-      <img src="../../assets/img/line-graph.png" alt="">
+      <img src="@/assets/img/line-graph.png" alt="">
     </div>
   </div>
 </template>
 
 <script>
-import Button from '../Button.vue'
+import Button from '@/components/Button.vue'
 
 export default {
   name: 'Departments',
@@ -46,7 +46,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .departments {
   background-color: #ffffff;
   box-sizing: border-box;

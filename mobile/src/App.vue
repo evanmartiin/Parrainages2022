@@ -1,33 +1,22 @@
 <template>
-  <div id="app">
-    <!-- <Home/> -->
-    <!-- <CandidatePage/> -->
-    <!-- <GeneralStats/> -->
-    <About/>
+  <div id="container">
+    <router-view/>
     <Footer/>
   </div>
 </template>
 
 <script>
-import Home from './pages/Home.vue'
-import CandidatePage from './pages/CandidatePage.vue'
-import Footer from './components/Footer.vue'
-import GeneralStats from './pages/GeneralStats.vue'
-import About from './pages/About.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    Home,
-    CandidatePage,
-    Footer,
-    GeneralStats,
-    About
+    Footer
   }
 }
 </script>
 
-<style>
+<style lang="scss">
 @font-face {
   font-family: "Marianne";
   src: url(./assets/fonts/Marianne-Regular.otf) format("opentype");
@@ -48,14 +37,6 @@ body {
   background-color: #000091;
 }
 
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
 h1 {
   font-family: "Marianne";
   font-weight: bold;
@@ -74,9 +55,5 @@ p {
   font-family: "Marianne";
   font-size: 14px;
   margin: 0;
-}
-
-link {
-  display: block;
 }
 </style>
