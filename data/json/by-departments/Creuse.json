@@ -1,6 +1,6 @@
 {
   "nom": "Creuse",
-  "total": 30,
+  "total": 40,
   "votes": [
     {
       "key": "HIDALGO Anne",
@@ -9,68 +9,73 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
+      "value": 6,
+      "rang": 1
+    },
+    {
+      "key": "MACRON Emmanuel",
       "value": 5,
-      "rang": 2
+      "rang": 3
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 4,
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 3
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 3,
-      "rang": 3
+      "rang": 5
     },
     {
       "key": "LASSALLE Jean",
-      "value": 2,
-      "rang": 5
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 2,
-      "rang": 5
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 2,
+      "value": 3,
       "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "JADOT Yannick",
       "value": 1,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 8
+      "rang": 11
     }
   ]
 }

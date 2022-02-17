@@ -1,31 +1,41 @@
 {
   "nom": "Aveyron",
-  "total": 41,
+  "total": 54,
   "votes": [
     {
-      "key": "LASSALLE Jean",
-      "value": 11,
+      "key": "PÉCRESSE Valérie",
+      "value": 13,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "key": "LASSALLE Jean",
+      "value": 11,
       "rang": 2
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 5,
+      "key": "ASSELINEAU François",
+      "value": 6,
       "rang": 3
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 4,
-      "rang": 4
+      "key": "MACRON Emmanuel",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "POUTOU Philippe",
-      "value": 4,
-      "rang": 4
+      "value": 5,
+      "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
@@ -33,24 +43,24 @@
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 2,
-      "rang": 7
-    },
-    {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 8
+      "rang": 9
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

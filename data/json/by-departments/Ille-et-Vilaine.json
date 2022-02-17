@@ -1,29 +1,34 @@
 {
   "nom": "Ille-et-Vilaine",
-  "total": 48,
+  "total": 67,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 13,
+      "value": 20,
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 12,
+      "key": "JADOT Yannick",
+      "value": 13,
       "rang": 2
     },
     {
-      "key": "JADOT Yannick",
-      "value": 9,
-      "rang": 3
+      "key": "MACRON Emmanuel",
+      "value": 13,
+      "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 6,
+      "value": 9,
       "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 2,
       "rang": 5
     },
@@ -35,22 +40,32 @@
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 8
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 8
     }
   ]
 }

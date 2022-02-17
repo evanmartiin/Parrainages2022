@@ -1,26 +1,26 @@
 {
   "nom": "Bouches-du-Rhône",
-  "total": 72,
+  "total": 85,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 24,
+      "value": 27,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 19,
+      "value": 26,
       "rang": 2
     },
     {
       "key": "LE PEN Marine",
-      "value": 11,
+      "value": 12,
       "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 11,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "JADOT Yannick",
@@ -28,19 +28,24 @@
       "rang": 5
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 6
+    },
+    {
       "key": "ZEMMOUR Éric",
       "value": 2,
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 7
+      "rang": 8
     }
   ]
 }

@@ -1,41 +1,41 @@
 {
   "nom": "Ardennes",
-  "total": 80,
+  "total": 105,
   "votes": [
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 15,
+      "key": "PÉCRESSE Valérie",
+      "value": 23,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 15,
-      "rang": 1
+      "value": 18,
+      "rang": 2
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 13,
+      "key": "ARTHAUD Nathalie",
+      "value": 15,
       "rang": 3
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 8,
+      "rang": 4
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 7,
+      "rang": 5
     },
     {
       "key": "ASSELINEAU François",
       "value": 6,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 5,
-      "rang": 5
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 5,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 5
+      "value": 6,
+      "rang": 6
     },
     {
       "key": "KAZIB Anasse",
@@ -44,43 +44,48 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 2,
+      "value": 3,
       "rang": 9
     },
     {
-      "key": "KUZMANOVIC Georges",
-      "value": 2,
-      "rang": 9
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 2,
-      "rang": 9
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 2,
+      "key": "LE PEN Marine",
+      "value": 3,
       "rang": 9
     },
     {
       "key": "EGGER Clara",
-      "value": 1,
-      "rang": 13
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 13
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 13
+      "rang": 16
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 13
+      "rang": 16
     }
   ]
 }

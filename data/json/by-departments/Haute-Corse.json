@@ -1,10 +1,10 @@
 {
   "nom": "Haute-Corse",
-  "total": 45,
+  "total": 49,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 15,
+      "value": 17,
       "rang": 1
     },
     {
@@ -28,14 +28,14 @@
       "rang": 5
     },
     {
-      "key": "ROUSSEL Fabien",
+      "key": "MACRON Emmanuel",
       "value": 4,
       "rang": 5
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 3,
-      "rang": 7
+      "key": "ROUSSEL Fabien",
+      "value": 4,
+      "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
@@ -44,6 +44,11 @@
     },
     {
       "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
       "value": 1,
       "rang": 9
     },

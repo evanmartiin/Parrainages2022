@@ -1,8 +1,8 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 9,
-  "votes_totaux": 9,
-  "rang": 19,
+  "votes_confirmes": 12,
+  "votes_totaux": 12,
+  "rang": 20,
   "valide": false,
   "parrainages": [
     {
@@ -76,39 +76,68 @@
       "circonscription": "Abaucourt-Hautecourt",
       "departement": "Meuse",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BESSIERE Martine",
+      "fonction": "Maire",
+      "circonscription": "Curières",
+      "departement": "Aveyron",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAVIGNE Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Campagne",
+      "departement": "Oise",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROHMER Clément",
+      "fonction": "Maire",
+      "circonscription": "Bootzheim",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "M.",
-          "value": 8,
+          "value": 10,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 9,
+          "value": 12,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Abaucourt-Hautecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Bootzheim",
           "value": 1,
           "rang": 1
         },
@@ -118,7 +147,17 @@
           "rang": 1
         },
         {
+          "key": "Campagne",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Cilly",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Curières",
           "value": 1,
           "rang": 1
         },
@@ -155,7 +194,7 @@
       ]
     },
     "departement": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Aisne",
@@ -166,6 +205,16 @@
           "key": "Eure",
           "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Aveyron",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 3
         },
         {
           "key": "Haute-Garonne",
@@ -188,6 +237,11 @@
           "rang": 3
         },
         {
+          "key": "Oise",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Orne",
           "value": 1,
           "rang": 3
@@ -195,7 +249,7 @@
       ]
     },
     "date": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -203,9 +257,14 @@
           "rang": 1
         },
         {
+          "key": "2022-02-15",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 2
+          "rang": 3
         }
       ]
     }

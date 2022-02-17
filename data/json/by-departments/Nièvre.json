@@ -1,71 +1,76 @@
 {
   "nom": "Nièvre",
-  "total": 26,
+  "total": 44,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 5,
+      "value": 7,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 4,
+      "value": 5,
       "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 4,
+      "value": 5,
       "rang": 2
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 2,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 4,
       "rang": 4
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 4,
+      "rang": 4
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 4,
+      "rang": 4
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 7
     },
     {
       "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 4
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
+      "value": 3,
       "rang": 7
     },
     {
       "key": "POUTOU Philippe",
-      "value": 1,
+      "value": 3,
       "rang": 7
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 11
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 7
+      "rang": 11
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 7
+      "rang": 11
     }
   ]
 }

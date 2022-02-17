@@ -1,15 +1,15 @@
 {
   "nom": "Finistère",
-  "total": 54,
+  "total": 68,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 18,
+      "value": 23,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 12,
+      "value": 16,
       "rang": 2
     },
     {
@@ -28,19 +28,29 @@
       "rang": 5
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 2,
+      "rang": 7
+    },
+    {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 6
+      "rang": 7
     }
   ]
 }

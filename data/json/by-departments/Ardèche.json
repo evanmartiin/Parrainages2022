@@ -1,15 +1,15 @@
 {
   "nom": "Ardèche",
-  "total": 37,
+  "total": 57,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 14,
       "rang": 1
     },
     {
       "key": "HIDALGO Anne",
-      "value": 8,
+      "value": 12,
       "rang": 2
     },
     {
@@ -18,59 +18,74 @@
       "rang": 3
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 4,
+      "rang": 5
+    },
+    {
       "key": "MACRON Emmanuel",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "BARNIER Michel",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
       "rang": 6
     },
     {
       "key": "LASSALLE Jean",
-      "value": 1,
-      "rang": 6
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 6
+      "value": 2,
+      "rang": 7
     },
     {
-      "key": "ROUSSEL Fabien",
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 6
+      "rang": 10
+    },
+    {
+      "key": "BARNIER Michel",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 10
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 6
+      "rang": 10
+    },
+    {
+      "key": "WENDLINGER Stéphane",
+      "value": 1,
+      "rang": 10
     }
   ]
 }

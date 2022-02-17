@@ -1,7 +1,7 @@
 {
   "nom": "SMATI  Rafik",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
+  "votes_confirmes": 5,
+  "votes_totaux": 5,
   "rang": 23,
   "valide": false,
   "parrainages": [
@@ -20,32 +20,76 @@
       "circonscription": "Publier",
       "departement": "Haute-Savoie",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "COLLINET Daniel",
+      "fonction": "Maire",
+      "circonscription": "Bizeneuille",
+      "departement": "Allier",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "ENCHERY Lyderic",
+      "fonction": "Maire",
+      "circonscription": "Culey",
+      "departement": "Meuse",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "POTIER-KERCRET Brigitte",
+      "fonction": "Maire",
+      "circonscription": "Chalaines",
+      "departement": "Meuse",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 4,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 2,
+          "value": 5,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
+        {
+          "key": "Bizeneuille",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chalaines",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Culey",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Fessenheim",
           "value": 1,
@@ -59,27 +103,42 @@
       ]
     },
     "departement": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
+        {
+          "key": "Meuse",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Allier",
+          "value": 1,
+          "rang": 2
+        },
         {
           "key": "Haut-Rhin",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Haute-Savoie",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
+        {
+          "key": "2022-02-15",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "2022-02-08",
           "value": 2,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

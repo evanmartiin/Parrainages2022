@@ -1,34 +1,39 @@
 {
   "nom": "Bas-Rhin",
-  "total": 68,
+  "total": 90,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 20,
+      "value": 29,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 16,
+      "value": 18,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 10,
+      "value": 12,
       "rang": 3
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 6,
+      "rang": 4
     },
     {
       "key": "LE PEN Marine",
       "value": 5,
-      "rang": 4
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "HIDALGO Anne",
       "value": 3,
       "rang": 6
     },
@@ -38,29 +43,39 @@
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 2,
-      "rang": 8
-    },
-    {
-      "key": "BEKAERT Corinne",
-      "value": 1,
-      "rang": 9
+      "key": "ROUSSEL Fabien",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 9
+      "value": 2,
+      "rang": 10
     },
     {
       "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 9
+      "rang": 12
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 12
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 9
+      "rang": 12
     }
   ]
 }

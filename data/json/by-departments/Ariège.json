@@ -1,61 +1,71 @@
 {
   "nom": "Ariège",
-  "total": 54,
+  "total": 78,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 26,
+      "value": 35,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 7,
+      "value": 10,
       "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
-      "rang": 2
+      "value": 8,
+      "rang": 3
     },
     {
       "key": "POUTOU Philippe",
-      "value": 4,
+      "value": 6,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 4,
+      "value": 6,
       "rang": 4
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 6
-    },
-    {
       "key": "KAZIB Anasse",
-      "value": 1,
+      "value": 3,
       "rang": 6
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 1,
+      "value": 3,
       "rang": 6
     },
     {
       "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 8
+    },
+    {
+      "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 6
+      "rang": 9
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 1,
+      "rang": 9
     }
   ]
 }

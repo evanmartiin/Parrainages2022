@@ -1,10 +1,10 @@
 {
   "nom": "Territoire de Belfort",
-  "total": 22,
+  "total": 28,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 16,
+      "value": 20,
       "rang": 1
     },
     {
@@ -13,19 +13,24 @@
       "rang": 2
     },
     {
-      "key": "LE PEN Marine",
-      "value": 1,
+      "key": "POUTOU Philippe",
+      "value": 2,
       "rang": 3
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 3
+      "rang": 4
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 3
+      "rang": 4
     }
   ]
 }

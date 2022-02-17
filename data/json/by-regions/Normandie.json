@@ -1,86 +1,86 @@
 {
   "nom": "Normandie",
-  "total": 424,
+  "total": 545,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 96,
+      "value": 110,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 69,
+      "value": 108,
       "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 65,
+      "value": 81,
       "rang": 3
     },
     {
       "key": "HIDALGO Anne",
-      "value": 40,
+      "value": 49,
       "rang": 4
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 29,
+      "value": 34,
       "rang": 5
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 15,
-      "rang": 6
-    },
-    {
       "key": "ZEMMOUR Éric",
-      "value": 15,
+      "value": 22,
       "rang": 6
     },
     {
       "key": "LE PEN Marine",
-      "value": 14,
-      "rang": 8
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 14,
-      "rang": 8
+      "value": 20,
+      "rang": 7
     },
     {
       "key": "JADOT Yannick",
-      "value": 13,
-      "rang": 10
+      "value": 19,
+      "rang": 8
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 17,
+      "rang": 9
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 17,
+      "rang": 9
     },
     {
       "key": "LASSALLE Jean",
-      "value": 12,
+      "value": 14,
       "rang": 11
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 10,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 13,
       "rang": 12
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "key": "KAZIB Anasse",
+      "value": 11,
       "rang": 13
     },
     {
       "key": "POUTOU Philippe",
-      "value": 7,
-      "rang": 13
+      "value": 8,
+      "rang": 14
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 6,
+      "rang": 15
     },
     {
       "key": "KOENIG Gaspard",
       "value": 5,
-      "rang": 15
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 5,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "MIGUET Nicolas",
@@ -88,24 +88,34 @@
       "rang": 17
     },
     {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 18
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 19
+    },
+    {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 18
+      "rang": 19
+    },
+    {
+      "key": "MEURICE Guillaume",
+      "value": 1,
+      "rang": 19
     },
     {
       "key": "PHILIPPOT Florian",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "SCHOVANEC Josef",
       "value": 1,
-      "rang": 18
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 18
+      "rang": 19
     }
   ]
 }

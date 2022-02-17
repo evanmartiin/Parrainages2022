@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 27,
-  "votes_totaux": 27,
+  "votes_confirmes": 35,
+  "votes_totaux": 35,
   "rang": 17,
   "valide": false,
   "parrainages": [
@@ -220,15 +220,79 @@
       "circonscription": "Montholon",
       "departement": "Yonne",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUVIER Georges",
+      "fonction": "Maire",
+      "circonscription": "Rossillon",
+      "departement": "Ain",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERNARD Jean",
+      "fonction": "Maire",
+      "circonscription": "Courry",
+      "departement": "Gard",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEDAR Jean-Michel",
+      "fonction": "Maire",
+      "circonscription": "Néret",
+      "departement": "Indre",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "PILLOUD Claude",
+      "fonction": "Maire",
+      "circonscription": "La Chaux-du-Dombief",
+      "departement": "Jura",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "HORNSPERGER Sébastien",
+      "fonction": "Maire",
+      "circonscription": "Troisfontaines",
+      "departement": "Moselle",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "WEINLING Bernard",
+      "fonction": "Maire",
+      "circonscription": "Romelfing",
+      "departement": "Moselle",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "ZINS Yves",
+      "fonction": "Maire",
+      "circonscription": "Sarreinsming",
+      "departement": "Moselle",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "TRAXEL Jean-Paul",
+      "fonction": "Maire",
+      "circonscription": "Eschwiller",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "M.",
-          "value": 26,
+          "value": 34,
           "rang": 1
         },
         {
@@ -239,11 +303,11 @@
       ]
     },
     "fonction": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 25,
+          "value": 33,
           "rang": 1
         },
         {
@@ -254,7 +318,7 @@
       ]
     },
     "circonscription": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "Beaulieu",
@@ -287,7 +351,17 @@
           "rang": 1
         },
         {
+          "key": "Courry",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Drulingen",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Eschwiller",
           "value": 1,
           "rang": 1
         },
@@ -298,6 +372,11 @@
         },
         {
           "key": "Geville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Chaux-du-Dombief",
           "value": 1,
           "rang": 1
         },
@@ -337,12 +416,37 @@
           "rang": 1
         },
         {
+          "key": "Néret",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Pleuvezain",
           "value": 1,
           "rang": 1
         },
         {
+          "key": "Romelfing",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Rossillon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Sarreinsming",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Tramecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Troisfontaines",
           "value": 1,
           "rang": 1
         },
@@ -394,8 +498,13 @@
       ]
     },
     "departement": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
+        {
+          "key": "Moselle",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Pas-de-Calais",
           "value": 3,
@@ -404,92 +513,112 @@
         {
           "key": "Ardennes",
           "value": 2,
-          "rang": 2
+          "rang": 3
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 2,
+          "rang": 3
         },
         {
           "key": "Dordogne",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Marne",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Somme",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Yonne",
           "value": 2,
-          "rang": 2
+          "rang": 3
+        },
+        {
+          "key": "Ain",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 9
-        },
-        {
-          "key": "Bas-Rhin",
-          "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Calvados",
           "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 9
+          "rang": 11
+        },
+        {
+          "key": "Gard",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 9
+          "rang": 11
+        },
+        {
+          "key": "Indre",
+          "value": 1,
+          "rang": 11
+        },
+        {
+          "key": "Jura",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 9
+          "rang": 11
         },
         {
           "key": "Saône-et-Loire",
           "value": 1,
-          "rang": 9
+          "rang": 11
         }
       ]
     },
     "date": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -502,14 +631,19 @@
           "rang": 2
         },
         {
+          "key": "2022-02-15",
+          "value": 8,
+          "rang": 2
+        },
+        {
           "key": "2022-02-10",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

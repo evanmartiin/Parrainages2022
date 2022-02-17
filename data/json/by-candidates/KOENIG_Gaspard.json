@@ -1,8 +1,8 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 27,
-  "votes_totaux": 27,
-  "rang": 17,
+  "votes_confirmes": 28,
+  "votes_totaux": 28,
+  "rang": 18,
   "valide": false,
   "parrainages": [
     {
@@ -220,15 +220,23 @@
       "circonscription": "",
       "departement": "Paris",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "LECLERC Gaétan",
+      "fonction": "Maire",
+      "circonscription": "Pouylebon",
+      "departement": "Gers",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 27,
+      "total": 28,
       "valeurs": [
         {
           "key": "M.",
-          "value": 26,
+          "value": 27,
           "rang": 1
         },
         {
@@ -239,11 +247,11 @@
       ]
     },
     "fonction": {
-      "total": 27,
+      "total": 28,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 25,
+          "value": 26,
           "rang": 1
         },
         {
@@ -259,7 +267,7 @@
       ]
     },
     "circonscription": {
-      "total": 26,
+      "total": 27,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -367,6 +375,11 @@
           "rang": 2
         },
         {
+          "key": "Pouylebon",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Queige",
           "value": 1,
           "rang": 2
@@ -389,7 +402,7 @@
       ]
     },
     "departement": {
-      "total": 27,
+      "total": 28,
       "valeurs": [
         {
           "key": "Orne",
@@ -457,6 +470,11 @@
           "rang": 6
         },
         {
+          "key": "Gers",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Haute-Savoie",
           "value": 1,
           "rang": 6
@@ -499,7 +517,7 @@
       ]
     },
     "date": {
-      "total": 27,
+      "total": 28,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -515,6 +533,11 @@
           "key": "2022-02-03",
           "value": 2,
           "rang": 3
+        },
+        {
+          "key": "2022-02-15",
+          "value": 1,
+          "rang": 4
         }
       ]
     }

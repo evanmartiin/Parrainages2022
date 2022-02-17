@@ -1,70 +1,70 @@
 {
   "nom": "Centre-Val de Loire",
-  "total": 225,
+  "total": 303,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 51,
+      "value": 74,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 42,
+      "value": 51,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 21,
+      "value": 27,
       "rang": 3
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 14,
+      "key": "LASSALLE Jean",
+      "value": 21,
+      "rang": 4
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 21,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
-      "value": 14,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 13,
+      "value": 18,
       "rang": 6
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 13,
-      "rang": 6
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 11,
-      "rang": 8
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 11,
-      "rang": 8
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 17,
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 10,
+      "value": 16,
+      "rang": 8
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 14,
+      "rang": 9
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 13,
       "rang": 10
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "value": 8,
       "rang": 11
     },
     {
       "key": "THOUY Hélène",
-      "value": 6,
+      "value": 7,
       "rang": 12
     },
     {
       "key": "POUTOU Philippe",
-      "value": 5,
+      "value": 6,
       "rang": 13
     },
     {
@@ -73,29 +73,34 @@
       "rang": 14
     },
     {
+      "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 14
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 14
+    },
+    {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 15
+      "rang": 17
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 15
+      "rang": 17
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 15
-    },
-    {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
-      "rang": 15
+      "rang": 17
     },
     {
       "key": "VIEIRA Gildas",
       "value": 1,
-      "rang": 15
+      "rang": 17
     }
   ]
 }

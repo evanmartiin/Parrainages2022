@@ -1,15 +1,15 @@
 {
   "nom": "Vendée",
-  "total": 19,
+  "total": 30,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 8,
+      "key": "PÉCRESSE Valérie",
+      "value": 12,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 6,
+      "key": "MACRON Emmanuel",
+      "value": 9,
       "rang": 2
     },
     {
@@ -23,9 +23,24 @@
       "rang": 3
     },
     {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 3
+    },
+    {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 5
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 6
     }
   ]
 }

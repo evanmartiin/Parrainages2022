@@ -1,81 +1,86 @@
 {
   "nom": "Gers",
-  "total": 70,
+  "total": 93,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 16,
+      "value": 23,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 14,
+      "value": 16,
       "rang": 2
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 7,
+      "key": "PÉCRESSE Valérie",
+      "value": 9,
       "rang": 3
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 6,
+      "key": "KAZIB Anasse",
+      "value": 8,
       "rang": 4
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 5,
+      "key": "ZEMMOUR Éric",
+      "value": 7,
       "rang": 5
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 5,
-      "rang": 5
+      "key": "MACRON Emmanuel",
+      "value": 6,
+      "rang": 6
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 6,
+      "rang": 6
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 4,
+      "rang": 8
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
-      "rang": 7
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 3,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 3,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "JADOT Yannick",
       "value": 2,
-      "rang": 10
+      "rang": 11
     },
     {
-      "key": "ARTHAUD Nathalie",
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 12
+      "rang": 13
     }
   ]
 }

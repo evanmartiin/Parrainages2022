@@ -1,15 +1,15 @@
 {
   "nom": "Parlement européen",
-  "total": 39,
+  "total": 43,
   "votes": [
     {
       "key": "LE PEN Marine",
-      "value": 14,
+      "value": 16,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
+      "value": 11,
       "rang": 2
     },
     {
@@ -23,19 +23,19 @@
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 2,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
       "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 2,
-      "rang": 5
+      "rang": 6
     }
   ]
 }

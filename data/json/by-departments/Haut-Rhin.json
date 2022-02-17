@@ -1,16 +1,21 @@
 {
   "nom": "Haut-Rhin",
-  "total": 60,
+  "total": 82,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 25,
+      "value": 31,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 12,
+      "value": 23,
       "rang": 2
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 5,
+      "rang": 3
     },
     {
       "key": "LE PEN Marine",
@@ -18,54 +23,49 @@
       "rang": 3
     },
     {
-      "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 4
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 5
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 4
+      "rang": 6
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
-      "key": "HIDALGO Anne",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "CAU Marie",
       "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "SMATI  Rafik",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

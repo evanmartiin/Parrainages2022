@@ -1,36 +1,51 @@
 {
   "nom": "Haute-Vienne",
-  "total": 59,
+  "total": 72,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 35,
+      "value": 40,
       "rang": 1
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 7,
+      "value": 9,
       "rang": 2
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
       "value": 5,
-      "rang": 3
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
       "rang": 4
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 4,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 2,
+      "value": 3,
       "rang": 6
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 7
     },
     {
       "key": "LE PEN Marine",

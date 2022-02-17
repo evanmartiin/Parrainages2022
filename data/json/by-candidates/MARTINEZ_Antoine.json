@@ -1,8 +1,8 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 5,
-  "votes_totaux": 5,
-  "rang": 21,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
+  "rang": 22,
   "valide": false,
   "parrainages": [
     {
@@ -44,15 +44,31 @@
       "circonscription": "Roche-et-Raucourt",
       "departement": "Haute-Saône",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "LABROT Alain",
+      "fonction": "Maire",
+      "circonscription": "Saint-May",
+      "departement": "Drôme",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAMBERT Gérard",
+      "fonction": "Maire",
+      "circonscription": "Seyssel",
+      "departement": "Haute-Savoie",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 4,
+          "value": 6,
           "rang": 1
         },
         {
@@ -63,17 +79,17 @@
       ]
     },
     "fonction": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 5,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Châteney",
@@ -99,11 +115,21 @@
           "key": "Saint-Aubin",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Saint-May",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Seyssel",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Aube",
@@ -119,16 +145,31 @@
           "key": "Cantal",
           "value": 1,
           "rang": 3
+        },
+        {
+          "key": "Drôme",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "2022-02-08",
           "value": 5,
           "rang": 1
+        },
+        {
+          "key": "2022-02-15",
+          "value": 2,
+          "rang": 2
         }
       ]
     }

@@ -1,15 +1,15 @@
 {
   "nom": "Drôme",
-  "total": 63,
+  "total": 88,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 14,
+      "key": "PÉCRESSE Valérie",
+      "value": 18,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 10,
+      "key": "MACRON Emmanuel",
+      "value": 16,
       "rang": 2
     },
     {
@@ -19,63 +19,73 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 5,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 5,
+      "value": 8,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
-      "rang": 4
+      "value": 7,
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 6,
+      "rang": 6
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 6,
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
       "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "POUTOU Philippe",
-      "value": 2,
+      "value": 3,
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 3,
       "rang": 8
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 8
+      "rang": 11
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 8
-    },
-    {
-      "key": "JADOT Yannick",
+      "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 12
+      "rang": 13
+    },
+    {
+      "key": "MARTINEZ Antoine",
+      "value": 1,
+      "rang": 13
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 12
+      "rang": 13
     }
   ]
 }

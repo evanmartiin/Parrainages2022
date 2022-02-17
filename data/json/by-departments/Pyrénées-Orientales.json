@@ -1,31 +1,31 @@
 {
   "nom": "Pyrénées-Orientales",
-  "total": 41,
+  "total": 57,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 9,
+      "value": 13,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 8,
       "rang": 2
     },
     {
+      "key": "PÉCRESSE Valérie",
+      "value": 7,
+      "rang": 3
+    },
+    {
       "key": "ROUSSEL Fabien",
-      "value": 6,
+      "value": 7,
       "rang": 3
     },
     {
       "key": "LE PEN Marine",
-      "value": 5,
-      "rang": 4
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 5,
-      "rang": 4
+      "value": 6,
+      "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -33,24 +33,34 @@
       "rang": 6
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 2,
+      "key": "JADOT Yannick",
+      "value": 3,
       "rang": 7
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 3,
+      "rang": 7
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 8
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 8
+      "rang": 11
     }
   ]
 }

@@ -1,26 +1,41 @@
 {
   "nom": "Val-d'Oise",
-  "total": 77,
+  "total": 95,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 47,
+      "value": 58,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 12,
+      "value": 13,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 8,
+      "value": 10,
       "rang": 3
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
+      "value": 4,
       "rang": 4
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
@@ -30,27 +45,12 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 6
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 6
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 1,
-      "rang": 6
+      "rang": 9
     }
   ]
 }

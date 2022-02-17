@@ -1,39 +1,44 @@
 {
   "nom": "Indre",
-  "total": 38,
+  "total": 47,
   "votes": [
     {
-      "key": "HIDALGO Anne",
-      "value": 7,
+      "key": "PÉCRESSE Valérie",
+      "value": 10,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 6,
+      "key": "HIDALGO Anne",
+      "value": 7,
       "rang": 2
     },
     {
       "key": "LASSALLE Jean",
-      "value": 4,
+      "value": 6,
       "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 3,
+      "value": 4,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "MACRON Emmanuel",
       "value": 2,
       "rang": 7
     },
@@ -55,22 +60,22 @@
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 11
+      "rang": 12
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 12
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 11
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 11
+      "rang": 12
     }
   ]
 }

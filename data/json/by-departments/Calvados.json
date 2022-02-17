@@ -1,86 +1,86 @@
 {
   "nom": "Calvados",
-  "total": 90,
+  "total": 117,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 21,
+      "key": "ARTHAUD Nathalie",
+      "value": 25,
       "rang": 1
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 19,
+      "key": "MACRON Emmanuel",
+      "value": 23,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 16,
-      "rang": 3
+      "value": 23,
+      "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 7,
+      "value": 8,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
-      "value": 4,
-      "rang": 5
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 4,
+      "value": 7,
       "rang": 5
     },
     {
       "key": "HIDALGO Anne",
-      "value": 3,
-      "rang": 7
+      "value": 5,
+      "rang": 6
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 6
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 4,
+      "rang": 8
     },
     {
       "key": "KAZIB Anasse",
       "value": 3,
-      "rang": 7
+      "rang": 9
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "LE PEN Marine",
       "value": 3,
-      "rang": 7
+      "rang": 9
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 9
     },
     {
       "key": "LASSALLE Jean",
       "value": 2,
-      "rang": 10
+      "rang": 12
     },
     {
-      "key": "LE PEN Marine",
+      "key": "POUTOU Philippe",
       "value": 2,
-      "rang": 10
+      "rang": 12
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 13
+      "rang": 15
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 13
+      "rang": 15
     }
   ]
 }

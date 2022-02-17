@@ -1,80 +1,80 @@
 {
   "nom": "Occitanie",
-  "total": 753,
+  "total": 1004,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 208,
+      "value": 281,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 102,
+      "value": 125,
       "rang": 2
     },
     {
       "key": "LASSALLE Jean",
-      "value": 98,
+      "value": 118,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 61,
+      "value": 87,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 54,
+      "value": 80,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 47,
+      "value": 60,
       "rang": 6
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 26,
+      "value": 37,
       "rang": 7
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 25,
+      "key": "JADOT Yannick",
+      "value": 36,
       "rang": 8
     },
     {
       "key": "POUTOU Philippe",
-      "value": 25,
-      "rang": 8
+      "value": 34,
+      "rang": 9
     },
     {
-      "key": "LE PEN Marine",
-      "value": 24,
+      "key": "KAZIB Anasse",
+      "value": 32,
       "rang": 10
     },
     {
-      "key": "JADOT Yannick",
-      "value": 22,
-      "rang": 11
+      "key": "LE PEN Marine",
+      "value": 32,
+      "rang": 10
     },
     {
       "key": "ASSELINEAU François",
-      "value": 20,
+      "value": 26,
       "rang": 12
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 13,
+      "key": "ZEMMOUR Éric",
+      "value": 17,
       "rang": 13
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 12,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 16,
       "rang": 14
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 9,
+      "value": 12,
       "rang": 15
     },
     {
@@ -84,13 +84,23 @@
     },
     {
       "key": "MIGUET Nicolas",
-      "value": 2,
+      "value": 3,
       "rang": 17
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 1,
+      "value": 2,
       "rang": 18
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 19
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 19
     }
   ]
 }

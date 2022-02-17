@@ -1,76 +1,81 @@
 {
   "nom": "Somme",
-  "total": 85,
+  "total": 108,
   "votes": [
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 11,
-      "rang": 1
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 11,
-      "rang": 1
-    },
-    {
       "key": "PÉCRESSE Valérie",
-      "value": 11,
+      "value": 17,
       "rang": 1
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 10,
-      "rang": 4
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 13,
+      "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 9,
+      "value": 12,
+      "rang": 3
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 12,
+      "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 11,
       "rang": 5
     },
     {
       "key": "HIDALGO Anne",
       "value": 9,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 5,
+      "value": 7,
       "rang": 7
     },
     {
+      "key": "ASSELINEAU François",
+      "value": 5,
+      "rang": 8
+    },
+    {
       "key": "JADOT Yannick",
-      "value": 4,
+      "value": 5,
       "rang": 8
     },
     {
       "key": "KAZIB Anasse",
       "value": 4,
-      "rang": 8
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 3,
       "rang": 10
     },
     {
       "key": "LE PEN Marine",
-      "value": 3,
+      "value": 4,
       "rang": 10
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 10
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 2,
+      "rang": 13
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 2,
-      "rang": 12
+      "rang": 13
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 12
-    },
-    {
-      "key": "CHICHE Arnaud",
+      "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 14
+      "rang": 15
     }
   ]
 }

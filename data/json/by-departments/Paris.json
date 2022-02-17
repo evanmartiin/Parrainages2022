@@ -1,25 +1,25 @@
 {
   "nom": "Paris",
-  "total": 126,
+  "total": 147,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 57,
+      "value": 58,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 31,
+      "value": 43,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 16,
       "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 11,
+      "value": 14,
       "rang": 4
     },
     {
@@ -33,14 +33,19 @@
       "rang": 6
     },
     {
-      "key": "KOENIG Gaspard",
-      "value": 1,
+      "key": "LE PEN Marine",
+      "value": 2,
       "rang": 7
     },
     {
       "key": "THOUY Hélène",
-      "value": 1,
+      "value": 2,
       "rang": 7
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 9
     }
   ]
 }

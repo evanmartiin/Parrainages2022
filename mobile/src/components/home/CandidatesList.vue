@@ -1,21 +1,69 @@
 <template>
   <div class="candidates-list">
     <h1>Chiffres par candidat</h1>
-    <Candidate :rank="1" name="Valérie PÉCRESSE" :votes="1249" :podium="true"/>
-    <Candidate :rank="2" name="Emmanuel MACRON" :votes="1050" :podium="true"/>
-    <Candidate :rank="3" name="Anne HIDALGO" :votes="876" :podium="true"/>
-    <Candidate :rank="1" name="Valérie PÉCRESSE" :votes="1249" :podium="false"/>
-    <Candidate :rank="2" name="Emmanuel MACRON" :votes="1050" :podium="false"/>
-    <Candidate :rank="3" name="Anne HIDALGO" :votes="876" :podium="false"/>
+    <div v-if="!loading && candidates && candidates.length">
+      <Candidate v-for="candidate in candidates" :key="candidate" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux" :podium="candidate.rang <= 3"/>
+    </div>
+    <div class="loading" v-if="loading">
+      <p>Chargement des données...</p>
+    </div>
+    <div class="error" v-if="error">
+      <p>Une erreur est survenue.</p>
+    </div>
   </div>
 </template>
 
 <script>
 import Candidate from '@/components/home/Candidate.vue'
+import { ref, onMounted } from 'vue'
 
 export default {
   components: { Candidate },
-  name: 'CandidatesList'
+  name: 'CandidatesList',
+  setup() {
+    const candidates = ref(null);
+    const loading = ref(true);
+    const error = ref(null);
+
+    async function fetchData() {
+      loading.value = true;
+      
+      fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/all_candidates.json')
+        .then(res => {
+          if (!res.ok) {
+            const error = new Error(res.statusText);
+            error.json = res.json();
+            throw error;
+          }
+
+          return res.json();
+        })
+        .then(json => {
+          candidates.value = json;
+        })
+        .catch(err => {
+          error.value = err;
+          if (err.json) {
+            return err.json.then(json => {
+              error.value.message = json.message;
+            });
+          }
+        })
+        .then(() => {
+          loading.value = false;
+        });
+    }
+
+    onMounted(() => {
+      fetchData();
+    });
+
+    return {
+      candidates,
+      loading,
+      error
+    };
+  }
 }
 </script>
 
@@ -51,5 +99,10 @@ h1 {
   right: 30%;
   height: 1px;
   border-top: 1px solid #E1000F;
+}
+
+.loading p, .error p {
+  text-align: center;
+  font-style: italic;
 }
 </style>

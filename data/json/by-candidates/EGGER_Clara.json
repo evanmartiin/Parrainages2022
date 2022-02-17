@@ -1,8 +1,8 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 7,
-  "votes_totaux": 7,
-  "rang": 20,
+  "votes_confirmes": 13,
+  "votes_totaux": 13,
+  "rang": 19,
   "valide": false,
   "parrainages": [
     {
@@ -60,34 +60,97 @@
       "circonscription": "Quincy-sous-le-Mont",
       "departement": "Aisne",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRANDO Anthony",
+      "fonction": "Maire",
+      "circonscription": "Pommiers",
+      "departement": "Aisne",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "FAURE Alexandre",
+      "fonction": "Maire",
+      "circonscription": "Vernon",
+      "departement": "Ardèche",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERTEAUX Patrick",
+      "fonction": "Maire",
+      "circonscription": "Bulson",
+      "departement": "Ardennes",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MARTIN Chantal",
+      "fonction": "Maire",
+      "circonscription": "Bouan",
+      "departement": "Ariège",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUREUX Mathieu",
+      "fonction": "Maire",
+      "circonscription": "Le Gallet",
+      "departement": "Oise",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "MILLET LACOMBE Pierre",
+      "fonction": "Maire",
+      "circonscription": "Ladignac-le-Long",
+      "departement": "Haute-Vienne",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 7,
+      "total": 13,
       "valeurs": [
         {
           "key": "M.",
-          "value": 7,
+          "value": 12,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 7,
+      "total": 13,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 7,
+          "value": 13,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 7,
+      "total": 13,
       "valeurs": [
         {
           "key": "Bettrechies",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Bouan",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Bulson",
           "value": 1,
           "rang": 1
         },
@@ -97,7 +160,22 @@
           "rang": 1
         },
         {
+          "key": "Ladignac-le-Long",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Le Gallet",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Moulin-Neuf",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Pommiers",
           "value": 1,
           "rang": 1
         },
@@ -108,6 +186,11 @@
         },
         {
           "key": "Rancennes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Vernon",
           "value": 1,
           "rang": 1
         },
@@ -124,62 +207,87 @@
       ]
     },
     "departement": {
-      "total": 7,
+      "total": 13,
       "valeurs": [
         {
           "key": "Aisne",
-          "value": 1,
+          "value": 2,
           "rang": 1
         },
         {
           "key": "Ardennes",
-          "value": 1,
+          "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Ardèche",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Ariège",
+          "value": 1,
+          "rang": 3
         },
         {
           "key": "Dordogne",
           "value": 1,
-          "rang": 1
+          "rang": 3
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 1
+          "rang": 3
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 1
+          "rang": 3
+        },
+        {
+          "key": "Haute-Vienne",
+          "value": 1,
+          "rang": 3
         },
         {
           "key": "Indre-et-Loire",
           "value": 1,
-          "rang": 1
+          "rang": 3
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 1
+          "rang": 3
+        },
+        {
+          "key": "Oise",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 7,
+      "total": 13,
       "valeurs": [
+        {
+          "key": "2022-02-15",
+          "value": 6,
+          "rang": 1
+        },
         {
           "key": "2022-02-03",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

@@ -1,16 +1,21 @@
 {
   "nom": "Corrèze",
-  "total": 44,
+  "total": 63,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 14,
+      "value": 27,
       "rang": 1
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 7,
+      "value": 8,
       "rang": 2
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 5,
+      "rang": 3
     },
     {
       "key": "LASSALLE Jean",
@@ -20,17 +25,17 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 4,
-      "rang": 4
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 4,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 4,
-      "rang": 4
+      "rang": 5
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "KAZIB Anasse",
@@ -43,14 +48,24 @@
       "rang": 7
     },
     {
+      "key": "COJAN Patrick",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 1,
+      "rang": 10
+    },
+    {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 9
+      "rang": 10
     }
   ]
 }

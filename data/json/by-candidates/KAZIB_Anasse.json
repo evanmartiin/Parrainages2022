@@ -1,7 +1,7 @@
 {
   "nom": "KAZIB Anasse",
-  "votes_confirmes": 99,
-  "votes_totaux": 99,
+  "votes_confirmes": 116,
+  "votes_totaux": 116,
   "rang": 14,
   "valide": false,
   "parrainages": [
@@ -796,30 +796,166 @@
       "circonscription": "Herly",
       "departement": "Somme",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "Mme",
+      "nom": "URQUIZAR Danielle",
+      "fonction": "Maire",
+      "circonscription": "Saint-Jurs",
+      "departement": "Alpes-de-Haute-Provence",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "HOAREAU François",
+      "fonction": "Maire",
+      "circonscription": "Raissac",
+      "departement": "Ariège",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LAPLUME Anne",
+      "fonction": "Maire",
+      "circonscription": "Caussou",
+      "departement": "Ariège",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BLONDIN Francis",
+      "fonction": "Maire",
+      "circonscription": "Saint-Georges-Blancaneix",
+      "departement": "Dordogne",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "TABOURET Serge",
+      "fonction": "Maire",
+      "circonscription": "Monmadalès",
+      "departement": "Dordogne",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "FAREL Annelise",
+      "fonction": "Maire",
+      "circonscription": "Rioms",
+      "departement": "Drôme",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LEFEVRE Christine",
+      "fonction": "Maire",
+      "circonscription": "Mauressargues",
+      "departement": "Gard",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "REDONNET Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Saint-Paul-d'Oueil",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "RIAL Guilhem",
+      "fonction": "Maire",
+      "circonscription": "Monestrol",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "PONTAC Christian",
+      "fonction": "Maire",
+      "circonscription": "Labrihe",
+      "departement": "Gers",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MONNERET LUQUET Jocelyne",
+      "fonction": "Maire",
+      "circonscription": "Nancuise",
+      "departement": "Jura",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "MIGOT Thierry",
+      "fonction": "Maire",
+      "circonscription": "Autrécourt-sur-Aire",
+      "departement": "Meuse",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "SCHERRER Émile",
+      "fonction": "Maire",
+      "circonscription": "Lespouey",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "KLEIN Pascal",
+      "fonction": "Maire",
+      "circonscription": "Rothbach",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "VALLEE Pascal",
+      "fonction": "Maire",
+      "circonscription": "Bracquetuit",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LE GOFF Séverine",
+      "fonction": "Maire",
+      "circonscription": "Flacourt",
+      "departement": "Yvelines",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "FAURE Antoine",
+      "fonction": "Maire",
+      "circonscription": "Aups",
+      "departement": "Var",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 99,
+      "total": 116,
       "valeurs": [
         {
           "key": "M.",
-          "value": 75,
+          "value": 86,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 24,
+          "value": 30,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 99,
+      "total": 116,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 96,
+          "value": 113,
           "rang": 1
         },
         {
@@ -830,7 +966,7 @@
       ]
     },
     "circonscription": {
-      "total": 99,
+      "total": 116,
       "valeurs": [
         {
           "key": "Valravillon",
@@ -848,7 +984,17 @@
           "rang": 2
         },
         {
+          "key": "Aups",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Aurimont",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Autrécourt-sur-Aire",
           "value": 1,
           "rang": 2
         },
@@ -898,6 +1044,11 @@
           "rang": 2
         },
         {
+          "key": "Bracquetuit",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Bragayrac",
           "value": 1,
           "rang": 2
@@ -914,6 +1065,11 @@
         },
         {
           "key": "Castéra-Vignoles",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Caussou",
           "value": 1,
           "rang": 2
         },
@@ -949,6 +1105,11 @@
         },
         {
           "key": "Ernes",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Flacourt",
           "value": 1,
           "rang": 2
         },
@@ -1028,6 +1189,11 @@
           "rang": 2
         },
         {
+          "key": "Labrihe",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Laneuveville-lès-Lorquin",
           "value": 1,
           "rang": 2
@@ -1044,6 +1210,11 @@
         },
         {
           "key": "Lecumberry",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Lespouey",
           "value": 1,
           "rang": 2
         },
@@ -1093,7 +1264,22 @@
           "rang": 2
         },
         {
+          "key": "Mauressargues",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Moncontour",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Monestrol",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Monmadalès",
           "value": 1,
           "rang": 2
         },
@@ -1124,6 +1310,11 @@
         },
         {
           "key": "Mézerolles",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Nancuise",
           "value": 1,
           "rang": 2
         },
@@ -1173,12 +1364,27 @@
           "rang": 2
         },
         {
+          "key": "Raissac",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Richemont",
           "value": 1,
           "rang": 2
         },
         {
           "key": "Rieux-en-Val",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Rioms",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Rothbach",
           "value": 1,
           "rang": 2
         },
@@ -1198,6 +1404,11 @@
           "rang": 2
         },
         {
+          "key": "Saint-Georges-Blancaneix",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Saint-Hubert",
           "value": 1,
           "rang": 2
@@ -1208,12 +1419,22 @@
           "rang": 2
         },
         {
+          "key": "Saint-Jurs",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Saint-Juvin",
           "value": 1,
           "rang": 2
         },
         {
           "key": "Saint-Martin-au-Bosc",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Saint-Paul-d'Oueil",
           "value": 1,
           "rang": 2
         },
@@ -1325,7 +1546,7 @@
       ]
     },
     "departement": {
-      "total": 99,
+      "total": 116,
       "valeurs": [
         {
           "key": "Moselle",
@@ -1339,178 +1560,208 @@
         },
         {
           "key": "Gers",
-          "value": 7,
-          "rang": 3
+          "value": 8,
+          "rang": 2
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 7,
-          "rang": 3
+          "rang": 4
+        },
+        {
+          "key": "Dordogne",
+          "value": 6,
+          "rang": 5
         },
         {
           "key": "Hautes-Pyrénées",
-          "value": 5,
+          "value": 6,
           "rang": 5
+        },
+        {
+          "key": "Haute-Garonne",
+          "value": 5,
+          "rang": 7
+        },
+        {
+          "key": "Seine-Maritime",
+          "value": 5,
+          "rang": 7
         },
         {
           "key": "Ardennes",
           "value": 4,
-          "rang": 6
+          "rang": 9
         },
         {
           "key": "Aude",
           "value": 4,
-          "rang": 6
-        },
-        {
-          "key": "Dordogne",
-          "value": 4,
-          "rang": 6
+          "rang": 9
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 4,
-          "rang": 6
-        },
-        {
-          "key": "Seine-Maritime",
-          "value": 4,
-          "rang": 6
+          "rang": 9
         },
         {
           "key": "Somme",
           "value": 4,
-          "rang": 6
+          "rang": 9
         },
         {
           "key": "Yonne",
           "value": 4,
-          "rang": 6
+          "rang": 9
+        },
+        {
+          "key": "Ariège",
+          "value": 3,
+          "rang": 14
         },
         {
           "key": "Calvados",
           "value": 3,
-          "rang": 13
+          "rang": 14
         },
         {
           "key": "Eure",
           "value": 3,
-          "rang": 13
+          "rang": 14
         },
         {
-          "key": "Haute-Garonne",
+          "key": "Meuse",
           "value": 3,
-          "rang": 13
+          "rang": 14
         },
         {
           "key": "Aube",
           "value": 2,
-          "rang": 16
+          "rang": 18
         },
         {
           "key": "Corrèze",
           "value": 2,
-          "rang": 16
+          "rang": 18
         },
         {
           "key": "Côtes-d'Armor",
           "value": 2,
-          "rang": 16
+          "rang": 18
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 16
+          "rang": 18
         },
         {
-          "key": "Meuse",
+          "key": "Gard",
           "value": 2,
-          "rang": 16
+          "rang": 18
         },
         {
-          "key": "Ariège",
+          "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 21
+          "rang": 23
+        },
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 21
+          "rang": 23
+        },
+        {
+          "key": "Drôme",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 21
-        },
-        {
-          "key": "Gard",
-          "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 21
+          "rang": 23
+        },
+        {
+          "key": "Jura",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Lot-et-Garonne",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Savoie",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Tarn",
           "value": 1,
-          "rang": 21
+          "rang": 23
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 1,
-          "rang": 21
+          "rang": 23
+        },
+        {
+          "key": "Var",
+          "value": 1,
+          "rang": 23
+        },
+        {
+          "key": "Yvelines",
+          "value": 1,
+          "rang": 23
         }
       ]
     },
     "date": {
-      "total": 99,
+      "total": 116,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -1523,14 +1774,19 @@
           "rang": 2
         },
         {
+          "key": "2022-02-15",
+          "value": 17,
+          "rang": 3
+        },
+        {
           "key": "2022-02-10",
           "value": 15,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

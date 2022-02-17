@@ -1,0 +1,115 @@
+{
+  "nom": "BÉKAERT Corinne",
+  "votes_confirmes": 3,
+  "votes_totaux": 3,
+  "rang": 24,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "Mme",
+      "nom": "LICHTEBLAU Monique",
+      "fonction": "Maire",
+      "circonscription": "Neewiller-près-Lauterbourg",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "PARIS Bruno",
+      "fonction": "Maire",
+      "circonscription": "Puy-Sanières",
+      "departement": "Hautes-Alpes",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "FRANCKE Stéphane",
+      "fonction": "Maire",
+      "circonscription": "Herzeele",
+      "departement": "Nord",
+      "date": "2022-02-15"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 3,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "fonction": {
+      "total": 3,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 3,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 3,
+      "valeurs": [
+        {
+          "key": "Herzeele",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Neewiller-près-Lauterbourg",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Puy-Sanières",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 3,
+      "valeurs": [
+        {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Hautes-Alpes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Nord",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 3,
+      "valeurs": [
+        {
+          "key": "2022-02-15",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-08",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    }
+  }
+}

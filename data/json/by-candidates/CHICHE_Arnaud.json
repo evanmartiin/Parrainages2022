@@ -1,7 +1,7 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 5,
-  "votes_totaux": 5,
+  "votes_confirmes": 8,
+  "votes_totaux": 8,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -44,36 +44,60 @@
       "circonscription": "Méru",
       "departement": "Oise",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "FREYERMUTH Michaël",
+      "fonction": "Maire",
+      "circonscription": "Kalhausen",
+      "departement": "Moselle",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELAUNE Daniel",
+      "fonction": "Maire",
+      "circonscription": "Grand-Camp",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BILLORE Robert",
+      "fonction": "Maire",
+      "circonscription": "Lihons",
+      "departement": "Somme",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 5,
+      "total": 8,
       "valeurs": [
         {
-          "key": "Mme",
-          "value": 3,
+          "key": "M.",
+          "value": 5,
           "rang": 1
         },
         {
-          "key": "M.",
-          "value": 2,
+          "key": "Mme",
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 5,
+      "total": 8,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 5,
+          "value": 8,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 5,
+      "total": 8,
       "valeurs": [
         {
           "key": "Binarville",
@@ -81,7 +105,22 @@
           "rang": 1
         },
         {
+          "key": "Grand-Camp",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Grivillers",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Kalhausen",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Lihons",
           "value": 1,
           "rang": 1
         },
@@ -103,37 +142,47 @@
       ]
     },
     "departement": {
-      "total": 5,
+      "total": 8,
       "valeurs": [
+        {
+          "key": "Somme",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "Dordogne",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Moselle",
+          "value": 1,
+          "rang": 2
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
-          "key": "Somme",
+          "key": "Seine-Maritime",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 5,
+      "total": 8,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -141,14 +190,19 @@
           "rang": 1
         },
         {
+          "key": "2022-02-15",
+          "value": 3,
+          "rang": 1
+        },
+        {
           "key": "2022-02-03",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 2
+          "rang": 3
         }
       ]
     }

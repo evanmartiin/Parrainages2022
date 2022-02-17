@@ -1,8 +1,8 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 25,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 26,
   "valide": false,
   "parrainages": [
     {
@@ -12,32 +12,45 @@
       "circonscription": "Le Bonhomme",
       "departement": "Haut-Rhin",
       "date": "2022-02-08"
+    },
+    {
+      "genre": "M.",
+      "nom": "AIX Raphaël",
+      "fonction": "Maire",
+      "circonscription": "Courchelettes",
+      "departement": "Nord",
+      "date": "2022-02-15"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Courchelettes",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Le Bonhomme",
           "value": 1,
@@ -46,20 +59,30 @@
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Haut-Rhin",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Nord",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-08",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-15",
           "value": 1,
           "rang": 1
         }

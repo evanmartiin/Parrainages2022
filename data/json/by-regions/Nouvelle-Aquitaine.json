@@ -1,70 +1,70 @@
 {
   "nom": "Nouvelle-Aquitaine",
-  "total": 718,
+  "total": 947,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 170,
+      "value": 218,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 100,
+      "value": 126,
       "rang": 2
     },
     {
       "key": "LASSALLE Jean",
-      "value": 92,
+      "value": 112,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 70,
+      "value": 108,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 54,
+      "value": 67,
       "rang": 5
     },
     {
       "key": "JADOT Yannick",
-      "value": 41,
+      "value": 59,
       "rang": 6
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 36,
+      "value": 48,
       "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 32,
+      "value": 43,
       "rang": 8
     },
     {
-      "key": "LE PEN Marine",
-      "value": 25,
+      "key": "POUTOU Philippe",
+      "value": 32,
       "rang": 9
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 23,
+      "key": "LE PEN Marine",
+      "value": 28,
       "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 18,
+      "value": 27,
       "rang": 11
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 17,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 26,
       "rang": 12
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 16,
+      "key": "KAZIB Anasse",
+      "value": 19,
       "rang": 13
     },
     {
@@ -74,13 +74,18 @@
     },
     {
       "key": "ASSELINEAU François",
-      "value": 4,
+      "value": 8,
       "rang": 15
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 4,
-      "rang": 15
+      "value": 7,
+      "rang": 16
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 2,
+      "rang": 17
     },
     {
       "key": "KUZMANOVIC Georges",
@@ -90,27 +95,32 @@
     {
       "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
-      "key": "EGGER Clara",
+      "key": "COJAN Patrick",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "FESSARD DE FOUCAULT Bertrand",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 18
+      "rang": 19
+    },
+    {
+      "key": "LAM Yaya",
+      "value": 1,
+      "rang": 19
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 18
+      "rang": 19
     }
   ]
 }
