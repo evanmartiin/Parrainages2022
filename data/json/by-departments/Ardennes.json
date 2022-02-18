@@ -1,10 +1,10 @@
 {
   "nom": "Ardennes",
-  "total": 105,
+  "total": 112,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 23,
+      "value": 24,
       "rang": 1
     },
     {
@@ -14,28 +14,28 @@
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 15,
+      "value": 16,
       "rang": 3
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 9,
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
       "value": 8,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "MACRON Emmanuel",
       "value": 7,
-      "rang": 5
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 6,
       "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 6,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "KAZIB Anasse",
@@ -48,6 +48,11 @@
       "rang": 9
     },
     {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 9
+    },
+    {
       "key": "LE PEN Marine",
       "value": 3,
       "rang": 9
@@ -55,37 +60,32 @@
     {
       "key": "EGGER Clara",
       "value": 2,
-      "rang": 11
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 2,
-      "rang": 11
+      "rang": 12
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 12
     },
     {
       "key": "POUTOU Philippe",
       "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 16
+      "rang": 17
     }
   ]
 }

@@ -1,30 +1,30 @@
 {
   "nom": "Pays de la Loire",
-  "total": 232,
+  "total": 249,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 64,
+      "value": 68,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 59,
+      "value": 61,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 29,
+      "value": 33,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 22,
+      "value": 25,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 12,
+      "value": 13,
       "rang": 5
     },
     {
@@ -53,14 +53,14 @@
       "rang": 10
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 3,
-      "rang": 11
+      "key": "ZEMMOUR Éric",
+      "value": 4,
+      "rang": 10
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "ASSELINEAU François",
@@ -69,13 +69,18 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 14
+      "value": 2,
+      "rang": 13
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 14
+      "rang": 15
+    },
+    {
+      "key": "WAECHTER Antoine",
+      "value": 1,
+      "rang": 15
     }
   ]
 }

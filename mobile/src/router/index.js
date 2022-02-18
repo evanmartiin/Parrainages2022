@@ -1,7 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '@/views/Home.vue'
 import About from '@/views/About.vue'
-import CandidatePage from '@/views/CandidatePage.vue'
 import GeneralStats from '@/views/GeneralStats.vue'
 
 const routes = [
@@ -16,9 +15,10 @@ const routes = [
     component: About
   },
   {
-    path: '/candidate',
+    path: '/candidate/:name',
     name: 'Candidate',
-    component: CandidatePage
+    component: () => import('@/views/CandidatePage.vue'),
+    props: true
   },
   {
     path: '/general',

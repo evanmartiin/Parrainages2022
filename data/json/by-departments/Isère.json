@@ -1,71 +1,71 @@
 {
   "nom": "Isère",
-  "total": 99,
+  "total": 111,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 25,
+      "value": 27,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 17,
+      "value": 20,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 12,
+      "value": 13,
       "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 10,
+      "value": 11,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
+      "value": 10,
       "rang": 5
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 7,
+      "rang": 6
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 6,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 6,
-      "rang": 6
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 5,
-      "rang": 8
+      "rang": 7
     },
     {
       "key": "POUTOU Philippe",
       "value": 5,
-      "rang": 8
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 10
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
+      "value": 2,
       "rang": 10
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 1,
+      "value": 2,
       "rang": 10
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 12
     }
   ]
 }

@@ -1,16 +1,21 @@
 {
   "nom": "Mayotte",
-  "total": 3,
+  "total": 18,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 2,
+      "value": 14,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 1,
+      "value": 3,
       "rang": 2
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 3
     }
   ]
 }

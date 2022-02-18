@@ -1,70 +1,70 @@
 {
   "nom": "Occitanie",
-  "total": 1004,
+  "total": 1075,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 281,
+      "value": 296,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 125,
+      "value": 134,
       "rang": 2
     },
     {
       "key": "LASSALLE Jean",
-      "value": 118,
+      "value": 127,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 87,
+      "value": 90,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 80,
+      "value": 87,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 60,
+      "value": 65,
       "rang": 6
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 37,
+      "key": "JADOT Yannick",
+      "value": 42,
       "rang": 7
     },
     {
-      "key": "JADOT Yannick",
-      "value": 36,
+      "key": "LE PEN Marine",
+      "value": 41,
       "rang": 8
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 38,
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 34,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "KAZIB Anasse",
-      "value": 32,
-      "rang": 10
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 32,
-      "rang": 10
+      "value": 33,
+      "rang": 11
     },
     {
       "key": "ASSELINEAU François",
-      "value": 26,
+      "value": 27,
       "rang": 12
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 17,
+      "value": 19,
       "rang": 13
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 12,
+      "value": 13,
       "rang": 15
     },
     {
@@ -88,19 +88,24 @@
       "rang": 17
     },
     {
+      "key": "EGGER Clara",
+      "value": 2,
+      "rang": 18
+    },
+    {
       "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 18
     },
     {
-      "key": "EGGER Clara",
+      "key": "DELGA Carole",
       "value": 1,
-      "rang": 19
+      "rang": 20
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 19
+      "rang": 20
     }
   ]
 }

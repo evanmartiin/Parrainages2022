@@ -1,16 +1,21 @@
 {
   "nom": "Gers",
-  "total": 93,
+  "total": 105,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 23,
+      "value": 26,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 16,
+      "value": 19,
       "rang": 2
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 9,
+      "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
@@ -18,24 +23,19 @@
       "rang": 3
     },
     {
-      "key": "KAZIB Anasse",
+      "key": "MACRON Emmanuel",
       "value": 8,
-      "rang": 4
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 7,
       "rang": 5
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 6,
-      "rang": 6
+      "key": "ZEMMOUR Éric",
+      "value": 8,
+      "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 6,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -43,24 +43,24 @@
       "rang": 8
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
-      "rang": 9
+      "key": "TAUBIRA Christiane",
+      "value": 4,
+      "rang": 8
     },
     {
-      "key": "TAUBIRA Christiane",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
-      "rang": 9
+      "rang": 10
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 10
     },
     {
       "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 11
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",

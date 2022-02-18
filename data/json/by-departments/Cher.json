@@ -1,20 +1,20 @@
 {
   "nom": "Cher",
-  "total": 40,
+  "total": 46,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 11,
+      "value": 12,
       "rang": 1
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 7,
+      "value": 8,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 5,
+      "value": 6,
       "rang": 3
     },
     {
@@ -38,24 +38,34 @@
       "rang": 5
     },
     {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 8
+    },
+    {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 8
+      "rang": 9
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 9
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

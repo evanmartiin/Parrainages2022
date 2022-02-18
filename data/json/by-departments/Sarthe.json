@@ -1,15 +1,15 @@
 {
   "nom": "Sarthe",
-  "total": 57,
+  "total": 62,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 21,
+      "value": 23,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
+      "value": 11,
       "rang": 2
     },
     {
@@ -18,14 +18,14 @@
       "rang": 3
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
       "rang": 4
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 4,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
@@ -43,29 +43,29 @@
       "rang": 7
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 9
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 9
+      "rang": 10
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
-  "rang": 26,
+  "votes_confirmes": 3,
+  "votes_totaux": 3,
+  "rang": 24,
   "valide": false,
   "parrainages": [
     {
@@ -20,34 +20,47 @@
       "circonscription": "Courchelettes",
       "departement": "Nord",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "SZATNY Jean-Michel",
+      "fonction": "Maire",
+      "circonscription": "Dechy",
+      "departement": "Nord",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 3,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 2,
+          "value": 3,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "Courchelettes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Dechy",
           "value": 1,
           "rang": 1
         },
@@ -59,22 +72,22 @@
       ]
     },
     "departement": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
-          "key": "Haut-Rhin",
-          "value": 1,
+          "key": "Nord",
+          "value": 2,
           "rang": 1
         },
         {
-          "key": "Nord",
+          "key": "Haut-Rhin",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -83,6 +96,11 @@
         },
         {
           "key": "2022-02-15",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-17",
           "value": 1,
           "rang": 1
         }

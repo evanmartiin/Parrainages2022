@@ -1,10 +1,10 @@
 {
   "nom": "Doubs",
-  "total": 148,
+  "total": 157,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 43,
+      "value": 47,
       "rang": 1
     },
     {
@@ -29,18 +29,23 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 9,
-      "rang": 6
+      "value": 10,
+      "rang": 5
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 7,
+      "rang": 7
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 6,
-      "rang": 7
+      "rang": 8
     },
     {
-      "key": "JADOT Yannick",
-      "value": 6,
-      "rang": 7
+      "key": "HIDALGO Anne",
+      "value": 5,
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -53,14 +58,9 @@
       "rang": 9
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 4,
-      "rang": 11
-    },
-    {
       "key": "ROUSSEL Fabien",
       "value": 4,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
@@ -73,14 +73,19 @@
       "rang": 14
     },
     {
-      "key": "EGGER Clara",
-      "value": 1,
-      "rang": 15
+      "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 14
     },
     {
-      "key": "KUZMANOVIC Georges",
+      "key": "EGGER Clara",
       "value": 1,
-      "rang": 15
+      "rang": 16
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 16
     }
   ]
 }

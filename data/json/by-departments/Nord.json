@@ -1,20 +1,20 @@
 {
   "nom": "Nord",
-  "total": 175,
+  "total": 190,
   "votes": [
     {
-      "key": "ROUSSEL Fabien",
-      "value": 37,
+      "key": "PÉCRESSE Valérie",
+      "value": 42,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 35,
+      "key": "ROUSSEL Fabien",
+      "value": 38,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 29,
+      "value": 32,
       "rang": 3
     },
     {
@@ -28,27 +28,32 @@
       "rang": 5
     },
     {
+      "key": "JADOT Yannick",
+      "value": 9,
+      "rang": 6
+    },
+    {
       "key": "MÉLENCHON Jean-Luc",
       "value": 9,
       "rang": 6
     },
     {
-      "key": "JADOT Yannick",
-      "value": 8,
-      "rang": 7
-    },
-    {
       "key": "ARTHAUD Nathalie",
-      "value": 4,
+      "value": 5,
       "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 4,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "CAU Marie",
       "value": 2,
       "rang": 10
     },
@@ -65,27 +70,27 @@
     {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "CAU Marie",
-      "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 13
+      "rang": 14
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 14
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 13
+      "rang": 14
     }
   ]
 }

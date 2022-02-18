@@ -1,7 +1,7 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 13,
-  "votes_totaux": 13,
+  "votes_confirmes": 16,
+  "votes_totaux": 16,
   "rang": 19,
   "valide": false,
   "parrainages": [
@@ -108,36 +108,60 @@
       "circonscription": "Ladignac-le-Long",
       "departement": "Haute-Vienne",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "Mme",
+      "nom": "GOMES Béatrice",
+      "fonction": "Maire",
+      "circonscription": "La Chapelle-Baloue",
+      "departement": "Creuse",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUPOUX Sébastien",
+      "fonction": "Maire",
+      "circonscription": "Eyroles",
+      "departement": "Drôme",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOULÈNES Serge",
+      "fonction": "Maire",
+      "circonscription": "Le Bourg",
+      "departement": "Lot",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 13,
+      "total": 16,
       "valeurs": [
         {
           "key": "M.",
-          "value": 12,
+          "value": 14,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 13,
+      "total": 16,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 13,
+          "value": 16,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 13,
+      "total": 16,
       "valeurs": [
         {
           "key": "Bettrechies",
@@ -155,12 +179,27 @@
           "rang": 1
         },
         {
+          "key": "Eyroles",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Chapelle-Baloue",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "La Demie",
           "value": 1,
           "rang": 1
         },
         {
           "key": "Ladignac-le-Long",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Le Bourg",
           "value": 1,
           "rang": 1
         },
@@ -207,7 +246,7 @@
       ]
     },
     "departement": {
-      "total": 13,
+      "total": 16,
       "valeurs": [
         {
           "key": "Aisne",
@@ -230,12 +269,22 @@
           "rang": 3
         },
         {
+          "key": "Creuse",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Dordogne",
           "value": 1,
           "rang": 3
         },
         {
           "key": "Doubs",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Drôme",
           "value": 1,
           "rang": 3
         },
@@ -255,6 +304,11 @@
           "rang": 3
         },
         {
+          "key": "Lot",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Nord",
           "value": 1,
           "rang": 3
@@ -267,7 +321,7 @@
       ]
     },
     "date": {
-      "total": 13,
+      "total": 16,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -285,9 +339,14 @@
           "rang": 2
         },
         {
+          "key": "2022-02-17",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

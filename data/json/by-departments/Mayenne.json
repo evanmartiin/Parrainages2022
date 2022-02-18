@@ -1,6 +1,6 @@
 {
   "nom": "Mayenne",
-  "total": 36,
+  "total": 37,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -13,6 +13,11 @@
       "rang": 2
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 3
+    },
+    {
       "key": "JADOT Yannick",
       "value": 4,
       "rang": 3
@@ -21,11 +26,6 @@
       "key": "MÉLENCHON Jean-Luc",
       "value": 4,
       "rang": 3
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 3,
-      "rang": 5
     },
     {
       "key": "ASSELINEAU François",

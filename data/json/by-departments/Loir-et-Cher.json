@@ -1,19 +1,24 @@
 {
   "nom": "Loir-et-Cher",
-  "total": 50,
+  "total": 54,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 11,
+      "value": 12,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 11,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 3
+    },
+    {
+      "key": "JADOT Yannick",
       "value": 4,
       "rang": 3
     },
@@ -30,12 +35,7 @@
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
-      "rang": 6
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",

@@ -1,7 +1,7 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 28,
-  "votes_totaux": 28,
+  "votes_confirmes": 31,
+  "votes_totaux": 31,
   "rang": 18,
   "valide": false,
   "parrainages": [
@@ -228,15 +228,39 @@
       "circonscription": "Pouylebon",
       "departement": "Gers",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHAROY Eric",
+      "fonction": "Maire",
+      "circonscription": "Osmoy",
+      "departement": "Cher",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "PICK Max-André",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Nord",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "BALLOT Jean-Philippe",
+      "fonction": "Maire",
+      "circonscription": "Saint-Lambert-sur-Dive",
+      "departement": "Orne",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 28,
+      "total": 31,
       "valeurs": [
         {
           "key": "M.",
-          "value": 27,
+          "value": 30,
           "rang": 1
         },
         {
@@ -247,15 +271,20 @@
       ]
     },
     "fonction": {
-      "total": 28,
+      "total": 31,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 26,
+          "value": 28,
           "rang": 1
         },
         {
           "key": "Conseiller.e de Paris",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Conseiller.e départemental.e",
           "value": 1,
           "rang": 2
         },
@@ -267,7 +296,7 @@
       ]
     },
     "circonscription": {
-      "total": 27,
+      "total": 29,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -370,6 +399,11 @@
           "rang": 2
         },
         {
+          "key": "Osmoy",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Plombières-les-Bains",
           "value": 1,
           "rang": 2
@@ -381,6 +415,11 @@
         },
         {
           "key": "Queige",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Saint-Lambert-sur-Dive",
           "value": 1,
           "rang": 2
         },
@@ -402,11 +441,11 @@
       ]
     },
     "departement": {
-      "total": 28,
+      "total": 31,
       "valeurs": [
         {
           "key": "Orne",
-          "value": 3,
+          "value": 4,
           "rang": 1
         },
         {
@@ -455,6 +494,11 @@
           "rang": 6
         },
         {
+          "key": "Cher",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Drôme",
           "value": 1,
           "rang": 6
@@ -495,6 +539,11 @@
           "rang": 6
         },
         {
+          "key": "Nord",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Paris",
           "value": 1,
           "rang": 6
@@ -517,7 +566,7 @@
       ]
     },
     "date": {
-      "total": 28,
+      "total": 31,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -530,14 +579,19 @@
           "rang": 2
         },
         {
+          "key": "2022-02-17",
+          "value": 3,
+          "rang": 3
+        },
+        {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

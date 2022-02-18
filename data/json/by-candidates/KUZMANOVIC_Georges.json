@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 35,
-  "votes_totaux": 35,
+  "votes_confirmes": 38,
+  "votes_totaux": 38,
   "rang": 17,
   "valide": false,
   "parrainages": [
@@ -284,15 +284,39 @@
       "circonscription": "Eschwiller",
       "departement": "Bas-Rhin",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "FIÉVET Sylvain",
+      "fonction": "Maire",
+      "circonscription": "Rondefontaine",
+      "departement": "Doubs",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "SCHNEIDER Marc Lucien",
+      "fonction": "Maire",
+      "circonscription": "Brouck",
+      "departement": "Moselle",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "MORAIN Denis",
+      "fonction": "Maire",
+      "circonscription": "Savianges",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 35,
+      "total": 38,
       "valeurs": [
         {
           "key": "M.",
-          "value": 34,
+          "value": 37,
           "rang": 1
         },
         {
@@ -303,11 +327,11 @@
       ]
     },
     "fonction": {
-      "total": 35,
+      "total": 38,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 33,
+          "value": 36,
           "rang": 1
         },
         {
@@ -318,7 +342,7 @@
       ]
     },
     "circonscription": {
-      "total": 35,
+      "total": 38,
       "valeurs": [
         {
           "key": "Beaulieu",
@@ -327,6 +351,11 @@
         },
         {
           "key": "Bengy-sur-Craon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Brouck",
           "value": 1,
           "rang": 1
         },
@@ -431,12 +460,22 @@
           "rang": 1
         },
         {
+          "key": "Rondefontaine",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Rossillon",
           "value": 1,
           "rang": 1
         },
         {
           "key": "Sarreinsming",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Savianges",
           "value": 1,
           "rang": 1
         },
@@ -498,17 +537,17 @@
       ]
     },
     "departement": {
-      "total": 35,
+      "total": 38,
       "valeurs": [
         {
           "key": "Moselle",
-          "value": 3,
+          "value": 4,
           "rang": 1
         },
         {
           "key": "Pas-de-Calais",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Ardennes",
@@ -526,12 +565,22 @@
           "rang": 3
         },
         {
+          "key": "Doubs",
+          "value": 2,
+          "rang": 3
+        },
+        {
           "key": "Haute-Marne",
           "value": 2,
           "rang": 3
         },
         {
           "key": "Marne",
+          "value": 2,
+          "rang": 3
+        },
+        {
+          "key": "Saône-et-Loire",
           "value": 2,
           "rang": 3
         },
@@ -553,72 +602,62 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Calvados",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 11
-        },
-        {
-          "key": "Doubs",
-          "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Gard",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Jura",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 11
+          "rang": 13
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 11
-        },
-        {
-          "key": "Saône-et-Loire",
-          "value": 1,
-          "rang": 11
+          "rang": 13
         }
       ]
     },
     "date": {
-      "total": 35,
+      "total": 38,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -636,14 +675,19 @@
           "rang": 2
         },
         {
+          "key": "2022-02-17",
+          "value": 3,
+          "rang": 4
+        },
+        {
           "key": "2022-02-10",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

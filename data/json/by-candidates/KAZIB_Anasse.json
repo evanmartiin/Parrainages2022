@@ -1,7 +1,7 @@
 {
   "nom": "KAZIB Anasse",
-  "votes_confirmes": 116,
-  "votes_totaux": 116,
+  "votes_confirmes": 122,
+  "votes_totaux": 122,
   "rang": 14,
   "valide": false,
   "parrainages": [
@@ -932,30 +932,78 @@
       "circonscription": "Aups",
       "departement": "Var",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "BEUGNOT Guillaume",
+      "fonction": "Maire",
+      "circonscription": "Orret",
+      "departement": "Côte-d'Or",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "POMIES Daniel",
+      "fonction": "Maire",
+      "circonscription": "Saint-Martin",
+      "departement": "Gers",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "HUBRECHT Olivier",
+      "fonction": "Maire",
+      "circonscription": "Schmittviller",
+      "departement": "Moselle",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "Mme",
+      "nom": "SKRIBLAK Peggy",
+      "fonction": "Maire",
+      "circonscription": "Han-sur-Nied",
+      "departement": "Moselle",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHAPAR Marie-Agnès",
+      "fonction": "Maire",
+      "circonscription": "Lohitzun-Oyhercq",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "VAN ELSLANDER Michel",
+      "fonction": "Maire",
+      "circonscription": "Vitz-sur-Authie",
+      "departement": "Somme",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 116,
+      "total": 122,
       "valeurs": [
         {
           "key": "M.",
-          "value": 86,
+          "value": 90,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 30,
+          "value": 32,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 116,
+      "total": 122,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 113,
+          "value": 119,
           "rang": 1
         },
         {
@@ -966,7 +1014,7 @@
       ]
     },
     "circonscription": {
-      "total": 116,
+      "total": 122,
       "valeurs": [
         {
           "key": "Valravillon",
@@ -1159,6 +1207,11 @@
           "rang": 2
         },
         {
+          "key": "Han-sur-Nied",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Herly",
           "value": 1,
           "rang": 2
@@ -1230,6 +1283,11 @@
         },
         {
           "key": "Lignières-sur-Aire",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Lohitzun-Oyhercq",
           "value": 1,
           "rang": 2
         },
@@ -1320,6 +1378,11 @@
         },
         {
           "key": "Oigny",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Orret",
           "value": 1,
           "rang": 2
         },
@@ -1429,6 +1492,11 @@
           "rang": 2
         },
         {
+          "key": "Saint-Martin",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Saint-Martin-au-Bosc",
           "value": 1,
           "rang": 2
@@ -1460,6 +1528,11 @@
         },
         {
           "key": "Sarp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Schmittviller",
           "value": 1,
           "rang": 2
         },
@@ -1534,6 +1607,11 @@
           "rang": 2
         },
         {
+          "key": "Vitz-sur-Authie",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Voyenne",
           "value": 1,
           "rang": 2
@@ -1546,27 +1624,27 @@
       ]
     },
     "departement": {
-      "total": 116,
+      "total": 122,
       "valeurs": [
         {
           "key": "Moselle",
-          "value": 9,
+          "value": 11,
           "rang": 1
+        },
+        {
+          "key": "Gers",
+          "value": 9,
+          "rang": 2
         },
         {
           "key": "Aisne",
           "value": 8,
-          "rang": 2
-        },
-        {
-          "key": "Gers",
-          "value": 8,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Pyrénées-Atlantiques",
-          "value": 7,
-          "rang": 4
+          "value": 8,
+          "rang": 3
         },
         {
           "key": "Dordogne",
@@ -1589,29 +1667,29 @@
           "rang": 7
         },
         {
+          "key": "Somme",
+          "value": 5,
+          "rang": 7
+        },
+        {
           "key": "Ardennes",
           "value": 4,
-          "rang": 9
+          "rang": 10
         },
         {
           "key": "Aude",
           "value": 4,
-          "rang": 9
+          "rang": 10
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 4,
-          "rang": 9
-        },
-        {
-          "key": "Somme",
-          "value": 4,
-          "rang": 9
+          "rang": 10
         },
         {
           "key": "Yonne",
           "value": 4,
-          "rang": 9
+          "rang": 10
         },
         {
           "key": "Ariège",
@@ -1644,6 +1722,11 @@
           "rang": 18
         },
         {
+          "key": "Côte-d'Or",
+          "value": 2,
+          "rang": 18
+        },
+        {
           "key": "Côtes-d'Armor",
           "value": 2,
           "rang": 18
@@ -1661,107 +1744,102 @@
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 23
-        },
-        {
-          "key": "Côte-d'Or",
-          "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Jura",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Lot-et-Garonne",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Savoie",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Tarn",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Var",
           "value": 1,
-          "rang": 23
+          "rang": 24
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 23
+          "rang": 24
         }
       ]
     },
     "date": {
-      "total": 116,
+      "total": 122,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -1784,9 +1862,14 @@
           "rang": 4
         },
         {
+          "key": "2022-02-17",
+          "value": 6,
+          "rang": 5
+        },
+        {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

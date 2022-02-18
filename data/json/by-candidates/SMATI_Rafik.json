@@ -1,7 +1,7 @@
 {
   "nom": "SMATI  Rafik",
-  "votes_confirmes": 5,
-  "votes_totaux": 5,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
   "rang": 23,
   "valide": false,
   "parrainages": [
@@ -44,31 +44,52 @@
       "circonscription": "Chalaines",
       "departement": "Meuse",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "PHILIPPS Pierre-Marie",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Ain",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LUBERRIAGA Bénédicte",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 4,
+          "value": 5,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
           "value": 5,
           "rang": 1
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 2,
+          "rang": 2
         }
       ]
     },
@@ -103,12 +124,17 @@
       ]
     },
     "departement": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Meuse",
           "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Ain",
+          "value": 1,
+          "rang": 2
         },
         {
           "key": "Allier",
@@ -124,11 +150,16 @@
           "key": "Haute-Savoie",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Pyrénées-Atlantiques",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -137,6 +168,11 @@
         },
         {
           "key": "2022-02-08",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "2022-02-17",
           "value": 2,
           "rang": 2
         }

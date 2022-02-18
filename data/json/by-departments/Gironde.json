@@ -1,10 +1,10 @@
 {
   "nom": "Gironde",
-  "total": 167,
+  "total": 174,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 53,
+      "value": 55,
       "rang": 1
     },
     {
@@ -24,17 +24,17 @@
     },
     {
       "key": "LASSALLE Jean",
-      "value": 14,
+      "value": 16,
       "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 8,
+      "value": 9,
       "rang": 6
     },
     {
       "key": "LE PEN Marine",
-      "value": 7,
+      "value": 8,
       "rang": 7
     },
     {
@@ -66,6 +66,11 @@
       "key": "THOUY Hélène",
       "value": 2,
       "rang": 12
+    },
+    {
+      "key": "MARTINEZ Antoine",
+      "value": 1,
+      "rang": 14
     }
   ]
 }

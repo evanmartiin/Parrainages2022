@@ -1,11 +1,21 @@
 {
   "nom": "Guadeloupe",
-  "total": 4,
+  "total": 7,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 4,
+      "value": 5,
       "rang": 1
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 1,
+      "rang": 2
     }
   ]
 }

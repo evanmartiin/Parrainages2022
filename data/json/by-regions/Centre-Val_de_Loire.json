@@ -1,74 +1,79 @@
 {
   "nom": "Centre-Val de Loire",
-  "total": 303,
+  "total": 331,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 74,
+      "value": 80,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 51,
+      "value": 54,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 27,
+      "value": 29,
       "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 23,
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
       "value": 21,
-      "rang": 4
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 21,
-      "rang": 4
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 18,
-      "rang": 6
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 17,
+      "value": 20,
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 19,
       "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 16,
-      "rang": 8
+      "value": 19,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 15,
+      "rang": 9
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 14,
-      "rang": 9
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 13,
       "rang": 10
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 8,
+      "value": 11,
       "rang": 11
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 8,
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 7,
-      "rang": 12
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 6,
       "rang": 13
     },
     {
       "key": "ASSELINEAU François",
+      "value": 2,
+      "rang": 14
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 14
     },
@@ -85,22 +90,17 @@
     {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 17
+      "rang": 18
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 17
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 17
+      "rang": 18
     },
     {
       "key": "VIEIRA Gildas",
       "value": 1,
-      "rang": 17
+      "rang": 18
     }
   ]
 }

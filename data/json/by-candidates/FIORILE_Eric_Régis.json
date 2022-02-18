@@ -1,0 +1,69 @@
+{
+  "nom": "FIORILE Eric Régis",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 29,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "MOREAU Bernard",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Juvigny Val d'Andaine",
+      "departement": "Orne",
+      "date": "2022-02-17"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Juvigny Val d'Andaine",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Orne",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-02-17",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

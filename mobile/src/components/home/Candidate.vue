@@ -4,7 +4,7 @@
     <div class="content">
       <h2>{{ rank }}. {{ name }}</h2>
       <p>{{ votes }} parrainages</p>
-      <router-link to="/candidate"><Button title="Voir en détail"/></router-link>
+      <router-link to="/candidate" :name="name"><Button title="Voir en détail"/></router-link>
     </div>
   </div>
   <div v-else class="candidate no-podium">

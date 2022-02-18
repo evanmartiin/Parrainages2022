@@ -1,30 +1,30 @@
 {
   "nom": "Eure",
-  "total": 125,
+  "total": 134,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 45,
+      "value": 48,
       "rang": 1
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 25,
+      "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 22,
-      "rang": 2
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 22,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 6,
+      "value": 7,
       "rang": 4
     },
     {
       "key": "HIDALGO Anne",
-      "value": 5,
+      "value": 6,
       "rang": 5
     },
     {
@@ -43,29 +43,29 @@
       "rang": 7
     },
     {
+      "key": "LE PEN Marine",
+      "value": 3,
+      "rang": 7
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 3,
       "rang": 7
     },
     {
-      "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 10
-    },
-    {
       "key": "MIGUET Nicolas",
       "value": 2,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 2,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "ASSELINEAU François",

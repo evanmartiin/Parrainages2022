@@ -1,8 +1,8 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 7,
-  "votes_totaux": 7,
-  "rang": 22,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
+  "rang": 21,
   "valide": false,
   "parrainages": [
     {
@@ -60,15 +60,31 @@
       "circonscription": "Seyssel",
       "departement": "Haute-Savoie",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAUMONIER Bernard",
+      "fonction": "Maire",
+      "circonscription": "Floirac",
+      "departement": "Charente-Maritime",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "PELLETANT Jean-Marc",
+      "fonction": "Maire",
+      "circonscription": "Landiras",
+      "departement": "Gironde",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
-          "value": 6,
+          "value": 8,
           "rang": 1
         },
         {
@@ -79,20 +95,25 @@
       ]
     },
     "fonction": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 7,
+          "value": 9,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Châteney",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Floirac",
           "value": 1,
           "rang": 1
         },
@@ -103,6 +124,11 @@
         },
         {
           "key": "La Monselie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Landiras",
           "value": 1,
           "rang": 1
         },
@@ -129,7 +155,7 @@
       ]
     },
     "departement": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Aube",
@@ -147,7 +173,17 @@
           "rang": 3
         },
         {
+          "key": "Charente-Maritime",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Drôme",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Gironde",
           "value": 1,
           "rang": 3
         },
@@ -159,7 +195,7 @@
       ]
     },
     "date": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -168,6 +204,11 @@
         },
         {
           "key": "2022-02-15",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "2022-02-17",
           "value": 2,
           "rang": 2
         }

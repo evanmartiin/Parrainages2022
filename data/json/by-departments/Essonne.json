@@ -1,20 +1,20 @@
 {
   "nom": "Essonne",
-  "total": 80,
+  "total": 87,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 42,
+      "value": 44,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 13,
+      "value": 14,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 9,
+      "value": 11,
       "rang": 3
     },
     {
@@ -23,14 +23,14 @@
       "rang": 4
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
+      "key": "HIDALGO Anne",
+      "value": 4,
       "rang": 5
     },
     {
-      "key": "HIDALGO Anne",
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "LE PEN Marine",
@@ -49,6 +49,11 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 1,
       "rang": 8
     }

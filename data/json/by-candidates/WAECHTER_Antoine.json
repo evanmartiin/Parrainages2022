@@ -1,8 +1,8 @@
 {
   "nom": "WAECHTER Antoine",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 28,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 27,
   "valide": false,
   "parrainages": [
     {
@@ -12,42 +12,60 @@
       "circonscription": "Béon",
       "departement": "Yonne",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHÉRAUD Roch",
+      "fonction": "Maire",
+      "circonscription": "Saint-Viaud",
+      "departement": "Loire-Atlantique",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Béon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Viaud",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Loire-Atlantique",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Yonne",
           "value": 1,
@@ -56,10 +74,15 @@
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-15",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-17",
           "value": 1,
           "rang": 1
         }

@@ -1,36 +1,36 @@
 {
   "nom": "Pyrénées-Atlantiques",
-  "total": 103,
+  "total": 113,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 36,
+      "value": 37,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 16,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 10,
+      "value": 11,
       "rang": 3
     },
     {
       "key": "POUTOU Philippe",
-      "value": 8,
+      "value": 9,
       "rang": 4
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 8,
+      "rang": 5
     },
     {
       "key": "HIDALGO Anne",
       "value": 7,
-      "rang": 5
-    },
-    {
-      "key": "KAZIB Anasse",
-      "value": 7,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
@@ -39,7 +39,7 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 4,
+      "value": 5,
       "rang": 8
     },
     {
@@ -48,22 +48,27 @@
       "rang": 9
     },
     {
-      "key": "LE PEN Marine",
-      "value": 2,
-      "rang": 10
-    },
-    {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 10
+      "value": 3,
+      "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 9
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 2,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 13
+    },
+    {
+      "key": "SMATI  Rafik",
       "value": 1,
       "rang": 13
     },

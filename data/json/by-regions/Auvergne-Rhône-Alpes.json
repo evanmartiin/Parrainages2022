@@ -1,40 +1,40 @@
 {
   "nom": "Auvergne-Rhône-Alpes",
-  "total": 850,
+  "total": 916,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 218,
+      "value": 231,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 134,
+      "value": 138,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 107,
+      "value": 112,
       "rang": 3
     },
     {
       "key": "HIDALGO Anne",
-      "value": 78,
+      "value": 86,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 67,
+      "value": 74,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 56,
+      "value": 63,
       "rang": 6
     },
     {
       "key": "LASSALLE Jean",
-      "value": 39,
+      "value": 43,
       "rang": 7
     },
     {
@@ -44,8 +44,13 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 27,
+      "value": 33,
       "rang": 9
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 17,
+      "rang": 10
     },
     {
       "key": "POUTOU Philippe",
@@ -53,19 +58,14 @@
       "rang": 10
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 16,
-      "rang": 11
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 12,
+      "key": "LE PEN Marine",
+      "value": 14,
       "rang": 12
     },
     {
-      "key": "LE PEN Marine",
-      "value": 10,
-      "rang": 13
+      "key": "TAUBIRA Christiane",
+      "value": 14,
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",
@@ -78,59 +78,59 @@
       "rang": 14
     },
     {
+      "key": "ASSELINEAU François",
+      "value": 5,
+      "rang": 16
+    },
+    {
       "key": "KUZMANOVIC Georges",
       "value": 3,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 3,
-      "rang": 16
+      "rang": 17
     },
     {
-      "key": "ASSELINEAU François",
+      "key": "SMATI  Rafik",
+      "value": 3,
+      "rang": 17
+    },
+    {
+      "key": "EGGER Clara",
       "value": 2,
-      "rang": 18
+      "rang": 20
     },
     {
       "key": "KAZIB Anasse",
       "value": 2,
-      "rang": 18
-    },
-    {
-      "key": "SMATI  Rafik",
-      "value": 2,
-      "rang": 18
+      "rang": 20
     },
     {
       "key": "BARNIER Michel",
       "value": 1,
-      "rang": 21
-    },
-    {
-      "key": "EGGER Clara",
-      "value": 1,
-      "rang": 21
+      "rang": 22
     },
     {
       "key": "MAZUEL Philippe",
       "value": 1,
-      "rang": 21
+      "rang": 22
     },
     {
       "key": "RIVOAL Stéphanie",
       "value": 1,
-      "rang": 21
+      "rang": 22
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 21
+      "rang": 22
     },
     {
       "key": "WENDLINGER Stéphane",
       "value": 1,
-      "rang": 21
+      "rang": 22
     }
   ]
 }

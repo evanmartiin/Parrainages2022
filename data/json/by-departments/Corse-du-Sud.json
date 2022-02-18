@@ -1,6 +1,6 @@
 {
   "nom": "Corse-du-Sud",
-  "total": 30,
+  "total": 31,
   "votes": [
     {
       "key": "LASSALLE Jean",
@@ -29,6 +29,11 @@
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
       "rang": 6
     },

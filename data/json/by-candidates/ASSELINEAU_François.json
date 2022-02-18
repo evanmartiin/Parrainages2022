@@ -1,7 +1,7 @@
 {
   "nom": "ASSELINEAU François",
-  "votes_confirmes": 210,
-  "votes_totaux": 210,
+  "votes_confirmes": 217,
+  "votes_totaux": 217,
   "rang": 12,
   "valide": false,
   "parrainages": [
@@ -1684,15 +1684,71 @@
       "circonscription": "Famechon",
       "departement": "Somme",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "DESCHAMPS Roland",
+      "fonction": "Maire",
+      "circonscription": "Artemare",
+      "departement": "Ain",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "FORGET Jean-Didier",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Olizy-Primat",
+      "departement": "Ardennes",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "KOCIUBA Michel",
+      "fonction": "Maire",
+      "circonscription": "Sault-lès-Rethel",
+      "departement": "Ardennes",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "SAUCE Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Marquigny",
+      "departement": "Ardennes",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAHOUX Marc",
+      "fonction": "Maire",
+      "circonscription": "Labastide-Esparbairenque",
+      "departement": "Aude",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "SÉNÉCLAUZE Bruno",
+      "fonction": "Maire",
+      "circonscription": "Beaumont-Monteux",
+      "departement": "Drôme",
+      "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "TEYSSOT Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Chastel-Arnaud",
+      "departement": "Drôme",
+      "date": "2022-02-17"
     }
   ],
   "stats": {
     "genre": {
-      "total": 210,
+      "total": 217,
       "valeurs": [
         {
           "key": "M.",
-          "value": 160,
+          "value": 167,
           "rang": 1
         },
         {
@@ -1703,16 +1759,16 @@
       ]
     },
     "fonction": {
-      "total": 210,
+      "total": 217,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 168,
+          "value": 174,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 41,
+          "value": 42,
           "rang": 2
         },
         {
@@ -1723,7 +1779,7 @@
       ]
     },
     "circonscription": {
-      "total": 209,
+      "total": 216,
       "valeurs": [
         {
           "key": "Clermont-en-Argonne",
@@ -1786,6 +1842,11 @@
           "rang": 7
         },
         {
+          "key": "Artemare",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Audeloncourt",
           "value": 1,
           "rang": 7
@@ -1832,6 +1893,11 @@
         },
         {
           "key": "Bayecourt",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "Beaumont-Monteux",
           "value": 1,
           "rang": 7
         },
@@ -1942,6 +2008,11 @@
         },
         {
           "key": "Champ-Haut",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "Chastel-Arnaud",
           "value": 1,
           "rang": 7
         },
@@ -2186,6 +2257,11 @@
           "rang": 7
         },
         {
+          "key": "Labastide-Esparbairenque",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Lagery",
           "value": 1,
           "rang": 7
@@ -2286,6 +2362,11 @@
           "rang": 7
         },
         {
+          "key": "Marquigny",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Mars-sous-Bourcq",
           "value": 1,
           "rang": 7
@@ -2337,6 +2418,11 @@
         },
         {
           "key": "Obervisse",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "Olizy-Primat",
           "value": 1,
           "rang": 7
         },
@@ -2551,6 +2637,11 @@
           "rang": 7
         },
         {
+          "key": "Sault-lès-Rethel",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Savigny-sous-Mâlain",
           "value": 1,
           "rang": 7
@@ -2743,7 +2834,7 @@
       ]
     },
     "departement": {
-      "total": 210,
+      "total": 217,
       "valeurs": [
         {
           "key": "Haute-Marne",
@@ -2776,49 +2867,49 @@
           "rang": 6
         },
         {
+          "key": "Ardennes",
+          "value": 9,
+          "rang": 7
+        },
+        {
           "key": "Moselle",
           "value": 8,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "Orne",
           "value": 8,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "Hérault",
           "value": 7,
-          "rang": 9
-        },
-        {
-          "key": "Ardennes",
-          "value": 6,
-          "rang": 10
-        },
-        {
-          "key": "Aveyron",
-          "value": 6,
           "rang": 10
         },
         {
           "key": "Aude",
-          "value": 5,
-          "rang": 12
+          "value": 6,
+          "rang": 11
+        },
+        {
+          "key": "Aveyron",
+          "value": 6,
+          "rang": 11
         },
         {
           "key": "Manche",
           "value": 5,
-          "rang": 12
+          "rang": 13
         },
         {
           "key": "Somme",
           "value": 5,
-          "rang": 12
+          "rang": 13
         },
         {
           "key": "Yonne",
           "value": 5,
-          "rang": 12
+          "rang": 13
         },
         {
           "key": "Dordogne",
@@ -2842,6 +2933,11 @@
         },
         {
           "key": "Charente-Maritime",
+          "value": 2,
+          "rang": 19
+        },
+        {
+          "key": "Drôme",
           "value": 2,
           "rang": 19
         },
@@ -2876,84 +2972,89 @@
           "rang": 19
         },
         {
+          "key": "Ain",
+          "value": 1,
+          "rang": 28
+        },
+        {
           "key": "Ardèche",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Calvados",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Eure",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Haut-Rhin",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Jura",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Seine-et-Marne",
           "value": 1,
-          "rang": 27
+          "rang": 28
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 27
+          "rang": 28
         }
       ]
     },
     "date": {
-      "total": 210,
+      "total": 217,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -2979,6 +3080,11 @@
           "key": "2022-02-01",
           "value": 10,
           "rang": 5
+        },
+        {
+          "key": "2022-02-17",
+          "value": 7,
+          "rang": 6
         }
       ]
     }
