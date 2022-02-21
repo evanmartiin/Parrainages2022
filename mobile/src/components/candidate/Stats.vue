@@ -45,6 +45,7 @@
 </template>
 
 <script>
+import * as d3 from "d3"
 import DonutChart from "../../utils/DonutChart"
 
 export default {
@@ -60,6 +61,8 @@ export default {
       width: 500,
       height: 500
     })
+    chart.id = "pie-graph"
+    d3.select("#pie-graph").remove()
     document.getElementsByClassName("fonction")[0].prepend(chart)
   }
 }
