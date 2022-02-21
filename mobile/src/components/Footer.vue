@@ -15,7 +15,7 @@ export default {
 .footer {
   color: #000000;
   box-sizing: border-box;
-  padding: 0 35px 35px 35px;
+  padding: 35px;
   text-align: center;
 }
 

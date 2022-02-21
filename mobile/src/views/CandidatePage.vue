@@ -3,8 +3,14 @@
     <Header :needsBack="true"/>
     <Hero v-if="!loading" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux" :validated="candidate.valide" :nav="nav" />
     <Map v-if="!loading" :deps="candidate.stats.departement.valeurs" />
-    <Departments v-if="!loading" :data="candidate" />
-    <Stats/>
+    <Departments v-if="!loading" :deps="candidate.stats.departement.valeurs" :dates="candidate.stats.date.valeurs" />
+    <Stats v-if="!loading" :gender="candidate.stats.genre" :functions="candidate.stats.fonction" />
+    <div class="loading" v-if="loading">
+      <p>Chargement des données...</p>
+    </div>
+    <div class="error" v-if="error">
+      <p>Une erreur est survenue.</p>
+    </div>
   </div>
 </template>
 
@@ -161,3 +167,11 @@ export default {
   },
 }
 </script>
+
+<style scoped lang="scss">
+.loading p, .error p {
+  text-align: center;
+  font-style: italic;
+  margin: 50px 0;
+}
+</style>

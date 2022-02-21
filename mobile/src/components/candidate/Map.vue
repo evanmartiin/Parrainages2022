@@ -484,12 +484,10 @@ h1 {
   flex-direction: column;
   align-items: center;
 
-  img {
-    width: 300px;
-    margin-top: 15px;
+  svg {
+    margin-top: 20px;
   }
 }
-
 
 .legend {
   margin-top: 35px;
@@ -511,6 +509,4 @@ h1 {
     }
   }
 }
-
-
 </style>

@@ -1,11 +1,11 @@
 <template>
   <div class="stats">
-    <h1>Statistiques des parrains d'Emmanuel MACRON</h1>
+    <h1>Statistiques des parrains</h1>
     
     <div class="gender">
       <div class="graph">
-        <p>72%</p>
-        <p>28%</p>
+        <p>{{ Math.round(gender.valeurs.find(el => el.key === "M.").value/gender.total * 100) }}%</p>
+        <p>{{ Math.round(gender.valeurs.find(el => el.key === "Mme").value/gender.total * 100) }}%</p>
       </div>
       <div class="caption">
         <p>Homme</p>
@@ -14,7 +14,6 @@
     </div>
 
     <div class="fonction">
-      <img src="@/assets/img/fonction-graph.png" alt="">
       <div class="caption">
         <div class="el">
           <div style="background-color: #C9191E"></div>
@@ -46,18 +45,31 @@
 </template>
 
 <script>
+import DonutChart from "../../utils/DonutChart"
+
 export default {
-  name: 'Stats'
+  name: 'Stats',
+  props: {
+    gender: Object,
+    functions: Object
+  },
+  mounted() {
+    const chart = DonutChart(this.functions.valeurs, {
+      name: d => d.key,
+      value: d => d.value,
+      width: 500,
+      height: 500
+    })
+    document.getElementsByClassName("fonction")[0].prepend(chart)
+  }
 }
 </script>
 
 <style scoped lang="scss">
 .stats {
-  width: 100%;
-  background-color: #000091;
-  padding: 35px;
   box-sizing: border-box;
-  color: #ffffff;
+  padding: 20px;
+  margin-top: 50px;
 }
 
 h1 {
@@ -70,44 +82,46 @@ h1 {
   display: flex;
   flex-direction: column;
   margin-bottom: 60px;
+
+  .graph {
+    border: 2px solid #ffffff;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 6px;
+    background: linear-gradient(90deg, #000091 72%, #C9191E 72%);
+  }
+
+  .caption {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 6px;
+  }
 }
 
-.gender .graph {
-  border: 2px solid #ffffff;
-  box-sizing: border-box;
-  display: flex;
-  justify-content: space-between;
-  padding: 3px 6px;
-  background: linear-gradient(90deg, #000091 72%, #C9191E 72%);
-}
+.fonction {
+  img {
+    width: 300px;
+  }
 
-.gender .caption {
-  box-sizing: border-box;
-  display: flex;
-  justify-content: space-between;
-  padding: 3px 6px;
-}
+  .caption {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
 
-.fonction img {
-  width: 300px;
-}
+    .el {
+      display: flex;
+      align-items: center;
+      text-align: left;
 
-.fonction .caption {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 10px;
-}
-
-.fonction .caption .el {
-  display: flex;
-  align-items: center;
-  text-align: left;
-}
-
-.fonction .caption .el div {
-  width: 30px;
-  height: 30px;
-  margin-right: 5px;
+      div {
+        width: 30px;
+        height: 30px;
+        margin-right: 5px;
+      }
+    }
+  }
 }
 </style>
