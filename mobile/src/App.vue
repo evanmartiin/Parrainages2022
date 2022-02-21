@@ -1,5 +1,6 @@
 <template>
   <div id="container">
+    <link rel="stylesheet" href="https://use.typekit.net/biu0dvk.css">
     <router-view/>
     <Footer/>
   </div>
@@ -17,43 +18,33 @@ export default {
 </script>
 
 <style lang="scss">
-@font-face {
-  font-family: "Marianne";
-  src: url(./assets/fonts/Marianne-Regular.otf) format("opentype");
-}
-@font-face {
-  font-family: "Marianne";
-  font-style: italic;
-  src: url(./assets/fonts/Marianne-RegularItalic.otf) format("opentype");
-}
-@font-face {
-  font-family: "Marianne";
-  font-weight: bold;
-  src: url(./assets/fonts/Marianne-Bold.otf) format("opentype");
-}
-
 body {
   margin: 0;
-  background-color: #000091;
 }
 
 h1 {
-  font-family: "Marianne";
-  font-weight: bold;
+  font-family: sofia-pro, sans-serif;
+  font-weight: 600;
   font-size: 24px;
   margin: 0;
 }
 
 h2 {
-  font-family: "Marianne";
-  font-weight: bold;
-  font-size: 20px;
+  font-family: sofia-pro, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
   margin: 0;
 }
 
 p {
-  font-family: "Marianne";
+  font-family: sofia-pro, sans-serif;
+  font-weight: 500;
   font-size: 14px;
   margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
 }
 </style>

@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from '@/views/Home.vue'
 import About from '@/views/About.vue'
 import GeneralStats from '@/views/GeneralStats.vue'
+// import CandidatePage from '@/views/CandidatePage.vue'
 
 const routes = [
   {
@@ -15,7 +16,7 @@ const routes = [
     component: About
   },
   {
-    path: '/candidate/:name',
+    path: '/candidate/:id',
     name: 'Candidate',
     component: () => import('@/views/CandidatePage.vue'),
     props: true

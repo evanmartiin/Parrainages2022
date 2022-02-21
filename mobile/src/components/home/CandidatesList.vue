@@ -2,7 +2,7 @@
   <div class="candidates-list">
     <h1>Chiffres par candidat</h1>
     <div v-if="!loading && candidates && candidates.length">
-      <Candidate v-for="candidate in candidates" :key="candidate" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux" :podium="candidate.rang <= 3"/>
+      <Candidate v-for="candidate in candidates" :key="candidate" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux"/>
     </div>
     <div class="loading" v-if="loading">
       <p>Chargement des données...</p>
@@ -69,36 +69,19 @@ export default {
 
 <style scoped lang="scss">
 h1 {
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 
 .candidates-list {
   background-color: #ffffff;
-  box-sizing: border-box;
-  border: 5px solid #E1000F;
   width: 100%;
-  padding: 35px;
+  padding: 20px;
   color: #000000;
+  box-sizing: border-box;
 }
 
-.candidate.podium {
-  margin-bottom: 35px;
-}
-
-.candidate.no-podium {
-  padding-top: 25px;
-  margin-top: 25px;
-  position: relative;
-}
-
-.candidate.no-podium:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 30%;
-  right: 30%;
-  height: 1px;
-  border-top: 1px solid #E1000F;
+.candidate {
+  margin-bottom: 15px;
 }
 
 .loading p, .error p {

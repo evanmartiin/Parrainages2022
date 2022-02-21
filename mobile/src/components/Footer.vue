@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
-    <p>Site non-gouvernemental — <a href="">@evantinmar</a></p>
-    <p>Projet open-source (<a href="">GitHub</a>)</p>
+    <p>Site non-gouvernemental — <a href="https://twitter.com/evantinmar" target="_blank">@evantinmar</a></p>
+    <p>Projet open-source (<a href="https://github.com/evanmartiin/Parrainages2022/" target="_blank">GitHub</a>)</p>
   </div>
 </template>
 
@@ -13,15 +13,14 @@ export default {
 
 <style scoped lang="scss">
 .footer {
-  background-color: #000091;
-  color: #ffffff;
+  color: #000000;
   box-sizing: border-box;
-  padding: 35px;
+  padding: 0 35px 35px 35px;
   text-align: center;
 }
 
 a {
   font-style: italic;
-  color: #ffffff;
+  color: #000000;
 }
 </style>

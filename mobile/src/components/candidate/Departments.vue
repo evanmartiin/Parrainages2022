@@ -6,22 +6,22 @@
         <div class="el">
           <img src="@/assets/img/first-place.png" alt="">
           <div class="content">
-            <h2>Ardèche</h2>
-            <p>41 parrainages</p>
+            <h2>{{ data.stats.departement.valeurs[0].key }}</h2>
+            <p>{{ data.stats.departement.valeurs[0].value }} parrainages</p>
           </div>
         </div>
         <div class="el">
           <img src="@/assets/img/second-place.png" alt="">
           <div class="content">
-            <h2>Territoire de Belfort</h2>
-            <p>32 parrainages</p>
+            <h2>{{ data.stats.departement.valeurs[1].key }}</h2>
+            <p>{{ data.stats.departement.valeurs[1].value }} parrainages</p>
           </div>
         </div>
         <div class="el">
           <img src="@/assets/img/third-place.png" alt="">
           <div class="content">
-            <h2>Yvelines</h2>
-            <p>26 parrainages</p>
+            <h2>{{ data.stats.departement.valeurs[2].key }}</h2>
+            <p>{{ data.stats.departement.valeurs[2].value }} parrainages</p>
           </div>
         </div>
       </div>
@@ -42,7 +42,13 @@ export default {
   name: 'Departments',
   components: {
     Button
-  }
+  },
+  props: {
+    data: String
+  },
+  // setup(props) {
+  //   console.log(props.data.stats.departement.valeurs)
+  // }
 }
 </script>
 

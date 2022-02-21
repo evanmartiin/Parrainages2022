@@ -1,10 +1,9 @@
 <template>
   <div class="candidate-page">
-    <h1>{{ name }}</h1>
     <Header :needsBack="true"/>
-    <Hero/>
-    <Map/>
-    <Departments/>
+    <Hero v-if="!loading" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux" :validated="candidate.valide" :nav="nav" />
+    <Map v-if="!loading" :deps="candidate.stats.departement.valeurs" />
+    <Departments v-if="!loading" :data="candidate" />
     <Stats/>
   </div>
 </template>
@@ -15,7 +14,7 @@ import Hero from '@/components/candidate/Hero.vue'
 import Map from '@/components/candidate/Map.vue'
 import Departments from '@/components/candidate/Departments.vue'
 import Stats from '@/components/candidate/Stats.vue'
-// import { ref, onMounted } from 'vue'
+import { ref, onMounted } from 'vue'
 
 export default {
   name: 'CandidatePage',
@@ -27,51 +26,138 @@ export default {
     Stats
   },
   props: {
-    name: String
-  }
-  // setup() {
-  //   const candidates = ref(null);
-  //   const loading = ref(true);
-  //   const error = ref(null);
-
-  //   async function fetchData() {
-  //     loading.value = true;
+    id: {
+      type: String,
+      required: true
+    }
+  },
+  async beforeRouteUpdate(to) {
+      this.loading = true;
       
-  //     fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/all_candidates.json')
-  //       .then(res => {
-  //         if (!res.ok) {
-  //           const error = new Error(res.statusText);
-  //           error.json = res.json();
-  //           throw error;
-  //         }
+      fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/' + to.params.id + '.json')
+        .then(res => {
+          if (!res.ok) {
+            const error = new Error(res.statusText);
+            this.error.json = res.json();
+            throw error;
+          }
 
-  //         return res.json();
-  //       })
-  //       .then(json => {
-  //         candidates.value = json;
-  //       })
-  //       .catch(err => {
-  //         error.value = err;
-  //         if (err.json) {
-  //           return err.json.then(json => {
-  //             error.value.message = json.message;
-  //           });
-  //         }
-  //       })
-  //       .then(() => {
-  //         loading.value = false;
-  //       });
-  //   }
+          return res.json();
+        })
+        .then(json => {
+          this.candidate = json;
+        })
+        .catch(err => {
+          this.error = err;
+          if (err.json) {
+            return err.json.then(json => {
+              this.error.message = json.message;
+            });
+          }
+        })
+        .then(() => {
+          fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/all_candidates.json')
+            .then(res => {
+              if (!res.ok) {
+                const error = new Error(res.statusText);
+                this.error.json = res.json();
+                throw error;
+              }
 
-  //   onMounted(() => {
-  //     fetchData();
-  //   });
+              return res.json();
+            })
+            .then(json => {
+              let index = json.findIndex((el) => el.nom === to.params.id.replace('_', ' '));
+              this.nav = {
+                prev: json[index - 1],
+                next: json[index + 1]
+              }
+            })
+            .catch(err => {
+              this.error = err;
+              if (err.json) {
+                return err.json.then(json => {
+                  this.error.message = json.message;
+                });
+              }
+            })
+            .then(() => {
+              this.loading = false;
+            });
+        });
+  },
+  setup(props) {
+    const candidate = ref(null);
+    const nav = ref(null);
+    const loading = ref(true);
+    const error = ref(null);
 
-  //   return {
-  //     candidates,
-  //     loading,
-  //     error
-  //   };
-  // }
+    function fetchData() {
+      loading.value = true;
+      
+      fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/' + props.id + '.json')
+        .then(res => {
+          if (!res.ok) {
+            const error = new Error(res.statusText);
+            error.json = res.json();
+            throw error;
+          }
+
+          return res.json();
+        })
+        .then(json => {
+          candidate.value = json;
+        })
+        .catch(err => {
+          error.value = err;
+          if (err.json) {
+            return err.json.then(json => {
+              error.value.message = json.message;
+            });
+          }
+        })
+        .then(() => {
+          fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/all_candidates.json')
+            .then(res => {
+              if (!res.ok) {
+                const error = new Error(res.statusText);
+                error.json = res.json();
+                throw error;
+              }
+
+              return res.json();
+            })
+            .then(json => {
+              let index = json.findIndex((el) => el.nom === props.id.replace('_', ' '));
+              nav.value = {
+                prev: json[index - 1],
+                next: json[index + 1]
+              }
+            })
+            .catch(err => {
+              error.value = err;
+              if (err.json) {
+                return err.json.then(json => {
+                  error.value.message = json.message;
+                });
+              }
+            })
+            .then(() => {
+              loading.value = false;
+            });
+        });
+    }
+
+    onMounted(() => {
+      fetchData();
+    });
+
+    return {
+      candidate,
+      nav,
+      loading,
+      error
+    };
+  },
 }
 </script>

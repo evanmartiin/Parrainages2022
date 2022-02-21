@@ -1,106 +1,197 @@
 <template>
   <div class="hero">
     <div class="details">
-      <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
-      <div class="text">
-        <h1>Emmanuel MACRON</h1>
-        <p><a href="">La République en Marche</a></p>
-      </div>
+      <img :src="getImgUrl" alt="">
+      <p class="rank">#{{ rank }}</p>
+      <h1>{{ name }}</h1>
+      <p class="party"><a href="">La République en Marche</a></p>
     </div>
-    <div class="stats">
-      <div class="rank">
-        <img src="@/assets/img/rank.png" alt="">
-        <p>2ème place</p>
+
+    <div class="votes">
+      <div class="content">
+        <p class="t1">{{ votes }}<span> / 500</span></p>
+        <div class="progress" :style="style"></div>
+        <p class="t2">parrainages recueillis</p>
       </div>
-      <div class="votes">
-        <img src="@/assets/img/votes.png" alt="">
-        <p>1050 parrainages <br><span>dont 1023 valables</span></p>
-        <div class="validated">Qualifié</div>
-      </div>
+      <img v-if="validated" class="checked" src="@/assets/img/checked.png" alt="">
+    </div>
+
+    <div class="nav">
+      <router-link :to="'/candidate/' + nav.prev.nom.replace(/\s+/g, '_')" class="prev" v-if="nav.prev">
+        <div>
+          <img class="arrow" src="@/assets/img/arrow-right.png" alt="">
+          <img class="profile" :src="getPrevUrl" alt="">
+        </div>
+        <p>{{ nav.prev.nom }}</p>
+      </router-link>
+      <router-link :to="'/candidate/' + nav.next.nom.replace(/\s+/g, '_')" class="next" v-if="nav.next">
+        <div>
+          <img class="profile" :src="getNextUrl" alt="">
+          <img class="arrow" src="@/assets/img/arrow-right.png" alt="">
+        </div>
+        <p>{{ nav.next.nom }}</p>
+      </router-link>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Hero'
+  name: 'Hero',
+  props: {
+    rank: Number,
+    name: String,
+    votes: Number,
+    validated: Boolean,
+    nav: Object
+  },
+  computed: {
+    style() {
+      const color = this.votes >= 500 ? '#71DBA8 ' : '#FFDD9B '
+      return 'background: linear-gradient(90deg, ' + color + Math.min(this.votes/5, 100) + '%, #EFEFEF ' + Math.min(this.votes/5, 100) + '%);'
+    },
+    getImgUrl() {
+      const images = require.context('@/assets/img/candidates/', false, /\.png$/)
+      const image = registeredCandidates.includes(this.name) ? images('./' + this.name.replace(/\s+/g, '_') + '.png') : images('./default.png')
+      return image
+    },
+    getPrevUrl() {
+      const images = require.context('@/assets/img/candidates/', false, /\.png$/)
+      const image = registeredCandidates.includes(this.nav.prev.nom) ? images('./' + this.nav.prev.nom.replace(/\s+/g, '_') + '.png') : images('./default.png')
+      return image
+    },
+    getNextUrl() {
+      const images = require.context('@/assets/img/candidates/', false, /\.png$/)
+      const image = registeredCandidates.includes(this.nav.next.nom) ? images('./' + this.nav.next.nom.replace(/\s+/g, '_') + '.png') : images('./default.png')
+      return image
+    },
+  }
 }
+
+const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO Anne"]
 </script>
 
 <style scoped lang="scss">
 .hero {
   background-color: #ffffff;
   box-sizing: border-box;
-  border: 5px solid #E1000F;
-  width: 100%;
-  padding: 35px;
-  color: #000000;
-}
+  padding: 20px;
+  margin-top: 50px;
 
-.details {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 60px 15px 1fr;
-  align-items: center;
-}
+  .details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 50px;
 
-.details img {
-  grid-column: 1/2;
-  width: 60px;
-  border: 4px solid #E1000F;
-  box-sizing: border-box;
-  border-radius: 50%;
-}
+    img {
+      width: 150px;
+      margin-bottom: 15px;
+    }
 
-.details .text {
-  grid-column: 3/4;
-  text-align: left;
-}
+    .rank {
+      padding: 5px 15px;
+      border-radius: 15px;
+      background-color: #101046;
+      color: #ffffff;
+    }
 
-.details h1 {
-  margin-bottom: 5px;
-}
+    .party {
+      color: #799CD0;
+    }
+  }
 
-.details a {
-  color: #000000;
-}
+  .votes {
+    border-radius: 13px;
+    box-shadow: 0px 20px 100px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    gap: 30px;
 
-.stats {
-  margin-top: 35px;
-  margin-left: 30px;
-}
+    .content {
+      width: 100%;
 
-.rank {
-  margin-bottom: 15px;
-}
+      .t1 {
+        font-size: 40px;
+        font-weight: 700;
 
-.rank, .votes {
-  display: flex;
-  align-items: center;
-}
+        span {
+          font-size: 20px;
+          font-weight: 600;
+          opacity: .5;
+        }
+      }
 
-.rank img, .votes img {
-  width: 30px;
-  margin-right: 15px;
-}
+      .progress {
+        width: 100%;
+        height: 5px;
+        border-radius: 10px;
+        margin: 10px 0;
+      }
 
-.rank p, .votes p {
-  text-align: left;
-  line-height: 1rem;
-}
+      .t2 {
+        font-size: 18px;
+      }
+    }
 
-.votes span {
-  font-size: 11px;
-  font-style: italic;
-}
+    .checked {
+      width: 30px;
+    }
+  }
 
-.votes .validated {
-  background-color: #000091;
-  color: #ffffff;
-  text-transform: uppercase;
-  font-weight: bold;
-  padding: 2px 10px;
-  margin-left: 15px;
-  font-family: "Marianne";
+  .nav {
+    display: grid;
+    grid-template-columns: 90px 1fr 90px;
+    margin-top: 50px;
+
+    .prev {
+      grid-column: 1/2;
+    }
+
+    .next {
+      grid-column: 3/4;
+      align-items: flex-end;
+    }
+
+    .prev, .next {
+      display: flex;
+      flex-direction: column;
+
+      div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        padding: 5px 10px;
+        border: 1px solid #DBDBDB;
+        border-radius: 50px;
+
+        .arrow {
+          width: 20px;
+        }
+        
+        .profile {
+          width: 40px;
+        }
+      }
+      
+      p {
+        margin-top: 5px;
+        width: 150%;
+      }
+    }
+
+    .prev .arrow {
+      transform: rotateZ(180deg);
+    }
+
+    .next p {
+      text-align: right;
+    }
+  }
 }
 </style>

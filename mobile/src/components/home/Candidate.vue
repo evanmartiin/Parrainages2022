@@ -1,94 +1,94 @@
 <template>
-  <div v-if="podium" class="candidate podium">
-    <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
+  <router-link :to="getDestination" class="candidate">
+    <img class="profile" :src="getImgUrl">
     <div class="content">
       <h2>{{ rank }}. {{ name }}</h2>
-      <p>{{ votes }} parrainages</p>
-      <router-link to="/candidate" :name="name"><Button title="Voir en détail"/></router-link>
+      <p><img v-if="votes >= 500" class="checked" src="@/assets/img/checked.png" alt=""> {{ votes }} <span>/ 500 parrainages</span></p>
+      <div class="progress" :style="style"></div>
     </div>
-  </div>
-  <div v-else class="candidate no-podium">
-    <img src="@/assets/img/candidates/PÉCRESSE.png" alt="">
-    <div class="content">
-      <h2>{{ rank }}. {{ name }}</h2>
-      <p>{{ votes }} parrainages</p>
-    </div>
-    <router-link to="/candidate"><Button :light="true"/></router-link>
-  </div>
+    <img class="arrow" src="@/assets/img/arrow-right.png" alt="">
+  </router-link>
 </template>
 
 <script>
-import Button from '@/components/Button.vue'
-
 export default {
   name: 'Candidate',
   props: {
     rank: Number,
     name: String,
-    votes: Number,
-    podium: Boolean
+    votes: Number
   },
-  components: {
-    Button
+  computed: {
+    style() {
+      const color = this.votes >= 500 ? '#71DBA8 ' : '#FFDD9B '
+      return 'background: linear-gradient(90deg, ' + color + Math.min(this.votes/5, 100) + '%, #EFEFEF ' + Math.min(this.votes/5, 100) + '%);'
+    },
+    getImgUrl() {
+      const images = require.context('@/assets/img/candidates/', false, /\.png$/)
+      const image = registeredCandidates.includes(this.name) ? images('./' + this.name.replace(/\s+/g, '_') + '.png') : images('./default.png')
+      return image
+    },
+    getDestination() {
+      const path = "/candidate/" + this.name.replace(/\s+/g, '_')
+      return path
+    }
   }
 }
+
+const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO Anne"]
 </script>
 
 <style scoped lang="scss">
-.candidate.podium {
-  display: grid;
-  grid-template-columns: 70px 15px 1fr;
-}
-
-.podium img {
-  grid-column: 1/2;
-  width: 70px;
-  border: 4px solid #E1000F;
-  box-sizing: border-box;
-  border-radius: 50%;
-}
-
-.podium .content {
-  grid-column: 3/4;
+.candidate {
+  padding: 20px;
+  border-radius: 13px;
+  box-shadow: 0px 5px 100px rgba(0, 0, 0, 0.05);
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
+  align-items: center;
+  gap: 15px;
+  color: inherit;
+  text-decoration: inherit;
 
-h2 {
-  text-align: left;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  width: 100%;
-}
+  .profile {
+    width: 60px;
+  }
 
-.podium .button {
-  margin-top: 15px;
-}
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
 
-.candidate.no-podium {
-  display: grid;
-  grid-template-columns: 60px 15px 1fr 15px 30px;
-}
+    p {
+      font-size: 16px;
+      display: flex;
+      align-items: center;
 
-.no-podium img {
-  grid-column: 1/2;
-  width: 60px;
-  border: 4px solid #E1000F;
-  box-sizing: border-box;
-  border-radius: 50%;
-}
+      .checked {
+        width: 15px;
+        margin-right: 5px;
+        margin-top: 5px;
+      }
+  
+      span {
+        font-family: sofia-pro, sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        opacity: 50%;
+        margin-left: 5px;
+        margin-top: 2px;
+      }
+    }
+  
+    .progress {
+      width: 100%;
+      height: 5px;
+      border-radius: 10px;
+      margin-top: 10px;
+    }
+  }
 
-.no-podium .content {
-  grid-column: 3/4;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  width: calc(100vw - 190px);
-}
-
-.no-podium .light-button {
-  grid-column: 5/6;
+  .arrow {
+    width: 20px;
+  }
 }
 </style>
