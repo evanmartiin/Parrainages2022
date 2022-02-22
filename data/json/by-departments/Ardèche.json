@@ -1,6 +1,6 @@
 {
   "nom": "Ardèche",
-  "total": 59,
+  "total": 68,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -9,83 +9,88 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 12,
+      "value": 14,
       "rang": 2
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 5,
-      "rang": 3
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 5,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 3,
+      "value": 4,
       "rang": 6
     },
     {
       "key": "LASSALLE Jean",
-      "value": 2,
+      "value": 3,
       "rang": 7
     },
     {
       "key": "LE PEN Marine",
-      "value": 2,
+      "value": 3,
       "rang": 7
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 2,
-      "rang": 7
+      "rang": 9
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "BARNIER Michel",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "WENDLINGER Stéphane",
       "value": 1,
-      "rang": 10
+      "rang": 12
     }
   ]
 }

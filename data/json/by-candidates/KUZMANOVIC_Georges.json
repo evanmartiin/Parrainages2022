@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 38,
-  "votes_totaux": 38,
+  "votes_confirmes": 40,
+  "votes_totaux": 40,
   "rang": 17,
   "valide": false,
   "parrainages": [
@@ -308,15 +308,31 @@
       "circonscription": "Savianges",
       "departement": "Saône-et-Loire",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "WARNIER Eddy",
+      "fonction": "Maire",
+      "circonscription": "Landricourt",
+      "departement": "Aisne",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "LANG Sébastien",
+      "fonction": "Maire",
+      "circonscription": "Maxstadt",
+      "departement": "Moselle",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 38,
+      "total": 40,
       "valeurs": [
         {
           "key": "M.",
-          "value": 37,
+          "value": 39,
           "rang": 1
         },
         {
@@ -327,11 +343,11 @@
       ]
     },
     "fonction": {
-      "total": 38,
+      "total": 40,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 36,
+          "value": 38,
           "rang": 1
         },
         {
@@ -342,7 +358,7 @@
       ]
     },
     "circonscription": {
-      "total": 38,
+      "total": 40,
       "valeurs": [
         {
           "key": "Beaulieu",
@@ -415,6 +431,11 @@
           "rang": 1
         },
         {
+          "key": "Landricourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Le Mesnil-Simon",
           "value": 1,
           "rang": 1
@@ -431,6 +452,11 @@
         },
         {
           "key": "Maisnil",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Maxstadt",
           "value": 1,
           "rang": 1
         },
@@ -537,11 +563,11 @@
       ]
     },
     "departement": {
-      "total": 38,
+      "total": 40,
       "valeurs": [
         {
           "key": "Moselle",
-          "value": 4,
+          "value": 5,
           "rang": 1
         },
         {
@@ -605,6 +631,11 @@
           "rang": 13
         },
         {
+          "key": "Aisne",
+          "value": 1,
+          "rang": 13
+        },
+        {
           "key": "Ardèche",
           "value": 1,
           "rang": 13
@@ -657,7 +688,7 @@
       ]
     },
     "date": {
-      "total": 38,
+      "total": 40,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -685,9 +716,14 @@
           "rang": 5
         },
         {
+          "key": "2022-02-22",
+          "value": 2,
+          "rang": 5
+        },
+        {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 6
+          "rang": 7
         }
       ]
     }

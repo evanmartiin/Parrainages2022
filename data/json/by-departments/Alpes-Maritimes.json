@@ -1,15 +1,15 @@
 {
   "nom": "Alpes-Maritimes",
-  "total": 98,
+  "total": 111,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 68,
+      "value": 76,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 15,
       "rang": 2
     },
     {
@@ -18,29 +18,34 @@
       "rang": 3
     },
     {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 4
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 3,
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 5
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 6
     },
     {
-      "key": "JADOT Yannick",
+      "key": "EGGER Clara",
       "value": 1,
-      "rang": 5
+      "rang": 7
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 1,
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 5
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 5
+      "rang": 7
     }
   ]
 }

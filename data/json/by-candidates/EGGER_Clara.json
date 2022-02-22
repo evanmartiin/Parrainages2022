@@ -1,7 +1,7 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 16,
-  "votes_totaux": 16,
+  "votes_confirmes": 22,
+  "votes_totaux": 22,
   "rang": 19,
   "valide": false,
   "parrainages": [
@@ -132,37 +132,105 @@
       "circonscription": "Le Bourg",
       "departement": "Lot",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "SALOMONE Anthony",
+      "fonction": "Maire",
+      "circonscription": "Aiglun",
+      "departement": "Alpes-Maritimes",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOREIRA Georges",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Gentioux-Pigerolles",
+      "departement": "Creuse",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "LESOURD Maurice",
+      "fonction": "Maire",
+      "circonscription": "Lerné",
+      "departement": "Indre-et-Loire",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROSSO Michel",
+      "fonction": "Maire",
+      "circonscription": "Francheville",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "CICERO Roland",
+      "fonction": "Maire",
+      "circonscription": "Auribeau",
+      "departement": "Vaucluse",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BERNARD Chloé",
+      "fonction": "Présidente du conseil consulaire",
+      "circonscription": "Finlande, Lituanie, Lettonie, Estonie",
+      "departement": "Français de l'étranger",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 16,
+      "total": 22,
       "valeurs": [
         {
           "key": "M.",
-          "value": 14,
+          "value": 19,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 2,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 16,
+      "total": 22,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 16,
+          "value": 20,
           "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Présidente du conseil consulaire",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 16,
+      "total": 22,
       "valeurs": [
+        {
+          "key": "Aiglun",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Auribeau",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Bettrechies",
           "value": 1,
@@ -180,6 +248,21 @@
         },
         {
           "key": "Eyroles",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Finlande, Lituanie, Lettonie, Estonie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Francheville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Gentioux-Pigerolles",
           "value": 1,
           "rang": 1
         },
@@ -205,6 +288,11 @@
         },
         {
           "key": "Le Gallet",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Lerné",
           "value": 1,
           "rang": 1
         },
@@ -246,7 +334,7 @@
       ]
     },
     "departement": {
-      "total": 16,
+      "total": 22,
       "valeurs": [
         {
           "key": "Aisne",
@@ -259,69 +347,89 @@
           "rang": 1
         },
         {
+          "key": "Creuse",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Alpes-Maritimes",
+          "value": 1,
+          "rang": 5
+        },
+        {
           "key": "Ardèche",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 3
-        },
-        {
-          "key": "Creuse",
-          "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Dordogne",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Français de l'étranger",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 3
-        },
-        {
-          "key": "Indre-et-Loire",
-          "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Meurthe-et-Moselle",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Vaucluse",
+          "value": 1,
+          "rang": 5
         }
       ]
     },
     "date": {
-      "total": 16,
+      "total": 22,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -329,24 +437,29 @@
           "rang": 1
         },
         {
+          "key": "2022-02-22",
+          "value": 6,
+          "rang": 1
+        },
+        {
           "key": "2022-02-03",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

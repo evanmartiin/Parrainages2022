@@ -1,6 +1,6 @@
 {
   "nom": "Gers",
-  "total": 105,
+  "total": 112,
   "votes": [
     {
       "key": "HIDALGO Anne",
@@ -14,23 +14,23 @@
     },
     {
       "key": "KAZIB Anasse",
-      "value": 9,
-      "rang": 3
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 10,
       "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 8,
-      "rang": 5
+      "value": 10,
+      "rang": 3
+    },
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 10,
+      "rang": 3
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 8,
-      "rang": 5
+      "value": 10,
+      "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
@@ -48,6 +48,11 @@
       "rang": 8
     },
     {
+      "key": "ASSELINEAU François",
+      "value": 3,
+      "rang": 10
+    },
+    {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 3,
       "rang": 10
@@ -56,11 +61,6 @@
       "key": "JADOT Yannick",
       "value": 3,
       "rang": 10
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 2,
-      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",

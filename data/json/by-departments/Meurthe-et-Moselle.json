@@ -1,20 +1,20 @@
 {
   "nom": "Meurthe-et-Moselle",
-  "total": 164,
+  "total": 181,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 37,
+      "value": 41,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 25,
+      "value": 27,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 24,
+      "value": 26,
       "rang": 3
     },
     {
@@ -29,22 +29,22 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 10,
-      "rang": 6
+      "value": 11,
+      "rang": 5
     },
     {
-      "key": "JADOT Yannick",
-      "value": 8,
+      "key": "MACRON Emmanuel",
+      "value": 10,
       "rang": 7
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 7,
+      "value": 8,
       "rang": 8
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 7,
+      "key": "JADOT Yannick",
+      "value": 8,
       "rang": 8
     },
     {
@@ -68,19 +68,29 @@
       "rang": 13
     },
     {
-      "key": "RIVOAL Stéphanie",
-      "value": 1,
-      "rang": 14
-    },
-    {
       "key": "TAUBIRA Christiane",
-      "value": 1,
+      "value": 2,
       "rang": 14
     },
     {
       "key": "THOUY Hélène",
-      "value": 1,
+      "value": 2,
       "rang": 14
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 16
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 16
+    },
+    {
+      "key": "RIVOAL Stéphanie",
+      "value": 1,
+      "rang": 16
     }
   ]
 }

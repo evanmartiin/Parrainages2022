@@ -1,36 +1,41 @@
 {
   "nom": "Hautes-Alpes",
-  "total": 42,
+  "total": 53,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 10,
+      "value": 12,
       "rang": 1
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "key": "LASSALLE Jean",
+      "value": 9,
       "rang": 2
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 6,
-      "rang": 3
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 9,
+      "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 6,
-      "rang": 3
+      "value": 7,
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 4,
+      "value": 5,
       "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
+      "value": 5,
       "rang": 5
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "POUTOU Philippe",
@@ -40,17 +45,12 @@
     {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

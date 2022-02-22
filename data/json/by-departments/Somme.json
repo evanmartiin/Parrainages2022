@@ -1,61 +1,61 @@
 {
   "nom": "Somme",
-  "total": 114,
+  "total": 127,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 18,
+      "value": 19,
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 14,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 17,
       "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 15,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 13,
-      "rang": 3
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 13,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 11,
+      "value": 12,
       "rang": 5
     },
     {
       "key": "HIDALGO Anne",
-      "value": 9,
+      "value": 10,
       "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 7,
+      "value": 9,
       "rang": 7
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 7,
+      "rang": 8
     },
     {
       "key": "ASSELINEAU François",
       "value": 5,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 5,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "KAZIB Anasse",
       "value": 5,
-      "rang": 8
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
@@ -74,8 +74,8 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 15
+      "value": 2,
+      "rang": 13
     }
   ]
 }

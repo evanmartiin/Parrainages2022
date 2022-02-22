@@ -1,7 +1,7 @@
 {
   "nom": "SMATI  Rafik",
-  "votes_confirmes": 7,
-  "votes_totaux": 7,
+  "votes_confirmes": 8,
+  "votes_totaux": 8,
   "rang": 23,
   "valide": false,
   "parrainages": [
@@ -60,11 +60,19 @@
       "circonscription": "",
       "departement": "Pyrénées-Atlantiques",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DELOT Corinne",
+      "fonction": "Maire",
+      "circonscription": "Novel",
+      "departement": "Haute-Savoie",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "M.",
@@ -73,17 +81,17 @@
         },
         {
           "key": "Mme",
-          "value": 2,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 5,
+          "value": 6,
           "rang": 1
         },
         {
@@ -94,7 +102,7 @@
       ]
     },
     "circonscription": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
         {
           "key": "Bizeneuille",
@@ -117,6 +125,11 @@
           "rang": 1
         },
         {
+          "key": "Novel",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Publier",
           "value": 1,
           "rang": 1
@@ -124,8 +137,13 @@
       ]
     },
     "departement": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
+        {
+          "key": "Haute-Savoie",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "Meuse",
           "value": 2,
@@ -134,32 +152,27 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Haut-Rhin",
           "value": 1,
-          "rang": 2
-        },
-        {
-          "key": "Haute-Savoie",
-          "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
-          "rang": 2
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -175,6 +188,11 @@
           "key": "2022-02-17",
           "value": 2,
           "rang": 2
+        },
+        {
+          "key": "2022-02-22",
+          "value": 1,
+          "rang": 4
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "nom": "Lozère",
-  "total": 28,
+  "total": 32,
   "votes": [
     {
       "key": "POUTOU Philippe",
@@ -9,23 +9,23 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 4,
+      "value": 5,
       "rang": 2
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 4,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -38,19 +38,19 @@
       "rang": 6
     },
     {
-      "key": "MIGUET Nicolas",
-      "value": 1,
-      "rang": 8
-    },
-    {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 8
+      "value": 2,
+      "rang": 6
     },
     {
       "key": "PÉCRESSE Valérie",
+      "value": 2,
+      "rang": 6
+    },
+    {
+      "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 8
+      "rang": 10
     }
   ]
 }

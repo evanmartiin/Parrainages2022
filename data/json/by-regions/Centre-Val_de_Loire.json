@@ -1,50 +1,50 @@
 {
   "nom": "Centre-Val de Loire",
-  "total": 331,
+  "total": 358,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 80,
+      "value": 88,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 54,
+      "value": 59,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 29,
+      "value": 30,
       "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 23,
+      "value": 24,
       "rang": 4
     },
     {
       "key": "LASSALLE Jean",
-      "value": 21,
+      "value": 23,
       "rang": 5
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 22,
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 20,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "JADOT Yannick",
       "value": 19,
-      "rang": 7
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 19,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "LE PEN Marine",
-      "value": 15,
+      "value": 16,
       "rang": 9
     },
     {
@@ -54,12 +54,12 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 11,
+      "value": 13,
       "rang": 11
     },
     {
       "key": "POUTOU Philippe",
-      "value": 8,
+      "value": 9,
       "rang": 12
     },
     {
@@ -68,39 +68,39 @@
       "rang": 13
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 2,
+      "key": "KOENIG Gaspard",
+      "value": 4,
       "rang": 14
     },
     {
-      "key": "KOENIG Gaspard",
+      "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 14
+      "rang": 15
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 2,
+      "rang": 15
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 14
-    },
-    {
-      "key": "EGGER Clara",
-      "value": 1,
-      "rang": 18
+      "rang": 15
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "VIEIRA Gildas",
       "value": 1,
-      "rang": 18
+      "rang": 19
     }
   ]
 }

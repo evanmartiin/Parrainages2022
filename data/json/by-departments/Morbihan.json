@@ -1,10 +1,10 @@
 {
   "nom": "Morbihan",
-  "total": 35,
+  "total": 42,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 18,
+      "value": 19,
       "rang": 1
     },
     {
@@ -14,28 +14,38 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 2,
+      "value": 3,
+      "rang": 3
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 3
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 3,
       "rang": 3
     },
     {
       "key": "KOENIG Gaspard",
       "value": 2,
-      "rang": 3
+      "rang": 6
     },
     {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 3
+      "rang": 6
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 2,
-      "rang": 3
-    },
-    {
-      "key": "JADOT Yannick",
+      "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 8
     }
   ]
 }

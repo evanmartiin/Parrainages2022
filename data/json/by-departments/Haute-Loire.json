@@ -1,10 +1,10 @@
 {
   "nom": "Haute-Loire",
-  "total": 21,
+  "total": 25,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 10,
+      "value": 11,
       "rang": 1
     },
     {
@@ -28,6 +28,11 @@
       "rang": 2
     },
     {
+      "key": "FORTANÉ Jean-Marc",
+      "value": 1,
+      "rang": 6
+    },
+    {
       "key": "HIDALGO Anne",
       "value": 1,
       "rang": 6
@@ -39,6 +44,16 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 6
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 1,
       "rang": 6
     }

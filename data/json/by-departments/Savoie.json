@@ -1,16 +1,21 @@
 {
   "nom": "Savoie",
-  "total": 48,
+  "total": 56,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 22,
+      "value": 26,
       "rang": 1
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
+      "value": 6,
       "rang": 2
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
@@ -20,47 +25,42 @@
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "LE PEN Marine",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "KAZIB Anasse",
-      "value": 1,
-      "rang": 8
+      "rang": 5
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 1,
+      "value": 2,
       "rang": 8
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 1,
+      "value": 2,
       "rang": 8
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 10
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 10
     }
   ]
 }

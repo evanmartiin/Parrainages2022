@@ -1,10 +1,10 @@
 {
   "nom": "Essonne",
-  "total": 87,
+  "total": 95,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 44,
+      "value": 48,
       "rang": 1
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 5,
+      "value": 6,
       "rang": 4
     },
     {
@@ -33,29 +33,34 @@
       "rang": 6
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
+      "rang": 6
+    },
+    {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 8
+      "rang": 9
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 1,
+      "rang": 9
     }
   ]
 }

@@ -22,7 +22,7 @@ export default function byDepartments(data) {
 
     departments.forEach(dep => {
         dep.votes = stats(dep.votes, false)
-        fs.writeFileSync(path.resolve('data/json/by-departments/', dep.nom.replace(/\s+/g, '_').replace(/'/g, '-') + '.json'), JSON.stringify(dep, null, 2));
+        fs.writeFileSync(path.resolve('data/json/by-departments/', dep.nom.replace(/\//g, '-').replace(/\s+/g, '_').replace(/'/g, '-') + '.json'), JSON.stringify(dep, null, 2));
     })
 
     fs.writeFileSync(path.resolve('data/json/by-departments/', 'all_departments.json'), JSON.stringify(departments, null, 2));

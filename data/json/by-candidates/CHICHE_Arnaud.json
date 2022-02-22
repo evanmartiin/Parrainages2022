@@ -1,7 +1,7 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 8,
-  "votes_totaux": 8,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
   "rang": 22,
   "valide": false,
   "parrainages": [
@@ -68,15 +68,23 @@
       "circonscription": "Lihons",
       "departement": "Somme",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "GENDRY Michel",
+      "fonction": "Maire",
+      "circonscription": "Parcé-sur-Sarthe",
+      "departement": "Sarthe",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
-          "value": 5,
+          "value": 6,
           "rang": 1
         },
         {
@@ -87,17 +95,17 @@
       ]
     },
     "fonction": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 8,
+          "value": 9,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Binarville",
@@ -138,11 +146,16 @@
           "key": "Neuvilly",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Parcé-sur-Sarthe",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Somme",
@@ -175,6 +188,11 @@
           "rang": 2
         },
         {
+          "key": "Sarthe",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Seine-Maritime",
           "value": 1,
           "rang": 2
@@ -182,7 +200,7 @@
       ]
     },
     "date": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -201,6 +219,11 @@
         },
         {
           "key": "2022-02-10",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "2022-02-22",
           "value": 1,
           "rang": 3
         }

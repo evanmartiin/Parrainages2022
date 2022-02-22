@@ -1,6 +1,6 @@
 {
   "nom": "Moselle",
-  "total": 157,
+  "total": 172,
   "votes": [
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -8,14 +8,14 @@
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 19,
+      "key": "PÉCRESSE Valérie",
+      "value": 24,
       "rang": 2
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 19,
-      "rang": 2
+      "key": "MACRON Emmanuel",
+      "value": 20,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -23,27 +23,32 @@
       "rang": 4
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 11,
+      "key": "LASSALLE Jean",
+      "value": 13,
       "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 11,
-      "rang": 5
+      "value": 12,
+      "rang": 6
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 10,
+      "key": "KAZIB Anasse",
+      "value": 11,
       "rang": 7
     },
     {
       "key": "LE PEN Marine",
       "value": 10,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ASSELINEAU François",
+      "value": 8,
+      "rang": 9
+    },
+    {
+      "key": "HIDALGO Anne",
       "value": 8,
       "rang": 9
     },
@@ -53,29 +58,24 @@
       "rang": 9
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 6,
-      "rang": 11
-    },
-    {
       "key": "KUZMANOVIC Georges",
-      "value": 4,
+      "value": 5,
       "rang": 12
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
-      "rang": 12
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 4,
+      "value": 5,
       "rang": 12
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 3,
-      "rang": 15
+      "value": 4,
+      "rang": 14
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 4,
+      "rang": 14
     },
     {
       "key": "CHICHE Arnaud",

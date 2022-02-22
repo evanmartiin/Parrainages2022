@@ -1,41 +1,41 @@
 {
   "nom": "Pays de la Loire",
-  "total": 249,
+  "total": 281,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 68,
+      "value": 79,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 61,
+      "value": 67,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 33,
+      "value": 38,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 25,
+      "value": 27,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 13,
+      "value": 15,
       "rang": 5
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 10,
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 9,
-      "rang": 6
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 9,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
@@ -44,17 +44,17 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 6,
+      "value": 7,
       "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 4,
+      "value": 5,
       "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 4,
+      "value": 5,
       "rang": 10
     },
     {
@@ -71,6 +71,16 @@
       "key": "POUTOU Philippe",
       "value": 2,
       "rang": 13
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "SAINT-PAUL Laetitia",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "THOUY Hélène",

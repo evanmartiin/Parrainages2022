@@ -1,6 +1,6 @@
 {
   "nom": "Haute-Saône",
-  "total": 105,
+  "total": 114,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -9,53 +9,53 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 15,
       "rang": 2
     },
     {
       "key": "POUTOU Philippe",
-      "value": 9,
+      "value": 10,
       "rang": 3
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 9,
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 8,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 8,
-      "rang": 4
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 8,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "HIDALGO Anne",
-      "value": 7,
-      "rang": 7
+      "value": 8,
+      "rang": 5
     },
     {
       "key": "LE PEN Marine",
       "value": 7,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 7,
+      "rang": 8
     },
     {
       "key": "JADOT Yannick",
       "value": 5,
-      "rang": 9
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 11
+      "value": 5,
+      "rang": 10
     },
     {
       "key": "ASSELINEAU François",
@@ -79,6 +79,11 @@
     },
     {
       "key": "EGGER Clara",
+      "value": 1,
+      "rang": 16
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 1,
       "rang": 16
     },

@@ -1,15 +1,15 @@
 {
   "nom": "Aude",
-  "total": 119,
+  "total": 127,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 45,
+      "value": 49,
       "rang": 1
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 15,
+      "value": 16,
       "rang": 2
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 8,
-      "rang": 6
+      "value": 9,
+      "rang": 4
     },
     {
       "key": "ASSELINEAU François",
@@ -53,6 +53,11 @@
       "rang": 9
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 11
+    },
+    {
       "key": "LE PEN Marine",
       "value": 2,
       "rang": 11
@@ -60,22 +65,22 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 12
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 12
+      "rang": 13
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 1,
+      "rang": 13
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "nom": "FORTANÉ Jean-Marc",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 29,
+  "votes_confirmes": 3,
+  "votes_totaux": 3,
+  "rang": 24,
   "valide": false,
   "parrainages": [
     {
@@ -12,56 +12,97 @@
       "circonscription": "Sains",
       "departement": "Ille-et-Vilaine",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "FANGET Yohann",
+      "fonction": "Maire",
+      "circonscription": "Lapte",
+      "departement": "Haute-Loire",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "VAROQUI Jean-François",
+      "fonction": "Maire",
+      "circonscription": "Savy-Berlette",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 3,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 3,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 3,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 3,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 3,
       "valeurs": [
         {
+          "key": "Lapte",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Sains",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Savy-Berlette",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 3,
       "valeurs": [
         {
+          "key": "Haute-Loire",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Ille-et-Vilaine",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Pas-de-Calais",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 3,
       "valeurs": [
+        {
+          "key": "2022-02-22",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

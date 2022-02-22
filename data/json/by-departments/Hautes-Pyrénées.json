@@ -1,26 +1,26 @@
 {
   "nom": "Hautes-Pyrénées",
-  "total": 96,
+  "total": 102,
   "votes": [
     {
       "key": "LASSALLE Jean",
-      "value": 23,
+      "value": 25,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 13,
+      "value": 15,
       "rang": 2
+    },
+    {
+      "key": "ROUSSEL Fabien",
+      "value": 13,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 12,
-      "rang": 3
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 12,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
@@ -69,6 +69,11 @@
     },
     {
       "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "ZEMMOUR Éric",
       "value": 1,
       "rang": 12
     }

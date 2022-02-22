@@ -28,7 +28,7 @@ export default function byRegions(data) {
 
     regions.forEach(dep => {
         dep.votes = stats(dep.votes, false)
-        fs.writeFileSync(path.resolve('data/json/by-regions/', dep.nom.replace(/\s+/g, '_').replace(/'/g, '-') + '.json'), JSON.stringify(dep, null, 2));
+        fs.writeFileSync(path.resolve('data/json/by-regions/', dep.nom.replace(/\//g, '-').replace(/\s+/g, '_').replace(/'/g, '-') + '.json'), JSON.stringify(dep, null, 2));
     })
 
     fs.writeFileSync(path.resolve('data/json/by-regions/', 'all_regions.json'), JSON.stringify(regions, null, 2));

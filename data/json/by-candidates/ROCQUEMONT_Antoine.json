@@ -1,17 +1,17 @@
 {
-  "nom": "MÉNARD Emmanuelle",
+  "nom": "ROCQUEMONT Antoine",
   "votes_confirmes": 1,
   "votes_totaux": 1,
   "rang": 30,
   "valide": false,
   "parrainages": [
     {
-      "genre": "M.",
-      "nom": "RAVILLION Hervé",
+      "genre": "Mme",
+      "nom": "BATTELIER Liliane",
       "fonction": "Maire",
-      "circonscription": "Saint-Mard-lès-Rouffy",
-      "departement": "Marne",
-      "date": "2022-02-15"
+      "circonscription": "Charmont-sous-Barbuise",
+      "departement": "Aube",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
@@ -19,7 +19,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "M.",
+          "key": "Mme",
           "value": 1,
           "rang": 1
         }
@@ -39,7 +39,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Saint-Mard-lès-Rouffy",
+          "key": "Charmont-sous-Barbuise",
           "value": 1,
           "rang": 1
         }
@@ -49,7 +49,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Marne",
+          "key": "Aube",
           "value": 1,
           "rang": 1
         }
@@ -59,7 +59,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "2022-02-15",
+          "key": "2022-02-22",
           "value": 1,
           "rang": 1
         }

@@ -1,5 +1,5 @@
 {
-  "nom": "MÉNARD Emmanuelle",
+  "nom": "CAHEZ Thierry",
   "votes_confirmes": 1,
   "votes_totaux": 1,
   "rang": 30,
@@ -7,11 +7,11 @@
   "parrainages": [
     {
       "genre": "M.",
-      "nom": "RAVILLION Hervé",
+      "nom": "PFEIFFER-RINIE Dominique",
       "fonction": "Maire",
-      "circonscription": "Saint-Mard-lès-Rouffy",
-      "departement": "Marne",
-      "date": "2022-02-15"
+      "circonscription": "Preuschdorf",
+      "departement": "Bas-Rhin",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
@@ -39,7 +39,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Saint-Mard-lès-Rouffy",
+          "key": "Preuschdorf",
           "value": 1,
           "rang": 1
         }
@@ -49,7 +49,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Marne",
+          "key": "Bas-Rhin",
           "value": 1,
           "rang": 1
         }
@@ -59,7 +59,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "2022-02-15",
+          "key": "2022-02-22",
           "value": 1,
           "rang": 1
         }

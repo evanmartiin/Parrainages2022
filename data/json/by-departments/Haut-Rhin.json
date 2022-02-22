@@ -1,15 +1,15 @@
 {
   "nom": "Haut-Rhin",
-  "total": 88,
+  "total": 94,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 32,
+      "value": 34,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 25,
+      "value": 26,
       "rang": 2
     },
     {
@@ -23,6 +23,11 @@
       "rang": 4
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 4,
+      "rang": 5
+    },
+    {
       "key": "LASSALLE Jean",
       "value": 4,
       "rang": 5
@@ -30,27 +35,22 @@
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 6
-    },
-    {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
-      "rang": 7
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 2,
-      "rang": 7
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 2,
       "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 2,
+      "value": 3,
       "rang": 7
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",

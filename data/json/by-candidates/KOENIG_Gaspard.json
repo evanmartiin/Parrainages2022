@@ -1,7 +1,7 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 31,
-  "votes_totaux": 31,
+  "votes_confirmes": 38,
+  "votes_totaux": 38,
   "rang": 18,
   "valide": false,
   "parrainages": [
@@ -252,30 +252,86 @@
       "circonscription": "Saint-Lambert-sur-Dive",
       "departement": "Orne",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "GROSJEAN Pierre",
+      "fonction": "Maire",
+      "circonscription": "Baugy",
+      "departement": "Cher",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHENE Jean-Pierre",
+      "fonction": "Maire",
+      "circonscription": "Moulins-sur-Céphons",
+      "departement": "Indre",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "COUTENCEAU Nicolas",
+      "fonction": "Maire",
+      "circonscription": "Broussy-le-Petit",
+      "departement": "Marne",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "COURTIAL Edouard",
+      "fonction": "Sénateur",
+      "circonscription": "",
+      "departement": "Oise",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "FROIDEVAUX Cyrille",
+      "fonction": "Maire",
+      "circonscription": "Genevrey",
+      "departement": "Haute-Saône",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "Mme",
+      "nom": "ROSSET-LANCHET NÉE MERCIER Monique",
+      "fonction": "Maire",
+      "circonscription": "La Bâthie",
+      "departement": "Savoie",
+      "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "PONIATOWSKI Sébastien",
+      "fonction": "Maire",
+      "circonscription": "L'Isle-Adam",
+      "departement": "Val-d'Oise",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 31,
+      "total": 38,
       "valeurs": [
         {
           "key": "M.",
-          "value": 30,
+          "value": 36,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 31,
+      "total": 38,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 28,
+          "value": 34,
           "rang": 1
         },
         {
@@ -292,11 +348,16 @@
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Sénateur/Sénatrice",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 29,
+      "total": 35,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -305,6 +366,11 @@
         },
         {
           "key": "Autichamp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Baugy",
           "value": 1,
           "rang": 2
         },
@@ -325,6 +391,11 @@
         },
         {
           "key": "Brion",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Broussy-le-Petit",
           "value": 1,
           "rang": 2
         },
@@ -364,12 +435,27 @@
           "rang": 2
         },
         {
+          "key": "Genevrey",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Gerberoy",
           "value": 1,
           "rang": 2
         },
         {
           "key": "Harchéchamp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "L'Isle-Adam",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "La Bâthie",
           "value": 1,
           "rang": 2
         },
@@ -395,6 +481,11 @@
         },
         {
           "key": "Montilly-sur-Noireau",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Moulins-sur-Céphons",
           "value": 1,
           "rang": 2
         },
@@ -441,7 +532,7 @@
       ]
     },
     "departement": {
-      "total": 31,
+      "total": 38,
       "valeurs": [
         {
           "key": "Orne",
@@ -449,124 +540,144 @@
           "rang": 1
         },
         {
-          "key": "Morbihan",
-          "value": 2,
+          "key": "Oise",
+          "value": 3,
           "rang": 2
         },
         {
-          "key": "Oise",
+          "key": "Cher",
           "value": 2,
-          "rang": 2
+          "rang": 3
+        },
+        {
+          "key": "Morbihan",
+          "value": 2,
+          "rang": 3
+        },
+        {
+          "key": "Savoie",
+          "value": 2,
+          "rang": 3
         },
         {
           "key": "Seine-Maritime",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Aisne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Ardennes",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Charente-Maritime",
           "value": 1,
-          "rang": 6
-        },
-        {
-          "key": "Cher",
-          "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Gers",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Haute-Savoie",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Haute-Saône",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Hautes-Pyrénées",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Indre",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Isère",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Marne",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Paris",
           "value": 1,
-          "rang": 6
-        },
-        {
-          "key": "Savoie",
-          "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Saône-et-Loire",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Val-d'Oise",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Yonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         }
       ]
     },
     "date": {
-      "total": 31,
+      "total": 38,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -574,24 +685,29 @@
           "rang": 1
         },
         {
+          "key": "2022-02-22",
+          "value": 7,
+          "rang": 2
+        },
+        {
           "key": "2022-02-10",
           "value": 4,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

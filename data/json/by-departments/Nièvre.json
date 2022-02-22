@@ -1,31 +1,41 @@
 {
   "nom": "Nièvre",
-  "total": 48,
+  "total": 53,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 8,
       "rang": 1
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 6,
+      "value": 7,
       "rang": 2
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 5,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
       "value": 5,
-      "rang": 3
+      "rang": 4
     },
     {
-      "key": "TAUBIRA Christiane",
-      "value": 5,
-      "rang": 3
+      "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 4,
+      "rang": 6
     },
     {
       "key": "PÉCRESSE Valérie",
@@ -33,19 +43,9 @@
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 3,
-      "rang": 7
-    },
-    {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 7
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 3,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "ARTHAUD Nathalie",

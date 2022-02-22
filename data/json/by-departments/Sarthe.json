@@ -1,20 +1,20 @@
 {
   "nom": "Sarthe",
-  "total": 62,
+  "total": 74,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 23,
+      "value": 27,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 11,
+      "value": 14,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 6,
+      "value": 8,
       "rang": 3
     },
     {
@@ -43,29 +43,34 @@
       "rang": 7
     },
     {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 7
+    },
+    {
       "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
       "value": 2,
       "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
-      "key": "LE PEN Marine",
+      "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 10
+      "rang": 12
     }
   ]
 }

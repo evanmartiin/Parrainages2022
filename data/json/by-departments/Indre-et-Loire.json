@@ -1,6 +1,6 @@
 {
   "nom": "Indre-et-Loire",
-  "total": 49,
+  "total": 54,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -9,8 +9,13 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 9,
+      "value": 10,
       "rang": 2
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "JADOT Yannick",
@@ -18,19 +23,19 @@
       "rang": 3
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 3
+    },
+    {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 4
+      "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 3,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 4
+      "key": "EGGER Clara",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
@@ -50,22 +55,22 @@
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
-      "key": "EGGER Clara",
+      "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

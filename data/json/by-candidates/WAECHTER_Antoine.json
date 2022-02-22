@@ -1,8 +1,8 @@
 {
   "nom": "WAECHTER Antoine",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
-  "rang": 27,
+  "votes_confirmes": 3,
+  "votes_totaux": 3,
+  "rang": 24,
   "valide": false,
   "parrainages": [
     {
@@ -20,32 +20,50 @@
       "circonscription": "Saint-Viaud",
       "departement": "Loire-Atlantique",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "NORMIER Christophe",
+      "fonction": "Conseiller régional",
+      "circonscription": "Bourgogne-Franche-Comté",
+      "departement": "Saône-et-Loire",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 3,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "Maire",
           "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Conseiller.e régional.e",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
+        {
+          "key": "Bourgogne-Franche-Comté",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Béon",
           "value": 1,
@@ -59,10 +77,15 @@
       ]
     },
     "departement": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "Loire-Atlantique",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saône-et-Loire",
           "value": 1,
           "rang": 1
         },
@@ -74,7 +97,7 @@
       ]
     },
     "date": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -83,6 +106,11 @@
         },
         {
           "key": "2022-02-17",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-22",
           "value": 1,
           "rang": 1
         }

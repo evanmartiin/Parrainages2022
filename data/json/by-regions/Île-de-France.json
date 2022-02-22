@@ -1,35 +1,35 @@
 {
   "nom": "Île-de-France",
-  "total": 857,
+  "total": 934,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 446,
+      "value": 469,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 117,
+      "value": 124,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 110,
+      "value": 112,
       "rang": 3
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 51,
+      "key": "JADOT Yannick",
+      "value": 63,
       "rang": 4
     },
     {
-      "key": "JADOT Yannick",
-      "value": 40,
+      "key": "ROUSSEL Fabien",
+      "value": 61,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 30,
+      "value": 33,
       "rang": 6
     },
     {
@@ -38,27 +38,32 @@
       "rang": 7
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
+      "key": "ZEMMOUR Éric",
+      "value": 13,
       "rang": 8
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 10,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 12,
       "rang": 9
     },
     {
       "key": "THOUY Hélène",
-      "value": 7,
+      "value": 9,
       "rang": 10
     },
     {
       "key": "POUTOU Philippe",
-      "value": 6,
+      "value": 7,
       "rang": 11
     },
     {
       "key": "ASSELINEAU François",
+      "value": 3,
+      "rang": 12
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 3,
       "rang": 12
     },
@@ -68,24 +73,19 @@
       "rang": 12
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
-      "rang": 14
+      "key": "TAUBIRA Christiane",
+      "value": 3,
+      "rang": 12
     },
     {
-      "key": "KOENIG Gaspard",
+      "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 14
+      "rang": 16
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 16
+      "rang": 17
     }
   ]
 }

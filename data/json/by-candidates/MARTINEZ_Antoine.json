@@ -1,7 +1,7 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 9,
-  "votes_totaux": 9,
+  "votes_confirmes": 10,
+  "votes_totaux": 10,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -76,15 +76,23 @@
       "circonscription": "Landiras",
       "departement": "Gironde",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "JANNIN Jean-Pierre",
+      "fonction": "Maire",
+      "circonscription": "La Vèze",
+      "departement": "Doubs",
+      "date": "2022-02-22"
     }
   ],
   "stats": {
     "genre": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "M.",
-          "value": 8,
+          "value": 9,
           "rang": 1
         },
         {
@@ -95,17 +103,17 @@
       ]
     },
     "fonction": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 9,
+          "value": 10,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "Châteney",
@@ -124,6 +132,11 @@
         },
         {
           "key": "La Monselie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "La Vèze",
           "value": 1,
           "rang": 1
         },
@@ -155,7 +168,7 @@
       ]
     },
     "departement": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "Aube",
@@ -178,6 +191,11 @@
           "rang": 3
         },
         {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Drôme",
           "value": 1,
           "rang": 3
@@ -195,7 +213,7 @@
       ]
     },
     "date": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -211,6 +229,11 @@
           "key": "2022-02-17",
           "value": 2,
           "rang": 2
+        },
+        {
+          "key": "2022-02-22",
+          "value": 1,
+          "rang": 4
         }
       ]
     }

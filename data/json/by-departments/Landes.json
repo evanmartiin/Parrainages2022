@@ -1,29 +1,39 @@
 {
   "nom": "Landes",
-  "total": 86,
+  "total": 96,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 53,
+      "value": 56,
       "rang": 1
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 8,
+      "key": "ROUSSEL Fabien",
+      "value": 10,
       "rang": 2
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 8,
-      "rang": 2
+      "key": "LASSALLE Jean",
+      "value": 9,
+      "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 5,
+      "value": 7,
       "rang": 4
     },
     {
       "key": "JADOT Yannick",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 5
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
       "value": 2,
       "rang": 5
     },
@@ -35,42 +45,32 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 7
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 1,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 7
+      "rang": 9
     }
   ]
 }
