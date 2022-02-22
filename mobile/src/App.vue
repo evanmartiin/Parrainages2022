@@ -18,6 +18,12 @@ export default {
 </script>
 
 <style lang="scss">
+$red: #D67878;
+$yellow: #FFDD9B;
+$green: #71DBA8;
+$white: #FFFFFF;
+$black: #000000;
+
 body {
   margin: 0;
 }

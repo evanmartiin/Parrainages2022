@@ -67,9 +67,10 @@ export default function DonutChart(data, {
         .text(d => title(d.data));
   
     svg.append("g")
-        .attr("font-family", "sans-serif")
-        .attr("font-size", 10)
+        .attr("font-family", "sofia-pro")
+        .attr("font-size", 13)
         .attr("text-anchor", "middle")
+        .attr("fill", "#000000")
       .selectAll("text")
       .data(arcs)
       .join("text")
