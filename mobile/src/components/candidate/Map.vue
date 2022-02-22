@@ -413,20 +413,6 @@
           />
         </svg>
     </div>
-    <div class="legend">
-      <div class="legendEl">
-        <div style="background-color: #F7EBEB"></div>
-        <p>0 à 5</p>
-      </div>
-      <div class="legendEl">
-        <div style="background-color: #F3B3AF"></div>
-        <p>5 à 10</p>
-      </div>
-      <div class="legendEl">
-        <div style="background-color: #EC483E"></div>
-        <p>+10</p>
-      </div>
-    </div>
   </div>
 </div>
 </template>
@@ -486,27 +472,6 @@ h1 {
 
   svg {
     margin-top: 20px;
-  }
-}
-
-.legend {
-  margin-top: 35px;
-  display: flex;
-  justify-content: space-between;
-  width: 250px;
-  margin-left: 50%;
-  transform: translateX(-50%);
-
-  .legendEl {
-    display: flex;
-    color: #ffffff;
-
-    div {
-      width: 20px;
-      height: 20px;
-      border-radius: 50%;
-      margin-right: 5px;
-    }
   }
 }
 </style>

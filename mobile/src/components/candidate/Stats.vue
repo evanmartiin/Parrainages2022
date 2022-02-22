@@ -3,8 +3,10 @@
     <div class="gender">
       <h1>Genre des parrains</h1>
       <div class="graph" :style="style">
-        <p>{{ Math.round(gender.valeurs.find(el => el.key === "M.").value/gender.total * 100) }}%</p>
-        <p>{{ Math.round(gender.valeurs.find(el => el.key === "Mme").value/gender.total * 100) }}%</p>
+        <p v-if="gender.valeurs.find(el => el.key === 'M.')">{{ Math.round(gender.valeurs.find(el => el.key === "M.").value/gender.total * 100) }}%</p>
+        <p v-else>0%</p>
+        <p v-if="gender.valeurs.find(el => el.key === 'Mme')">{{ Math.round(gender.valeurs.find(el => el.key === "Mme").value/gender.total * 100) }}%</p>
+        <p v-else>0%</p>
       </div>
       <div class="caption">
         <p>Homme</p>
@@ -30,7 +32,8 @@ export default {
   },
   computed: {
     style() {
-      const percent = Math.round(this.gender.valeurs.find(el => el.key === "M.").value/this.gender.total * 100)
+      const val = this.gender.valeurs.find(el => el.key === "M.");
+      const percent = val ? Math.round(val.value/this.gender.total * 100) : 0;
       return `background: linear-gradient(90deg, #101046 ${percent}%, #799CD0 ${percent}%);`
     },
   },
@@ -82,7 +85,7 @@ export default {
       value: d => d.value,
       width: 400,
       height: 400,
-      colors: ["#799CD0", "#688fca", "#5581c3", "#4273bd", "#3c68aa"]
+      colors: ["#799CD0", "#a1b9de", "#c6d5eb", "#d9e3f2", "#ecf1f8"]
     })
     chart.id = "pie-graph"
     d3.select("#pie-graph").remove()
@@ -95,7 +98,7 @@ export default {
 .stats {
   box-sizing: border-box;
   padding: 20px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 h1 {
@@ -105,11 +108,10 @@ h1 {
 
 .gender {
   width: 100%;
-  padding: 10px 0;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  margin-bottom: 40px;
+  margin-bottom: 70px;
 
   .graph {
     border-radius: 13px;

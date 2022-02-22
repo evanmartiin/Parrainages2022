@@ -3,33 +3,21 @@
     <div class="top">
       <h1>Top départements</h1>
       <div class="podium">
-        <div class="el">
-          <img src="@/assets/img/first-place.png" alt="">
+        <div v-for="dep in deps.slice(0, 3)" class="el" :key="dep.key">
+          <img v-if="dep.rang === 1" src="@/assets/img/first-place.png" alt="">
+          <img v-else-if="dep.rang === 2" src="@/assets/img/second-place.png" alt="">
+          <img v-else src="@/assets/img/third-place.png" alt="">
           <div class="content">
-            <h2>{{ deps[0].key }}</h2>
-            <p>{{ deps[0].value }} parrainages</p>
-          </div>
-        </div>
-        <div class="el">
-          <img src="@/assets/img/second-place.png" alt="">
-          <div class="content">
-            <h2>{{ deps[1].key }}</h2>
-            <p>{{ deps[1].value }} parrainages</p>
-          </div>
-        </div>
-        <div class="el">
-          <img src="@/assets/img/third-place.png" alt="">
-          <div class="content">
-            <h2>{{ deps[2].key }}</h2>
-            <p>{{ deps[2].value }} parrainages</p>
+            <h2>{{ dep.key }}</h2>
+            <p>{{ dep.value }} parrainage{{ dep.value > 1 ? "s" : "" }}</p>
           </div>
         </div>
       </div>
       <!-- <Button title="Voir plus"/> -->
     </div>
 
-    <h1>Évolution</h1>
-    <div class="line-graph">
+    <h1 id="line-title" v-if="dates.length > 1">Évolution</h1>
+    <div class="line-graph" v-if="dates.length > 1">
       <p>Évolution du nombre de parrainages</p>
     </div>
   </div>
@@ -56,10 +44,10 @@ export default {
       dates.push({ date: date.key, votes: date.value, total })
     })
 
-    d3.select("#line-graph").remove()
-    document.getElementsByClassName("line-graph")[0].style.display = "none";
     
     if (dates.length > 1) {
+      d3.select("#line-graph").remove()
+      document.getElementsByClassName("line-graph")[0].style.display = "none";
       let graph = document.createElement("div")
       graph.id = "line-graph"
       document.getElementsByClassName("line-graph")[0].style.display = "flex";
@@ -126,9 +114,11 @@ export default {
 .top {
   display: flex;
   flex-direction: column;
-  gap: 25px;
   align-items: flex-start;
-  margin-bottom: 60px;
+}
+
+#line-title {
+  margin-top: 70px;
 }
 
 .podium {
