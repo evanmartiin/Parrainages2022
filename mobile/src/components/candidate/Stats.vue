@@ -1,8 +1,7 @@
 <template>
   <div class="stats">
-    <h1>Statistiques des parrains</h1>
-    
     <div class="gender">
+      <h1>Genre des parrains</h1>
       <div class="graph" :style="style">
         <p>{{ Math.round(gender.valeurs.find(el => el.key === "M.").value/gender.total * 100) }}%</p>
         <p>{{ Math.round(gender.valeurs.find(el => el.key === "Mme").value/gender.total * 100) }}%</p>
@@ -13,7 +12,9 @@
       </div>
     </div>
 
-    <div class="fonction"></div>
+    <div class="fonction">
+      <h1>Fonction des parrains</h1>
+    </div>
   </div>
 </template>
 
@@ -85,7 +86,7 @@ export default {
     })
     chart.id = "pie-graph"
     d3.select("#pie-graph").remove()
-    document.getElementsByClassName("fonction")[0].prepend(chart)
+    document.getElementsByClassName("fonction")[0].append(chart)
   }
 }
 </script>
@@ -104,11 +105,11 @@ h1 {
 
 .gender {
   width: 100%;
-  padding: 10px 20px;
+  padding: 10px 0;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 
   .graph {
     border-radius: 13px;
@@ -116,6 +117,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     padding: 3px 12px;
+    margin: auto 20px;
     background: linear-gradient(90deg, #101046 72%, #799CD0 72%);
     box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
     color: #ffffff;
@@ -126,6 +128,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     padding: 3px 8px;
+    margin: auto 20px;
   }
 }
 
