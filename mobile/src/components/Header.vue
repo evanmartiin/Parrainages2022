@@ -1,7 +1,6 @@
 <template>
   <div class="header">
-    <router-link id="header-arrow" to="/"><img v-if="needsBack" src="@/assets/img/arrow.png" alt=""></router-link>
-    <img id="header-img" src="@/assets/img/header-img.png" alt="">
+    <router-link id="header-arrow" to="/"><img v-if="needsBack" src="@/assets/img/arrow-right.png" alt=""></router-link>
   </div>
 </template>
 
@@ -17,24 +16,29 @@ export default {
 <style scoped lang="scss">
 .header {
   width: 100%;
-  background-color: #000091;
-  padding: 16px 0;
-  display: grid;
-  grid-template-columns: 1fr 30px 2fr 100px 2fr 30px 1fr;
-  align-items: center;
+  height: 50px;
+  padding: 20px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
 
   #header-arrow {
-    grid-column: 2/3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    padding: 10px 20px;
+    border: 1px solid #DBDBDB;
+    border-radius: 50px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
 
     img {
-      width: 30px;
-      height: 30px;
+      width: 20px;
+      height: 20px;
+      transform: rotateZ(180deg);
     }
-  }
-
-  #header-img {
-    width: 100px;
-    grid-column: 4/5;
   }
 }
 </style>
