@@ -26,6 +26,7 @@ $black: #000000;
 
 body {
   margin: 0;
+  top: 0;
 }
 
 h1 {

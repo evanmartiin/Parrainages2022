@@ -114,9 +114,12 @@ const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO 
 <style scoped lang="scss">
 .hero {
   background-color: #ffffff;
+  background-image: url('../../assets/img/bg.png');
+  background-position: top center;
+  background-size: contain;
+  background-repeat: no-repeat;
   box-sizing: border-box;
-  padding: 20px;
-  margin-top: 50px;
+  padding: 50px 20px 20px 20px;
 
   .details {
     display: flex;
@@ -151,6 +154,7 @@ const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO 
     padding: 20px;
     box-sizing: border-box;
     gap: 30px;
+    background-color: #ffffff;
 
     .content {
       width: 100%;
