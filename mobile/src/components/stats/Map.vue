@@ -2,7 +2,6 @@
   <div class="map">
     <div class="carte">
       <p>Nombre de parrainages au 15 février</p>
-      <img src="@/assets/img/france-dep.png" alt="">
     </div>
     <div class="legend">
       <div class="legendEl">

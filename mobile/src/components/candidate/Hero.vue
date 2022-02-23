@@ -4,7 +4,7 @@
       <img :src="getImgUrl" alt="">
       <p class="rank">#{{ rank }}</p>
       <h1>{{ name }}</h1>
-      <p class="party" v-if="party"><a :href="party.link" target="_blank">{{ party.party }}</a></p>
+      <p class="party" v-if="party"><a :href="party.link" target="_blank">{{ party.party }}<img src="@/assets/img/external.png" alt=""></a></p>
     </div>
 
     <div class="votes">
@@ -143,6 +143,13 @@ const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO 
 
     .party {
       color: #799CD0;
+
+      img {
+        width: 15px;
+        margin-bottom: 0px;
+        margin-left: 2px;
+        opacity: .5;
+      }
     }
   }
 
