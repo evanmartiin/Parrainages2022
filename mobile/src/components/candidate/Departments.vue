@@ -53,10 +53,14 @@ export default {
       document.getElementsByClassName("line-graph")[0].prepend(graph)
 
       const tickFormats = []
-      dates.forEach(date => {
+      const datesT = []
+      dates.forEach((date, index) => {
         let dateObj = new Date(date.date);
-        tickFormats.push(('0' + dateObj.getDate()).slice(-2) + '/'
-        + ('0' + (dateObj.getMonth()+1)).slice(-2))
+        if (!(index % 2)) {
+          tickFormats.push(('0' + dateObj.getDate()).slice(-2) + '/'
+          + ('0' + (dateObj.getMonth()+1)).slice(-2))
+          datesT.push(date.date)
+        }
       })
 
       // set the dimensions and margins of the graph
@@ -73,12 +77,12 @@ export default {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
       // Add X axis --> it is a date format
-      var x = d3.scaleTime()
+      var x = d3.scaleLinear()
         .domain(d3.extent(dates, function(d) { return d.date; }))
         .range([ 0, width ]);
       svg.append("g")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(x).ticks(dates.length).tickFormat((d,i) => tickFormats[i]));
+        .call(d3.axisBottom(x).tickValues(datesT).tickFormat((d, i) => tickFormats[i]));
 
       // Add Y axis
       var y = d3.scaleLinear()
