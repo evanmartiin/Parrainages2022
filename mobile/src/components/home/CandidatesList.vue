@@ -35,13 +35,17 @@ h1 {
 .candidates-list {
   background-color: #ffffff;
   width: 100%;
-  padding: 20px;
+  padding: 20px 20px 0 20px;
   color: #000000;
   box-sizing: border-box;
 }
 
 .candidate {
   margin-bottom: 15px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
 .loading p, .error p {

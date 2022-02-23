@@ -3,7 +3,7 @@
   <h1>Statistiques</h1>
   <div class="map">
     <div class="carte">
-      <p>Nombre de parrainages au 15 février</p>
+      <p>Nombre de parrainages au {{ today }}</p>
         <svg id="depMap" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.674 609.464">
           <title>France DROM COM</title>
           <path
@@ -418,10 +418,20 @@
 </template>
 
 <script>
+import { ref } from "vue"
+
 export default {
   name: 'Map',
   props: {
     deps: Object
+  },
+  setup() {
+    const today = ref(null);
+
+    today.value = ('0' + new Date().getDate()).slice(-2) + '/'
+          + ('0' + (new Date().getMonth()+1)).slice(-2);
+
+    return {today};
   },
   mounted() {
       const svgs = Array.from(document.getElementsByTagName("path"))

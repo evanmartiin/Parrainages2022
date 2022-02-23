@@ -3,16 +3,19 @@
     <link rel="stylesheet" href="https://use.typekit.net/biu0dvk.css">
     <router-view/>
     <Footer/>
+    <Nav/>
   </div>
 </template>
 
 <script>
 import Footer from '@/components/Footer.vue'
+import Nav from '@/components/Nav.vue'
 
 export default {
   name: 'App',
   components: {
-    Footer
+    Footer,
+    Nav
   }
 }
 </script>

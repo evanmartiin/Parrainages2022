@@ -16,6 +16,7 @@ export default {
   color: #000000;
   box-sizing: border-box;
   padding: 35px;
+  margin-bottom: 75px;
   text-align: center;
 }
 
