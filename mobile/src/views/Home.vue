@@ -39,6 +39,7 @@ export default {
         })
         .then(json => {
           candidates.value = json;
+          console.log(json);
         })
         .catch(err => {
           error.value = err;

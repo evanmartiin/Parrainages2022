@@ -73,7 +73,7 @@ export default {
               return res.json();
             })
             .then(json => {
-              let index = json.findIndex((el) => el.nom === to.params.id.replace('_', ' '));
+              let index = json.findIndex((el) => el.nom.replaceAll('  ', ' ') === to.params.id.replaceAll('_', ' '));
               this.nav = {
                 prev: json[index - 1],
                 next: json[index + 1]
@@ -134,7 +134,8 @@ export default {
               return res.json();
             })
             .then(json => {
-              let index = json.findIndex((el) => el.nom === props.id.replace('_', ' '));
+              let index = json.findIndex((el) => el.nom.replaceAll('  ', ' ') === props.id.replaceAll('_', ' '));
+
               nav.value = {
                 prev: json[index - 1],
                 next: json[index + 1]
