@@ -118874,6 +118874,116 @@
     }
   },
   {
+    "nom": "FORTANÉ Jean-Marc",
+    "votes_confirmes": 3,
+    "votes_totaux": 3,
+    "rang": 24,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "M.",
+        "nom": "BATHELLIER Nicolas",
+        "fonction": "Maire",
+        "circonscription": "Sains",
+        "departement": "Ille-et-Vilaine",
+        "date": "2022-02-10"
+      },
+      {
+        "genre": "M.",
+        "nom": "FANGET Yohann",
+        "fonction": "Maire",
+        "circonscription": "Lapte",
+        "departement": "Haute-Loire",
+        "date": "2022-02-22"
+      },
+      {
+        "genre": "M.",
+        "nom": "VAROQUI Jean-François",
+        "fonction": "Maire",
+        "circonscription": "Savy-Berlette",
+        "departement": "Pas-de-Calais",
+        "date": "2022-02-22"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 3,
+        "valeurs": [
+          {
+            "key": "M.",
+            "value": 3,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 3,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 3,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 3,
+        "valeurs": [
+          {
+            "key": "Lapte",
+            "value": 1,
+            "rang": 1
+          },
+          {
+            "key": "Sains",
+            "value": 1,
+            "rang": 1
+          },
+          {
+            "key": "Savy-Berlette",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 3,
+        "valeurs": [
+          {
+            "key": "Haute-Loire",
+            "value": 1,
+            "rang": 1
+          },
+          {
+            "key": "Ille-et-Vilaine",
+            "value": 1,
+            "rang": 1
+          },
+          {
+            "key": "Pas-de-Calais",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 3,
+        "valeurs": [
+          {
+            "key": "2022-02-22",
+            "value": 2,
+            "rang": 1
+          },
+          {
+            "key": "2022-02-10",
+            "value": 1,
+            "rang": 2
+          }
+        ]
+      }
+    }
+  },
+  {
     "nom": "ROCCA Martin",
     "votes_confirmes": 3,
     "votes_totaux": 3,
@@ -118988,116 +119098,6 @@
             "key": "2022-02-15",
             "value": 1,
             "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "FORTANÉ Jean-Marc",
-    "votes_confirmes": 3,
-    "votes_totaux": 3,
-    "rang": 24,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "M.",
-        "nom": "BATHELLIER Nicolas",
-        "fonction": "Maire",
-        "circonscription": "Sains",
-        "departement": "Ille-et-Vilaine",
-        "date": "2022-02-10"
-      },
-      {
-        "genre": "M.",
-        "nom": "FANGET Yohann",
-        "fonction": "Maire",
-        "circonscription": "Lapte",
-        "departement": "Haute-Loire",
-        "date": "2022-02-22"
-      },
-      {
-        "genre": "M.",
-        "nom": "VAROQUI Jean-François",
-        "fonction": "Maire",
-        "circonscription": "Savy-Berlette",
-        "departement": "Pas-de-Calais",
-        "date": "2022-02-22"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 3,
-        "valeurs": [
-          {
-            "key": "M.",
-            "value": 3,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 3,
-        "valeurs": [
-          {
-            "key": "Maire",
-            "value": 3,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 3,
-        "valeurs": [
-          {
-            "key": "Lapte",
-            "value": 1,
-            "rang": 1
-          },
-          {
-            "key": "Sains",
-            "value": 1,
-            "rang": 1
-          },
-          {
-            "key": "Savy-Berlette",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 3,
-        "valeurs": [
-          {
-            "key": "Haute-Loire",
-            "value": 1,
-            "rang": 1
-          },
-          {
-            "key": "Ille-et-Vilaine",
-            "value": 1,
-            "rang": 1
-          },
-          {
-            "key": "Pas-de-Calais",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 3,
-        "valeurs": [
-          {
-            "key": "2022-02-22",
-            "value": 2,
-            "rang": 1
-          },
-          {
-            "key": "2022-02-10",
-            "value": 1,
-            "rang": 2
           }
         ]
       }
@@ -119385,7 +119385,7 @@
     }
   },
   {
-    "nom": "MARECHAL Philippe Célestin",
+    "nom": "CAHEZ Thierry",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -119393,11 +119393,11 @@
     "parrainages": [
       {
         "genre": "M.",
-        "nom": "MARECHAL Philippe",
+        "nom": "PFEIFFER-RINIE Dominique",
         "fonction": "Maire",
-        "circonscription": "Balagny-sur-Thérain",
-        "departement": "Oise",
-        "date": "2022-02-08"
+        "circonscription": "Preuschdorf",
+        "departement": "Bas-Rhin",
+        "date": "2022-02-22"
       }
     ],
     "stats": {
@@ -119425,7 +119425,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Balagny-sur-Thérain",
+            "key": "Preuschdorf",
             "value": 1,
             "rang": 1
           }
@@ -119435,7 +119435,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Oise",
+            "key": "Bas-Rhin",
             "value": 1,
             "rang": 1
           }
@@ -119445,7 +119445,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-08",
+            "key": "2022-02-22",
             "value": 1,
             "rang": 1
           }
@@ -119454,7 +119454,7 @@
     }
   },
   {
-    "nom": "MAZUEL Philippe",
+    "nom": "COJAN Patrick",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -119462,11 +119462,11 @@
     "parrainages": [
       {
         "genre": "M.",
-        "nom": "DE RAMBUTEAU Charles",
+        "nom": "PATIER François",
         "fonction": "Maire",
-        "circonscription": "Le Breuil",
-        "departement": "Rhône",
-        "date": "2022-02-08"
+        "circonscription": "Nespouls",
+        "departement": "Corrèze",
+        "date": "2022-02-15"
       }
     ],
     "stats": {
@@ -119494,7 +119494,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Le Breuil",
+            "key": "Nespouls",
             "value": 1,
             "rang": 1
           }
@@ -119504,7 +119504,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Rhône",
+            "key": "Corrèze",
             "value": 1,
             "rang": 1
           }
@@ -119514,7 +119514,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-08",
+            "key": "2022-02-15",
             "value": 1,
             "rang": 1
           }
@@ -119523,7 +119523,7 @@
     }
   },
   {
-    "nom": "SCHOVANEC Josef",
+    "nom": "DELGA Carole",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -119531,11 +119531,11 @@
     "parrainages": [
       {
         "genre": "M.",
-        "nom": "LOISEAU Georgio",
+        "nom": "ESQUIROL Jean-Marc",
         "fonction": "Maire",
-        "circonscription": "Poses",
-        "departement": "Eure",
-        "date": "2022-02-08"
+        "circonscription": "Lacaugne",
+        "departement": "Haute-Garonne",
+        "date": "2022-02-17"
       }
     ],
     "stats": {
@@ -119563,7 +119563,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Poses",
+            "key": "Lacaugne",
             "value": 1,
             "rang": 1
           }
@@ -119573,7 +119573,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Eure",
+            "key": "Haute-Garonne",
             "value": 1,
             "rang": 1
           }
@@ -119583,7 +119583,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-08",
+            "key": "2022-02-17",
             "value": 1,
             "rang": 1
           }
@@ -119661,76 +119661,7 @@
     }
   },
   {
-    "nom": "PHILIPPOT Florian",
-    "votes_confirmes": 1,
-    "votes_totaux": 1,
-    "rang": 30,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "Mme",
-        "nom": "BIENFAIT-LOISEL Nadine",
-        "fonction": "Maire",
-        "circonscription": "Yville-sur-Seine",
-        "departement": "Seine-Maritime",
-        "date": "2022-02-10"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Mme",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Maire",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Yville-sur-Seine",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Seine-Maritime",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "2022-02-10",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "VIEIRA Gildas",
+    "nom": "FIORILE Eric Régis",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -119738,11 +119669,11 @@
     "parrainages": [
       {
         "genre": "M.",
-        "nom": "HÉNAULT Damien",
-        "fonction": "Maire",
-        "circonscription": "Montrichard Val de Cher",
-        "departement": "Loir-et-Cher",
-        "date": "2022-02-10"
+        "nom": "MOREAU Bernard",
+        "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+        "circonscription": "Juvigny Val d'Andaine",
+        "departement": "Orne",
+        "date": "2022-02-17"
       }
     ],
     "stats": {
@@ -119760,7 +119691,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Maire",
+            "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
             "value": 1,
             "rang": 1
           }
@@ -119770,7 +119701,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Montrichard Val de Cher",
+            "key": "Juvigny Val d'Andaine",
             "value": 1,
             "rang": 1
           }
@@ -119780,7 +119711,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Loir-et-Cher",
+            "key": "Orne",
             "value": 1,
             "rang": 1
           }
@@ -119790,76 +119721,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-10",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "COJAN Patrick",
-    "votes_confirmes": 1,
-    "votes_totaux": 1,
-    "rang": 30,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "M.",
-        "nom": "PATIER François",
-        "fonction": "Maire",
-        "circonscription": "Nespouls",
-        "departement": "Corrèze",
-        "date": "2022-02-15"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "M.",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Maire",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Nespouls",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Corrèze",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "2022-02-15",
+            "key": "2022-02-17",
             "value": 1,
             "rang": 1
           }
@@ -120006,7 +119868,7 @@
     }
   },
   {
-    "nom": "MÉNARD Emmanuelle",
+    "nom": "MARECHAL Philippe Célestin",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -120014,11 +119876,11 @@
     "parrainages": [
       {
         "genre": "M.",
-        "nom": "RAVILLION Hervé",
+        "nom": "MARECHAL Philippe",
         "fonction": "Maire",
-        "circonscription": "Saint-Mard-lès-Rouffy",
-        "departement": "Marne",
-        "date": "2022-02-15"
+        "circonscription": "Balagny-sur-Thérain",
+        "departement": "Oise",
+        "date": "2022-02-08"
       }
     ],
     "stats": {
@@ -120046,7 +119908,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Saint-Mard-lès-Rouffy",
+            "key": "Balagny-sur-Thérain",
             "value": 1,
             "rang": 1
           }
@@ -120056,7 +119918,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Marne",
+            "key": "Oise",
             "value": 1,
             "rang": 1
           }
@@ -120066,7 +119928,76 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-15",
+            "key": "2022-02-08",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nom": "MAZUEL Philippe",
+    "votes_confirmes": 1,
+    "votes_totaux": 1,
+    "rang": 30,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "M.",
+        "nom": "DE RAMBUTEAU Charles",
+        "fonction": "Maire",
+        "circonscription": "Le Breuil",
+        "departement": "Rhône",
+        "date": "2022-02-08"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "M.",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Le Breuil",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Rhône",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "2022-02-08",
             "value": 1,
             "rang": 1
           }
@@ -120144,7 +120075,76 @@
     }
   },
   {
-    "nom": "WENDLINGER Stéphane",
+    "nom": "MÉNARD Emmanuelle",
+    "votes_confirmes": 1,
+    "votes_totaux": 1,
+    "rang": 30,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "M.",
+        "nom": "RAVILLION Hervé",
+        "fonction": "Maire",
+        "circonscription": "Saint-Mard-lès-Rouffy",
+        "departement": "Marne",
+        "date": "2022-02-15"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "M.",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Saint-Mard-lès-Rouffy",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Marne",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "2022-02-15",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nom": "PHILIPPOT Florian",
     "votes_confirmes": 1,
     "votes_totaux": 1,
     "rang": 30,
@@ -120152,11 +120152,11 @@
     "parrainages": [
       {
         "genre": "Mme",
-        "nom": "DAVID Sylvette",
+        "nom": "BIENFAIT-LOISEL Nadine",
         "fonction": "Maire",
-        "circonscription": "Quintenas",
-        "departement": "Ardèche",
-        "date": "2022-02-15"
+        "circonscription": "Yville-sur-Seine",
+        "departement": "Seine-Maritime",
+        "date": "2022-02-10"
       }
     ],
     "stats": {
@@ -120184,7 +120184,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Quintenas",
+            "key": "Yville-sur-Seine",
             "value": 1,
             "rang": 1
           }
@@ -120194,7 +120194,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "Ardèche",
+            "key": "Seine-Maritime",
             "value": 1,
             "rang": 1
           }
@@ -120204,214 +120204,7 @@
         "total": 1,
         "valeurs": [
           {
-            "key": "2022-02-15",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "DELGA Carole",
-    "votes_confirmes": 1,
-    "votes_totaux": 1,
-    "rang": 30,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "M.",
-        "nom": "ESQUIROL Jean-Marc",
-        "fonction": "Maire",
-        "circonscription": "Lacaugne",
-        "departement": "Haute-Garonne",
-        "date": "2022-02-17"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "M.",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Maire",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Lacaugne",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Haute-Garonne",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "2022-02-17",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "FIORILE Eric Régis",
-    "votes_confirmes": 1,
-    "votes_totaux": 1,
-    "rang": 30,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "M.",
-        "nom": "MOREAU Bernard",
-        "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
-        "circonscription": "Juvigny Val d'Andaine",
-        "departement": "Orne",
-        "date": "2022-02-17"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "M.",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Juvigny Val d'Andaine",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Orne",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "2022-02-17",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      }
-    }
-  },
-  {
-    "nom": "CAHEZ Thierry",
-    "votes_confirmes": 1,
-    "votes_totaux": 1,
-    "rang": 30,
-    "valide": false,
-    "parrainages": [
-      {
-        "genre": "M.",
-        "nom": "PFEIFFER-RINIE Dominique",
-        "fonction": "Maire",
-        "circonscription": "Preuschdorf",
-        "departement": "Bas-Rhin",
-        "date": "2022-02-22"
-      }
-    ],
-    "stats": {
-      "genre": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "M.",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "fonction": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Maire",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "circonscription": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Preuschdorf",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "departement": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "Bas-Rhin",
-            "value": 1,
-            "rang": 1
-          }
-        ]
-      },
-      "date": {
-        "total": 1,
-        "valeurs": [
-          {
-            "key": "2022-02-22",
+            "key": "2022-02-10",
             "value": 1,
             "rang": 1
           }
@@ -120550,6 +120343,213 @@
         "valeurs": [
           {
             "key": "2022-02-22",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nom": "SCHOVANEC Josef",
+    "votes_confirmes": 1,
+    "votes_totaux": 1,
+    "rang": 30,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "M.",
+        "nom": "LOISEAU Georgio",
+        "fonction": "Maire",
+        "circonscription": "Poses",
+        "departement": "Eure",
+        "date": "2022-02-08"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "M.",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Poses",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Eure",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "2022-02-08",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nom": "VIEIRA Gildas",
+    "votes_confirmes": 1,
+    "votes_totaux": 1,
+    "rang": 30,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "M.",
+        "nom": "HÉNAULT Damien",
+        "fonction": "Maire",
+        "circonscription": "Montrichard Val de Cher",
+        "departement": "Loir-et-Cher",
+        "date": "2022-02-10"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "M.",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Montrichard Val de Cher",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Loir-et-Cher",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "2022-02-10",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nom": "WENDLINGER Stéphane",
+    "votes_confirmes": 1,
+    "votes_totaux": 1,
+    "rang": 30,
+    "valide": false,
+    "parrainages": [
+      {
+        "genre": "Mme",
+        "nom": "DAVID Sylvette",
+        "fonction": "Maire",
+        "circonscription": "Quintenas",
+        "departement": "Ardèche",
+        "date": "2022-02-15"
+      }
+    ],
+    "stats": {
+      "genre": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Mme",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "fonction": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Maire",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "circonscription": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Quintenas",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "departement": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "Ardèche",
+            "value": 1,
+            "rang": 1
+          }
+        ]
+      },
+      "date": {
+        "total": 1,
+        "valeurs": [
+          {
+            "key": "2022-02-15",
             "value": 1,
             "rang": 1
           }

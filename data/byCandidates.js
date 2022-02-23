@@ -39,6 +39,8 @@ export default function byCandidates(data) {
         candidate.stats.date.push(vote[7].substring(0, 10));
     });
 
+    candidates.sort(alphabet);
+
     candidates.sort((a, b) => a.rang - b.rang);
 
     candidates.forEach(candidate => {
@@ -47,7 +49,15 @@ export default function byCandidates(data) {
         candidate.stats.circonscription = stats(candidate.stats.circonscription, true);
         candidate.stats.departement = stats(candidate.stats.departement, true);
         candidate.stats.date = stats(candidate.stats.date, true);
+        console.log(candidate.rang, candidate.nom);
         fs.writeFileSync(path.resolve('data/json/by-candidates/', candidate.nom.replace(/\s+/g, '_') + '.json'), JSON.stringify(candidate, null, 2));
     });
     fs.writeFileSync(path.resolve('data/json/by-candidates/', 'all_candidates.json'), JSON.stringify(candidates, null, 2));
 }
+
+const alphabet = (a, b) => {
+    if (a.nom < b.nom) return -1;
+    else if (a.nom == b.nom) return 0;
+    else return 1;
+};
+  
