@@ -25,7 +25,7 @@ export default {
     },
     getImgUrl() {
       const images = require.context('@/assets/img/candidates/', false, /\.png$/)
-      const image = registeredCandidates.includes(this.name) ? images('./' + this.name.replace(/\s+/g, '_') + '.png') : images('./default.png')
+      const image = registeredCandidates.includes(this.name.replace('  ', ' ')) ? images('./' + this.name.replace('  ', ' ').replace(/\s+/g, '_') + '.png') : images('./default.png')
       return image
     },
     getDestination() {
@@ -35,7 +35,7 @@ export default {
   }
 }
 
-const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO Anne"]
+const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO Anne", "ROUSSEL Fabien", "LASSALLE Jean", "ARTHAUD Nathalie", "JADOT Yannick", "MÉLENCHON Jean-Luc", "DUPONT-AIGNAN Nicolas", "LE PEN Marine", "ZEMMOUR Éric", "ASSELINEAU François", "POUTOU Philippe", "KAZIB Anasse", "TAUBIRA Christiane", "THOUY Hélène", "KUZMANOVIC Georges", "KOENIG Gaspard", "EGGER Clara", "MIGUET Nicolas", "MARTINEZ Antoine", "CHICHE Arnaud", "SMATI Rafik", "BÉKAERT Corinne", "CAU Marie", "FORTANÉ Jean-Marc", "ROCCA Martin", "WAECHTER Antoine", "RIVOAL Stéphanie"]
 </script>
 
 <style scoped lang="scss">

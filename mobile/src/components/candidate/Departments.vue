@@ -13,7 +13,6 @@
           </div>
         </div>
       </div>
-      <!-- <Button title="Voir plus"/> -->
     </div>
 
     <h1 id="line-title" v-if="dates.length > 1">Évolution</h1>

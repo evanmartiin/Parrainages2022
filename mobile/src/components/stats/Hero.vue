@@ -2,21 +2,13 @@
   <div class="hero">
     <h1>Visualiser par</h1>
     <div class="buttons">
-      <Button title="Région"/>
-      <Button title="Département"/>
-      <Button title="Commune"/>
     </div>
   </div>
 </template>
 
 <script>
-import Button from '@/components/Button.vue'
-
 export default {
-  name: 'Hero',
-  components: {
-    Button
-  }
+  name: 'Hero'
 }
 </script>
 
