@@ -1,13 +1,11 @@
 <template>
   <div class="home">
-    <Header/>
     <Hero v-if="!loading" :candidates="candidates"/>
     <CandidatesList :candidates="candidates" :loading="loading" :error="error"/>
   </div>
 </template>
 
 <script>
-import Header from '@/components/Header.vue'
 import Hero from '@/components/home/Hero.vue'
 import CandidatesList from '@/components/home/CandidatesList.vue'
 import { ref, onMounted } from 'vue'
@@ -15,7 +13,6 @@ import { ref, onMounted } from 'vue'
 export default {
   name: 'Home',
   components: {
-    Header,
     Hero,
     CandidatesList
   },
