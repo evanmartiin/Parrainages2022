@@ -1,7 +1,7 @@
 <template>
   <div class="candidate-page">
     <Header :needsBack="true"/>
-    <Hero v-if="!loading" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux" :validated="candidate.valide" :nav="nav" />
+    <Hero v-if="!loading" :rank="candidate.rang" :party="party" :name="candidate.nom" :votes="candidate.votes_totaux" :validated="candidate.valide" :nav="nav" />
     <Map v-if="!loading" :deps="candidate.stats.departement.valeurs" />
     <Departments v-if="!loading" :deps="candidate.stats.departement.valeurs" :dates="candidate.stats.date.valeurs" />
     <Stats v-if="!loading" :gender="candidate.stats.genre" :functions="candidate.stats.fonction" />
@@ -21,6 +21,7 @@ import Map from '@/components/candidate/Map.vue'
 import Departments from '@/components/candidate/Departments.vue'
 import Stats from '@/components/candidate/Stats.vue'
 import { ref, onMounted } from 'vue'
+import { parties } from "../utils/parties";
 
 export default {
   name: 'CandidatePage',
@@ -39,6 +40,7 @@ export default {
   },
   async beforeRouteUpdate(to) {
       this.loading = true;
+      this.party = parties.find(el => el.name === to.params.id.replaceAll('_', ' '))
       
       fetch('https://raw.githubusercontent.com/evanmartiin/Parrainages2022/main/data/json/by-candidates/' + to.params.id + '.json')
         .then(res => {
@@ -97,6 +99,9 @@ export default {
     const nav = ref(null);
     const loading = ref(true);
     const error = ref(null);
+    const party = ref(null);
+
+    party.value = parties.find(el => el.name === props.id.replaceAll('_', ' '))
 
     function fetchData() {
       loading.value = true;
@@ -163,7 +168,8 @@ export default {
       candidate,
       nav,
       loading,
-      error
+      error,
+      party
     };
   },
 }

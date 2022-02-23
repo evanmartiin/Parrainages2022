@@ -4,7 +4,7 @@
       <img :src="getImgUrl" alt="">
       <p class="rank">#{{ rank }}</p>
       <h1>{{ name }}</h1>
-      <p class="party"><a href="">La République en Marche</a></p>
+      <p class="party" v-if="party"><a :href="party.link" target="_blank">{{ party.party }}</a></p>
     </div>
 
     <div class="votes">
@@ -58,7 +58,8 @@ export default {
     name: String,
     votes: Number,
     validated: Boolean,
-    nav: Object
+    nav: Object,
+    party: Object
   },
   computed: {
     style() {
