@@ -1,6 +1,6 @@
 module.exports = {
     pwa: {
-      name: "Parrainages 2022",
+      name: "Parrainages",
       themeColor: "#ffffff",
     }
 };
