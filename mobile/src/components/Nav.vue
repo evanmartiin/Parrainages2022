@@ -8,7 +8,7 @@
       <img src="@/assets/img/chart-icon.png" alt="">
       <p>Statistiques</p>
     </router-link>
-    <router-link to="/about">
+    <router-link to="/search">
       <img src="@/assets/img/search-icon.png" style="width: 22px;" alt="">
       <p>Rechercher</p>
     </router-link>
