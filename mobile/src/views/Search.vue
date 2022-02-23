@@ -3,7 +3,7 @@
     <Header :needsBack="true"/>
     <h1>Rechercher une ville</h1>
     <input type="text" name="" id="" v-model="search" placeholder="Bordeaux, Rennes, Ploudaniel...">
-    <p class="info" v-if="filteredList.length">{{ filteredList.length }} résultats</p>
+    <p class="info" v-if="filteredList.length">{{ filteredList.length }} résultat{{ filteredList.length > 1 ? "s" : "" }}</p>
     <div class="result" v-for="find in filteredList" :key="find.nom + find.vote + Math.random()">
       <p><span>Le maire de</span> {{ find.nom }}<br><span>a voté pour</span> {{ find.vote }}</p>
     </div>
