@@ -72,7 +72,7 @@ const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO 
       span {
         font-family: sofia-pro, sans-serif;
         font-weight: 500;
-        font-size: 14px;
+        font-size: 13px;
         opacity: .5;
         margin-left: 5px;
         margin-top: 2px;

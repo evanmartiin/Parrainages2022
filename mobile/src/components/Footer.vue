@@ -31,6 +31,7 @@ a {
 .btn {
   font-style: normal;
   font-family: sofia-pro, sans-serif;
+  box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
   color: #ffffff;
   border: none;
   background-color: #799CD0;
