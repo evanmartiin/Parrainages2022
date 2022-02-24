@@ -57,6 +57,7 @@ export default {
   box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
   background-color: #ffffff;
   width: 100%;
+  max-width: 500px;
   display: flex;
   align-items: flex-end;
   justify-content: space-evenly;

@@ -1,13 +1,15 @@
 <template>
-  <div id="container" v-if="width < 500">
+  <div id="container" v-if="width <= 500">
     <link rel="stylesheet" href="https://use.typekit.net/biu0dvk.css">
     <router-view/>
     <Footer/>
     <Nav/>
   </div>
-  <div v-else id="no-mobile">
-    <h1>{{ String.fromCodePoint(0x1F5F3) }}</h1>
-    <h1>Cette application est disponible uniquement sur mobile.</h1>
+  <div id="container-desk" v-else>
+    <link rel="stylesheet" href="https://use.typekit.net/biu0dvk.css">
+    <router-view/>
+    <Footer/>
+    <Nav/>
   </div>
 </template>
 
@@ -44,6 +46,13 @@ $black: #000000;
 body {
   margin: 0;
   top: 0;
+}
+
+#container-desk {
+  max-width: 500px;
+  margin-left: calc(50vw - 250px);
+  border: 1px solid #dddddd;
+  min-height: 100vh;
 }
 
 #no-mobile {

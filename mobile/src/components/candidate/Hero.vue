@@ -33,7 +33,7 @@
       </router-link>
     </div>
 
-    <div class="nav-scrolled">
+    <div class="nav-scrolled" v-if="width <= 500">
       <router-link :to="'/candidate/' + nav.prev.nom.replace(/\s+/g, '_')" class="prev" v-if="nav.prev">
         <div>
           <img class="arrow" src="@/assets/img/arrow-right.png" alt="">
@@ -103,8 +103,10 @@ export default {
       var elem = document.getElementsByClassName('nav')[0];
       var location = getElemDistance( elem );
       const distance = location - window.pageYOffset;
+
+      let scrollDiv = document.getElementsByClassName('nav-scrolled')[0]
       
-      document.getElementsByClassName('nav-scrolled')[0].style.display = distance <= 20 ? 'grid' : 'none';
+      if (scrollDiv) scrollDiv.style.display = distance <= 20 ? 'grid' : 'none';
     }
   }
 }
