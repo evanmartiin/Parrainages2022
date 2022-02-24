@@ -1,21 +1,35 @@
 <template>
-  <div id="container">
+  <div id="container" v-if="width < 500">
     <link rel="stylesheet" href="https://use.typekit.net/biu0dvk.css">
     <router-view/>
     <Footer/>
     <Nav/>
+  </div>
+  <div v-else id="no-mobile">
+    <h1>{{ String.fromCodePoint(0x1F5F3) }}</h1>
+    <h1>Cette application est disponible uniquement sur mobile.</h1>
   </div>
 </template>
 
 <script>
 import Footer from '@/components/Footer.vue'
 import Nav from '@/components/Nav.vue'
+import { ref } from "vue"
 
 export default {
   name: 'App',
   components: {
     Footer,
     Nav
+  },
+  setup() {
+    const width = ref(null);
+
+    width.value = window.innerWidth;
+    
+    return {
+      width
+    }
   }
 }
 </script>
@@ -30,6 +44,26 @@ $black: #000000;
 body {
   margin: 0;
   top: 0;
+}
+
+#no-mobile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+
+  h1 {
+    width: 50%;
+    font-size: 3vw;
+    text-align: center;
+
+    &:first-of-type {
+      font-size: 50px;
+      margin-bottom: 20px;
+    }
+  }
 }
 
 h1 {
