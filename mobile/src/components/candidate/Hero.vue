@@ -33,7 +33,7 @@
       </router-link>
     </div>
 
-    <div class="nav-scrolled" v-if="width <= 500">
+    <div class="nav-scrolled">
       <router-link :to="'/candidate/' + nav.prev.nom.replace(/\s+/g, '_')" class="prev" v-if="nav.prev">
         <div>
           <img class="arrow" src="@/assets/img/arrow-right.png" alt="">
@@ -105,6 +105,7 @@ export default {
       const distance = location - window.pageYOffset;
 
       let scrollDiv = document.getElementsByClassName('nav-scrolled')[0]
+      console.log(scrollDiv);
       
       if (scrollDiv) scrollDiv.style.display = distance <= 20 ? 'grid' : 'none';
     }
@@ -255,6 +256,9 @@ const registeredCandidates = ["MACRON Emmanuel", "PÉCRESSE Valérie", "HIDALGO 
     margin: 0;
     padding: 20px;
     width: 100%;
+    max-width: 500px;
+    margin-left: 50vw;
+    transform: translateX(-50%);
     box-sizing: border-box;
     background: rgba(255, 255, 255, 0.5);
     backdrop-filter: blur(50px);
