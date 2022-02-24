@@ -105,7 +105,6 @@ export default {
       const distance = location - window.pageYOffset;
 
       let scrollDiv = document.getElementsByClassName('nav-scrolled')[0]
-      console.log(scrollDiv);
       
       if (scrollDiv) scrollDiv.style.display = distance <= 20 ? 'grid' : 'none';
     }
