@@ -88,15 +88,17 @@ h1 {
 
 input {
   border: none;
-  padding: 10px 20px;
-  border-radius: 20px;
+  padding: 15px 20px;
+  border-radius: 25px;
   box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
-  background-color: #D67878;
-  color: #ffffff;
+  // background-color: #dedcdc;
+  border: 1px solid #dddddd;
+  color: #000000;
   font-size: 15px;
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 20px;
+  font-family: sofia-pro, sans-serif;
 }
 
 input:focus {
@@ -104,7 +106,7 @@ input:focus {
 }
 
 input::placeholder {
-  color: #ffffff;
+  color: #888888;
   font-style: italic;
   opacity: .5;
 }
