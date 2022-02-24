@@ -1,6 +1,6 @@
 {
   "nom": "Rhône",
-  "total": 188,
+  "total": 198,
   "votes": [
     {
       "key": "JADOT Yannick",
@@ -9,12 +9,12 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 41,
+      "value": 45,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 29,
+      "value": 31,
       "rang": 3
     },
     {
@@ -29,13 +29,13 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "value": 8,
       "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 6,
-      "rang": 7
+      "value": 8,
+      "rang": 6
     },
     {
       "key": "TAUBIRA Christiane",
@@ -69,6 +69,11 @@
     },
     {
       "key": "MAZUEL Philippe",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 1,
       "rang": 11
     },

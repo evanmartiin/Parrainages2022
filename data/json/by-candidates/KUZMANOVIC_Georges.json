@@ -1,8 +1,8 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 40,
-  "votes_totaux": 40,
-  "rang": 17,
+  "votes_confirmes": 42,
+  "votes_totaux": 42,
+  "rang": 18,
   "valide": false,
   "parrainages": [
     {
@@ -324,15 +324,31 @@
       "circonscription": "Maxstadt",
       "departement": "Moselle",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAGNEAUX Jean-Yves",
+      "fonction": "Maire",
+      "circonscription": "Regniowez",
+      "departement": "Ardennes",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "PEDELABAT Marc",
+      "fonction": "Maire",
+      "circonscription": "Carrère",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 40,
+      "total": 42,
       "valeurs": [
         {
           "key": "M.",
-          "value": 39,
+          "value": 41,
           "rang": 1
         },
         {
@@ -343,11 +359,11 @@
       ]
     },
     "fonction": {
-      "total": 40,
+      "total": 42,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 38,
+          "value": 40,
           "rang": 1
         },
         {
@@ -358,7 +374,7 @@
       ]
     },
     "circonscription": {
-      "total": 40,
+      "total": 42,
       "valeurs": [
         {
           "key": "Beaulieu",
@@ -372,6 +388,11 @@
         },
         {
           "key": "Brouck",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Carrère",
           "value": 1,
           "rang": 1
         },
@@ -481,6 +502,11 @@
           "rang": 1
         },
         {
+          "key": "Regniowez",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Romelfing",
           "value": 1,
           "rang": 1
@@ -563,7 +589,7 @@
       ]
     },
     "departement": {
-      "total": 40,
+      "total": 42,
       "valeurs": [
         {
           "key": "Moselle",
@@ -571,59 +597,59 @@
           "rang": 1
         },
         {
+          "key": "Ardennes",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "Pas-de-Calais",
           "value": 3,
           "rang": 2
         },
         {
-          "key": "Ardennes",
-          "value": 2,
-          "rang": 3
-        },
-        {
           "key": "Bas-Rhin",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Dordogne",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Marne",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Saône-et-Loire",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Somme",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Yonne",
           "value": 2,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Ain",
@@ -684,11 +710,16 @@
           "key": "Puy-de-Dôme",
           "value": 1,
           "rang": 13
+        },
+        {
+          "key": "Pyrénées-Atlantiques",
+          "value": 1,
+          "rang": 13
         }
       ]
     },
     "date": {
-      "total": 40,
+      "total": 42,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -721,9 +752,14 @@
           "rang": 5
         },
         {
+          "key": "2022-02-24",
+          "value": 2,
+          "rang": 5
+        },
+        {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 7
+          "rang": 8
         }
       ]
     }

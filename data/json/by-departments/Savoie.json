@@ -1,10 +1,10 @@
 {
   "nom": "Savoie",
-  "total": 56,
+  "total": 61,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 26,
+      "value": 27,
       "rang": 1
     },
     {
@@ -18,6 +18,11 @@
       "rang": 3
     },
     {
+      "key": "LE PEN Marine",
+      "value": 4,
+      "rang": 3
+    },
+    {
       "key": "MACRON Emmanuel",
       "value": 4,
       "rang": 3
@@ -25,42 +30,37 @@
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
-      "key": "LE PEN Marine",
+      "key": "JADOT Yannick",
       "value": 3,
-      "rang": 5
+      "rang": 6
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 3,
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 2,
-      "rang": 8
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 2,
-      "rang": 8
+      "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 10
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

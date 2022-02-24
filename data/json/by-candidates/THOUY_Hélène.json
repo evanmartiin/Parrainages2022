@@ -1,7 +1,7 @@
 {
   "nom": "THOUY Hélène",
-  "votes_confirmes": 89,
-  "votes_totaux": 89,
+  "votes_confirmes": 97,
+  "votes_totaux": 97,
   "rang": 16,
   "valide": false,
   "parrainages": [
@@ -716,35 +716,99 @@
       "circonscription": "Chalou-Moulineux",
       "departement": "Essonne",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "GIROUX Jean-Michel",
+      "fonction": "Maire",
+      "circonscription": "Poncin",
+      "departement": "Ain",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "LANOS Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Chennebrun",
+      "departement": "Eure",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "BRIANÇON Thierry",
+      "fonction": "Maire",
+      "circonscription": "Ville-en-Tardenois",
+      "departement": "Marne",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "AUBRY Alexandre",
+      "fonction": "Maire",
+      "circonscription": "Rumont",
+      "departement": "Meuse",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "SOETAERT Francis",
+      "fonction": "Maire",
+      "circonscription": "Tricot",
+      "departement": "Oise",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "SZCZEPANIAK Eléonore",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DARCIS Philippe",
+      "fonction": "Maire",
+      "circonscription": "La Neuville-Sire-Bernard",
+      "departement": "Somme",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RIVIERE Amélie",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Vendée",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 89,
+      "total": 97,
       "valeurs": [
         {
           "key": "M.",
-          "value": 54,
+          "value": 60,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 35,
+          "value": 37,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 89,
+      "total": 97,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 79,
+          "value": 85,
           "rang": 1
         },
         {
           "key": "Conseiller.e départemental.e",
-          "value": 4,
+          "value": 6,
           "rang": 2
         },
         {
@@ -775,7 +839,7 @@
       ]
     },
     "circonscription": {
-      "total": 83,
+      "total": 89,
       "valeurs": [
         {
           "key": "Ansignan",
@@ -879,6 +943,11 @@
         },
         {
           "key": "Chantes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chennebrun",
           "value": 1,
           "rang": 1
         },
@@ -988,6 +1057,11 @@
           "rang": 1
         },
         {
+          "key": "La Neuville-Sire-Bernard",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Latronche",
           "value": 1,
           "rang": 1
@@ -1058,6 +1132,11 @@
           "rang": 1
         },
         {
+          "key": "Poncin",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Pontgouin",
           "value": 1,
           "rang": 1
@@ -1084,6 +1163,11 @@
         },
         {
           "key": "Rosnay",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Rumont",
           "value": 1,
           "rang": 1
         },
@@ -1148,6 +1232,11 @@
           "rang": 1
         },
         {
+          "key": "Tricot",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Valaire",
           "value": 1,
           "rang": 1
@@ -1169,6 +1258,11 @@
         },
         {
           "key": "Villaines-les-Prévôtes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Ville-en-Tardenois",
           "value": 1,
           "rang": 1
         },
@@ -1195,7 +1289,7 @@
       ]
     },
     "departement": {
-      "total": 89,
+      "total": 97,
       "valeurs": [
         {
           "key": "Doubs",
@@ -1213,264 +1307,274 @@
           "rang": 3
         },
         {
+          "key": "Oise",
+          "value": 4,
+          "rang": 3
+        },
+        {
           "key": "Côte-d'Or",
           "value": 3,
-          "rang": 4
+          "rang": 5
+        },
+        {
+          "key": "Eure",
+          "value": 3,
+          "rang": 5
         },
         {
           "key": "Eure-et-Loir",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
-          "key": "Oise",
+          "key": "Marne",
           "value": 3,
-          "rang": 4
+          "rang": 5
+        },
+        {
+          "key": "Meuse",
+          "value": 3,
+          "rang": 5
         },
         {
           "key": "Paris",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Yonne",
           "value": 3,
-          "rang": 4
+          "rang": 5
+        },
+        {
+          "key": "Ain",
+          "value": 2,
+          "rang": 12
         },
         {
           "key": "Ardennes",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Charente-Maritime",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Drôme",
           "value": 2,
-          "rang": 9
-        },
-        {
-          "key": "Eure",
-          "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Gironde",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Haut-Rhin",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Haute-Saône",
           "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Lot-et-Garonne",
           "value": 2,
-          "rang": 9
-        },
-        {
-          "key": "Marne",
-          "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 2,
-          "rang": 9
-        },
-        {
-          "key": "Meuse",
-          "value": 2,
-          "rang": 9
+          "rang": 12
         },
         {
           "key": "Orne",
           "value": 2,
-          "rang": 9
+          "rang": 12
+        },
+        {
+          "key": "Puy-de-Dôme",
+          "value": 2,
+          "rang": 12
         },
         {
           "key": "Seine-Maritime",
           "value": 2,
-          "rang": 9
-        },
-        {
-          "key": "Ain",
-          "value": 1,
-          "rang": 23
+          "rang": 12
         },
         {
           "key": "Aisne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Aube",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Bouches-du-Rhône",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Corrèze",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Côtes-d'Armor",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Finistère",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Haute-Corse",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Indre-et-Loire",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Loir-et-Cher",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Manche",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Mayenne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 23
-        },
-        {
-          "key": "Puy-de-Dôme",
-          "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Pyrénées-Orientales",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 23
+          "rang": 25
+        },
+        {
+          "key": "Somme",
+          "value": 1,
+          "rang": 25
         },
         {
           "key": "Var",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 23
+          "rang": 25
+        },
+        {
+          "key": "Vendée",
+          "value": 1,
+          "rang": 25
         },
         {
           "key": "Vienne",
           "value": 1,
-          "rang": 23
+          "rang": 25
         },
         {
           "key": "Vosges",
           "value": 1,
-          "rang": 23
+          "rang": 25
         }
       ]
     },
     "date": {
-      "total": 89,
+      "total": 97,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -1498,14 +1602,19 @@
           "rang": 5
         },
         {
+          "key": "2022-02-24",
+          "value": 8,
+          "rang": 5
+        },
+        {
           "key": "2022-02-17",
           "value": 4,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-01",
           "value": 2,
-          "rang": 7
+          "rang": 8
         }
       ]
     }

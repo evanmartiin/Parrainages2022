@@ -9,8 +9,8 @@ const main = async () => {
   await fetchData();
   fs.writeFileSync(path.resolve('data/json/raw.json'), JSON.stringify(data, null, 2));
   byCandidates(data);
-  // byDepartments(data);
-  // byCommunes(data);
+  byDepartments(data);
+  byCommunes(data);
 };
 
 main();

@@ -1,8 +1,8 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 38,
-  "votes_totaux": 38,
-  "rang": 18,
+  "votes_confirmes": 49,
+  "votes_totaux": 49,
+  "rang": 17,
   "valide": false,
   "parrainages": [
     {
@@ -308,56 +308,144 @@
       "circonscription": "L'Isle-Adam",
       "departement": "Val-d'Oise",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "VARNIER Vincent",
+      "fonction": "Maire",
+      "circonscription": "Brécy",
+      "departement": "Aisne",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "CORNET Pierre",
+      "fonction": "Maire",
+      "circonscription": "Fleigneux",
+      "departement": "Ardennes",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "HENRION Marc",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Éole-en-Beauce",
+      "departement": "Eure-et-Loir",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUPONT Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Chinon",
+      "departement": "Indre-et-Loire",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LINCOLN Martine",
+      "fonction": "Maire",
+      "circonscription": "Couziers",
+      "departement": "Indre-et-Loire",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "JOUBERT Michel",
+      "fonction": "Maire",
+      "circonscription": "Chaspuzac",
+      "departement": "Haute-Loire",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "VENTRE Luc",
+      "fonction": "Maire",
+      "circonscription": "Gouy-les-Groseillers",
+      "departement": "Oise",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "BAILLY Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Senlis",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LECAUDEY Maria",
+      "fonction": "Maire",
+      "circonscription": "Clarac",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUNAND-SAUTHIER James",
+      "fonction": "Maire",
+      "circonscription": "Pallud",
+      "departement": "Savoie",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "GOSSELIN Régis",
+      "fonction": "Maire",
+      "circonscription": "Limpiville",
+      "departement": "Seine-Maritime",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 38,
+      "total": 49,
       "valeurs": [
         {
           "key": "M.",
-          "value": 36,
+          "value": 45,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 2,
+          "value": 4,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 38,
+      "total": 49,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 34,
+          "value": 44,
           "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Conseiller.e de Paris",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Conseiller.e départemental.e",
           "value": 1,
-          "rang": 2
-        },
-        {
-          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Sénateur/Sénatrice",
           "value": 1,
-          "rang": 2
+          "rang": 3
         }
       ]
     },
     "circonscription": {
-      "total": 35,
+      "total": 46,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -400,7 +488,17 @@
           "rang": 2
         },
         {
+          "key": "Brécy",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Calan",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Chaspuzac",
           "value": 1,
           "rang": 2
         },
@@ -410,7 +508,22 @@
           "rang": 2
         },
         {
+          "key": "Chinon",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Chuffilly-Roche",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Clarac",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Couziers",
           "value": 1,
           "rang": 2
         },
@@ -435,12 +548,22 @@
           "rang": 2
         },
         {
+          "key": "Fleigneux",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Genevrey",
           "value": 1,
           "rang": 2
         },
         {
           "key": "Gerberoy",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Gouy-les-Groseillers",
           "value": 1,
           "rang": 2
         },
@@ -475,6 +598,11 @@
           "rang": 2
         },
         {
+          "key": "Limpiville",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Mazerier",
           "value": 1,
           "rang": 2
@@ -491,6 +619,11 @@
         },
         {
           "key": "Osmoy",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Pallud",
           "value": 1,
           "rang": 2
         },
@@ -520,7 +653,17 @@
           "rang": 2
         },
         {
+          "key": "Senlis",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Villiers-le-Bâcle",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Éole-en-Beauce",
           "value": 1,
           "rang": 2
         },
@@ -532,152 +675,167 @@
       ]
     },
     "departement": {
-      "total": 38,
+      "total": 49,
       "valeurs": [
+        {
+          "key": "Oise",
+          "value": 4,
+          "rang": 1
+        },
         {
           "key": "Orne",
           "value": 4,
           "rang": 1
         },
         {
-          "key": "Oise",
-          "value": 3,
-          "rang": 2
-        },
-        {
-          "key": "Cher",
-          "value": 2,
-          "rang": 3
-        },
-        {
-          "key": "Morbihan",
-          "value": 2,
-          "rang": 3
-        },
-        {
           "key": "Savoie",
-          "value": 2,
+          "value": 3,
           "rang": 3
         },
         {
           "key": "Seine-Maritime",
-          "value": 2,
-          "rang": 3
-        },
-        {
-          "key": "Vosges",
-          "value": 2,
+          "value": 3,
           "rang": 3
         },
         {
           "key": "Aisne",
-          "value": 1,
-          "rang": 8
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Ardennes",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Cher",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Eure-et-Loir",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Hautes-Pyrénées",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Morbihan",
+          "value": 2,
+          "rang": 5
+        },
+        {
+          "key": "Vosges",
+          "value": 2,
+          "rang": 5
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 8
-        },
-        {
-          "key": "Ardennes",
-          "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Charente-Maritime",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 8
-        },
-        {
-          "key": "Eure-et-Loir",
-          "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Gers",
           "value": 1,
-          "rang": 8
+          "rang": 13
+        },
+        {
+          "key": "Haute-Loire",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Haute-Savoie",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 8
-        },
-        {
-          "key": "Hautes-Pyrénées",
-          "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Isère",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Paris",
           "value": 1,
-          "rang": 8
+          "rang": 13
+        },
+        {
+          "key": "Pas-de-Calais",
+          "value": 1,
+          "rang": 13
         },
         {
           "key": "Saône-et-Loire",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Val-d'Oise",
           "value": 1,
-          "rang": 8
+          "rang": 13
         },
         {
           "key": "Yonne",
           "value": 1,
-          "rang": 8
+          "rang": 13
         }
       ]
     },
     "date": {
-      "total": 38,
+      "total": 49,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -685,29 +843,34 @@
           "rang": 1
         },
         {
+          "key": "2022-02-24",
+          "value": 11,
+          "rang": 2
+        },
+        {
           "key": "2022-02-22",
           "value": 7,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-10",
           "value": 4,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 6
+          "rang": 7
         }
       ]
     }

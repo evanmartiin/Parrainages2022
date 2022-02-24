@@ -1,35 +1,35 @@
 {
   "nom": "Auvergne-Rhône-Alpes",
-  "total": 1019,
+  "total": 1102,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 263,
+      "value": 278,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 149,
+      "value": 163,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 119,
+      "value": 127,
       "rang": 3
     },
     {
       "key": "HIDALGO Anne",
-      "value": 95,
+      "value": 100,
       "rang": 4
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 86,
+      "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 77,
-      "rang": 5
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 71,
       "rang": 6
     },
     {
@@ -38,43 +38,43 @@
       "rang": 7
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 41,
+      "key": "ZEMMOUR Éric",
+      "value": 49,
       "rang": 8
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 39,
+      "key": "ARTHAUD Nathalie",
+      "value": 42,
       "rang": 9
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 19,
+      "key": "POUTOU Philippe",
+      "value": 22,
       "rang": 10
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 19,
-      "rang": 10
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 21,
+      "rang": 11
     },
     {
       "key": "LE PEN Marine",
-      "value": 17,
+      "value": 19,
       "rang": 12
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 17,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 8,
+      "value": 10,
       "rang": 14
     },
     {
       "key": "THOUY Hélène",
-      "value": 7,
+      "value": 9,
       "rang": 15
     },
     {
@@ -113,12 +113,32 @@
       "rang": 22
     },
     {
+      "key": "BÉKAERT Corinne",
+      "value": 1,
+      "rang": 22
+    },
+    {
+      "key": "CAU Marie",
+      "value": 1,
+      "rang": 22
+    },
+    {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
       "rang": 22
     },
     {
       "key": "MAZUEL Philippe",
+      "value": 1,
+      "rang": 22
+    },
+    {
+      "key": "MEURICE Guillaume",
+      "value": 1,
+      "rang": 22
+    },
+    {
+      "key": "MIGUET Nicolas",
       "value": 1,
       "rang": 22
     },

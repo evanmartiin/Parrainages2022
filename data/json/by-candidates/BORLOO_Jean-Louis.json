@@ -1,0 +1,69 @@
+{
+  "nom": "BORLOO Jean-Louis",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 32,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "MAYRAND Benoît",
+      "fonction": "Conseiller à l'Assemblée des Français de l'étranger",
+      "circonscription": "Europe centrale et orientale (y compris Russie)",
+      "departement": "Français de l'étranger",
+      "date": "2022-02-24"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Conseiller à l'Assemblée des Français de l'étranger",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Europe centrale et orientale (y compris Russie)",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Français de l'étranger",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-02-24",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

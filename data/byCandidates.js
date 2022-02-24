@@ -49,7 +49,6 @@ export default function byCandidates(data) {
         candidate.stats.circonscription = stats(candidate.stats.circonscription, true);
         candidate.stats.departement = stats(candidate.stats.departement, true);
         candidate.stats.date = stats(candidate.stats.date, true);
-        console.log(candidate.rang, candidate.nom);
         fs.writeFileSync(path.resolve('data/json/by-candidates/', candidate.nom.replace(/\s+/g, '_') + '.json'), JSON.stringify(candidate, null, 2));
     });
     fs.writeFileSync(path.resolve('data/json/by-candidates/', 'all_candidates.json'), JSON.stringify(candidates, null, 2));

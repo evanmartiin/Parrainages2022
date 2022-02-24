@@ -1,8 +1,8 @@
 {
   "nom": "VIEIRA Gildas",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 30,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 29,
   "valide": false,
   "parrainages": [
     {
@@ -12,54 +12,72 @@
       "circonscription": "Montrichard Val de Cher",
       "departement": "Loir-et-Cher",
       "date": "2022-02-10"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEPLARD Michel",
+      "fonction": "Maire",
+      "circonscription": "Saint-Julien-de-Chédon",
+      "departement": "Loir-et-Cher",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Montrichard Val de Cher",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Julien-de-Chédon",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Loir-et-Cher",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-10",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-24",
           "value": 1,
           "rang": 1
         }

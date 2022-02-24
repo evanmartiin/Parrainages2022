@@ -1,16 +1,26 @@
 {
   "nom": "Martinique",
-  "total": 7,
+  "total": 10,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 5,
+      "value": 6,
       "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 2,
       "rang": 2
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 3
     }
   ]
 }

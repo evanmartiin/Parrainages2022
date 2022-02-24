@@ -1,6 +1,6 @@
 {
   "nom": "Charente",
-  "total": 82,
+  "total": 88,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -23,13 +23,13 @@
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 7,
-      "rang": 5
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 9,
+      "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 6,
+      "key": "PÉCRESSE Valérie",
+      "value": 8,
       "rang": 6
     },
     {
@@ -63,14 +63,19 @@
       "rang": 9
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 1,
-      "rang": 13
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 9
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 13
+      "rang": 14
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 14
     }
   ]
 }

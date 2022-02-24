@@ -1,61 +1,66 @@
 {
   "nom": "Haute-Loire",
-  "total": 25,
+  "total": 30,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 11,
+      "value": 13,
       "rang": 1
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 2,
-      "rang": 2
+      "rang": 3
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 3
     },
     {
       "key": "JADOT Yannick",
       "value": 2,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
       "value": 2,
-      "rang": 2
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
-      "key": "HIDALGO Anne",
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 6
+      "rang": 7
     }
   ]
 }

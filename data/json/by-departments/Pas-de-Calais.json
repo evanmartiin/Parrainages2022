@@ -1,31 +1,31 @@
 {
   "nom": "Pas-de-Calais",
-  "total": 183,
+  "total": 203,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 35,
+      "value": 38,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 29,
+      "value": 31,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 23,
+      "value": 25,
       "rang": 3
     },
     {
       "key": "LE PEN Marine",
-      "value": 21,
+      "value": 24,
       "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 21,
-      "rang": 4
+      "value": 22,
+      "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -38,13 +38,13 @@
       "rang": 7
     },
     {
-      "key": "JADOT Yannick",
-      "value": 6,
-      "rang": 8
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 9,
+      "rang": 7
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
+      "key": "JADOT Yannick",
+      "value": 7,
       "rang": 9
     },
     {
@@ -63,34 +63,44 @@
       "rang": 11
     },
     {
+      "key": "ZEMMOUR Éric",
+      "value": 3,
+      "rang": 11
+    },
+    {
       "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 14
+      "rang": 15
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "MARTINEZ Antoine",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 14
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 14
+      "rang": 15
     }
   ]
 }

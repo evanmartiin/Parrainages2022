@@ -1,20 +1,20 @@
 {
   "nom": "Somme",
-  "total": 127,
+  "total": 139,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 19,
+      "value": 21,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 17,
+      "value": 19,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 15,
+      "value": 18,
       "rang": 3
     },
     {
@@ -28,34 +28,34 @@
       "rang": 5
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 10,
+      "key": "ZEMMOUR Éric",
+      "value": 11,
       "rang": 6
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 9,
+      "key": "HIDALGO Anne",
+      "value": 10,
       "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "value": 8,
       "rang": 8
     },
     {
       "key": "ASSELINEAU François",
-      "value": 5,
+      "value": 6,
       "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 5,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "KAZIB Anasse",
       "value": 5,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
@@ -76,6 +76,11 @@
       "key": "POUTOU Philippe",
       "value": 2,
       "rang": 13
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 1,
+      "rang": 16
     }
   ]
 }

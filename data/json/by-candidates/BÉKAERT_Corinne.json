@@ -1,7 +1,7 @@
 {
   "nom": "BÉKAERT Corinne",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
+  "votes_confirmes": 4,
+  "votes_totaux": 4,
   "rang": 24,
   "valide": false,
   "parrainages": [
@@ -28,15 +28,23 @@
       "circonscription": "Herzeele",
       "departement": "Nord",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "SEVE François",
+      "fonction": "Maire",
+      "circonscription": "Usinens",
+      "departement": "Haute-Savoie",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 3,
           "rang": 1
         },
         {
@@ -47,17 +55,17 @@
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 4,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Herzeele",
@@ -73,14 +81,24 @@
           "key": "Puy-Sanières",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Usinens",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Haute-Savoie",
           "value": 1,
           "rang": 1
         },
@@ -97,7 +115,7 @@
       ]
     },
     "date": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -106,6 +124,11 @@
         },
         {
           "key": "2022-02-08",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "2022-02-24",
           "value": 1,
           "rang": 2
         }

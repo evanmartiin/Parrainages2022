@@ -1,6 +1,6 @@
 {
   "nom": "Vaucluse",
-  "total": 60,
+  "total": 62,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -23,19 +23,19 @@
       "rang": 4
     },
     {
+      "key": "ZEMMOUR Éric",
+      "value": 4,
+      "rang": 4
+    },
+    {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
@@ -54,6 +54,11 @@
     },
     {
       "key": "EGGER Clara",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
       "value": 1,
       "rang": 9
     },

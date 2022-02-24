@@ -1,15 +1,15 @@
 {
   "nom": "La Réunion",
-  "total": 21,
+  "total": 25,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 7,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 8,
       "rang": 1
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 6,
+      "key": "MACRON Emmanuel",
+      "value": 7,
       "rang": 2
     },
     {
@@ -19,8 +19,13 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 2,
+      "value": 3,
       "rang": 4
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 5
     },
     {
       "key": "TAUBIRA Christiane",

@@ -1,7 +1,7 @@
 {
   "nom": "WAECHTER Antoine",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
+  "votes_confirmes": 4,
+  "votes_totaux": 4,
   "rang": 24,
   "valide": false,
   "parrainages": [
@@ -28,25 +28,38 @@
       "circonscription": "Bourgogne-Franche-Comté",
       "departement": "Saône-et-Loire",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CASSUS Véronique",
+      "fonction": "Maire",
+      "circonscription": "Plénisette",
+      "departement": "Jura",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "M.",
           "value": 3,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 2,
+          "value": 3,
           "rang": 1
         },
         {
@@ -57,7 +70,7 @@
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Bourgogne-Franche-Comté",
@@ -70,6 +83,11 @@
           "rang": 1
         },
         {
+          "key": "Plénisette",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Saint-Viaud",
           "value": 1,
           "rang": 1
@@ -77,8 +95,13 @@
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
+        {
+          "key": "Jura",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Loire-Atlantique",
           "value": 1,
@@ -97,7 +120,7 @@
       ]
     },
     "date": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -111,6 +134,11 @@
         },
         {
           "key": "2022-02-22",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-24",
           "value": 1,
           "rang": 1
         }

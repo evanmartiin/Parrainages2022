@@ -1,0 +1,69 @@
+{
+  "nom": "MONTEBOURG Arnaud",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 32,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "CARRE François-Xavier",
+      "fonction": "Maire",
+      "circonscription": "Delouze-Rosières",
+      "departement": "Meuse",
+      "date": "2022-02-24"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Delouze-Rosières",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Meuse",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-02-24",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

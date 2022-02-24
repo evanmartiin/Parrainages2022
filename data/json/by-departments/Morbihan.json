@@ -1,10 +1,10 @@
 {
   "nom": "Morbihan",
-  "total": 42,
+  "total": 45,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 19,
+      "value": 20,
       "rang": 1
     },
     {
@@ -13,19 +13,19 @@
       "rang": 2
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 3,
+      "key": "JADOT Yannick",
+      "value": 4,
       "rang": 3
     },
     {
-      "key": "JADOT Yannick",
+      "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "KOENIG Gaspard",
@@ -44,6 +44,11 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
       "value": 1,
       "rang": 8
     }

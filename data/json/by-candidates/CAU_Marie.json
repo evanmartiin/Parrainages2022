@@ -1,7 +1,7 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
+  "votes_confirmes": 4,
+  "votes_totaux": 4,
   "rang": 24,
   "valide": false,
   "parrainages": [
@@ -28,32 +28,45 @@
       "circonscription": "Dechy",
       "departement": "Nord",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROUSSET Franck",
+      "fonction": "Maire",
+      "circonscription": "Chevrières",
+      "departement": "Isère",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "M.",
-          "value": 3,
+          "value": 4,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 4,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
+        {
+          "key": "Chevrières",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Courchelettes",
           "value": 1,
@@ -72,7 +85,7 @@
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "Nord",
@@ -83,11 +96,16 @@
           "key": "Haut-Rhin",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Isère",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 3,
+      "total": 4,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -101,6 +119,11 @@
         },
         {
           "key": "2022-02-17",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-24",
           "value": 1,
           "rang": 1
         }

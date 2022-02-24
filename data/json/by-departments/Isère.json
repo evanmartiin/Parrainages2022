@@ -1,6 +1,6 @@
 {
   "nom": "Isère",
-  "total": 124,
+  "total": 137,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -14,38 +14,38 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 14,
+      "value": 16,
       "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 15,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 11,
-      "rang": 4
+      "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 10,
-      "rang": 5
+      "key": "ZEMMOUR Éric",
+      "value": 9,
+      "rang": 6
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 8,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "HIDALGO Anne",
       "value": 8,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "POUTOU Philippe",
-      "value": 6,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 6,
-      "rang": 8
+      "value": 7,
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
@@ -63,12 +63,22 @@
       "rang": 11
     },
     {
+      "key": "CAU Marie",
+      "value": 1,
+      "rang": 13
+    },
+    {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
       "rang": 13
     },
     {
       "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 13
+    },
+    {
+      "key": "MEURICE Guillaume",
       "value": 1,
       "rang": 13
     }

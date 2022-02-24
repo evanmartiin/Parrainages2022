@@ -1,7 +1,7 @@
 {
   "nom": "ASSELINEAU François",
-  "votes_confirmes": 241,
-  "votes_totaux": 241,
+  "votes_confirmes": 247,
+  "votes_totaux": 247,
   "rang": 12,
   "valide": false,
   "parrainages": [
@@ -1932,30 +1932,78 @@
       "circonscription": "Laos",
       "departement": "Français de l'étranger",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAIA Filipe",
+      "fonction": "Maire",
+      "circonscription": "Poisieux",
+      "departement": "Cher",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "OVAN Alain",
+      "fonction": "Maire",
+      "circonscription": "Beaulieu",
+      "departement": "Indre",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "BENNEZON Vincent",
+      "fonction": "Maire",
+      "circonscription": "Courville",
+      "departement": "Marne",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "YAHIAOUI Romuald",
+      "fonction": "Maire",
+      "circonscription": "Hellimer",
+      "departement": "Moselle",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUBRUQUE Etienne",
+      "fonction": "Maire",
+      "circonscription": "Lesbœufs",
+      "departement": "Somme",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "ADAM Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Les Bordes",
+      "departement": "Yonne",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 241,
+      "total": 247,
       "valeurs": [
         {
           "key": "M.",
-          "value": 187,
+          "value": 192,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 54,
+          "value": 55,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 241,
+      "total": 247,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 188,
+          "value": 194,
           "rang": 1
         },
         {
@@ -1976,7 +2024,7 @@
       ]
     },
     "circonscription": {
-      "total": 240,
+      "total": 246,
       "valeurs": [
         {
           "key": "Mareuil en Périgord",
@@ -2105,6 +2153,11 @@
         },
         {
           "key": "Bayecourt",
+          "value": 1,
+          "rang": 10
+        },
+        {
+          "key": "Beaulieu",
           "value": 1,
           "rang": 10
         },
@@ -2319,6 +2372,11 @@
           "rang": 10
         },
         {
+          "key": "Courville",
+          "value": 1,
+          "rang": 10
+        },
+        {
           "key": "Cousances-lès-Triconville",
           "value": 1,
           "rang": 10
@@ -2469,6 +2527,11 @@
           "rang": 10
         },
         {
+          "key": "Hellimer",
+          "value": 1,
+          "rang": 10
+        },
+        {
           "key": "Jaucourt",
           "value": 1,
           "rang": 10
@@ -2575,6 +2638,16 @@
         },
         {
           "key": "Le Val-d'Esnoms",
+          "value": 1,
+          "rang": 10
+        },
+        {
+          "key": "Les Bordes",
+          "value": 1,
+          "rang": 10
+        },
+        {
+          "key": "Lesbœufs",
           "value": 1,
           "rang": 10
         },
@@ -2750,6 +2823,11 @@
         },
         {
           "key": "Plesnois",
+          "value": 1,
+          "rang": 10
+        },
+        {
+          "key": "Poisieux",
           "value": 1,
           "rang": 10
         },
@@ -3131,7 +3209,7 @@
       ]
     },
     "departement": {
-      "total": 241,
+      "total": 247,
       "valeurs": [
         {
           "key": "Haute-Marne",
@@ -3155,7 +3233,7 @@
         },
         {
           "key": "Marne",
-          "value": 15,
+          "value": 16,
           "rang": 5
         },
         {
@@ -3169,19 +3247,19 @@
           "rang": 7
         },
         {
+          "key": "Moselle",
+          "value": 9,
+          "rang": 7
+        },
+        {
           "key": "Orne",
           "value": 9,
           "rang": 7
         },
         {
-          "key": "Moselle",
-          "value": 8,
-          "rang": 9
-        },
-        {
           "key": "Yonne",
-          "value": 8,
-          "rang": 9
+          "value": 9,
+          "rang": 7
         },
         {
           "key": "Hérault",
@@ -3199,19 +3277,19 @@
           "rang": 12
         },
         {
+          "key": "Somme",
+          "value": 6,
+          "rang": 12
+        },
+        {
           "key": "Dordogne",
           "value": 5,
-          "rang": 14
+          "rang": 15
         },
         {
           "key": "Manche",
           "value": 5,
-          "rang": 14
-        },
-        {
-          "key": "Somme",
-          "value": 5,
-          "rang": 14
+          "rang": 15
         },
         {
           "key": "Gard",
@@ -3254,6 +3332,11 @@
           "rang": 21
         },
         {
+          "key": "Indre",
+          "value": 2,
+          "rang": 21
+        },
+        {
           "key": "Jura",
           "value": 2,
           "rang": 21
@@ -3291,72 +3374,72 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 32
+          "rang": 33
+        },
+        {
+          "key": "Cher",
+          "value": 1,
+          "rang": 33
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Eure",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Français de l'étranger",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Haut-Rhin",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 32
-        },
-        {
-          "key": "Indre",
-          "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Seine-et-Marne",
           "value": 1,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 32
+          "rang": 33
         }
       ]
     },
     "date": {
-      "total": 241,
+      "total": 247,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -3392,6 +3475,11 @@
           "key": "2022-02-17",
           "value": 7,
           "rang": 7
+        },
+        {
+          "key": "2022-02-24",
+          "value": 6,
+          "rang": 8
         }
       ]
     }

@@ -1,16 +1,21 @@
 {
   "nom": "Haut-Rhin",
-  "total": 94,
+  "total": 102,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 34,
+      "value": 36,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 26,
+      "value": 27,
       "rang": 2
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 6,
+      "rang": 3
     },
     {
       "key": "JADOT Yannick",
@@ -18,32 +23,32 @@
       "rang": 3
     },
     {
+      "key": "LASSALLE Jean",
+      "value": 5,
+      "rang": 5
+    },
+    {
       "key": "LE PEN Marine",
       "value": 5,
-      "rang": 4
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
       "rang": 5
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "ZEMMOUR Éric",
       "value": 4,
-      "rang": 5
+      "rang": 7
     },
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 7
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
       "value": 2,
       "rang": 9
     },
@@ -55,27 +60,22 @@
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "CAU Marie",
       "value": 1,
-      "rang": 11
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "SMATI  Rafik",
       "value": 1,
-      "rang": 11
+      "rang": 12
     }
   ]
 }

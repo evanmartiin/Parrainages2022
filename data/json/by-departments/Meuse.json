@@ -1,6 +1,6 @@
 {
   "nom": "Meuse",
-  "total": 155,
+  "total": 165,
   "votes": [
     {
       "key": "ARTHAUD Nathalie",
@@ -28,64 +28,64 @@
       "rang": 5
     },
     {
+      "key": "LE PEN Marine",
+      "value": 8,
+      "rang": 6
+    },
+    {
       "key": "POUTOU Philippe",
       "value": 8,
       "rang": 6
     },
     {
-      "key": "LE PEN Marine",
+      "key": "ZEMMOUR Éric",
       "value": 7,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "MACRON Emmanuel",
       "value": 5,
-      "rang": 8
+      "rang": 9
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 4,
-      "rang": 9
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 4,
-      "rang": 9
+      "rang": 11
     },
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 11
+      "rang": 12
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 12
     },
     {
       "key": "KAZIB Anasse",
       "value": 3,
-      "rang": 11
+      "rang": 12
     },
     {
-      "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 13
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 13
+      "key": "THOUY Hélène",
+      "value": 3,
+      "rang": 12
     },
     {
       "key": "SMATI  Rafik",
       "value": 2,
-      "rang": 13
+      "rang": 16
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 13
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 2,
-      "rang": 13
+      "rang": 16
     },
     {
       "key": "KUZMANOVIC Georges",
@@ -94,6 +94,11 @@
     },
     {
       "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 18
+    },
+    {
+      "key": "MONTEBOURG Arnaud",
       "value": 1,
       "rang": 18
     }

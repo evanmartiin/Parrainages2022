@@ -1,10 +1,10 @@
 {
   "nom": "Hérault",
-  "total": 107,
+  "total": 116,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 41,
+      "value": 44,
       "rang": 1
     },
     {
@@ -24,13 +24,18 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 6,
-      "rang": 5
+      "value": 7,
+      "rang": 4
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 6,
-      "rang": 5
+      "value": 7,
+      "rang": 4
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 7
     },
     {
       "key": "ROUSSEL Fabien",
@@ -38,18 +43,13 @@
       "rang": 7
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
-      "rang": 8
-    },
-    {
       "key": "LASSALLE Jean",
-      "value": 3,
+      "value": 4,
       "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 3,
+      "value": 4,
       "rang": 9
     },
     {
@@ -58,19 +58,19 @@
       "rang": 11
     },
     {
-      "key": "KAZIB Anasse",
-      "value": 1,
-      "rang": 12
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 11
     },
     {
-      "key": "TAUBIRA Christiane",
+      "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 12
+      "rang": 13
     }
   ]
 }

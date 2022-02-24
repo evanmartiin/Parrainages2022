@@ -1,10 +1,10 @@
 {
   "nom": "Doubs",
-  "total": 167,
+  "total": 176,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 47,
+      "value": 50,
       "rang": 1
     },
     {
@@ -13,14 +13,14 @@
       "rang": 2
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "MACRON Emmanuel",
       "value": 17,
       "rang": 2
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 16,
-      "rang": 4
+      "key": "POUTOU Philippe",
+      "value": 17,
+      "rang": 2
     },
     {
       "key": "LE PEN Marine",
@@ -34,7 +34,7 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 7,
+      "value": 9,
       "rang": 7
     },
     {
@@ -53,19 +53,19 @@
       "rang": 8
     },
     {
+      "key": "ZEMMOUR Éric",
+      "value": 6,
+      "rang": 8
+    },
+    {
       "key": "MÉLENCHON Jean-Luc",
       "value": 5,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 5,
-      "rang": 11
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "KAZIB Anasse",
@@ -78,19 +78,24 @@
       "rang": 14
     },
     {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 14
+    },
+    {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
-      "key": "TAUBIRA Christiane",
+      "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 16
+      "rang": 17
     }
   ]
 }

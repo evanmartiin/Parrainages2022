@@ -1,8 +1,8 @@
 {
   "nom": "ARTHAUD Nathalie",
-  "votes_confirmes": 559,
-  "votes_totaux": 559,
-  "rang": 6,
+  "votes_confirmes": 562,
+  "votes_totaux": 562,
+  "rang": 7,
   "valide": true,
   "parrainages": [
     {
@@ -4476,15 +4476,39 @@
       "circonscription": "Ferdrupt",
       "departement": "Vosges",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "BESONHE Grégory",
+      "fonction": "Maire",
+      "circonscription": "Mont-Saint-Martin",
+      "departement": "Aisne",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "MASTROTOTARO Hubert",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Mézidon Vallée d'Auge",
+      "departement": "Calvados",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "MEGE André",
+      "fonction": "Maire",
+      "circonscription": "Geyssans",
+      "departement": "Drôme",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 559,
+      "total": 562,
       "valeurs": [
         {
           "key": "M.",
-          "value": 450,
+          "value": 453,
           "rang": 1
         },
         {
@@ -4495,16 +4519,16 @@
       ]
     },
     "fonction": {
-      "total": 559,
+      "total": 562,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 510,
+          "value": 512,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 48,
+          "value": 49,
           "rang": 2
         },
         {
@@ -4515,7 +4539,7 @@
       ]
     },
     "circonscription": {
-      "total": 558,
+      "total": 561,
       "valeurs": [
         {
           "key": "Livarot-Pays-d'Auge",
@@ -5338,6 +5362,11 @@
           "rang": 7
         },
         {
+          "key": "Geyssans",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Gigny-Bussy",
           "value": 1,
           "rang": 7
@@ -5973,6 +6002,11 @@
           "rang": 7
         },
         {
+          "key": "Mont-Saint-Martin",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Mont-Saint-Père",
           "value": 1,
           "rang": 7
@@ -6059,6 +6093,11 @@
         },
         {
           "key": "Ménil-Hubert-sur-Orne",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "Mézidon Vallée d'Auge",
           "value": 1,
           "rang": 7
         },
@@ -7255,7 +7294,7 @@
       ]
     },
     "departement": {
-      "total": 559,
+      "total": 562,
       "valeurs": [
         {
           "key": "Meuse",
@@ -7268,14 +7307,14 @@
           "rang": 2
         },
         {
-          "key": "Meurthe-et-Moselle",
+          "key": "Calvados",
           "value": 27,
           "rang": 3
         },
         {
-          "key": "Calvados",
-          "value": 26,
-          "rang": 4
+          "key": "Meurthe-et-Moselle",
+          "value": 27,
+          "rang": 3
         },
         {
           "key": "Eure",
@@ -7289,7 +7328,7 @@
         },
         {
           "key": "Aisne",
-          "value": 20,
+          "value": 21,
           "rang": 7
         },
         {
@@ -7343,19 +7382,19 @@
           "rang": 17
         },
         {
+          "key": "Drôme",
+          "value": 11,
+          "rang": 17
+        },
+        {
           "key": "Marne",
           "value": 11,
           "rang": 17
         },
         {
-          "key": "Drôme",
-          "value": 10,
-          "rang": 19
-        },
-        {
           "key": "Manche",
           "value": 10,
-          "rang": 19
+          "rang": 20
         },
         {
           "key": "Charente",
@@ -7635,7 +7674,7 @@
       ]
     },
     "date": {
-      "total": 559,
+      "total": 562,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -7671,6 +7710,11 @@
           "key": "2022-02-01",
           "value": 12,
           "rang": 7
+        },
+        {
+          "key": "2022-02-24",
+          "value": 3,
+          "rang": 8
         }
       ]
     }

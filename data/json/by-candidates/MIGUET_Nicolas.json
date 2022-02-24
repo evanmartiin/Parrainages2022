@@ -1,7 +1,7 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 12,
-  "votes_totaux": 12,
+  "votes_confirmes": 18,
+  "votes_totaux": 18,
   "rang": 20,
   "valide": false,
   "parrainages": [
@@ -100,39 +100,92 @@
       "circonscription": "Bootzheim",
       "departement": "Bas-Rhin",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "VINETTE Didier",
+      "fonction": "Maire",
+      "circonscription": "Massignieu-de-Rives",
+      "departement": "Ain",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRILLON Patrick",
+      "fonction": "Maire",
+      "circonscription": "Arc-sous-Montenot",
+      "departement": "Doubs",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "REMY Jean-Pierre Albert Jules",
+      "fonction": "Maire",
+      "circonscription": "Ygos-Saint-Saturnin",
+      "departement": "Landes",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DÉPAUX Corinne",
+      "fonction": "Maire",
+      "circonscription": "Vincelles",
+      "departement": "Marne",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DURGET Arnaud",
+      "fonction": "Maire",
+      "circonscription": "Conflandey",
+      "departement": "Haute-Saône",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "YARDIN Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Gemmelaincourt",
+      "departement": "Vosges",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 12,
+      "total": 18,
       "valeurs": [
         {
           "key": "M.",
-          "value": 10,
+          "value": 15,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 2,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 12,
+      "total": 18,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 12,
+          "value": 18,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 12,
+      "total": 18,
       "valeurs": [
         {
           "key": "Abaucourt-Hautecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Arc-sous-Montenot",
           "value": 1,
           "rang": 1
         },
@@ -157,6 +210,11 @@
           "rang": 1
         },
         {
+          "key": "Conflandey",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Curières",
           "value": 1,
           "rang": 1
@@ -167,12 +225,22 @@
           "rang": 1
         },
         {
+          "key": "Gemmelaincourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "La Lande-Saint-Siméon",
           "value": 1,
           "rang": 1
         },
         {
           "key": "Mandres",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Massignieu-de-Rives",
           "value": 1,
           "rang": 1
         },
@@ -190,11 +258,21 @@
           "key": "Saint-Araille",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Vincelles",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Ygos-Saint-Saturnin",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 12,
+      "total": 18,
       "valeurs": [
         {
           "key": "Aisne",
@@ -207,6 +285,11 @@
           "rang": 1
         },
         {
+          "key": "Ain",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Aveyron",
           "value": 1,
           "rang": 3
@@ -217,7 +300,22 @@
           "rang": 3
         },
         {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Haute-Garonne",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Haute-Saône",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Landes",
           "value": 1,
           "rang": 3
         },
@@ -228,6 +326,11 @@
         },
         {
           "key": "Manche",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Marne",
           "value": 1,
           "rang": 3
         },
@@ -245,11 +348,16 @@
           "key": "Orne",
           "value": 1,
           "rang": 3
+        },
+        {
+          "key": "Vosges",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 12,
+      "total": 18,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -257,14 +365,19 @@
           "rang": 1
         },
         {
+          "key": "2022-02-24",
+          "value": 6,
+          "rang": 2
+        },
+        {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

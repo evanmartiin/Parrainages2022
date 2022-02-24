@@ -1,65 +1,65 @@
 {
   "nom": "Hauts-de-France",
-  "total": 803,
+  "total": 856,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 147,
+      "value": 156,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 113,
+      "value": 120,
       "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 97,
+      "value": 98,
       "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 68,
+      "value": 69,
       "rang": 4
     },
     {
       "key": "HIDALGO Anne",
-      "value": 65,
+      "value": 68,
       "rang": 5
     },
     {
       "key": "LE PEN Marine",
-      "value": 55,
+      "value": 59,
       "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 49,
+      "value": 52,
       "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 34,
+      "value": 41,
       "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 33,
+      "value": 40,
       "rang": 9
     },
     {
       "key": "ASSELINEAU François",
-      "value": 32,
+      "value": 33,
       "rang": 10
     },
     {
       "key": "JADOT Yannick",
-      "value": 31,
-      "rang": 11
+      "value": 33,
+      "rang": 10
     },
     {
       "key": "POUTOU Philippe",
-      "value": 17,
+      "value": 18,
       "rang": 12
     },
     {
@@ -69,23 +69,23 @@
     },
     {
       "key": "LASSALLE Jean",
-      "value": 11,
+      "value": 12,
       "rang": 14
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 8,
+      "rang": 15
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 7,
+      "rang": 16
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 6,
-      "rang": 15
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 5,
-      "rang": 16
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 5,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "CHICHE Arnaud",
@@ -124,6 +124,11 @@
     },
     {
       "key": "MARECHAL Philippe Célestin",
+      "value": 1,
+      "rang": 23
+    },
+    {
+      "key": "MARTINEZ Antoine",
       "value": 1,
       "rang": 23
     }

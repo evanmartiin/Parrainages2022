@@ -1,16 +1,26 @@
 {
   "nom": "Nouvelle-Calédonie",
-  "total": 5,
+  "total": 19,
   "votes": [
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 13,
+      "rang": 1
+    },
     {
       "key": "MACRON Emmanuel",
       "value": 4,
-      "rang": 1
+      "rang": 2
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 2
+      "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 3
     }
   ]
 }

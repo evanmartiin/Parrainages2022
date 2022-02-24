@@ -1,39 +1,44 @@
 {
   "nom": "Français de l'étranger",
-  "total": 76,
+  "total": 104,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 26,
+      "value": 34,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 16,
+      "value": 22,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 13,
+      "value": 19,
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
+      "key": "HIDALGO Anne",
+      "value": 9,
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 6,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 8,
       "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 3,
+      "value": 5,
       "rang": 6
     },
     {
       "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "BORLOO Jean-Louis",
       "value": 1,
       "rang": 7
     },
@@ -54,6 +59,11 @@
     },
     {
       "key": "ROUSSEL Fabien",
+      "value": 1,
+      "rang": 7
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 1,
       "rang": 7
     }

@@ -1,7 +1,7 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 10,
-  "votes_totaux": 10,
+  "votes_confirmes": 11,
+  "votes_totaux": 11,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -84,15 +84,23 @@
       "circonscription": "La Vèze",
       "departement": "Doubs",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "TINCHON Jean-Marie",
+      "fonction": "Maire",
+      "circonscription": "Boubers-sur-Canche",
+      "departement": "Pas-de-Calais",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 10,
+      "total": 11,
       "valeurs": [
         {
           "key": "M.",
-          "value": 9,
+          "value": 10,
           "rang": 1
         },
         {
@@ -103,18 +111,23 @@
       ]
     },
     "fonction": {
-      "total": 10,
+      "total": 11,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 10,
+          "value": 11,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 10,
+      "total": 11,
       "valeurs": [
+        {
+          "key": "Boubers-sur-Canche",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Châteney",
           "value": 1,
@@ -168,7 +181,7 @@
       ]
     },
     "departement": {
-      "total": 10,
+      "total": 11,
       "valeurs": [
         {
           "key": "Aube",
@@ -209,11 +222,16 @@
           "key": "Haute-Savoie",
           "value": 1,
           "rang": 3
+        },
+        {
+          "key": "Pas-de-Calais",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 10,
+      "total": 11,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -232,6 +250,11 @@
         },
         {
           "key": "2022-02-22",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "2022-02-24",
           "value": 1,
           "rang": 4
         }

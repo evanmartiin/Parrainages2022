@@ -1,11 +1,16 @@
 {
   "nom": "Jura",
-  "total": 126,
+  "total": 134,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 33,
+      "value": 35,
       "rang": 1
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 13,
+      "rang": 2
     },
     {
       "key": "JADOT Yannick",
@@ -13,24 +18,19 @@
       "rang": 2
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
-      "rang": 3
+      "key": "LASSALLE Jean",
+      "value": 11,
+      "rang": 4
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 10,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 11,
       "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 9,
-      "rang": 5
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "HIDALGO Anne",
@@ -59,13 +59,13 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 3,
+      "value": 4,
       "rang": 12
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 3,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "ASSELINEAU François",
@@ -79,6 +79,11 @@
     },
     {
       "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "WAECHTER Antoine",
       "value": 1,
       "rang": 15
     }

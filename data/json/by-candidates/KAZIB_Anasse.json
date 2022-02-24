@@ -1,7 +1,7 @@
 {
   "nom": "KAZIB Anasse",
-  "votes_confirmes": 128,
-  "votes_totaux": 128,
+  "votes_confirmes": 130,
+  "votes_totaux": 130,
   "rang": 14,
   "valide": false,
   "parrainages": [
@@ -1028,15 +1028,31 @@
       "circonscription": "Charny Orée de Puisaye",
       "departement": "Yonne",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "LACOMBE Yvon",
+      "fonction": "Maire",
+      "circonscription": "Albières",
+      "departement": "Aude",
+      "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "CAPELLI Patrick",
+      "fonction": "Maire",
+      "circonscription": "Milhas",
+      "departement": "Haute-Garonne",
+      "date": "2022-02-24"
     }
   ],
   "stats": {
     "genre": {
-      "total": 128,
+      "total": 130,
       "valeurs": [
         {
           "key": "M.",
-          "value": 96,
+          "value": 98,
           "rang": 1
         },
         {
@@ -1047,11 +1063,11 @@
       ]
     },
     "fonction": {
-      "total": 128,
+      "total": 130,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 124,
+          "value": 126,
           "rang": 1
         },
         {
@@ -1062,7 +1078,7 @@
       ]
     },
     "circonscription": {
-      "total": 128,
+      "total": 130,
       "valeurs": [
         {
           "key": "Charny Orée de Puisaye",
@@ -1073,6 +1089,11 @@
           "key": "Valravillon",
           "value": 2,
           "rang": 1
+        },
+        {
+          "key": "Albières",
+          "value": 1,
+          "rang": 3
         },
         {
           "key": "Anchamps",
@@ -1390,6 +1411,11 @@
           "rang": 3
         },
         {
+          "key": "Milhas",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Moncontour",
           "value": 1,
           "rang": 3
@@ -1697,7 +1723,7 @@
       ]
     },
     "departement": {
-      "total": 128,
+      "total": 130,
       "valeurs": [
         {
           "key": "Moselle",
@@ -1725,6 +1751,11 @@
           "rang": 5
         },
         {
+          "key": "Haute-Garonne",
+          "value": 6,
+          "rang": 5
+        },
+        {
           "key": "Hautes-Pyrénées",
           "value": 6,
           "rang": 5
@@ -1735,39 +1766,34 @@
           "rang": 5
         },
         {
-          "key": "Haute-Garonne",
+          "key": "Aude",
           "value": 5,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Somme",
           "value": 5,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Yonne",
           "value": 5,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Ardennes",
           "value": 4,
-          "rang": 11
+          "rang": 12
         },
         {
           "key": "Ariège",
           "value": 4,
-          "rang": 11
-        },
-        {
-          "key": "Aude",
-          "value": 4,
-          "rang": 11
+          "rang": 12
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 4,
-          "rang": 11
+          "rang": 12
         },
         {
           "key": "Calvados",
@@ -1917,7 +1943,7 @@
       ]
     },
     "date": {
-      "total": 128,
+      "total": 130,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -1950,9 +1976,14 @@
           "rang": 5
         },
         {
+          "key": "2022-02-24",
+          "value": 2,
+          "rang": 7
+        },
+        {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 7
+          "rang": 8
         }
       ]
     }
