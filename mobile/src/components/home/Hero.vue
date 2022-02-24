@@ -1,18 +1,21 @@
 <template>
-  <Splide :options="{ arrows: false }">
-    <SplideSlide>
-      <h1>{{ validatedCandidates }} candidats</h1>
-      <p>sont déjà qualifiés pour le premier tour de l'élection présidentielle</p>
-    </SplideSlide>
-    <SplideSlide>
-      <h1>{{ nbVotes }}</h1>
-      <p>parrainages ont été donnés par des élus aux candidats</p>
-    </SplideSlide>
-    <SplideSlide>
-      <h1>{{ Math.round(100 - nbVotes / 420) }}%</h1>
-      <p>des parrainages n'ont pas encore été utilisés par les élus éligibles</p>
-    </SplideSlide>
-  </Splide>
+  <div>
+    <h1 class="title">Parrainages 2022</h1>
+    <Splide :options="{ arrows: false }">
+      <SplideSlide>
+        <h1>{{ validatedCandidates }} candidats</h1>
+        <p>sont déjà qualifiés pour le premier tour de l'élection présidentielle</p>
+      </SplideSlide>
+      <SplideSlide>
+        <h1>{{ nbVotes }}</h1>
+        <p>parrainages ont été donnés par des élus aux candidats</p>
+      </SplideSlide>
+      <SplideSlide>
+        <h1>{{ Math.round(100 - nbVotes / 420) }}%</h1>
+        <p>des parrainages n'ont pas encore été utilisés par les élus éligibles</p>
+      </SplideSlide>
+    </Splide>
+  </div>
 </template>
 
 <script>
@@ -47,6 +50,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.title {
+  text-align: center;
+  font-size: 30px;
+  padding: 20px 0 10px 0;
+}
+
 .splide__slide {
   background-position: center center;
   background-size: cover;

@@ -1,14 +1,14 @@
 <template>
   <div class="nav">
-    <router-link to="/">
+    <router-link to="/" :style="opacity1" @click="active = 1">
       <img src="@/assets/img/user-icon.png" alt="">
       <p>Candidats</p>
     </router-link>
-    <router-link to="/general">
+    <router-link to="/general" :style="opacity2" @click="active = 2">
       <img src="@/assets/img/chart-icon.png" alt="">
       <p>Statistiques</p>
     </router-link>
-    <router-link to="/search">
+    <router-link to="/search" :style="opacity3" @click="active = 3">
       <img src="@/assets/img/search-icon.png" style="width: 22px;" alt="">
       <p>Rechercher</p>
     </router-link>
@@ -16,8 +16,33 @@
 </template>
 
 <script>
+import { ref } from "vue"
+
 export default {
-  name: 'Nav'
+  name: 'Nav',
+  setup() {
+    const active = ref(null)
+
+    active.value = 1
+
+    return {
+      active
+    }
+  },
+  computed: {
+    opacity1() {
+      const opacity = this.active === 1 ? '1' : '.5'
+      return 'opacity: ' + opacity + ';'
+    },
+    opacity2() {
+      const opacity = this.active === 2 ? '1' : '.5'
+      return 'opacity: ' + opacity + ';'
+    },
+    opacity3() {
+      const opacity = this.active === 3 ? '1' : '.5'
+      return 'opacity: ' + opacity + ';'
+    },
+  }
 }
 </script>
 
@@ -43,6 +68,7 @@ export default {
 
     p {
       font-size: 12px;
+      font-weight: 600;
     }
   }
 }

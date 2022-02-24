@@ -33,7 +33,7 @@ export const colors = [
   },
   {
     name: "JADOT Yannick",
-    color: "#38A638",
+    color: "#205155",
   },
   {
     name: "KAZIB Anasse",
@@ -53,11 +53,11 @@ export const colors = [
   },
   {
     name: "LE PEN Marine",
-    color: "#89007C",
+    color: "#1E263E",
   },
   {
     name: "MACRON Emmanuel",
-    color: "#6BCCC0",
+    color: "#94B2AF",
   },
   {
     name: "MÉLENCHON Jean-Luc",
@@ -69,7 +69,7 @@ export const colors = [
   },
   {
     name: "PÉCRESSE Valérie",
-    color: "#7A8FFF",
+    color: "#9A8E99",
   },
   {
     name: "POUTOU Philippe",

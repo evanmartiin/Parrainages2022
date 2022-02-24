@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <router-link id="header-arrow" to="/"><img v-if="needsBack" src="@/assets/img/arrow-right.png" alt=""></router-link>
+    <router-link id="header-arrow" to="/" @click="this.$root.$emit('nav', 1)"><img v-if="needsBack" src="@/assets/img/arrow-right.png" alt=""></router-link>
   </div>
 </template>
 

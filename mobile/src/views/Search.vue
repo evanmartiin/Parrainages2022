@@ -1,6 +1,5 @@
 <template>
   <div class="search" v-if="!loading">
-    <Header :needsBack="true"/>
     <h1>Rechercher une ville</h1>
     <input type="text" name="" id="" v-model="search" placeholder="Bordeaux, Rennes, Ploudaniel...">
     <p class="info" v-if="filteredList.length">{{ filteredList.length }} résultat{{ filteredList.length > 1 ? "s" : "" }}</p>
@@ -11,14 +10,10 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue'
 import { ref, onMounted, computed } from "vue"
 
 export default {
   name: 'Search',
-  components: {
-    Header
-  },
   setup() {
     const communes = ref(null);
     const loading = ref(true);
@@ -81,7 +76,7 @@ export default {
 
 <style scoped lang="scss">
 .search {
-  margin-top: 80px;
+  margin-top: 20px;
   padding: 20px;
   box-sizing: border-box;
   width: 100%;

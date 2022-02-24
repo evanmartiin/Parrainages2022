@@ -1,6 +1,5 @@
 <template>
   <div class="general-stats">
-    <Header :needsBack="true"/>
     <!-- <Hero/> -->
     <Map v-if="!loading" :deps="deps"/>
     <Departments v-if="!loading" :deps="deps"/>
@@ -9,7 +8,6 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue'
 // import Hero from '@/components/stats/Hero.vue'
 import Map from '@/components/stats/Map.vue'
 import Departments from '@/components/stats/Departments.vue'
@@ -19,7 +17,6 @@ import { ref, onMounted } from 'vue'
 export default {
   name: 'CandidatePage',
   components: {
-    Header,
     // Hero,
     Map,
     Departments,

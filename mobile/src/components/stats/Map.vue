@@ -506,7 +506,7 @@ const alphabet = (a, b) => {
 <style scoped lang="scss">
 .container {
   width: calc(100% - 40px);
-  margin: 80px 20px 20px 20px;
+  margin: 40px 20px 20px 20px;
 }
 
 h1 {
