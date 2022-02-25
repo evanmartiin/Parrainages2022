@@ -1,94 +1,62 @@
 export const colors = [
   {
     name: "Égalité",
-    color: "#eeeeee",
+    color: "#efefef",
   },
   {
     name: "ARTHAUD Nathalie",
-    color: "#CC5252",
+    color: "#ff8f85",
   },
   {
     name: "ASSELINEAU François",
-    color: "#030088",
-  },
-  {
-    name: "BARNIER Michel",
-    color: "#464594",
-  },
-  {
-    name: "CHICHE Arnaud",
-    color: "#464646",
+    color: "#a7a2a9",
   },
   {
     name: "DUPONT-AIGNAN Nicolas",
-    color: "#A378FF",
-  },
-  {
-    name: "EGGER Clara",
-    color: "#FFE142",
+    color: "#b38cb4",
   },
   {
     name: "HIDALGO Anne",
-    color: "#FFB1B1",
+    color: "#ffcfd2",
   },
   {
     name: "JADOT Yannick",
-    color: "#205155",
-  },
-  {
-    name: "KAZIB Anasse",
-    color: "#4E0000",
-  },
-  {
-    name: "KOENIG Gaspard",
-    color: "#ADFF44",
-  },
-  {
-    name: "KUZMANOVIC Georges",
-    color: "#EA70000",
+    color: "#1c3a13",
   },
   {
     name: "LASSALLE Jean",
-    color: "#73C4FF",
+    color: "#a18f2b",
   },
   {
     name: "LE PEN Marine",
-    color: "#1E263E",
+    color: "#5c2751",
   },
   {
     name: "MACRON Emmanuel",
-    color: "#94B2AF",
+    color: "#ffed66",
   },
   {
     name: "MÉLENCHON Jean-Luc",
-    color: "#FFAA7A",
-  },
-  {
-    name: "MIGUET Nicolas",
-    color: "#6086A1",
+    color: "#4e5166",
   },
   {
     name: "PÉCRESSE Valérie",
-    color: "#9A8E99",
+    color: "#68a4c7",
   },
   {
     name: "POUTOU Philippe",
-    color: "#880303",
+    color: "#a9b4c2",
   },
   {
     name: "ROUSSEL Fabien",
-    color: "#855020",
+    color: "#ba1b1d",
   },
   {
     name: "TAUBIRA Christiane",
-    color: "#DCAC00",
-  },
-  {
-    name: "THOUY Hélène",
-    color: "#FFDDA9",
+    color: "#dea47e",
   },
   {
     name: "ZEMMOUR Éric",
-    color: "#FF79F2",
-  },
+    color: "#011936",
+  }
 ];
