@@ -1,6 +1,6 @@
 {
   "nom": "Haute-Saône",
-  "total": 123,
+  "total": 151,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -9,48 +9,48 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 16,
+      "value": 18,
       "rang": 2
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 11,
+      "key": "POUTOU Philippe",
+      "value": 16,
       "rang": 3
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 10,
+      "key": "ZEMMOUR Éric",
+      "value": 12,
       "rang": 4
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 9,
+      "value": 11,
       "rang": 5
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 8,
-      "rang": 6
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 8,
-      "rang": 6
+      "key": "LASSALLE Jean",
+      "value": 11,
+      "rang": 5
     },
     {
       "key": "LE PEN Marine",
-      "value": 7,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 7,
-      "rang": 8
+      "value": 11,
+      "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 6,
-      "rang": 10
+      "value": 10,
+      "rang": 8
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 9,
+      "rang": 9
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 9,
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
@@ -63,12 +63,27 @@
       "rang": 12
     },
     {
+      "key": "KOENIG Gaspard",
+      "value": 2,
+      "rang": 12
+    },
+    {
       "key": "MARTINEZ Antoine",
       "value": 2,
       "rang": 12
     },
     {
+      "key": "MIGUET Nicolas",
+      "value": 2,
+      "rang": 12
+    },
+    {
       "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 2,
       "rang": 12
     },
@@ -80,27 +95,12 @@
     {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 16
+      "rang": 19
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "MIGUET Nicolas",
-      "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 16
+      "rang": 19
     }
   ]
 }

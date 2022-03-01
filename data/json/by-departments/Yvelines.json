@@ -1,10 +1,10 @@
 {
   "nom": "Yvelines",
-  "total": 151,
+  "total": 156,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 99,
+      "value": 100,
       "rang": 1
     },
     {
@@ -13,29 +13,29 @@
       "rang": 2
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 5,
+      "rang": 3
+    },
+    {
       "key": "JADOT Yannick",
       "value": 4,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "LE PEN Marine",
       "value": 4,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ROUSSEL Fabien",
@@ -59,6 +59,16 @@
     },
     {
       "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "THOUY Hélène",
       "value": 1,
       "rang": 9
     }

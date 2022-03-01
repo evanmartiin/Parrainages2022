@@ -1,0 +1,92 @@
+{
+  "nom": "JUVING-BRUNET Alexandre",
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 30,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "Mme",
+      "nom": "MAGNIER-CARETTI Emeline",
+      "fonction": "Maire",
+      "circonscription": "Allain",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "JOYEUX David",
+      "fonction": "Maire",
+      "circonscription": "Thaix",
+      "departement": "Nièvre",
+      "date": "2022-03-01"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Allain",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Thaix",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Meurthe-et-Moselle",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Nièvre",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

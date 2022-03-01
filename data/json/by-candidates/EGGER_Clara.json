@@ -1,7 +1,7 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 24,
-  "votes_totaux": 24,
+  "votes_confirmes": 28,
+  "votes_totaux": 28,
   "rang": 19,
   "valide": false,
   "parrainages": [
@@ -196,30 +196,62 @@
       "circonscription": "Montreuillon",
       "departement": "Nièvre",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE LA PIQUERIE Jacques",
+      "fonction": "Maire",
+      "circonscription": "Quirbajou",
+      "departement": "Aude",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "AMAR Janine",
+      "fonction": "Maire",
+      "circonscription": "Valouse",
+      "departement": "Drôme",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "ENEL Catherine",
+      "fonction": "Maire",
+      "circonscription": "Sarremezan",
+      "departement": "Haute-Garonne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "AUMONIER Jean-Pierre",
+      "fonction": "Maire",
+      "circonscription": "Xocourt",
+      "departement": "Moselle",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 24,
+      "total": 28,
       "valeurs": [
         {
           "key": "M.",
-          "value": 21,
+          "value": 23,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 3,
+          "value": 5,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 24,
+      "total": 28,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 22,
+          "value": 26,
           "rang": 1
         },
         {
@@ -235,7 +267,7 @@
       ]
     },
     "circonscription": {
-      "total": 24,
+      "total": 28,
       "valeurs": [
         {
           "key": "Aiglun",
@@ -333,7 +365,17 @@
           "rang": 1
         },
         {
+          "key": "Quirbajou",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Rancennes",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Sarremezan",
           "value": 1,
           "rang": 1
         },
@@ -343,7 +385,17 @@
           "rang": 1
         },
         {
+          "key": "Valouse",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Vernon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Xocourt",
           "value": 1,
           "rang": 1
         },
@@ -360,7 +412,7 @@
       ]
     },
     "departement": {
-      "total": 24,
+      "total": 28,
       "valeurs": [
         {
           "key": "Indre-et-Loire",
@@ -383,84 +435,99 @@
           "rang": 2
         },
         {
+          "key": "Drôme",
+          "value": 2,
+          "rang": 2
+        },
+        {
           "key": "Alpes-Maritimes",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Aude",
+          "value": 1,
+          "rang": 6
         },
         {
           "key": "Dordogne",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 5
-        },
-        {
-          "key": "Drôme",
-          "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Français de l'étranger",
           "value": 1,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Haute-Garonne",
+          "value": 1,
+          "rang": 6
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Moselle",
+          "value": 1,
+          "rang": 6
         },
         {
           "key": "Nièvre",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     },
     "date": {
-      "total": 24,
+      "total": 28,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -473,29 +540,34 @@
           "rang": 1
         },
         {
+          "key": "2022-03-01",
+          "value": 4,
+          "rang": 3
+        },
+        {
           "key": "2022-02-03",
           "value": 3,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 7
+          "rang": 8
         }
       ]
     }

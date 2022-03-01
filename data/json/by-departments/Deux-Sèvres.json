@@ -1,6 +1,6 @@
 {
   "nom": "Deux-Sèvres",
-  "total": 44,
+  "total": 47,
   "votes": [
     {
       "key": "JADOT Yannick",
@@ -14,13 +14,13 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 8,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 7,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "POUTOU Philippe",
@@ -33,6 +33,11 @@
       "rang": 6
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 2,
+      "rang": 6
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 2,
       "rang": 6
@@ -40,17 +45,17 @@
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "ROCCA Martin",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

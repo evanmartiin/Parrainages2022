@@ -1,14 +1,8 @@
 <template>
   <div class="candidates-list">
     <h1>Chiffres par candidat</h1>
-    <div v-if="!loading && candidates && candidates.length">
+    <div v-if="candidates && candidates.length">
       <Candidate v-for="candidate in candidates" :key="candidate" :rank="candidate.rang" :name="candidate.nom" :votes="candidate.votes_totaux"/>
-    </div>
-    <div class="loading" v-if="loading">
-      <p>Chargement des données...</p>
-    </div>
-    <div class="error" v-if="error">
-      <p>Une erreur est survenue.</p>
     </div>
   </div>
 </template>
@@ -20,9 +14,7 @@ export default {
   components: { Candidate },
   name: 'CandidatesList',
   props: {
-    candidates: Object,
-    loading: Boolean,
-    error: Boolean
+    candidates: Object
   }
 }
 </script>

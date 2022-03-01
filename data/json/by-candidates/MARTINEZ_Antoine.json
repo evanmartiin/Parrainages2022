@@ -1,7 +1,7 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 11,
-  "votes_totaux": 11,
+  "votes_confirmes": 12,
+  "votes_totaux": 12,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -92,15 +92,23 @@
       "circonscription": "Boubers-sur-Canche",
       "departement": "Pas-de-Calais",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "HAZOUARD Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Avon-la-Pèze",
+      "departement": "Aube",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 11,
+      "total": 12,
       "valeurs": [
         {
           "key": "M.",
-          "value": 10,
+          "value": 11,
           "rang": 1
         },
         {
@@ -111,18 +119,23 @@
       ]
     },
     "fonction": {
-      "total": 11,
+      "total": 12,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 11,
+          "value": 12,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 11,
+      "total": 12,
       "valeurs": [
+        {
+          "key": "Avon-la-Pèze",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Boubers-sur-Canche",
           "value": 1,
@@ -181,17 +194,17 @@
       ]
     },
     "departement": {
-      "total": 11,
+      "total": 12,
       "valeurs": [
         {
           "key": "Aube",
-          "value": 2,
+          "value": 3,
           "rang": 1
         },
         {
           "key": "Haute-Saône",
           "value": 2,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Cantal",
@@ -231,7 +244,7 @@
       ]
     },
     "date": {
-      "total": 11,
+      "total": 12,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -255,6 +268,11 @@
         },
         {
           "key": "2022-02-24",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 4
         }

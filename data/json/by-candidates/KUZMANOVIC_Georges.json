@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 42,
-  "votes_totaux": 42,
+  "votes_confirmes": 45,
+  "votes_totaux": 45,
   "rang": 18,
   "valide": false,
   "parrainages": [
@@ -340,42 +340,76 @@
       "circonscription": "Carrère",
       "departement": "Pyrénées-Atlantiques",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARCETEAU Christophe",
+      "fonction": "Maire",
+      "circonscription": "Montpeyroux",
+      "departement": "Dordogne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "PELTRE Martine",
+      "fonction": "Maire",
+      "circonscription": "Assenoncourt",
+      "departement": "Moselle",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "AHO-NIENNE Sandrine",
+      "fonction": "Conseillère régionale",
+      "circonscription": "La Réunion",
+      "departement": "La Réunion",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 42,
+      "total": 45,
       "valeurs": [
         {
           "key": "M.",
-          "value": 41,
+          "value": 42,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 42,
+      "total": 45,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 40,
+          "value": 42,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
           "value": 2,
           "rang": 2
+        },
+        {
+          "key": "Conseiller.e régional.e",
+          "value": 1,
+          "rang": 3
         }
       ]
     },
     "circonscription": {
-      "total": 42,
+      "total": 45,
       "valeurs": [
+        {
+          "key": "Assenoncourt",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Beaulieu",
           "value": 1,
@@ -447,6 +481,11 @@
           "rang": 1
         },
         {
+          "key": "La Réunion",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Lametz",
           "value": 1,
           "rang": 1
@@ -488,6 +527,11 @@
         },
         {
           "key": "Montholon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montpeyroux",
           "value": 1,
           "rang": 1
         },
@@ -589,15 +633,20 @@
       ]
     },
     "departement": {
-      "total": 42,
+      "total": 45,
       "valeurs": [
         {
           "key": "Moselle",
-          "value": 5,
+          "value": 6,
           "rang": 1
         },
         {
           "key": "Ardennes",
+          "value": 3,
+          "rang": 2
+        },
+        {
+          "key": "Dordogne",
           "value": 3,
           "rang": 2
         },
@@ -609,47 +658,42 @@
         {
           "key": "Bas-Rhin",
           "value": 2,
-          "rang": 4
-        },
-        {
-          "key": "Dordogne",
-          "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Marne",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Saône-et-Loire",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Somme",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Yonne",
           "value": 2,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "Ain",
@@ -702,6 +746,11 @@
           "rang": 13
         },
         {
+          "key": "La Réunion",
+          "value": 1,
+          "rang": 13
+        },
+        {
           "key": "Meuse",
           "value": 1,
           "rang": 13
@@ -719,7 +768,7 @@
       ]
     },
     "date": {
-      "total": 42,
+      "total": 45,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -742,24 +791,29 @@
           "rang": 4
         },
         {
+          "key": "2022-03-01",
+          "value": 3,
+          "rang": 4
+        },
+        {
           "key": "2022-02-10",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-22",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

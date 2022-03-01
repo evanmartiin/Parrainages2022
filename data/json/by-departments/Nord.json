@@ -1,35 +1,35 @@
 {
   "nom": "Nord",
-  "total": 214,
+  "total": 234,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 51,
+      "value": 53,
       "rang": 1
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 43,
+      "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 39,
-      "rang": 2
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 35,
       "rang": 3
     },
     {
       "key": "HIDALGO Anne",
-      "value": 28,
+      "value": 30,
       "rang": 4
     },
     {
       "key": "LE PEN Marine",
-      "value": 13,
+      "value": 14,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 12,
+      "value": 13,
       "rang": 6
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 7,
-      "rang": 8
+      "value": 10,
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -49,8 +49,8 @@
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
-      "rang": 10
+      "value": 5,
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
@@ -84,6 +84,11 @@
     },
     {
       "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 1,
       "rang": 14
     },

@@ -46,6 +46,8 @@ $black: #000000;
 body {
   margin: 0;
   top: 0;
+  height: 100vh;
+  overflow-y: scroll;
 }
 
 #container-desk {

@@ -1,6 +1,6 @@
 {
   "nom": "Parlement européen",
-  "total": 55,
+  "total": 60,
   "votes": [
     {
       "key": "LE PEN Marine",
@@ -9,23 +9,23 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 13,
+      "value": 16,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 7,
+      "value": 8,
       "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 6,
+      "rang": 4
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 6,
       "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
-      "rang": 5
     },
     {
       "key": "HIDALGO Anne",

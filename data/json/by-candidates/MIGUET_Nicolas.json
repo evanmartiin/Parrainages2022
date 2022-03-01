@@ -1,7 +1,7 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 18,
-  "votes_totaux": 18,
+  "votes_confirmes": 27,
+  "votes_totaux": 27,
   "rang": 20,
   "valide": false,
   "parrainages": [
@@ -148,36 +148,113 @@
       "circonscription": "Gemmelaincourt",
       "departement": "Vosges",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "Mme",
+      "nom": "COGNARD Isabelle",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Côte-d'Or",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "REBILLOU Bernard",
+      "fonction": "Maire",
+      "circonscription": "Saint-Félix-de-Foncaude",
+      "departement": "Gironde",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "VAUTRIN Luc",
+      "fonction": "Maire",
+      "circonscription": "Mareilles",
+      "departement": "Haute-Marne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DAVID Jean Pierre",
+      "fonction": "Maire",
+      "circonscription": "Flirey",
+      "departement": "Meurthe-et-Moselle",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "GUILLET Denis",
+      "fonction": "Maire",
+      "circonscription": "Les Menus",
+      "departement": "Orne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BARBEROT Jean-Paul",
+      "fonction": "Maire",
+      "circonscription": "Menoux",
+      "departement": "Haute-Saône",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PARIS Dany",
+      "fonction": "Maire",
+      "circonscription": "Vallon-sur-Gée",
+      "departement": "Sarthe",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BLANC Gabriel",
+      "fonction": "Maire",
+      "circonscription": "Feissons-sur-Salins",
+      "departement": "Savoie",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CARPENTIER Catherine",
+      "fonction": "Maire",
+      "circonscription": "Grisy-les-Plâtres",
+      "departement": "Val-d'Oise",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 18,
+      "total": 27,
       "valeurs": [
         {
           "key": "M.",
-          "value": 15,
+          "value": 22,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 3,
+          "value": 5,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 18,
+      "total": 27,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 18,
+          "value": 26,
           "rang": 1
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 18,
+      "total": 26,
       "valeurs": [
         {
           "key": "Abaucourt-Hautecourt",
@@ -220,6 +297,16 @@
           "rang": 1
         },
         {
+          "key": "Feissons-sur-Salins",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Flirey",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Fontaine-la-Louvet",
           "value": 1,
           "rang": 1
@@ -230,7 +317,17 @@
           "rang": 1
         },
         {
+          "key": "Grisy-les-Plâtres",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "La Lande-Saint-Siméon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Les Menus",
           "value": 1,
           "rang": 1
         },
@@ -240,7 +337,17 @@
           "rang": 1
         },
         {
+          "key": "Mareilles",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Massignieu-de-Rives",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Menoux",
           "value": 1,
           "rang": 1
         },
@@ -260,6 +367,16 @@
           "rang": 1
         },
         {
+          "key": "Saint-Félix-de-Foncaude",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Vallon-sur-Gée",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Vincelles",
           "value": 1,
           "rang": 1
@@ -272,7 +389,7 @@
       ]
     },
     "departement": {
-      "total": 18,
+      "total": 27,
       "valeurs": [
         {
           "key": "Aisne",
@@ -285,99 +402,139 @@
           "rang": 1
         },
         {
+          "key": "Haute-Saône",
+          "value": 2,
+          "rang": 1
+        },
+        {
+          "key": "Orne",
+          "value": 2,
+          "rang": 1
+        },
+        {
           "key": "Ain",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Aveyron",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Côte-d'Or",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Gironde",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
-          "key": "Haute-Saône",
+          "key": "Haute-Marne",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Lozère",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Manche",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Meurthe-et-Moselle",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 3
+          "rang": 5
         },
         {
-          "key": "Orne",
+          "key": "Sarthe",
           "value": 1,
-          "rang": 3
+          "rang": 5
+        },
+        {
+          "key": "Savoie",
+          "value": 1,
+          "rang": 5
+        },
+        {
+          "key": "Val-d'Oise",
+          "value": 1,
+          "rang": 5
         },
         {
           "key": "Vosges",
           "value": 1,
-          "rang": 3
+          "rang": 5
         }
       ]
     },
     "date": {
-      "total": 18,
+      "total": 27,
       "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 9,
+          "rang": 1
+        },
         {
           "key": "2022-02-08",
           "value": 7,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-24",
           "value": 6,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

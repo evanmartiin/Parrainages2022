@@ -1,15 +1,15 @@
 {
   "nom": "Haute-Savoie",
-  "total": 73,
+  "total": 87,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 18,
+      "key": "PÉCRESSE Valérie",
+      "value": 20,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 15,
+      "key": "MACRON Emmanuel",
+      "value": 18,
       "rang": 2
     },
     {
@@ -19,33 +19,33 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
+      "value": 7,
       "rang": 4
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 4,
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 6,
       "rang": 5
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
+      "key": "ZEMMOUR Éric",
+      "value": 6,
       "rang": 5
     },
     {
       "key": "POUTOU Philippe",
+      "value": 5,
+      "rang": 7
+    },
+    {
+      "key": "ARTHAUD Nathalie",
       "value": 4,
-      "rang": 5
+      "rang": 8
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 3,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "HIDALGO Anne",
@@ -74,6 +74,11 @@
     },
     {
       "key": "MARTINEZ Antoine",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "PESQUET Thomas",
       "value": 1,
       "rang": 12
     }

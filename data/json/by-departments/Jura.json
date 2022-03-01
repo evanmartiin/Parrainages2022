@@ -1,31 +1,31 @@
 {
   "nom": "Jura",
-  "total": 134,
+  "total": 149,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 35,
+      "value": 36,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 13,
+      "value": 15,
       "rang": 2
     },
     {
       "key": "JADOT Yannick",
-      "value": 13,
+      "value": 15,
+      "rang": 2
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 15,
       "rang": 2
     },
     {
       "key": "LASSALLE Jean",
       "value": 11,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 11,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -39,28 +39,28 @@
     },
     {
       "key": "MACRON Emmanuel",
+      "value": 7,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 6,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 6,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 6,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 11
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 4,
-      "rang": 12
+      "value": 6,
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
@@ -74,18 +74,23 @@
     },
     {
       "key": "KAZIB Anasse",
+      "value": 2,
+      "rang": 14
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 15
+      "rang": 16
     }
   ]
 }

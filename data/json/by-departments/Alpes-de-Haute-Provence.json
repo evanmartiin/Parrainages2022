@@ -1,6 +1,6 @@
 {
   "nom": "Alpes-de-Haute-Provence",
-  "total": 52,
+  "total": 67,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -9,7 +9,7 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 8,
+      "value": 12,
       "rang": 2
     },
     {
@@ -18,54 +18,64 @@
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 4,
-      "rang": 4
+      "key": "ZEMMOUR Éric",
+      "value": 6,
+      "rang": 3
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 2,
+      "key": "PÉCRESSE Valérie",
+      "value": 4,
       "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 3,
+      "rang": 6
+    },
+    {
+      "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
       "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 5
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
       "key": "LASSALLE Jean",
       "value": 2,
-      "rang": 5
+      "rang": 9
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 2,
-      "rang": 5
+      "rang": 9
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 5
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 14
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 12
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 1,
-      "rang": 12
+      "rang": 14
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "nom": "Seine-Saint-Denis",
-  "total": 76,
+  "total": 82,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 28,
+      "value": 31,
       "rang": 1
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 12,
+      "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 11,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "HIDALGO Anne",
       "value": 10,
-      "rang": 3
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 10,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "MACRON Emmanuel",
@@ -28,14 +28,14 @@
       "rang": 5
     },
     {
-      "key": "TAUBIRA Christiane",
+      "key": "JADOT Yannick",
       "value": 5,
       "rang": 6
     },
     {
-      "key": "JADOT Yannick",
-      "value": 4,
-      "rang": 7
+      "key": "TAUBIRA Christiane",
+      "value": 5,
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",

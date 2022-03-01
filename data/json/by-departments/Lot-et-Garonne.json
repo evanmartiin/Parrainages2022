@@ -1,6 +1,6 @@
 {
   "nom": "Lot-et-Garonne",
-  "total": 89,
+  "total": 97,
   "votes": [
     {
       "key": "LASSALLE Jean",
@@ -9,12 +9,12 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
+      "value": 12,
       "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 10,
+      "value": 12,
       "rang": 2
     },
     {
@@ -28,14 +28,14 @@
       "rang": 5
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "HIDALGO Anne",
       "value": 7,
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 6,
-      "rang": 7
+      "key": "PÉCRESSE Valérie",
+      "value": 7,
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
@@ -53,34 +53,39 @@
       "rang": 9
     },
     {
-      "key": "LE PEN Marine",
-      "value": 2,
+      "key": "POUTOU Philippe",
+      "value": 3,
       "rang": 11
     },
     {
-      "key": "POUTOU Philippe",
+      "key": "LE PEN Marine",
       "value": 2,
-      "rang": 11
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 11
+      "rang": 12
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 14
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 14
+      "rang": 15
     }
   ]
 }

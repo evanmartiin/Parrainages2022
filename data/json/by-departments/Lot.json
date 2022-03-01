@@ -1,20 +1,20 @@
 {
   "nom": "Lot",
-  "total": 80,
+  "total": 89,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 23,
+      "value": 27,
       "rang": 1
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 10,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 12,
       "rang": 2
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
+      "key": "HIDALGO Anne",
+      "value": 11,
       "rang": 3
     },
     {
@@ -64,6 +64,11 @@
     },
     {
       "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 1,
       "rang": 11
     },

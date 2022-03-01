@@ -1,15 +1,15 @@
 {
   "nom": "Eure",
-  "total": 155,
+  "total": 181,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 54,
+      "value": 64,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 26,
+      "value": 27,
       "rang": 2
     },
     {
@@ -19,73 +19,73 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 9,
+      "value": 14,
       "rang": 4
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 8,
+      "rang": 5
     },
     {
       "key": "HIDALGO Anne",
       "value": 6,
-      "rang": 5
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 5,
       "rang": 6
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
+      "value": 6,
       "rang": 6
     },
     {
-      "key": "LE PEN Marine",
-      "value": 4,
+      "key": "THOUY Hélène",
+      "value": 5,
       "rang": 8
     },
     {
       "key": "JADOT Yannick",
-      "value": 3,
-      "rang": 9
-    },
-    {
-      "key": "KAZIB Anasse",
-      "value": 3,
+      "value": 4,
       "rang": 9
     },
     {
       "key": "LASSALLE Jean",
-      "value": 3,
+      "value": 4,
       "rang": 9
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 4,
+      "rang": 9
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 3,
+      "rang": 12
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 3,
+      "rang": 12
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 9
-    },
-    {
-      "key": "THOUY Hélène",
-      "value": 3,
-      "rang": 9
+      "rang": 12
     },
     {
       "key": "MIGUET Nicolas",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "POUTOU Philippe",
       "value": 2,
-      "rang": 14
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 1,
-      "rang": 16
+      "rang": 15
     },
     {
       "key": "SCHOVANEC Josef",
       "value": 1,
-      "rang": 16
+      "rang": 17
     }
   ]
 }

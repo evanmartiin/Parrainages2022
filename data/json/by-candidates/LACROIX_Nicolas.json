@@ -1,0 +1,82 @@
+{
+  "nom": "LACROIX  Nicolas",
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 30,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "HASSELBERGER Laurent",
+      "fonction": "Maire",
+      "circonscription": "Roches-Bettaincourt",
+      "departement": "Haute-Marne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PETIT Didier",
+      "fonction": "Maire",
+      "circonscription": "Consigny",
+      "departement": "Haute-Marne",
+      "date": "2022-03-01"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Consigny",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Roches-Bettaincourt",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "Haute-Marne",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 2,
+      "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 2,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

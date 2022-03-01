@@ -1,8 +1,8 @@
 {
   "nom": "BARNIER Michel",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 32,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 30,
   "valide": false,
   "parrainages": [
     {
@@ -12,12 +12,25 @@
       "circonscription": "Saint-Étienne-de-Lugdarès",
       "departement": "Ardèche",
       "date": "2022-02-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FORTIN Alain",
+      "fonction": "Maire",
+      "circonscription": "La Francheville",
+      "departement": "Ardennes",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Mme",
           "value": 1,
@@ -26,18 +39,23 @@
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "La Francheville",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Saint-Étienne-de-Lugdarès",
           "value": 1,
@@ -46,8 +64,13 @@
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Ardennes",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Ardèche",
           "value": 1,
@@ -56,10 +79,15 @@
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-03",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 1
         }

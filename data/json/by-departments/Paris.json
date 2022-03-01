@@ -1,6 +1,6 @@
 {
   "nom": "Paris",
-  "total": 185,
+  "total": 193,
   "votes": [
     {
       "key": "HIDALGO Anne",
@@ -9,12 +9,12 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 54,
-      "rang": 2
+      "value": 58,
+      "rang": 1
     },
     {
       "key": "JADOT Yannick",
-      "value": 31,
+      "value": 32,
       "rang": 3
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 15,
+      "value": 16,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 4,
+      "value": 5,
       "rang": 6
     },
     {
@@ -38,14 +38,14 @@
       "rang": 7
     },
     {
-      "key": "LE PEN Marine",
+      "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 8
     },
     {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 9
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 8
     }
   ]
 }

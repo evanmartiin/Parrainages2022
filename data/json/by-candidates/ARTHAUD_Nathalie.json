@@ -1,8 +1,8 @@
 {
   "nom": "ARTHAUD Nathalie",
-  "votes_confirmes": 562,
-  "votes_totaux": 562,
-  "rang": 7,
+  "votes_confirmes": 568,
+  "votes_totaux": 568,
+  "rang": 9,
   "valide": true,
   "parrainages": [
     {
@@ -4500,35 +4500,83 @@
       "circonscription": "Geyssans",
       "departement": "Drôme",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "POISSY Stéphane",
+      "fonction": "Maire",
+      "circonscription": "Mayronnes",
+      "departement": "Aude",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "VARIN Dominique",
+      "fonction": "Maire",
+      "circonscription": "Sassy",
+      "departement": "Calvados",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LE GALL Annie",
+      "fonction": "Maire",
+      "circonscription": "Saint-Laurent",
+      "departement": "Côtes-d'Armor",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUTTIER Jean-Jacques",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Tourouvre au Perche",
+      "departement": "Orne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DROUHARD Elodie",
+      "fonction": "Maire",
+      "circonscription": "Villers-Pater",
+      "departement": "Haute-Saône",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEBRET Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Étaimpuis",
+      "departement": "Seine-Maritime",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 562,
+      "total": 568,
       "valeurs": [
         {
           "key": "M.",
-          "value": 453,
+          "value": 457,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 109,
+          "value": 111,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 562,
+      "total": 568,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 512,
+          "value": 517,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 49,
+          "value": 50,
           "rang": 2
         },
         {
@@ -4539,7 +4587,7 @@
       ]
     },
     "circonscription": {
-      "total": 561,
+      "total": 567,
       "valeurs": [
         {
           "key": "Livarot-Pays-d'Auge",
@@ -5927,6 +5975,11 @@
           "rang": 7
         },
         {
+          "key": "Mayronnes",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Mennetou-sur-Cher",
           "value": 1,
           "rang": 7
@@ -6607,6 +6660,11 @@
           "rang": 7
         },
         {
+          "key": "Saint-Laurent",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Saint-Loup",
           "value": 1,
           "rang": 7
@@ -6778,6 +6836,11 @@
         },
         {
           "key": "Sarcey",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "Sassy",
           "value": 1,
           "rang": 7
         },
@@ -6982,6 +7045,11 @@
           "rang": 7
         },
         {
+          "key": "Tourouvre au Perche",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Tragny",
           "value": 1,
           "rang": 7
@@ -7157,6 +7225,11 @@
           "rang": 7
         },
         {
+          "key": "Villers-Pater",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Villers-Plouich",
           "value": 1,
           "rang": 7
@@ -7277,6 +7350,11 @@
           "rang": 7
         },
         {
+          "key": "Étaimpuis",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Étain",
           "value": 1,
           "rang": 7
@@ -7294,7 +7372,7 @@
       ]
     },
     "departement": {
-      "total": 562,
+      "total": 568,
       "valeurs": [
         {
           "key": "Meuse",
@@ -7308,13 +7386,13 @@
         },
         {
           "key": "Calvados",
-          "value": 27,
+          "value": 28,
           "rang": 3
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 27,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Eure",
@@ -7323,7 +7401,7 @@
         },
         {
           "key": "Seine-Maritime",
-          "value": 23,
+          "value": 24,
           "rang": 6
         },
         {
@@ -7352,24 +7430,24 @@
           "rang": 11
         },
         {
+          "key": "Côtes-d'Armor",
+          "value": 14,
+          "rang": 12
+        },
+        {
           "key": "Moselle",
           "value": 14,
           "rang": 12
         },
         {
-          "key": "Côtes-d'Armor",
-          "value": 13,
-          "rang": 13
-        },
-        {
           "key": "Oise",
           "value": 13,
-          "rang": 13
+          "rang": 14
         },
         {
           "key": "Somme",
           "value": 13,
-          "rang": 13
+          "rang": 14
         },
         {
           "key": "Hautes-Pyrénées",
@@ -7407,49 +7485,49 @@
           "rang": 21
         },
         {
+          "key": "Haute-Saône",
+          "value": 9,
+          "rang": 21
+        },
+        {
           "key": "Jura",
           "value": 9,
           "rang": 21
         },
         {
-          "key": "Haute-Saône",
-          "value": 8,
-          "rang": 24
-        },
-        {
           "key": "Isère",
           "value": 8,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Lot",
           "value": 8,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Lot-et-Garonne",
           "value": 8,
-          "rang": 24
+          "rang": 25
+        },
+        {
+          "key": "Orne",
+          "value": 7,
+          "rang": 28
         },
         {
           "key": "Ain",
           "value": 6,
-          "rang": 28
+          "rang": 29
         },
         {
           "key": "Corrèze",
           "value": 6,
-          "rang": 28
+          "rang": 29
         },
         {
           "key": "Gironde",
           "value": 6,
-          "rang": 28
-        },
-        {
-          "key": "Orne",
-          "value": 6,
-          "rang": 28
+          "rang": 29
         },
         {
           "key": "Ardèche",
@@ -7547,6 +7625,11 @@
           "rang": 50
         },
         {
+          "key": "Aude",
+          "value": 2,
+          "rang": 50
+        },
+        {
           "key": "Haut-Rhin",
           "value": 2,
           "rang": 50
@@ -7589,92 +7672,87 @@
         {
           "key": "Allier",
           "value": 1,
-          "rang": 59
-        },
-        {
-          "key": "Aude",
-          "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Aveyron",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Corse-du-Sud",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Guadeloupe",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Pyrénées-Orientales",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Savoie",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Seine-et-Marne",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Territoire de Belfort",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Val-d'Oise",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 59
+          "rang": 60
         },
         {
           "key": "Vienne",
           "value": 1,
-          "rang": 59
+          "rang": 60
         }
       ]
     },
     "date": {
-      "total": 562,
+      "total": 568,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -7712,9 +7790,14 @@
           "rang": 7
         },
         {
+          "key": "2022-03-01",
+          "value": 6,
+          "rang": 8
+        },
+        {
           "key": "2022-02-24",
           "value": 3,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

@@ -1,66 +1,71 @@
 {
   "nom": "Aisne",
-  "total": 177,
+  "total": 208,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 23,
+      "value": 24,
       "rang": 1
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 23,
+      "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 21,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ASSELINEAU François",
       "value": 21,
-      "rang": 2
+      "rang": 3
     },
     {
-      "key": "MACRON Emmanuel",
+      "key": "ZEMMOUR Éric",
       "value": 19,
-      "rang": 4
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
-      "rang": 5
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 12,
       "rang": 5
     },
     {
       "key": "POUTOU Philippe",
-      "value": 12,
-      "rang": 5
+      "value": 16,
+      "rang": 6
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 15,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 15,
+      "rang": 7
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 11,
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 11,
-      "rang": 8
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 10,
       "rang": 9
     },
     {
       "key": "KAZIB Anasse",
-      "value": 9,
-      "rang": 10
+      "value": 10,
+      "rang": 11
     },
     {
       "key": "JADOT Yannick",
-      "value": 7,
-      "rang": 11
+      "value": 8,
+      "rang": 12
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
-      "rang": 11
+      "key": "KOENIG Gaspard",
+      "value": 3,
+      "rang": 13
     },
     {
       "key": "LASSALLE Jean",
@@ -70,22 +75,17 @@
     {
       "key": "EGGER Clara",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 14
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "MIGUET Nicolas",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "KUZMANOVIC Georges",

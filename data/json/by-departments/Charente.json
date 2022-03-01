@@ -1,31 +1,31 @@
 {
   "nom": "Charente",
-  "total": 88,
+  "total": 99,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 23,
+      "value": 25,
       "rang": 1
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 12,
+      "rang": 2
     },
     {
       "key": "LASSALLE Jean",
       "value": 10,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 9,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
       "value": 9,
-      "rang": 3
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "PÉCRESSE Valérie",
@@ -34,41 +34,46 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 5,
+      "value": 7,
       "rang": 7
     },
     {
       "key": "JADOT Yannick",
-      "value": 3,
+      "value": 4,
+      "rang": 8
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 4,
       "rang": 8
     },
     {
       "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 2,
-      "rang": 9
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 1,
       "rang": 14
     },

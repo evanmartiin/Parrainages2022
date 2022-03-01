@@ -1,10 +1,10 @@
 {
   "nom": "Vosges",
-  "total": 123,
+  "total": 138,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 25,
+      "value": 29,
       "rang": 1
     },
     {
@@ -23,27 +23,32 @@
       "rang": 4
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 7,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 10,
       "rang": 5
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 8,
+      "rang": 6
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 7,
+      "rang": 7
     },
     {
       "key": "LE PEN Marine",
       "value": 6,
-      "rang": 6
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 5,
-      "rang": 7
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 5,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ASSELINEAU François",
+      "value": 2,
+      "rang": 9
+    },
+    {
+      "key": "HIDALGO Anne",
       "value": 2,
       "rang": 9
     },
@@ -63,34 +68,34 @@
       "rang": 9
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 1,
-      "rang": 13
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 9
     },
     {
       "key": "HOLLANDE François",
       "value": 1,
-      "rang": 13
+      "rang": 15
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 13
+      "rang": 15
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 13
+      "rang": 15
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 13
+      "rang": 15
     }
   ]
 }

@@ -1,16 +1,21 @@
 {
   "nom": "Cantal",
-  "total": 46,
+  "total": 52,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 13,
+      "key": "PÉCRESSE Valérie",
+      "value": 16,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "MACRON Emmanuel",
       "value": 13,
-      "rang": 1
+      "rang": 2
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "ROUSSEL Fabien",
@@ -20,17 +25,17 @@
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 4
+      "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 4
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "HIDALGO Anne",
@@ -38,29 +43,29 @@
       "rang": 7
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "LE PEN Marine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

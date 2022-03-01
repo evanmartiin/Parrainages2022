@@ -1,85 +1,85 @@
 {
   "nom": "Bourgogne-Franche-Comté",
-  "total": 951,
+  "total": 1099,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 215,
+      "value": 224,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 130,
+      "value": 148,
       "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 68,
+      "value": 84,
       "rang": 3
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 58,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 73,
       "rang": 4
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 52,
+      "key": "ZEMMOUR Éric",
+      "value": 70,
       "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 51,
+      "key": "POUTOU Philippe",
+      "value": 60,
       "rang": 6
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 50,
+      "key": "LASSALLE Jean",
+      "value": 59,
       "rang": 7
     },
     {
-      "key": "JADOT Yannick",
-      "value": 49,
+      "key": "HIDALGO Anne",
+      "value": 56,
       "rang": 8
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 47,
+      "key": "JADOT Yannick",
+      "value": 55,
       "rang": 9
     },
     {
+      "key": "ARTHAUD Nathalie",
+      "value": 53,
+      "rang": 10
+    },
+    {
       "key": "LE PEN Marine",
-      "value": 42,
-      "rang": 10
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 42,
-      "rang": 10
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 35,
-      "rang": 12
+      "value": 52,
+      "rang": 11
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 34,
+      "value": 39,
+      "rang": 12
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 37,
       "rang": 13
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 31,
+      "value": 32,
       "rang": 14
     },
     {
       "key": "THOUY Hélène",
-      "value": 13,
+      "value": 14,
       "rang": 15
     },
     {
       "key": "KAZIB Anasse",
-      "value": 10,
+      "value": 11,
       "rang": 16
     },
     {
@@ -88,34 +88,39 @@
       "rang": 17
     },
     {
-      "key": "EGGER Clara",
-      "value": 3,
-      "rang": 18
-    },
-    {
       "key": "KOENIG Gaspard",
-      "value": 3,
-      "rang": 18
-    },
-    {
-      "key": "MARTINEZ Antoine",
-      "value": 3,
-      "rang": 18
-    },
-    {
-      "key": "WAECHTER Antoine",
-      "value": 3,
+      "value": 7,
       "rang": 18
     },
     {
       "key": "MIGUET Nicolas",
-      "value": 2,
-      "rang": 22
+      "value": 4,
+      "rang": 19
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 3,
+      "rang": 20
+    },
+    {
+      "key": "MARTINEZ Antoine",
+      "value": 3,
+      "rang": 20
+    },
+    {
+      "key": "WAECHTER Antoine",
+      "value": 3,
+      "rang": 20
     },
     {
       "key": "ROCCA Martin",
-      "value": 1,
+      "value": 2,
       "rang": 23
+    },
+    {
+      "key": "JUVING-BRUNET Alexandre",
+      "value": 1,
+      "rang": 24
     }
   ]
 }

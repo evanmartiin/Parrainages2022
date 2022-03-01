@@ -1,6 +1,6 @@
 {
   "nom": "Yonne",
-  "total": 112,
+  "total": 125,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -9,12 +9,12 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 22,
+      "value": 25,
       "rang": 2
     },
     {
       "key": "ASSELINEAU François",
-      "value": 9,
+      "value": 10,
       "rang": 3
     },
     {
@@ -23,47 +23,52 @@
       "rang": 4
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 6,
-      "rang": 5
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 8,
+      "rang": 4
     },
     {
       "key": "LE PEN Marine",
-      "value": 6,
-      "rang": 5
+      "value": 7,
+      "rang": 6
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "LASSALLE Jean",
       "value": 6,
-      "rang": 5
+      "rang": 7
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 6,
+      "rang": 7
     },
     {
       "key": "KAZIB Anasse",
       "value": 5,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 4,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "THOUY Hélène",
       "value": 3,
-      "rang": 10
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 3,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "HIDALGO Anne",
+      "value": 2,
+      "rang": 13
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 13
     },
@@ -73,24 +78,19 @@
       "rang": 13
     },
     {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 15
-    },
-    {
       "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 15
+      "value": 2,
+      "rang": 13
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 15
+      "value": 2,
+      "rang": 13
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 15
+      "rang": 18
     }
   ]
 }

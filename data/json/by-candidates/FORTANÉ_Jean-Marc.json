@@ -1,8 +1,8 @@
 {
   "nom": "FORTANÉ Jean-Marc",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
-  "rang": 27,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
+  "rang": 25,
   "valide": false,
   "parrainages": [
     {
@@ -28,34 +28,91 @@
       "circonscription": "Savy-Berlette",
       "departement": "Pas-de-Calais",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CROSNIER Laurence",
+      "fonction": "Maire",
+      "circonscription": "Cuzieu",
+      "departement": "Ain",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "RENAUX Thierry",
+      "fonction": "Maire",
+      "circonscription": "Condé-lès-Autry",
+      "departement": "Ardennes",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "CASTANG Alain",
+      "fonction": "Maire",
+      "circonscription": "Rouffignac-de-Sigoulès",
+      "departement": "Dordogne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PETIT Franck",
+      "fonction": "Maire",
+      "circonscription": "Alleyras",
+      "departement": "Haute-Loire",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 3,
+          "value": 6,
           "rang": 1
+        },
+        {
+          "key": "Mme",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 7,
       "valeurs": [
         {
+          "key": "Alleyras",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Condé-lès-Autry",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Cuzieu",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Lapte",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Rouffignac-de-Sigoulès",
           "value": 1,
           "rang": 1
         },
@@ -72,37 +129,57 @@
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 7,
       "valeurs": [
         {
           "key": "Haute-Loire",
-          "value": 1,
-          "rang": 1
-        },
-        {
-          "key": "Ille-et-Vilaine",
-          "value": 1,
-          "rang": 1
-        },
-        {
-          "key": "Pas-de-Calais",
-          "value": 1,
-          "rang": 1
-        }
-      ]
-    },
-    "date": {
-      "total": 3,
-      "valeurs": [
-        {
-          "key": "2022-02-22",
           "value": 2,
           "rang": 1
         },
         {
-          "key": "2022-02-10",
+          "key": "Ain",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Ardennes",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Dordogne",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Ille-et-Vilaine",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Pas-de-Calais",
+          "value": 1,
+          "rang": 2
+        }
+      ]
+    },
+    "date": {
+      "total": 7,
+      "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 4,
+          "rang": 1
+        },
+        {
+          "key": "2022-02-22",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "2022-02-10",
+          "value": 1,
+          "rang": 3
         }
       ]
     }

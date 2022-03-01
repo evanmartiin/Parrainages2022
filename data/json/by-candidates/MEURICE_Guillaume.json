@@ -1,7 +1,7 @@
 {
   "nom": "MEURICE Guillaume",
-  "votes_confirmes": 2,
-  "votes_totaux": 2,
+  "votes_confirmes": 3,
+  "votes_totaux": 3,
   "rang": 29,
   "valide": false,
   "parrainages": [
@@ -20,27 +20,40 @@
       "circonscription": "Villard-Notre-Dame",
       "departement": "Isère",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "TONOLLI Angelo",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Somme",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         },
         {
           "key": "Mme",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Maire",
           "value": 1,
@@ -69,7 +82,7 @@
       ]
     },
     "departement": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "Isère",
@@ -80,11 +93,16 @@
           "key": "Manche",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Somme",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "date": {
-      "total": 2,
+      "total": 3,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -93,6 +111,11 @@
         },
         {
           "key": "2022-02-24",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 1
         }

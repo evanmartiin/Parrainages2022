@@ -1,10 +1,10 @@
 {
   "nom": "Nièvre",
-  "total": 58,
+  "total": 64,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 9,
+      "value": 11,
       "rang": 1
     },
     {
@@ -18,6 +18,11 @@
       "rang": 2
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 6,
+      "rang": 4
+    },
+    {
       "key": "POUTOU Philippe",
       "value": 6,
       "rang": 4
@@ -25,22 +30,17 @@
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 5,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "LASSALLE Jean",
       "value": 5,
-      "rang": 5
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 4,
-      "rang": 7
+      "rang": 6
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 4,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "JADOT Yannick",
@@ -58,24 +58,29 @@
       "rang": 10
     },
     {
+      "key": "ZEMMOUR Éric",
+      "value": 2,
+      "rang": 10
+    },
+    {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 12
+      "rang": 13
+    },
+    {
+      "key": "JUVING-BRUNET Alexandre",
+      "value": 1,
+      "rang": 13
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 12
+      "rang": 13
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 12
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 12
+      "rang": 13
     }
   ]
 }

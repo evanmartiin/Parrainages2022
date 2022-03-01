@@ -1,15 +1,15 @@
 {
   "nom": "Hauts-de-France",
-  "total": 856,
+  "total": 965,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 156,
+      "value": 164,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 120,
+      "value": 136,
       "rang": 2
     },
     {
@@ -18,53 +18,53 @@
       "rang": 3
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 69,
+      "key": "HIDALGO Anne",
+      "value": 74,
       "rang": 4
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 68,
+      "key": "ARTHAUD Nathalie",
+      "value": 69,
       "rang": 5
     },
     {
       "key": "LE PEN Marine",
-      "value": 59,
-      "rang": 6
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 52,
-      "rang": 7
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 41,
-      "rang": 8
+      "value": 69,
+      "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 40,
+      "value": 66,
+      "rang": 7
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 62,
+      "rang": 8
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 57,
       "rang": 9
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 36,
+      "rang": 10
     },
     {
       "key": "ASSELINEAU François",
       "value": 33,
-      "rang": 10
-    },
-    {
-      "key": "JADOT Yannick",
-      "value": 33,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "POUTOU Philippe",
-      "value": 18,
+      "value": 25,
       "rang": 12
     },
     {
       "key": "KAZIB Anasse",
-      "value": 16,
+      "value": 17,
       "rang": 13
     },
     {
@@ -74,12 +74,12 @@
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 8,
+      "value": 10,
       "rang": 15
     },
     {
       "key": "THOUY Hélène",
-      "value": 7,
+      "value": 8,
       "rang": 16
     },
     {
@@ -89,13 +89,13 @@
     },
     {
       "key": "CHICHE Arnaud",
-      "value": 4,
+      "value": 5,
       "rang": 18
     },
     {
       "key": "EGGER Clara",
       "value": 4,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "MIGUET Nicolas",
@@ -108,29 +108,34 @@
       "rang": 20
     },
     {
+      "key": "BÉKAERT Corinne",
+      "value": 2,
+      "rang": 22
+    },
+    {
       "key": "CAU Marie",
       "value": 2,
       "rang": 22
     },
     {
-      "key": "BÉKAERT Corinne",
-      "value": 1,
-      "rang": 23
-    },
-    {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 23
+      "rang": 24
     },
     {
       "key": "MARECHAL Philippe Célestin",
       "value": 1,
-      "rang": 23
+      "rang": 24
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 1,
-      "rang": 23
+      "rang": 24
+    },
+    {
+      "key": "MEURICE Guillaume",
+      "value": 1,
+      "rang": 24
     }
   ]
 }

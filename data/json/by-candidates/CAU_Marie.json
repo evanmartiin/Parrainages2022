@@ -1,8 +1,8 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 4,
-  "votes_totaux": 4,
-  "rang": 24,
+  "votes_confirmes": 5,
+  "votes_totaux": 5,
+  "rang": 26,
   "valide": false,
   "parrainages": [
     {
@@ -36,32 +36,45 @@
       "circonscription": "Chevrières",
       "departement": "Isère",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "RABACHE Gilles",
+      "fonction": "Maire",
+      "circonscription": "Caligny",
+      "departement": "Orne",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "M.",
-          "value": 4,
+          "value": 5,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 4,
+          "value": 5,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
+        {
+          "key": "Caligny",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Chevrières",
           "value": 1,
@@ -85,7 +98,7 @@
       ]
     },
     "departement": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "Nord",
@@ -101,11 +114,16 @@
           "key": "Isère",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Orne",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 4,
+      "total": 5,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -124,6 +142,11 @@
         },
         {
           "key": "2022-02-24",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 1
         }

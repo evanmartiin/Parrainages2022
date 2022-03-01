@@ -1,26 +1,31 @@
 {
   "nom": "La Réunion",
-  "total": 25,
+  "total": 36,
   "votes": [
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 8,
+      "value": 14,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 7,
+      "value": 8,
       "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 5,
+      "value": 6,
       "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 3,
+      "value": 5,
       "rang": 4
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 5
     },
     {
       "key": "LE PEN Marine",

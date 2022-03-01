@@ -1,75 +1,75 @@
 {
   "nom": "Haute-Garonne",
-  "total": 198,
+  "total": 221,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 84,
+      "value": 88,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 23,
+      "value": 25,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 22,
+      "value": 23,
       "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 16,
+      "rang": 4
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 13,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 10,
       "rang": 5
     },
     {
       "key": "JADOT Yannick",
-      "value": 8,
+      "value": 9,
       "rang": 6
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 8,
+      "value": 9,
       "rang": 6
     },
     {
       "key": "KAZIB Anasse",
-      "value": 6,
+      "value": 7,
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 7,
       "rang": 8
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 5,
-      "rang": 9
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 5,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 4,
-      "rang": 11
+      "value": 5,
+      "rang": 10
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 2,
+      "value": 3,
       "rang": 12
     },
     {
       "key": "POUTOU Philippe",
-      "value": 2,
+      "value": 3,
       "rang": 12
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 2,
+      "value": 3,
       "rang": 12
     },
     {
@@ -79,6 +79,11 @@
     },
     {
       "key": "DELGA Carole",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "EGGER Clara",
       "value": 1,
       "rang": 15
     },

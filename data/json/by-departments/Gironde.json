@@ -1,10 +1,10 @@
 {
   "nom": "Gironde",
-  "total": 198,
+  "total": 214,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 60,
+      "value": 63,
       "rang": 1
     },
     {
@@ -13,34 +13,34 @@
       "rang": 2
     },
     {
-      "key": "JADOT Yannick",
-      "value": 20,
+      "key": "PÉCRESSE Valérie",
+      "value": 21,
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "JADOT Yannick",
       "value": 20,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "LASSALLE Jean",
-      "value": 18,
+      "value": 19,
       "rang": 5
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 11,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 13,
       "rang": 6
     },
     {
       "key": "LE PEN Marine",
-      "value": 9,
+      "value": 12,
       "rang": 7
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
-      "rang": 7
+      "key": "ROUSSEL Fabien",
+      "value": 11,
+      "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
@@ -54,11 +54,16 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 4,
+      "value": 5,
       "rang": 11
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 2,
       "rang": 12
     },
@@ -70,12 +75,17 @@
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 1,
-      "rang": 14
+      "rang": 15
+    },
+    {
+      "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 15
     }
   ]
 }

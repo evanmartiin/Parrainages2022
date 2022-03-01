@@ -1,0 +1,69 @@
+{
+  "nom": "BLANCHET Christophe",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 36,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "CARRUELLE Gérard",
+      "fonction": "Maire",
+      "circonscription": "Saint-Christophe",
+      "departement": "Eure-et-Loir",
+      "date": "2022-03-01"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Saint-Christophe",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Eure-et-Loir",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "nom": "Lozère",
-  "total": 34,
+  "total": 42,
   "votes": [
     {
       "key": "POUTOU Philippe",
-      "value": 8,
+      "value": 10,
       "rang": 1
     },
     {
@@ -18,6 +18,11 @@
       "rang": 2
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 4
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 4,
       "rang": 4
@@ -25,32 +30,42 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 2,
-      "rang": 6
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 7
     },
     {
       "key": "MACRON Emmanuel",
       "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 2,
-      "rang": 6
+      "rang": 7
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 1,
+      "rang": 11
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 1,
+      "rang": 11
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

@@ -1,55 +1,55 @@
 {
   "nom": "Seine-Maritime",
-  "total": 178,
+  "total": 201,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 30,
+      "value": 32,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 29,
-      "rang": 2
+      "value": 32,
+      "rang": 1
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 23,
+      "value": 24,
       "rang": 3
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 23,
+      "value": 24,
       "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 17,
+      "rang": 5
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 13,
+      "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 11,
+      "rang": 7
     },
     {
       "key": "JADOT Yannick",
       "value": 10,
-      "rang": 5
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 9,
-      "rang": 6
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
-      "rang": 6
+      "rang": 8
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 9,
-      "rang": 6
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 9,
-      "rang": 6
+      "rang": 9
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 7,
+      "value": 8,
       "rang": 10
     },
     {
@@ -89,6 +89,11 @@
     },
     {
       "key": "PHILIPPOT Florian",
+      "value": 1,
+      "rang": 17
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 1,
       "rang": 17
     }

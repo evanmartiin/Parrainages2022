@@ -1,20 +1,20 @@
 {
   "nom": "Somme",
-  "total": 139,
+  "total": 155,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 21,
+      "value": 23,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 19,
+      "value": 21,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 18,
+      "value": 19,
       "rang": 3
     },
     {
@@ -23,23 +23,23 @@
       "rang": 4
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 13,
+      "rang": 4
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 12,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 11,
+      "value": 12,
       "rang": 6
     },
     {
       "key": "HIDALGO Anne",
       "value": 10,
-      "rang": 7
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 8,
       "rang": 8
     },
     {
@@ -49,33 +49,38 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 5,
-      "rang": 10
+      "value": 6,
+      "rang": 9
     },
     {
       "key": "KAZIB Anasse",
       "value": 5,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "LE PEN Marine",
-      "value": 4,
-      "rang": 12
+      "value": 5,
+      "rang": 11
     },
     {
       "key": "CHICHE Arnaud",
-      "value": 2,
+      "value": 3,
+      "rang": 13
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 3,
       "rang": 13
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 2,
-      "rang": 13
+      "rang": 15
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 2,
-      "rang": 13
+      "key": "MEURICE Guillaume",
+      "value": 1,
+      "rang": 16
     },
     {
       "key": "THOUY Hélène",

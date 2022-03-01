@@ -1,8 +1,8 @@
 {
   "nom": "ROCCA Martin",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
-  "rang": 27,
+  "votes_confirmes": 8,
+  "votes_totaux": 8,
+  "rang": 24,
   "valide": false,
   "parrainages": [
     {
@@ -28,36 +28,76 @@
       "circonscription": "La Celle",
       "departement": "Allier",
       "date": "2022-02-15"
+    },
+    {
+      "genre": "M.",
+      "nom": "THOMASSET Gilles",
+      "fonction": "Maire",
+      "circonscription": "Saint-Germain-de-Joux",
+      "departement": "Ain",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DAUGREILH-DUBOURG Sylvie",
+      "fonction": "Maire",
+      "circonscription": "Lamothe",
+      "departement": "Landes",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUGUE Christian",
+      "fonction": "Maire",
+      "circonscription": "Montceaux-Ragny",
+      "departement": "Saône-et-Loire",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERTHOMIER Christian",
+      "fonction": "Maire",
+      "circonscription": "Saint-Jean-d'Arvey",
+      "departement": "Savoie",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PETORIN Patrick",
+      "fonction": "Maire",
+      "circonscription": "Pamplie",
+      "departement": "Deux-Sèvres",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 8,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 6,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 8,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 8,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 3,
+      "total": 8,
       "valeurs": [
         {
           "key": "Castelculier",
@@ -73,14 +113,54 @@
           "key": "La Chapelle-Saint-André",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Lamothe",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montceaux-Ragny",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Pamplie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Germain-de-Joux",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Jean-d'Arvey",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 8,
       "valeurs": [
         {
+          "key": "Ain",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Allier",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Deux-Sèvres",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Landes",
           "value": 1,
           "rang": 1
         },
@@ -93,26 +173,41 @@
           "key": "Nièvre",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Savoie",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saône-et-Loire",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "date": {
-      "total": 3,
+      "total": 8,
       "valeurs": [
+        {
+          "key": "2022-03-01",
+          "value": 5,
+          "rang": 1
+        },
         {
           "key": "2022-02-08",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

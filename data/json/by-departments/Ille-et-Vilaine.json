@@ -1,20 +1,20 @@
 {
   "nom": "Ille-et-Vilaine",
-  "total": 80,
+  "total": 93,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 26,
+      "value": 28,
       "rang": 1
     },
     {
       "key": "JADOT Yannick",
-      "value": 16,
+      "value": 19,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 14,
+      "value": 15,
       "rang": 3
     },
     {
@@ -23,49 +23,54 @@
       "rang": 4
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 5
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 4,
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 3,
+      "rang": 7
+    },
+    {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 5
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 6
+      "rang": 9
     },
     {
-      "key": "LE PEN Marine",
+      "key": "ZEMMOUR Éric",
       "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 2,
-      "rang": 6
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 2,
-      "rang": 6
+      "rang": 9
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 10
+      "rang": 11
     },
     {
-      "key": "ZEMMOUR Éric",
+      "key": "THOUY Hélène",
       "value": 1,
-      "rang": 10
+      "rang": 11
     }
   ]
 }

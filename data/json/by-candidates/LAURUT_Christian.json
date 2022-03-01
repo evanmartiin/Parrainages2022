@@ -1,8 +1,8 @@
 {
   "nom": "LAURUT Christian",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 32,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 30,
   "valide": false,
   "parrainages": [
     {
@@ -12,32 +12,45 @@
       "circonscription": "Trannes",
       "departement": "Aube",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "CARDOT Julien",
+      "fonction": "Maire",
+      "circonscription": "Maxey-sur-Vaise",
+      "departement": "Meuse",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Maxey-sur-Vaise",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Trannes",
           "value": 1,
@@ -46,20 +59,30 @@
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Aube",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Meuse",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-24",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 1
         }

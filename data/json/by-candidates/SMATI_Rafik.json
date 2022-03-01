@@ -1,7 +1,7 @@
 {
   "nom": "SMATI  Rafik",
-  "votes_confirmes": 8,
-  "votes_totaux": 8,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
   "rang": 23,
   "valide": false,
   "parrainages": [
@@ -68,15 +68,23 @@
       "circonscription": "Novel",
       "departement": "Haute-Savoie",
       "date": "2022-02-22"
+    },
+    {
+      "genre": "M.",
+      "nom": "MICHEL Philippe",
+      "fonction": "Maire",
+      "circonscription": "Harreberg",
+      "departement": "Moselle",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
-          "value": 5,
+          "value": 6,
           "rang": 1
         },
         {
@@ -87,11 +95,11 @@
       ]
     },
     "fonction": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 6,
+          "value": 7,
           "rang": 1
         },
         {
@@ -102,7 +110,7 @@
       ]
     },
     "circonscription": {
-      "total": 6,
+      "total": 7,
       "valeurs": [
         {
           "key": "Bizeneuille",
@@ -125,6 +133,11 @@
           "rang": 1
         },
         {
+          "key": "Harreberg",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Novel",
           "value": 1,
           "rang": 1
@@ -137,7 +150,7 @@
       ]
     },
     "departement": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Haute-Savoie",
@@ -165,6 +178,11 @@
           "rang": 3
         },
         {
+          "key": "Moselle",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
           "rang": 3
@@ -172,7 +190,7 @@
       ]
     },
     "date": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -191,6 +209,11 @@
         },
         {
           "key": "2022-02-22",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "2022-03-01",
           "value": 1,
           "rang": 4
         }

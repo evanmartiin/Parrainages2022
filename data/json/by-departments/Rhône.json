@@ -1,41 +1,41 @@
 {
   "nom": "Rhône",
-  "total": 198,
+  "total": 220,
   "votes": [
     {
       "key": "JADOT Yannick",
-      "value": 67,
+      "value": 68,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 45,
+      "value": 47,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 31,
+      "value": 33,
       "rang": 3
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 18,
+      "rang": 4
     },
     {
       "key": "HIDALGO Anne",
       "value": 15,
-      "rang": 4
-    },
-    {
-      "key": "ROUSSEL Fabien",
-      "value": 9,
       "rang": 5
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 8,
+      "value": 11,
       "rang": 6
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 8,
-      "rang": 6
+      "key": "ROUSSEL Fabien",
+      "value": 9,
+      "rang": 7
     },
     {
       "key": "TAUBIRA Christiane",
@@ -43,44 +43,49 @@
       "rang": 8
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 4,
+      "rang": 9
+    },
+    {
       "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "MAZUEL Philippe",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 11
+      "rang": 12
     }
   ]
 }

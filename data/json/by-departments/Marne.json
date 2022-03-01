@@ -1,40 +1,40 @@
 {
   "nom": "Marne",
-  "total": 147,
+  "total": 163,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 31,
+      "value": 34,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 28,
+      "value": 30,
       "rang": 2
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 18,
+      "rang": 3
     },
     {
       "key": "ASSELINEAU François",
       "value": 16,
-      "rang": 3
+      "rang": 4
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 16,
-      "rang": 3
+      "key": "ZEMMOUR Éric",
+      "value": 14,
+      "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 11,
-      "rang": 5
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 9,
       "rang": 6
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 9,
+      "key": "LE PEN Marine",
+      "value": 11,
       "rang": 6
     },
     {
@@ -43,27 +43,32 @@
       "rang": 8
     },
     {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 9
+    },
+    {
       "key": "HIDALGO Anne",
       "value": 3,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 9
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 3,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "THOUY Hélène",
       "value": 3,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 13
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 2,
       "rang": 13
     },
@@ -75,32 +80,27 @@
     {
       "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "MÉNARD Emmanuelle",
       "value": 1,
-      "rang": 15
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 15
+      "rang": 16
     }
   ]
 }

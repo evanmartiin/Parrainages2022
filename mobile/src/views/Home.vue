@@ -1,7 +1,13 @@
 <template>
   <div class="home">
     <Hero v-if="!loading" :candidates="candidates"/>
-    <CandidatesList :candidates="candidates" :loading="loading" :error="error"/>
+    <CandidatesList v-if="!loading" :candidates="candidates" :loading="loading" :error="error"/>
+    <div class="loading" v-if="loading">
+      <p>Chargement des données...</p>
+    </div>
+    <div class="error" v-if="error">
+      <p>Une erreur est survenue.</p>
+    </div>
   </div>
 </template>
 

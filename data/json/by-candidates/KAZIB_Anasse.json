@@ -1,8 +1,8 @@
 {
   "nom": "KAZIB Anasse",
-  "votes_confirmes": 130,
-  "votes_totaux": 130,
-  "rang": 14,
+  "votes_confirmes": 144,
+  "votes_totaux": 144,
+  "rang": 15,
   "valide": false,
   "parrainages": [
     {
@@ -1044,41 +1044,153 @@
       "circonscription": "Milhas",
       "departement": "Haute-Garonne",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "WACK Jean-Marc",
+      "fonction": "Maire",
+      "circonscription": "Laniscourt",
+      "departement": "Aisne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "COLINET Jean-Pierre",
+      "fonction": "Maire",
+      "circonscription": "Joigny-sur-Meuse",
+      "departement": "Ardennes",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BARROUILLET Célia",
+      "fonction": "Maire",
+      "circonscription": "Esplas-de-Sérou",
+      "departement": "Ariège",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOUFAID Bholème",
+      "fonction": "Maire",
+      "circonscription": "Albiès",
+      "departement": "Ariège",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "EYCHENNE Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Larbont",
+      "departement": "Ariège",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAURETTE Jean-Claude Raymond",
+      "fonction": "Maire",
+      "circonscription": "Villautou",
+      "departement": "Aude",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELMAS Roland",
+      "fonction": "Maire",
+      "circonscription": "Saint-Chamassy",
+      "departement": "Dordogne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAJAUNIAS Mickaël",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Mauzac-et-Grand-Castang",
+      "departement": "Dordogne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "CAILLAT Pierre-Yves",
+      "fonction": "Maire",
+      "circonscription": "Marliac",
+      "departement": "Haute-Garonne",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "JAMMET Jean-Noël",
+      "fonction": "Maire",
+      "circonscription": "Bazugues",
+      "departement": "Gers",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PASTEUR Cyrille",
+      "fonction": "Maire",
+      "circonscription": "Vaux-sur-Poligny",
+      "departement": "Jura",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BONNET Michel",
+      "fonction": "Maire",
+      "circonscription": "Saint-Michel-de-Dèze",
+      "departement": "Lozère",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "COLLADO Pascal",
+      "fonction": "Maire",
+      "circonscription": "Vier-Bordes",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "MERIGOT Patrice",
+      "fonction": "Maire",
+      "circonscription": "Gez-ez-Angles",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-03-01"
     }
   ],
   "stats": {
     "genre": {
-      "total": 130,
+      "total": 144,
       "valeurs": [
         {
           "key": "M.",
-          "value": 98,
+          "value": 111,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 32,
+          "value": 33,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 130,
+      "total": 144,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 126,
+          "value": 139,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 4,
+          "value": 5,
           "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 130,
+      "total": 144,
       "valeurs": [
         {
           "key": "Charny Orée de Puisaye",
@@ -1092,6 +1204,11 @@
         },
         {
           "key": "Albières",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Albiès",
           "value": 1,
           "rang": 3
         },
@@ -1137,6 +1254,11 @@
         },
         {
           "key": "Baye",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Bazugues",
           "value": 1,
           "rang": 3
         },
@@ -1236,6 +1358,11 @@
           "rang": 3
         },
         {
+          "key": "Esplas-de-Sérou",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Flacourt",
           "value": 1,
           "rang": 3
@@ -1281,6 +1408,11 @@
           "rang": 3
         },
         {
+          "key": "Gez-ez-Angles",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Groléjac",
           "value": 1,
           "rang": 3
@@ -1311,6 +1443,11 @@
           "rang": 3
         },
         {
+          "key": "Joigny-sur-Meuse",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Joncreuil",
           "value": 1,
           "rang": 3
@@ -1332,6 +1469,16 @@
         },
         {
           "key": "Laneuveville-lès-Lorquin",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Laniscourt",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Larbont",
           "value": 1,
           "rang": 3
         },
@@ -1401,12 +1548,22 @@
           "rang": 3
         },
         {
+          "key": "Marliac",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Maure",
           "value": 1,
           "rang": 3
         },
         {
           "key": "Mauressargues",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Mauzac-et-Grand-Castang",
           "value": 1,
           "rang": 3
         },
@@ -1556,6 +1713,11 @@
           "rang": 3
         },
         {
+          "key": "Saint-Chamassy",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Saint-Georges-Blancaneix",
           "value": 1,
           "rang": 3
@@ -1587,6 +1749,11 @@
         },
         {
           "key": "Saint-Martin-au-Bosc",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Saint-Michel-de-Dèze",
           "value": 1,
           "rang": 3
         },
@@ -1676,6 +1843,11 @@
           "rang": 3
         },
         {
+          "key": "Vaux-sur-Poligny",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Vellerot-lès-Belvoir",
           "value": 1,
           "rang": 3
@@ -1686,7 +1858,17 @@
           "rang": 3
         },
         {
+          "key": "Vier-Bordes",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Villaroux",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Villautou",
           "value": 1,
           "rang": 3
         },
@@ -1723,22 +1905,32 @@
       ]
     },
     "departement": {
-      "total": 130,
+      "total": 144,
       "valeurs": [
+        {
+          "key": "Gers",
+          "value": 11,
+          "rang": 1
+        },
         {
           "key": "Moselle",
           "value": 11,
           "rang": 1
         },
         {
-          "key": "Gers",
+          "key": "Aisne",
           "value": 10,
-          "rang": 2
+          "rang": 3
         },
         {
-          "key": "Aisne",
-          "value": 9,
-          "rang": 3
+          "key": "Dordogne",
+          "value": 8,
+          "rang": 4
+        },
+        {
+          "key": "Hautes-Pyrénées",
+          "value": 8,
+          "rang": 4
         },
         {
           "key": "Pyrénées-Atlantiques",
@@ -1746,54 +1938,44 @@
           "rang": 4
         },
         {
-          "key": "Dordogne",
-          "value": 6,
-          "rang": 5
+          "key": "Ariège",
+          "value": 7,
+          "rang": 7
         },
         {
           "key": "Haute-Garonne",
-          "value": 6,
-          "rang": 5
+          "value": 7,
+          "rang": 7
         },
         {
-          "key": "Hautes-Pyrénées",
+          "key": "Aude",
           "value": 6,
-          "rang": 5
+          "rang": 9
         },
         {
           "key": "Seine-Maritime",
           "value": 6,
-          "rang": 5
-        },
-        {
-          "key": "Aude",
-          "value": 5,
-          "rang": 9
-        },
-        {
-          "key": "Somme",
-          "value": 5,
-          "rang": 9
-        },
-        {
-          "key": "Yonne",
-          "value": 5,
           "rang": 9
         },
         {
           "key": "Ardennes",
-          "value": 4,
-          "rang": 12
+          "value": 5,
+          "rang": 11
         },
         {
-          "key": "Ariège",
-          "value": 4,
-          "rang": 12
+          "key": "Somme",
+          "value": 5,
+          "rang": 11
+        },
+        {
+          "key": "Yonne",
+          "value": 5,
+          "rang": 11
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 4,
-          "rang": 12
+          "rang": 14
         },
         {
           "key": "Calvados",
@@ -1841,109 +2023,114 @@
           "rang": 18
         },
         {
+          "key": "Jura",
+          "value": 2,
+          "rang": 18
+        },
+        {
           "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Gironde",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 24
-        },
-        {
-          "key": "Jura",
-          "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Lot-et-Garonne",
           "value": 1,
-          "rang": 24
+          "rang": 25
+        },
+        {
+          "key": "Lozère",
+          "value": 1,
+          "rang": 25
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Savoie",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Tarn",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Var",
           "value": 1,
-          "rang": 24
+          "rang": 25
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 24
+          "rang": 25
         }
       ]
     },
     "date": {
-      "total": 130,
+      "total": 144,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -1966,24 +2153,29 @@
           "rang": 4
         },
         {
+          "key": "2022-03-01",
+          "value": 14,
+          "rang": 5
+        },
+        {
           "key": "2022-02-17",
           "value": 6,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-22",
           "value": 6,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

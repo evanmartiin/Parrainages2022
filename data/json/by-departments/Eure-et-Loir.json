@@ -1,10 +1,10 @@
 {
   "nom": "Eure-et-Loir",
-  "total": 81,
+  "total": 90,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 25,
+      "value": 26,
       "rang": 1
     },
     {
@@ -14,13 +14,13 @@
     },
     {
       "key": "LASSALLE Jean",
-      "value": 10,
-      "rang": 3
+      "value": 11,
+      "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
       "value": 10,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ZEMMOUR Éric",
@@ -34,38 +34,48 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 3,
+      "value": 4,
       "rang": 7
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
+      "rang": 7
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 3,
+      "rang": 9
     },
     {
       "key": "THOUY Hélène",
       "value": 3,
-      "rang": 7
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 2,
-      "rang": 9
+      "rang": 11
     },
     {
-      "key": "KOENIG Gaspard",
-      "value": 2,
-      "rang": 9
+      "key": "BLANCHET Christophe",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 1,
+      "rang": 12
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 11
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 11
+      "rang": 12
     }
   ]
 }

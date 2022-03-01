@@ -1,11 +1,16 @@
 {
   "nom": "Saint-Martin",
-  "total": 3,
+  "total": 7,
   "votes": [
+    {
+      "key": "MACRON Emmanuel",
+      "value": 4,
+      "rang": 1
+    },
     {
       "key": "PÉCRESSE Valérie",
       "value": 3,
-      "rang": 1
+      "rang": 2
     }
   ]
 }
