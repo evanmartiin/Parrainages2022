@@ -18,7 +18,7 @@ export default {
   color: #000000;
   box-sizing: border-box;
   padding: 35px;
-  margin-bottom: 75px;
+  padding-bottom: 125px;
   margin-top: 20px;
   text-align: center;
 }
