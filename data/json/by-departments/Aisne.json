@@ -1,46 +1,46 @@
 {
   "nom": "Aisne",
-  "total": 208,
+  "total": 227,
   "votes": [
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 24,
+      "key": "MACRON Emmanuel",
+      "value": 28,
       "rang": 1
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 23,
+      "key": "PÉCRESSE Valérie",
+      "value": 26,
       "rang": 2
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 21,
-      "rang": 3
-    },
-    {
       "key": "ASSELINEAU François",
-      "value": 21,
+      "value": 22,
       "rang": 3
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 19,
+      "value": 22,
+      "rang": 3
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 21,
       "rang": 5
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 16,
+      "key": "LE PEN Marine",
+      "value": 19,
       "rang": 6
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 15,
+      "key": "POUTOU Philippe",
+      "value": 18,
       "rang": 7
     },
     {
-      "key": "LE PEN Marine",
-      "value": 15,
-      "rang": 7
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 16,
+      "rang": 8
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -63,6 +63,11 @@
       "rang": 12
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 13
+    },
+    {
       "key": "KOENIG Gaspard",
       "value": 3,
       "rang": 13
@@ -75,17 +80,12 @@
     {
       "key": "EGGER Clara",
       "value": 2,
-      "rang": 15
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 2,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "MIGUET Nicolas",
       "value": 2,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "KUZMANOVIC Georges",

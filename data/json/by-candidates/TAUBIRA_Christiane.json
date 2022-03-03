@@ -1,7 +1,7 @@
 {
   "nom": "TAUBIRA Christiane",
-  "votes_confirmes": 181,
-  "votes_totaux": 181,
+  "votes_confirmes": 241,
+  "votes_totaux": 241,
   "rang": 14,
   "valide": false,
   "parrainages": [
@@ -1452,51 +1452,536 @@
       "circonscription": "Mauritanie",
       "departement": "Français de l'étranger",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "OLLIET Anne-Laure",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Ain",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "VALLIN Yvette",
+      "fonction": "Maire",
+      "circonscription": "Virieu-le-Grand",
+      "departement": "Ain",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DESJARDINS Lila",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Alpes-de-Haute-Provence",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LOUAHALA Ali-Patrick",
+      "fonction": "Maire",
+      "circonscription": "Gluiras",
+      "departement": "Ardèche",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MIZZI Michel",
+      "fonction": "Maire",
+      "circonscription": "Alboussière",
+      "departement": "Ardèche",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "OUDET Jocelyne Henriette",
+      "fonction": "Maire",
+      "circonscription": "Brécy-Brières",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "JOUSSEAUME Yannick",
+      "fonction": "Maire",
+      "circonscription": "Montaut",
+      "departement": "Ariège",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAMBERT François-Michel",
+      "fonction": "Député",
+      "circonscription": "10ème circonscription",
+      "departement": "Bouches-du-Rhône",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEDOUX Patrick",
+      "fonction": "Maire",
+      "circonscription": "Louvigny",
+      "departement": "Calvados",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MARIE-REINE SCIARD Joëlle",
+      "fonction": "Conseillère régionale",
+      "circonscription": "Nouvelle-Aquitaine",
+      "departement": "Charente-Maritime",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MAGLICA Céline",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Côte-d'Or",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PAGNY Gilles",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Côtes-d'Armor",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BONTOUX Géraud",
+      "fonction": "Maire",
+      "circonscription": "Montguers",
+      "departement": "Drôme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FOUGERAS Lionel",
+      "fonction": "Maire",
+      "circonscription": "Ballons",
+      "departement": "Drôme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GONELLA Barthélémy",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Finistère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "TREGUER Reun",
+      "fonction": "Maire",
+      "circonscription": "Tréouergat",
+      "departement": "Finistère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BENEZECH Patrick",
+      "fonction": "Maire",
+      "circonscription": "Mus",
+      "departement": "Gard",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DALINO Fabrice",
+      "fonction": "Maire",
+      "circonscription": "Montfort-sur-Meu",
+      "departement": "Ille-et-Vilaine",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "THÉBAULT Joseph",
+      "fonction": "Maire",
+      "circonscription": "Bédée",
+      "departement": "Ille-et-Vilaine",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BUSTOS Ludovic",
+      "fonction": "Maire",
+      "circonscription": "Poisat",
+      "departement": "Isère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MEHEUT Christelle",
+      "fonction": "Maire",
+      "circonscription": "Chantepérier",
+      "departement": "Isère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ODDON Marc",
+      "fonction": "Maire",
+      "circonscription": "Venon",
+      "departement": "Isère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RIVENS Sophie",
+      "fonction": "Maire",
+      "circonscription": "Les Adrets",
+      "departement": "Isère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BOST Roland",
+      "fonction": "Maire",
+      "circonscription": "Chenereilles",
+      "departement": "Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "POTET Christophe",
+      "fonction": "Maire",
+      "circonscription": "Lentigny",
+      "departement": "Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "ARBRUN Tiphaine",
+      "fonction": "Maire",
+      "circonscription": "La Chevallerais",
+      "departement": "Loire-Atlantique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BESNIER Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Petit-Mars",
+      "departement": "Loire-Atlantique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "THIRIET François",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Loire-Atlantique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "FIGEAC Mireille",
+      "fonction": "Maire",
+      "circonscription": "Gindou",
+      "departement": "Lot",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GALVANE Michel",
+      "fonction": "Maire",
+      "circonscription": "Sainte-Suzanne-et-Chammes",
+      "departement": "Mayenne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CONSTANT Olivier",
+      "fonction": "Maire",
+      "circonscription": "Silfiac",
+      "departement": "Morbihan",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARIVAIN Joël",
+      "fonction": "Maire",
+      "circonscription": "Kerfourn",
+      "departement": "Morbihan",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MATHI Chris",
+      "fonction": "Maire",
+      "circonscription": "Breidenbach",
+      "departement": "Moselle",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BÉZÉ Stéphanie",
+      "fonction": "Conseillère départementale",
+      "circonscription": "",
+      "departement": "Nièvre",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BRUYANT Jean",
+      "fonction": "Maire",
+      "circonscription": "Bailleul-lès-Pernes",
+      "departement": "Pas-de-Calais",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MANSANA Jocelyne",
+      "fonction": "Maire",
+      "circonscription": "La Godivelle",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "VIDAILLET Jocelyne",
+      "fonction": "Maire",
+      "circonscription": "Bareilles",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PAPERIN Philippe",
+      "fonction": "Maire",
+      "circonscription": "Amanzé",
+      "departement": "Saône-et-Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BLANGY Jean-Marc",
+      "fonction": "Maire",
+      "circonscription": "Albiez-le-Jeune",
+      "departement": "Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "GARBEROGLIO Bettina",
+      "fonction": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Talloires-Montmin",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LETONDAL Vincent",
+      "fonction": "Maire",
+      "circonscription": "Habère-Poche",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GUILLOT Christophe",
+      "fonction": "Maire",
+      "circonscription": "Val en Vignes",
+      "departement": "Deux-Sèvres",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "BOULLIAT Martine",
+      "fonction": "Maire",
+      "circonscription": "Nomexy",
+      "departement": "Vosges",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAPIN Jim",
+      "fonction": "Conseiller régional",
+      "circonscription": "Guadeloupe",
+      "departement": "Guadeloupe",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DUNON Rosalie",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Martinique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "TAUREL Monette",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Martinique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "TINOT Marie-Frantz",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Martinique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ARON Roger",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHAMBAUD Aïssatou",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHARLES Sophie",
+      "fonction": "Maire",
+      "circonscription": "Saint-Laurent-du-Maroni",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHONG-SIT Boris",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DÉSERT Pierre",
+      "fonction": "Maire",
+      "circonscription": "Régina",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "DUCLONA-CONSTANT Bernadette",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LONG-HIM-NAM Serge",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "STEENWINKEL Tiarrah",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "TANI Mirta",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "TROCHIMARA Sandra",
+      "fonction": "Maire",
+      "circonscription": "Cayenne",
+      "departement": "Guyane",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DAGORT Jean-Louis",
+      "fonction": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
+      "circonscription": "",
+      "departement": "Saint-Pierre-et-Miquelon",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "ADJOVI ÉPOUSE AGBO Josiane",
+      "fonction": "Présidente du conseil consulaire",
+      "circonscription": "Bénin",
+      "departement": "Français de l'étranger",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SILVE Arthur",
+      "fonction": "Président du conseil consulaire",
+      "circonscription": "Canada - 3e circonscription",
+      "departement": "Français de l'étranger",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 181,
+      "total": 241,
       "valeurs": [
         {
           "key": "M.",
-          "value": 125,
+          "value": 160,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 56,
+          "value": 81,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 181,
+      "total": 241,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 114,
+          "value": 150,
           "rang": 1
         },
         {
           "key": "Conseiller.e départemental.e",
-          "value": 25,
+          "value": 32,
           "rang": 2
         },
         {
           "key": "Conseiller.e régional.e",
-          "value": 22,
+          "value": 24,
           "rang": 3
         },
         {
           "key": "Membre d'une assemblée d'une collectivité territoriale d'outre-mer à statut particulier",
-          "value": 8,
+          "value": 19,
           "rang": 4
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 4,
+          "value": 5,
           "rang": 5
+        },
+        {
+          "key": "Président du conseil consulaire",
+          "value": 2,
+          "rang": 6
         },
         {
           "key": "Président.e d'un EPCI à fiscalité propre",
@@ -1504,49 +1989,49 @@
           "rang": 6
         },
         {
+          "key": "Présidente du conseil consulaire",
+          "value": 2,
+          "rang": 6
+        },
+        {
           "key": "Conseiller à l'Assemblée des Français de l'étranger",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Conseiller.e métropolitain.e de Lyon",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Conseillère à l'Assemblée des Français de l'étranger",
           "value": 1,
-          "rang": 7
+          "rang": 9
+        },
+        {
+          "key": "Député.e",
+          "value": 1,
+          "rang": 9
         },
         {
           "key": "Maire d'arrondissement",
           "value": 1,
-          "rang": 7
-        },
-        {
-          "key": "Président du conseil consulaire",
-          "value": 1,
-          "rang": 7
-        },
-        {
-          "key": "Présidente du conseil consulaire",
-          "value": 1,
-          "rang": 7
+          "rang": 9
         }
       ]
     },
     "circonscription": {
-      "total": 146,
+      "total": 188,
       "valeurs": [
         {
-          "key": "Occitanie",
+          "key": "Nouvelle-Aquitaine",
           "value": 5,
           "rang": 1
         },
         {
-          "key": "Nouvelle-Aquitaine",
-          "value": 4,
-          "rang": 2
+          "key": "Occitanie",
+          "value": 5,
+          "rang": 1
         },
         {
           "key": "Auvergne-Rhône-Alpes",
@@ -1564,12 +2049,32 @@
           "rang": 3
         },
         {
+          "key": "10ème circonscription",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Albiez-le-Jeune",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Alboussière",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Alise-Sainte-Reine",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Allemagne, Autriche, Slovaquie, Slovénie, Suisse",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Amanzé",
           "value": 1,
           "rang": 6
         },
@@ -1614,12 +2119,27 @@
           "rang": 6
         },
         {
+          "key": "Bailleul-lès-Pernes",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Ballons",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Bannalec",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Barberaz",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Bareilles",
           "value": 1,
           "rang": 6
         },
@@ -1659,7 +2179,27 @@
           "rang": 6
         },
         {
+          "key": "Breidenbach",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Brennes",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Brécy-Brières",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Bédée",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Bénin",
           "value": 1,
           "rang": 6
         },
@@ -1674,7 +2214,17 @@
           "rang": 6
         },
         {
+          "key": "Canada - 3e circonscription",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Cancon",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Cayenne",
           "value": 1,
           "rang": 6
         },
@@ -1689,7 +2239,17 @@
           "rang": 6
         },
         {
+          "key": "Chantepérier",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Chaudeney-sur-Moselle",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Chenereilles",
           "value": 1,
           "rang": 6
         },
@@ -1759,6 +2319,16 @@
           "rang": 6
         },
         {
+          "key": "Gindou",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Gluiras",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Gouffern en Auge",
           "value": 1,
           "rang": 6
@@ -1774,7 +2344,17 @@
           "rang": 6
         },
         {
+          "key": "Guadeloupe",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Guipel",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Habère-Poche",
           "value": 1,
           "rang": 6
         },
@@ -1794,6 +2374,11 @@
           "rang": 6
         },
         {
+          "key": "Kerfourn",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Kermaria-Sulard",
           "value": 1,
           "rang": 6
@@ -1804,7 +2389,17 @@
           "rang": 6
         },
         {
+          "key": "La Chevallerais",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "La Force",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "La Godivelle",
           "value": 1,
           "rang": 6
         },
@@ -1830,6 +2425,16 @@
         },
         {
           "key": "Le Pont-de-Claix",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Lentigny",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Les Adrets",
           "value": 1,
           "rang": 6
         },
@@ -1860,6 +2465,11 @@
         },
         {
           "key": "Louslitges",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Louvigny",
           "value": 1,
           "rang": 6
         },
@@ -1919,6 +2529,21 @@
           "rang": 6
         },
         {
+          "key": "Montaut",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Montfort-sur-Meu",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Montguers",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Montigné-lès-Rairies",
           "value": 1,
           "rang": 6
@@ -1934,7 +2559,17 @@
           "rang": 6
         },
         {
+          "key": "Mus",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Ménoire",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Nomexy",
           "value": 1,
           "rang": 6
         },
@@ -1969,12 +2604,22 @@
           "rang": 6
         },
         {
+          "key": "Petit-Mars",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Pierrefitte-Nestalas",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Pissos",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Poisat",
           "value": 1,
           "rang": 6
         },
@@ -2005,6 +2650,11 @@
         },
         {
           "key": "Ronvaux",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Régina",
           "value": 1,
           "rang": 6
         },
@@ -2054,6 +2704,11 @@
           "rang": 6
         },
         {
+          "key": "Saint-Laurent-du-Maroni",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Saint-Malo-de-Guersac",
           "value": 1,
           "rang": 6
@@ -2089,12 +2744,22 @@
           "rang": 6
         },
         {
+          "key": "Sainte-Suzanne-et-Chammes",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Salmaise",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Sansan",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Silfiac",
           "value": 1,
           "rang": 6
         },
@@ -2139,12 +2804,27 @@
           "rang": 6
         },
         {
+          "key": "Talloires-Montmin",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Tarascon-sur-Ariège",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Tournoisis",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Tréouergat",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Val en Vignes",
           "value": 1,
           "rang": 6
         },
@@ -2164,12 +2844,22 @@
           "rang": 6
         },
         {
+          "key": "Venon",
+          "value": 1,
+          "rang": 6
+        },
+        {
           "key": "Villerbon",
           "value": 1,
           "rang": 6
         },
         {
           "key": "Villetaneuse",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Virieu-le-Grand",
           "value": 1,
           "rang": 6
         },
@@ -2206,402 +2896,437 @@
       ]
     },
     "departement": {
-      "total": 181,
+      "total": 241,
       "valeurs": [
         {
-          "key": "Côte-d'Or",
-          "value": 11,
+          "key": "Guyane",
+          "value": 19,
           "rang": 1
+        },
+        {
+          "key": "Côte-d'Or",
+          "value": 12,
+          "rang": 2
         },
         {
           "key": "Saône-et-Loire",
-          "value": 11,
-          "rang": 1
-        },
-        {
-          "key": "Guyane",
-          "value": 9,
-          "rang": 3
+          "value": 12,
+          "rang": 2
         },
         {
           "key": "Nièvre",
-          "value": 7,
+          "value": 8,
           "rang": 4
         },
         {
-          "key": "Calvados",
-          "value": 5,
+          "key": "Isère",
+          "value": 7,
           "rang": 5
+        },
+        {
+          "key": "Loire-Atlantique",
+          "value": 7,
+          "rang": 5
+        },
+        {
+          "key": "Calvados",
+          "value": 6,
+          "rang": 7
+        },
+        {
+          "key": "Français de l'étranger",
+          "value": 6,
+          "rang": 7
+        },
+        {
+          "key": "Ille-et-Vilaine",
+          "value": 6,
+          "rang": 7
+        },
+        {
+          "key": "Drôme",
+          "value": 5,
+          "rang": 10
+        },
+        {
+          "key": "Finistère",
+          "value": 5,
+          "rang": 10
         },
         {
           "key": "Rhône",
           "value": 5,
-          "rang": 5
+          "rang": 10
         },
         {
           "key": "Seine-Saint-Denis",
           "value": 5,
-          "rang": 5
+          "rang": 10
         },
         {
-          "key": "Français de l'étranger",
+          "key": "Ain",
           "value": 4,
-          "rang": 8
+          "rang": 14
+        },
+        {
+          "key": "Côtes-d'Armor",
+          "value": 4,
+          "rang": 14
         },
         {
           "key": "Gers",
           "value": 4,
-          "rang": 8
+          "rang": 14
         },
         {
-          "key": "Ille-et-Vilaine",
+          "key": "Lot",
           "value": 4,
-          "rang": 8
+          "rang": 14
         },
         {
-          "key": "Loire-Atlantique",
+          "key": "Martinique",
           "value": 4,
-          "rang": 8
+          "rang": 14
+        },
+        {
+          "key": "Puy-de-Dôme",
+          "value": 4,
+          "rang": 14
         },
         {
           "key": "Allier",
           "value": 3,
-          "rang": 12
+          "rang": 20
+        },
+        {
+          "key": "Alpes-de-Haute-Provence",
+          "value": 3,
+          "rang": 20
+        },
+        {
+          "key": "Ardèche",
+          "value": 3,
+          "rang": 20
+        },
+        {
+          "key": "Ariège",
+          "value": 3,
+          "rang": 20
         },
         {
           "key": "Aude",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
-          "key": "Côtes-d'Armor",
+          "key": "Bouches-du-Rhône",
           "value": 3,
-          "rang": 12
+          "rang": 20
+        },
+        {
+          "key": "Charente-Maritime",
+          "value": 3,
+          "rang": 20
         },
         {
           "key": "Dordogne",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Doubs",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
-          "key": "Drôme",
+          "key": "Gard",
           "value": 3,
-          "rang": 12
-        },
-        {
-          "key": "Finistère",
-          "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Haute-Garonne",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
-          "key": "Isère",
+          "key": "Hautes-Pyrénées",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Jura",
           "value": 3,
-          "rang": 12
+          "rang": 20
+        },
+        {
+          "key": "Loire",
+          "value": 3,
+          "rang": 20
         },
         {
           "key": "Loiret",
           "value": 3,
-          "rang": 12
-        },
-        {
-          "key": "Lot",
-          "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Maine-et-Loire",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
           "key": "Orne",
           "value": 3,
-          "rang": 12
+          "rang": 20
         },
         {
-          "key": "Puy-de-Dôme",
-          "value": 3,
-          "rang": 12
-        },
-        {
-          "key": "Ain",
+          "key": "Ardennes",
           "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Alpes-de-Haute-Provence",
-          "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Ariège",
-          "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Bouches-du-Rhône",
-          "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Charente-Maritime",
-          "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Corrèze",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Creuse",
           "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Gard",
-          "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Gironde",
           "value": 2,
-          "rang": 28
+          "rang": 38
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 2,
+          "rang": 38
         },
         {
           "key": "Haute-Saône",
           "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Hautes-Pyrénées",
-          "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Hérault",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Loir-et-Cher",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Lot-et-Garonne",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Manche",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Meuse",
           "value": 2,
-          "rang": 28
+          "rang": 38
+        },
+        {
+          "key": "Morbihan",
+          "value": 2,
+          "rang": 38
+        },
+        {
+          "key": "Moselle",
+          "value": 2,
+          "rang": 38
+        },
+        {
+          "key": "Pas-de-Calais",
+          "value": 2,
+          "rang": 38
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 2,
-          "rang": 28
+          "rang": 38
+        },
+        {
+          "key": "Savoie",
+          "value": 2,
+          "rang": 38
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Vendée",
           "value": 2,
-          "rang": 28
+          "rang": 38
         },
         {
           "key": "Vienne",
           "value": 2,
-          "rang": 28
+          "rang": 38
+        },
+        {
+          "key": "Vosges",
+          "value": 2,
+          "rang": 38
         },
         {
           "key": "Yonne",
           "value": 2,
-          "rang": 28
-        },
-        {
-          "key": "Ardennes",
-          "value": 1,
-          "rang": 49
-        },
-        {
-          "key": "Ardèche",
-          "value": 1,
-          "rang": 49
+          "rang": 38
         },
         {
           "key": "Aube",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Cantal",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 49
+          "rang": 59
+        },
+        {
+          "key": "Deux-Sèvres",
+          "value": 1,
+          "rang": 59
+        },
+        {
+          "key": "Guadeloupe",
+          "value": 1,
+          "rang": 59
         },
         {
           "key": "Haute-Loire",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Haute-Marne",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Hauts-de-Seine",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "La Réunion",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
-          "key": "Loire",
+          "key": "Mayenne",
           "value": 1,
-          "rang": 49
-        },
-        {
-          "key": "Martinique",
-          "value": 1,
-          "rang": 49
-        },
-        {
-          "key": "Moselle",
-          "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
-          "key": "Pas-de-Calais",
+          "key": "Saint-Pierre-et-Miquelon",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 49
-        },
-        {
-          "key": "Savoie",
-          "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Seine-Maritime",
           "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 49
-        },
-        {
-          "key": "Vosges",
-          "value": 1,
-          "rang": 49
+          "rang": 59
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 49
+          "rang": 59
         }
       ]
     },
     "date": {
-      "total": 181,
+      "total": 241,
       "valeurs": [
+        {
+          "key": "2022-03-03",
+          "value": 60,
+          "rang": 1
+        },
         {
           "key": "2022-03-01",
           "value": 53,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-08",
           "value": 28,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-15",
           "value": 26,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-24",
           "value": 24,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-22",
           "value": 18,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-17",
           "value": 13,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-10",
           "value": 11,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "2022-02-03",
           "value": 8,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "nom": "Morbihan",
-  "total": 55,
+  "total": 60,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -9,7 +9,7 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 8,
+      "value": 9,
       "rang": 2
     },
     {
@@ -48,6 +48,16 @@
       "rang": 7
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 7
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 7
+    },
+    {
       "key": "ZEMMOUR Éric",
       "value": 2,
       "rang": 7
@@ -55,7 +65,7 @@
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 11
+      "rang": 13
     }
   ]
 }

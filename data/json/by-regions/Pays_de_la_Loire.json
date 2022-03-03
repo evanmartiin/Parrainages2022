@@ -1,84 +1,94 @@
 {
   "nom": "Pays de la Loire",
-  "total": 347,
+  "total": 394,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 96,
+      "value": 102,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 75,
+      "value": 87,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 44,
+      "value": 45,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 32,
+      "value": 34,
       "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 24,
+      "value": 25,
       "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 13,
+      "value": 19,
       "rang": 6
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 15,
+      "rang": 7
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 14,
+      "rang": 8
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 12,
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 12,
-      "rang": 7
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 10,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LASSALLE Jean",
       "value": 10,
-      "rang": 8
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 10,
-      "rang": 8
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 7,
       "rang": 11
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 3,
-      "rang": 12
-    },
-    {
       "key": "ASSELINEAU François",
-      "value": 3,
+      "value": 4,
       "rang": 12
     },
     {
       "key": "POUTOU Philippe",
-      "value": 2,
+      "value": 4,
+      "rang": 12
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 3,
       "rang": 14
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 16
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 16
+    },
+    {
+      "key": "MEURICE Guillaume",
       "value": 1,
       "rang": 16
     },

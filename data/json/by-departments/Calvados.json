@@ -1,45 +1,45 @@
 {
   "nom": "Calvados",
-  "total": 177,
+  "total": 193,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 34,
+      "value": 37,
       "rang": 1
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 30,
+      "rang": 2
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 28,
-      "rang": 2
+      "rang": 3
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 28,
-      "rang": 2
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 15,
+      "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 13,
-      "rang": 4
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
       "rang": 5
     },
     {
       "key": "JADOT Yannick",
       "value": 12,
-      "rang": 5
+      "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 11,
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 9,
-      "rang": 7
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 8,
       "rang": 8
     },
     {
@@ -49,18 +49,18 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 5,
+      "value": 6,
+      "rang": 10
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 6,
       "rang": 10
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 5,
-      "rang": 10
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 5,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "ASSELINEAU François",
@@ -78,9 +78,19 @@
       "rang": 14
     },
     {
+      "key": "CHICHE Arnaud",
+      "value": 2,
+      "rang": 16
+    },
+    {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 16
+      "rang": 17
+    },
+    {
+      "key": "WAECHTER Antoine",
+      "value": 1,
+      "rang": 17
     }
   ]
 }

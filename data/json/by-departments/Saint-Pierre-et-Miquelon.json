@@ -1,16 +1,26 @@
 {
   "nom": "Saint-Pierre-et-Miquelon",
-  "total": 4,
+  "total": 8,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 2,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 4,
       "rang": 1
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
+      "key": "MACRON Emmanuel",
       "value": 2,
-      "rang": 1
+      "rang": 2
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 1,
+      "rang": 3
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 3
     }
   ]
 }

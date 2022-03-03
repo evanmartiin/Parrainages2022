@@ -1,8 +1,8 @@
 {
   "nom": "MARTINEZ Antoine",
-  "votes_confirmes": 12,
-  "votes_totaux": 12,
-  "rang": 21,
+  "votes_confirmes": 13,
+  "votes_totaux": 13,
+  "rang": 22,
   "valide": false,
   "parrainages": [
     {
@@ -100,15 +100,23 @@
       "circonscription": "Avon-la-Pèze",
       "departement": "Aube",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "JOLY Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Consolation-Maisonnettes",
+      "departement": "Doubs",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 12,
+      "total": 13,
       "valeurs": [
         {
           "key": "M.",
-          "value": 11,
+          "value": 12,
           "rang": 1
         },
         {
@@ -119,17 +127,17 @@
       ]
     },
     "fonction": {
-      "total": 12,
+      "total": 13,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 12,
+          "value": 13,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 12,
+      "total": 13,
       "valeurs": [
         {
           "key": "Avon-la-Pèze",
@@ -143,6 +151,11 @@
         },
         {
           "key": "Châteney",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Consolation-Maisonnettes",
           "value": 1,
           "rang": 1
         },
@@ -194,12 +207,17 @@
       ]
     },
     "departement": {
-      "total": 12,
+      "total": 13,
       "valeurs": [
         {
           "key": "Aube",
           "value": 3,
           "rang": 1
+        },
+        {
+          "key": "Doubs",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Haute-Saône",
@@ -209,42 +227,37 @@
         {
           "key": "Cantal",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Charente-Maritime",
           "value": 1,
-          "rang": 3
-        },
-        {
-          "key": "Doubs",
-          "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Gironde",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Haute-Savoie",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 3
+          "rang": 4
         }
       ]
     },
     "date": {
-      "total": 12,
+      "total": 13,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -273,6 +286,11 @@
         },
         {
           "key": "2022-03-01",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "2022-03-03",
           "value": 1,
           "rang": 4
         }

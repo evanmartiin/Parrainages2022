@@ -1,11 +1,16 @@
 {
   "nom": "Savoie",
-  "total": 72,
+  "total": 81,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 29,
+      "value": 30,
       "rang": 1
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 7,
+      "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -13,34 +18,29 @@
       "rang": 2
     },
     {
-      "key": "LE PEN Marine",
-      "value": 5,
-      "rang": 3
+      "key": "MACRON Emmanuel",
+      "value": 6,
+      "rang": 4
     },
     {
-      "key": "MACRON Emmanuel",
-      "value": 5,
-      "rang": 3
+      "key": "ZEMMOUR Éric",
+      "value": 6,
+      "rang": 4
     },
     {
       "key": "JADOT Yannick",
       "value": 4,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "KOENIG Gaspard",
       "value": 4,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "LASSALLE Jean",
       "value": 4,
-      "rang": 5
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 4,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "HIDALGO Anne",
@@ -48,34 +48,39 @@
       "rang": 9
     },
     {
+      "key": "MIGUET Nicolas",
+      "value": 2,
+      "rang": 10
+    },
+    {
       "key": "ROUSSEL Fabien",
+      "value": 2,
+      "rang": 10
+    },
+    {
+      "key": "TAUBIRA Christiane",
       "value": 2,
       "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 1,
-      "rang": 11
+      "rang": 13
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 11
+      "rang": 13
     },
     {
-      "key": "MIGUET Nicolas",
+      "key": "POUTOU Philippe",
       "value": 1,
-      "rang": 11
+      "rang": 13
     },
     {
       "key": "ROCCA Martin",
       "value": 1,
-      "rang": 11
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 11
+      "rang": 13
     }
   ]
 }

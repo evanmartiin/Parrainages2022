@@ -1,8 +1,8 @@
 {
   "nom": "MEURICE Guillaume",
-  "votes_confirmes": 3,
-  "votes_totaux": 3,
-  "rang": 29,
+  "votes_confirmes": 6,
+  "votes_totaux": 6,
+  "rang": 28,
   "valide": false,
   "parrainages": [
     {
@@ -28,49 +28,88 @@
       "circonscription": "",
       "departement": "Somme",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "ISSANCHOU Stéphane",
+      "fonction": "Maire",
+      "circonscription": "Publy",
+      "departement": "Jura",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "NYS Laëtitia",
+      "fonction": "Maire déléguée d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Vallons-de-l'Erdre",
+      "departement": "Loire-Atlantique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "HERRMANN Marc",
+      "fonction": "Maire",
+      "circonscription": "Furdenheim",
+      "departement": "Bas-Rhin",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
           "key": "M.",
-          "value": 2,
+          "value": 4,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
-          "key": "Conseiller.e départemental.e",
-          "value": 1,
-          "rang": 1
-        },
-        {
           "key": "Maire",
-          "value": 1,
+          "value": 3,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 2,
+          "rang": 2
+        },
+        {
+          "key": "Conseiller.e départemental.e",
           "value": 1,
-          "rang": 1
+          "rang": 3
         }
       ]
     },
     "circonscription": {
-      "total": 2,
+      "total": 5,
       "valeurs": [
         {
+          "key": "Furdenheim",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "La Hague",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Publy",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Vallons-de-l'Erdre",
           "value": 1,
           "rang": 1
         },
@@ -82,10 +121,25 @@
       ]
     },
     "departement": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
         {
+          "key": "Bas-Rhin",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Isère",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Jura",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Loire-Atlantique",
           "value": 1,
           "rang": 1
         },
@@ -102,22 +156,27 @@
       ]
     },
     "date": {
-      "total": 3,
+      "total": 6,
       "valeurs": [
+        {
+          "key": "2022-03-03",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-24",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-03-01",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

@@ -1,30 +1,30 @@
 {
   "nom": "Nouvelle-Aquitaine",
-  "total": 1301,
+  "total": 1366,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 265,
+      "value": 277,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 156,
+      "value": 170,
       "rang": 2
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 146,
+      "key": "PÉCRESSE Valérie",
+      "value": 150,
       "rang": 3
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 146,
-      "rang": 3
+      "key": "LASSALLE Jean",
+      "value": 147,
+      "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 105,
+      "value": 107,
       "rang": 5
     },
     {
@@ -34,17 +34,17 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 71,
+      "value": 73,
       "rang": 7
     },
     {
       "key": "POUTOU Philippe",
-      "value": 57,
+      "value": 68,
       "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 51,
+      "value": 55,
       "rang": 9
     },
     {
@@ -54,12 +54,12 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 39,
+      "value": 47,
       "rang": 11
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 36,
+      "value": 37,
       "rang": 12
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 19,
+      "value": 21,
       "rang": 14
     },
     {
@@ -84,18 +84,18 @@
     },
     {
       "key": "EGGER Clara",
-      "value": 4,
+      "value": 6,
       "rang": 17
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 4,
-      "rang": 17
+      "value": 5,
+      "rang": 18
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 4,
-      "rang": 17
+      "rang": 19
     },
     {
       "key": "ROCCA Martin",
@@ -139,6 +139,11 @@
     },
     {
       "key": "MONTSERRAT Paul",
+      "value": 1,
+      "rang": 23
+    },
+    {
+      "key": "PHILIPPE Edouard",
       "value": 1,
       "rang": 23
     },

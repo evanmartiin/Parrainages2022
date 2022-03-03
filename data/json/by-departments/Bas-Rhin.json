@@ -1,15 +1,15 @@
 {
   "nom": "Bas-Rhin",
-  "total": 126,
+  "total": 140,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 37,
+      "value": 39,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 26,
+      "value": 28,
       "rang": 2
     },
     {
@@ -19,23 +19,23 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 11,
+      "value": 12,
       "rang": 4
     },
     {
       "key": "LE PEN Marine",
-      "value": 9,
+      "value": 11,
       "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 6,
+      "value": 10,
       "rang": 6
     },
     {
       "key": "LASSALLE Jean",
-      "value": 6,
-      "rang": 6
+      "value": 7,
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -63,29 +63,34 @@
       "rang": 11
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 11
+    },
+    {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "CAHEZ Thierry",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "KAZIB Anasse",
       "value": 1,
-      "rang": 13
+      "rang": 14
+    },
+    {
+      "key": "MEURICE Guillaume",
+      "value": 1,
+      "rang": 14
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 13
+      "rang": 14
     }
   ]
 }

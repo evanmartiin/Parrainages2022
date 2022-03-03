@@ -1,6 +1,6 @@
 {
   "nom": "Mayotte",
-  "total": 31,
+  "total": 36,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -9,13 +9,18 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 8,
+      "value": 11,
       "rang": 2
     },
     {
       "key": "LE PEN Marine",
-      "value": 1,
+      "value": 2,
       "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 1,
+      "rang": 4
     }
   ]
 }

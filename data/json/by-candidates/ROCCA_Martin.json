@@ -1,8 +1,8 @@
 {
   "nom": "ROCCA Martin",
-  "votes_confirmes": 8,
-  "votes_totaux": 8,
-  "rang": 24,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
+  "rang": 23,
   "valide": false,
   "parrainages": [
     {
@@ -68,11 +68,19 @@
       "circonscription": "Pamplie",
       "departement": "Deux-Sèvres",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CARDONA Corinne",
+      "fonction": "Maire",
+      "circonscription": "Poleymieux-au-Mont-d'Or",
+      "departement": "Rhône",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
@@ -81,23 +89,23 @@
         },
         {
           "key": "Mme",
-          "value": 2,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 8,
+          "value": 9,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Castelculier",
@@ -130,6 +138,11 @@
           "rang": 1
         },
         {
+          "key": "Poleymieux-au-Mont-d'Or",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Saint-Germain-de-Joux",
           "value": 1,
           "rang": 1
@@ -142,7 +155,7 @@
       ]
     },
     "departement": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "Ain",
@@ -175,6 +188,11 @@
           "rang": 1
         },
         {
+          "key": "Rhône",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Savoie",
           "value": 1,
           "rang": 1
@@ -187,7 +205,7 @@
       ]
     },
     "date": {
-      "total": 8,
+      "total": 9,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -206,6 +224,11 @@
         },
         {
           "key": "2022-02-15",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "2022-03-03",
           "value": 1,
           "rang": 2
         }

@@ -1,8 +1,8 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 27,
-  "votes_totaux": 27,
-  "rang": 20,
+  "votes_confirmes": 35,
+  "votes_totaux": 35,
+  "rang": 19,
   "valide": false,
   "parrainages": [
     {
@@ -220,15 +220,79 @@
       "circonscription": "Grisy-les-Plâtres",
       "departement": "Val-d'Oise",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BERTRAND Marc",
+      "fonction": "Maire",
+      "circonscription": "Remilly-les-Pothées",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LALONDE Loïc",
+      "fonction": "Maire",
+      "circonscription": "Saint-Pierremont",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MALCUIT Etienne",
+      "fonction": "Maire",
+      "circonscription": "La Ferté-sur-Chiers",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VAIRY Lionel Roger",
+      "fonction": "Maire",
+      "circonscription": "Olizy-Primat",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ARNOULD Etienne",
+      "fonction": "Maire",
+      "circonscription": "Chemillé-sur-Indrois",
+      "departement": "Indre-et-Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LÉVEILLÉ Philippe",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Écouché-les-Vallées",
+      "departement": "Orne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BASTIEN Gérard",
+      "fonction": "Maire",
+      "circonscription": "Saint-Jean-en-Val",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GOGNY Christian",
+      "fonction": "Maire",
+      "circonscription": "Aillon-le-Vieux",
+      "departement": "Savoie",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "M.",
-          "value": 22,
+          "value": 30,
           "rang": 1
         },
         {
@@ -239,25 +303,35 @@
       ]
     },
     "fonction": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 26,
+          "value": 33,
           "rang": 1
         },
         {
           "key": "Conseiller.e départemental.e",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 26,
+      "total": 34,
       "valeurs": [
         {
           "key": "Abaucourt-Hautecourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Aillon-le-Vieux",
           "value": 1,
           "rang": 1
         },
@@ -278,6 +352,11 @@
         },
         {
           "key": "Campagne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Chemillé-sur-Indrois",
           "value": 1,
           "rang": 1
         },
@@ -322,6 +401,11 @@
           "rang": 1
         },
         {
+          "key": "La Ferté-sur-Chiers",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "La Lande-Saint-Siméon",
           "value": 1,
           "rang": 1
@@ -357,7 +441,17 @@
           "rang": 1
         },
         {
+          "key": "Olizy-Primat",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Puisieux-et-Clanlieu",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Remilly-les-Pothées",
           "value": 1,
           "rang": 1
         },
@@ -368,6 +462,16 @@
         },
         {
           "key": "Saint-Félix-de-Foncaude",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Jean-en-Val",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Pierremont",
           "value": 1,
           "rang": 1
         },
@@ -385,131 +489,151 @@
           "key": "Ygos-Saint-Saturnin",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Écouché-les-Vallées",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
-          "key": "Aisne",
-          "value": 2,
-          "rang": 1
-        },
-        {
-          "key": "Eure",
-          "value": 2,
-          "rang": 1
-        },
-        {
-          "key": "Haute-Saône",
-          "value": 2,
+          "key": "Ardennes",
+          "value": 4,
           "rang": 1
         },
         {
           "key": "Orne",
+          "value": 3,
+          "rang": 2
+        },
+        {
+          "key": "Aisne",
           "value": 2,
-          "rang": 1
+          "rang": 3
+        },
+        {
+          "key": "Eure",
+          "value": 2,
+          "rang": 3
+        },
+        {
+          "key": "Haute-Saône",
+          "value": 2,
+          "rang": 3
+        },
+        {
+          "key": "Savoie",
+          "value": 2,
+          "rang": 3
         },
         {
           "key": "Ain",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Aveyron",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Gironde",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Haute-Marne",
           "value": 1,
-          "rang": 5
+          "rang": 7
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 1,
+          "rang": 7
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Lozère",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Manche",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 5
+          "rang": 7
+        },
+        {
+          "key": "Puy-de-Dôme",
+          "value": 1,
+          "rang": 7
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 5
-        },
-        {
-          "key": "Savoie",
-          "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Val-d'Oise",
           "value": 1,
-          "rang": 5
+          "rang": 7
         },
         {
           "key": "Vosges",
           "value": 1,
-          "rang": 5
+          "rang": 7
         }
       ]
     },
     "date": {
-      "total": 27,
+      "total": 35,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -517,24 +641,29 @@
           "rang": 1
         },
         {
+          "key": "2022-03-03",
+          "value": 8,
+          "rang": 2
+        },
+        {
           "key": "2022-02-08",
           "value": 7,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-24",
           "value": 6,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

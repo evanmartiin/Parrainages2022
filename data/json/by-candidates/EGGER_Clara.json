@@ -1,8 +1,8 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 28,
-  "votes_totaux": 28,
-  "rang": 19,
+  "votes_confirmes": 34,
+  "votes_totaux": 34,
+  "rang": 20,
   "valide": false,
   "parrainages": [
     {
@@ -228,30 +228,78 @@
       "circonscription": "Xocourt",
       "departement": "Moselle",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CAILLAUD Monique",
+      "fonction": "Maire",
+      "circonscription": "Thauron",
+      "departement": "Creuse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHEYROU Philippe",
+      "fonction": "Maire",
+      "circonscription": "Mauzens-et-Miremont",
+      "departement": "Dordogne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "HURLOT Juliette",
+      "fonction": "Maire",
+      "circonscription": "Clitourps",
+      "departement": "Manche",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROGEAU Didier",
+      "fonction": "Maire",
+      "circonscription": "Wargnies-le-Petit",
+      "departement": "Nord",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "PELLE-BOUDON Pierre-Yves",
+      "fonction": "Maire",
+      "circonscription": "Cenves",
+      "departement": "Rhône",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "PLAGNAT-CANTOREGGI Pauline",
+      "fonction": "Maire",
+      "circonscription": "Machilly",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 28,
+      "total": 34,
       "valeurs": [
         {
           "key": "M.",
-          "value": 23,
+          "value": 26,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 5,
+          "value": 8,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 28,
+      "total": 34,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 26,
+          "value": 32,
           "rang": 1
         },
         {
@@ -267,7 +315,7 @@
       ]
     },
     "circonscription": {
-      "total": 28,
+      "total": 34,
       "valeurs": [
         {
           "key": "Aiglun",
@@ -291,6 +339,16 @@
         },
         {
           "key": "Bulson",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Cenves",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Clitourps",
           "value": 1,
           "rang": 1
         },
@@ -345,6 +403,16 @@
           "rang": 1
         },
         {
+          "key": "Machilly",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Mauzens-et-Miremont",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Montreuillon",
           "value": 1,
           "rang": 1
@@ -380,6 +448,11 @@
           "rang": 1
         },
         {
+          "key": "Thauron",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Thizay",
           "value": 1,
           "rang": 1
@@ -391,6 +464,11 @@
         },
         {
           "key": "Vernon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Wargnies-le-Petit",
           "value": 1,
           "rang": 1
         },
@@ -412,8 +490,13 @@
       ]
     },
     "departement": {
-      "total": 28,
+      "total": 34,
       "valeurs": [
+        {
+          "key": "Creuse",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Indre-et-Loire",
           "value": 3,
@@ -422,112 +505,122 @@
         {
           "key": "Aisne",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Ardennes",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
-          "key": "Creuse",
+          "key": "Dordogne",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Drôme",
           "value": 2,
-          "rang": 2
+          "rang": 3
+        },
+        {
+          "key": "Nord",
+          "value": 2,
+          "rang": 3
         },
         {
           "key": "Alpes-Maritimes",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 6
-        },
-        {
-          "key": "Dordogne",
-          "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Français de l'étranger",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Manche",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Nièvre",
           "value": 1,
-          "rang": 6
-        },
-        {
-          "key": "Nord",
-          "value": 1,
-          "rang": 6
+          "rang": 8
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 6
+          "rang": 8
+        },
+        {
+          "key": "Rhône",
+          "value": 1,
+          "rang": 8
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 6
+          "rang": 8
         }
       ]
     },
     "date": {
-      "total": 28,
+      "total": 34,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -540,34 +633,39 @@
           "rang": 1
         },
         {
+          "key": "2022-03-03",
+          "value": 6,
+          "rang": 1
+        },
+        {
           "key": "2022-03-01",
           "value": 4,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-03",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

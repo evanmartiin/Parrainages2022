@@ -1,8 +1,8 @@
 {
   "nom": "FORTANÉ Jean-Marc",
-  "votes_confirmes": 7,
-  "votes_totaux": 7,
-  "rang": 25,
+  "votes_confirmes": 9,
+  "votes_totaux": 9,
+  "rang": 23,
   "valide": false,
   "parrainages": [
     {
@@ -60,11 +60,27 @@
       "circonscription": "Alleyras",
       "departement": "Haute-Loire",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "GARAU Muriel",
+      "fonction": "Maire",
+      "circonscription": "Revest-des-Brousses",
+      "departement": "Alpes-de-Haute-Provence",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "FOUQUET Marie-Christine",
+      "fonction": "Maire",
+      "circonscription": "Ley",
+      "departement": "Moselle",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "M.",
@@ -73,23 +89,23 @@
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 3,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 7,
+          "value": 9,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Alleyras",
@@ -112,6 +128,16 @@
           "rang": 1
         },
         {
+          "key": "Ley",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Revest-des-Brousses",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Rouffignac-de-Sigoulès",
           "value": 1,
           "rang": 1
@@ -129,7 +155,7 @@
       ]
     },
     "departement": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "Haute-Loire",
@@ -138,6 +164,11 @@
         },
         {
           "key": "Ain",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Alpes-de-Haute-Provence",
           "value": 1,
           "rang": 2
         },
@@ -157,6 +188,11 @@
           "rang": 2
         },
         {
+          "key": "Moselle",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Pas-de-Calais",
           "value": 1,
           "rang": 2
@@ -164,7 +200,7 @@
       ]
     },
     "date": {
-      "total": 7,
+      "total": 9,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -177,9 +213,14 @@
           "rang": 2
         },
         {
+          "key": "2022-03-03",
+          "value": 2,
+          "rang": 2
+        },
+        {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 3
+          "rang": 4
         }
       ]
     }

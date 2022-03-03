@@ -1,10 +1,10 @@
 {
   "nom": "Puy-de-Dôme",
-  "total": 118,
+  "total": 133,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 21,
+      "value": 22,
       "rang": 1
     },
     {
@@ -13,49 +13,49 @@
       "rang": 2
     },
     {
-      "key": "ROUSSEL Fabien",
-      "value": 18,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 19,
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 16,
+      "key": "ROUSSEL Fabien",
+      "value": 18,
       "rang": 4
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 11,
+      "rang": 5
     },
     {
       "key": "LASSALLE Jean",
       "value": 10,
-      "rang": 5
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 8,
       "rang": 6
     },
     {
       "key": "JADOT Yannick",
-      "value": 7,
+      "value": 8,
       "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 5,
+      "value": 7,
       "rang": 8
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 4,
+      "rang": 9
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 9
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 3,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "THOUY Hélène",
       "value": 3,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -63,14 +63,29 @@
       "rang": 12
     },
     {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
-      "rang": 13
+      "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 12
     },
     {
-      "key": "LE PEN Marine",
+      "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 13
+      "rang": 14
+    },
+    {
+      "key": "KUZMANOVIC Georges",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 1,
+      "rang": 14
     }
   ]
 }

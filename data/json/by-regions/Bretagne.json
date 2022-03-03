@@ -1,20 +1,20 @@
 {
   "nom": "Bretagne",
-  "total": 355,
+  "total": 381,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 85,
+      "value": 91,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 70,
+      "value": 71,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 43,
+      "value": 45,
       "rang": 3
     },
     {
@@ -28,34 +28,34 @@
       "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 17,
+      "key": "POUTOU Philippe",
+      "value": 19,
       "rang": 6
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 16,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 18,
       "rang": 7
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 13,
+      "key": "ARTHAUD Nathalie",
+      "value": 17,
+      "rang": 8
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 17,
       "rang": 8
     },
     {
       "key": "LASSALLE Jean",
       "value": 10,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 10,
-      "rang": 9
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 10,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
@@ -63,27 +63,32 @@
       "rang": 12
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 3,
+      "rang": 13
+    },
+    {
       "key": "THOUY Hélène",
       "value": 3,
       "rang": 13
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 2,
-      "rang": 14
-    },
-    {
       "key": "KAZIB Anasse",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "KOENIG Gaspard",
       "value": 2,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 17
+    },
+    {
+      "key": "CHICHE Arnaud",
       "value": 1,
       "rang": 17
     },

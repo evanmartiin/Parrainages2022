@@ -1,7 +1,7 @@
 {
   "nom": "KAZIB Anasse",
-  "votes_confirmes": 144,
-  "votes_totaux": 144,
+  "votes_confirmes": 149,
+  "votes_totaux": 149,
   "rang": 15,
   "valide": false,
   "parrainages": [
@@ -1156,30 +1156,70 @@
       "circonscription": "Gez-ez-Angles",
       "departement": "Hautes-Pyrénées",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "KALANDADZE Marie-Françoise",
+      "fonction": "Maire",
+      "circonscription": "Alliat",
+      "departement": "Ariège",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DURAND Jacques",
+      "fonction": "Maire",
+      "circonscription": "Saint-Bauzély",
+      "departement": "Gard",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "OLIVEIRA SOARES Henri",
+      "fonction": "Maire",
+      "circonscription": "Saint-Cézert",
+      "departement": "Haute-Garonne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FOURNIE Philippe",
+      "fonction": "Maire",
+      "circonscription": "Saint-Aignan",
+      "departement": "Tarn-et-Garonne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "PESSEMESSE Amélie",
+      "fonction": "Maire",
+      "circonscription": "Buoux",
+      "departement": "Vaucluse",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 144,
+      "total": 149,
       "valeurs": [
         {
           "key": "M.",
-          "value": 111,
+          "value": 114,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 33,
+          "value": 35,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 144,
+      "total": 149,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 139,
+          "value": 144,
           "rang": 1
         },
         {
@@ -1190,7 +1230,7 @@
       ]
     },
     "circonscription": {
-      "total": 144,
+      "total": 149,
       "valeurs": [
         {
           "key": "Charny Orée de Puisaye",
@@ -1209,6 +1249,11 @@
         },
         {
           "key": "Albiès",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Alliat",
           "value": 1,
           "rang": 3
         },
@@ -1299,6 +1344,11 @@
         },
         {
           "key": "Bragayrac",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Buoux",
           "value": 1,
           "rang": 3
         },
@@ -1713,7 +1763,22 @@
           "rang": 3
         },
         {
+          "key": "Saint-Aignan",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Saint-Bauzély",
+          "value": 1,
+          "rang": 3
+        },
+        {
           "key": "Saint-Chamassy",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Saint-Cézert",
           "value": 1,
           "rang": 3
         },
@@ -1905,7 +1970,7 @@
       ]
     },
     "departement": {
-      "total": 144,
+      "total": 149,
       "valeurs": [
         {
           "key": "Gers",
@@ -1923,7 +1988,17 @@
           "rang": 3
         },
         {
+          "key": "Ariège",
+          "value": 8,
+          "rang": 4
+        },
+        {
           "key": "Dordogne",
+          "value": 8,
+          "rang": 4
+        },
+        {
+          "key": "Haute-Garonne",
           "value": 8,
           "rang": 4
         },
@@ -1936,16 +2011,6 @@
           "key": "Pyrénées-Atlantiques",
           "value": 8,
           "rang": 4
-        },
-        {
-          "key": "Ariège",
-          "value": 7,
-          "rang": 7
-        },
-        {
-          "key": "Haute-Garonne",
-          "value": 7,
-          "rang": 7
         },
         {
           "key": "Aude",
@@ -1988,6 +2053,11 @@
           "rang": 15
         },
         {
+          "key": "Gard",
+          "value": 3,
+          "rang": 15
+        },
+        {
           "key": "Meuse",
           "value": 3,
           "rang": 15
@@ -1995,142 +2065,142 @@
         {
           "key": "Aube",
           "value": 2,
-          "rang": 18
+          "rang": 19
         },
         {
           "key": "Corrèze",
           "value": 2,
-          "rang": 18
+          "rang": 19
         },
         {
           "key": "Côte-d'Or",
           "value": 2,
-          "rang": 18
+          "rang": 19
         },
         {
           "key": "Côtes-d'Armor",
           "value": 2,
-          "rang": 18
+          "rang": 19
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 18
-        },
-        {
-          "key": "Gard",
-          "value": 2,
-          "rang": 18
+          "rang": 19
         },
         {
           "key": "Jura",
           "value": 2,
-          "rang": 18
+          "rang": 19
+        },
+        {
+          "key": "Tarn-et-Garonne",
+          "value": 2,
+          "rang": 19
         },
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Creuse",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Gironde",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Hérault",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Lot-et-Garonne",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Lozère",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Savoie",
           "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Tarn",
           "value": 1,
-          "rang": 25
-        },
-        {
-          "key": "Tarn-et-Garonne",
-          "value": 1,
-          "rang": 25
+          "rang": 26
         },
         {
           "key": "Var",
           "value": 1,
-          "rang": 25
+          "rang": 26
+        },
+        {
+          "key": "Vaucluse",
+          "value": 1,
+          "rang": 26
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 25
+          "rang": 26
         }
       ]
     },
     "date": {
-      "total": 144,
+      "total": 149,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -2168,14 +2238,19 @@
           "rang": 6
         },
         {
+          "key": "2022-03-03",
+          "value": 5,
+          "rang": 8
+        },
+        {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 9
+          "rang": 10
         }
       ]
     }

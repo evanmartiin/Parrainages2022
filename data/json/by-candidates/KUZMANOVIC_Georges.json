@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 45,
-  "votes_totaux": 45,
+  "votes_confirmes": 46,
+  "votes_totaux": 46,
   "rang": 18,
   "valide": false,
   "parrainages": [
@@ -364,15 +364,23 @@
       "circonscription": "La Réunion",
       "departement": "La Réunion",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "CROU Pascal",
+      "fonction": "Maire",
+      "circonscription": "Passy",
+      "departement": "Yonne",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 45,
+      "total": 46,
       "valeurs": [
         {
           "key": "M.",
-          "value": 42,
+          "value": 43,
           "rang": 1
         },
         {
@@ -383,11 +391,11 @@
       ]
     },
     "fonction": {
-      "total": 45,
+      "total": 46,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 42,
+          "value": 43,
           "rang": 1
         },
         {
@@ -403,7 +411,7 @@
       ]
     },
     "circonscription": {
-      "total": 45,
+      "total": 46,
       "valeurs": [
         {
           "key": "Assenoncourt",
@@ -541,6 +549,11 @@
           "rang": 1
         },
         {
+          "key": "Passy",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Pleuvezain",
           "value": 1,
           "rang": 1
@@ -633,7 +646,7 @@
       ]
     },
     "departement": {
-      "total": 45,
+      "total": 46,
       "valeurs": [
         {
           "key": "Moselle",
@@ -656,44 +669,44 @@
           "rang": 2
         },
         {
+          "key": "Yonne",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "Bas-Rhin",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Doubs",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Haute-Marne",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Marne",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Saône-et-Loire",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Somme",
           "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 5
-        },
-        {
-          "key": "Yonne",
-          "value": 2,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Ain",
@@ -768,7 +781,7 @@
       ]
     },
     "date": {
-      "total": 45,
+      "total": 46,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -812,6 +825,11 @@
         },
         {
           "key": "2022-02-01",
+          "value": 1,
+          "rang": 9
+        },
+        {
+          "key": "2022-03-03",
           "value": 1,
           "rang": 9
         }

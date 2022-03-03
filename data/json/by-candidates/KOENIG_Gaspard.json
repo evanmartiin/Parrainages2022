@@ -1,7 +1,7 @@
 {
   "nom": "KOENIG Gaspard",
-  "votes_confirmes": 72,
-  "votes_totaux": 72,
+  "votes_confirmes": 91,
+  "votes_totaux": 91,
   "rang": 17,
   "valide": false,
   "parrainages": [
@@ -580,61 +580,228 @@
       "circonscription": "Voutenay-sur-Cure",
       "departement": "Yonne",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CAMPANA Françoise",
+      "fonction": "Membre de l'Assemblée de Corse",
+      "circonscription": "",
+      "departement": "Corse-du-Sud",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CHIARELLI-LUZI Vannina",
+      "fonction": "Membre de l'Assemblée de Corse",
+      "circonscription": "",
+      "departement": "Corse-du-Sud",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LIVRELLI Dominique",
+      "fonction": "Président d'un EPCI à fiscalité propre",
+      "circonscription": "CC Celavu-Prunelli",
+      "departement": "Corse-du-Sud",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FILIPPI Petru Antone",
+      "fonction": "Membre de l'Assemblée de Corse",
+      "circonscription": "",
+      "departement": "Haute-Corse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LE MAO Ghjuvan'Santu",
+      "fonction": "Membre de l'Assemblée de Corse",
+      "circonscription": "",
+      "departement": "Haute-Corse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MAUPERTUIS Marie-Antoinette",
+      "fonction": "Membre de l'Assemblée de Corse",
+      "circonscription": "",
+      "departement": "Haute-Corse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "GARNERO Patricia",
+      "fonction": "Maire",
+      "circonscription": "Saint-Étienne-des-Sorts",
+      "departement": "Gard",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "RIPOCHE Jacques",
+      "fonction": "Maire",
+      "circonscription": "Rouans",
+      "departement": "Loire-Atlantique",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "JACQUET Clarisse",
+      "fonction": "Maire",
+      "circonscription": "Foucaucourt-sur-Thabas",
+      "departement": "Meuse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VINCENT Ludovic",
+      "fonction": "Maire",
+      "circonscription": "Boëcé",
+      "departement": "Orne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GONTHIER Emmanuel",
+      "fonction": "Maire",
+      "circonscription": "Antoingt",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MOTSCH Nathalie",
+      "fonction": "Conseillère régionale",
+      "circonscription": "Nouvelle-Aquitaine",
+      "departement": "Pyrénées-Atlantiques",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAGNIN Jean-Louis",
+      "fonction": "Maire",
+      "circonscription": "Franclens",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VERDONNET Christian",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CARPENTIER Pascal",
+      "fonction": "Maire",
+      "circonscription": "Les Cent-Acres",
+      "departement": "Seine-Maritime",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEGRAND Eric",
+      "fonction": "Maire",
+      "circonscription": "Ham",
+      "departement": "Somme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMAITRE Christophe",
+      "fonction": "Maire",
+      "circonscription": "Harponville",
+      "departement": "Somme",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BLOEM Johan",
+      "fonction": "Maire",
+      "circonscription": "Saligny",
+      "departement": "Yonne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "TOUBOUL Morgan",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Val-d'Oise",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 72,
+      "total": 91,
       "valeurs": [
         {
           "key": "M.",
-          "value": 63,
+          "value": 76,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 9,
+          "value": 15,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 72,
+      "total": 91,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 64,
+          "value": 74,
           "rang": 1
         },
         {
-          "key": "Conseiller.e départemental.e",
-          "value": 2,
+          "key": "Membre de l'Assemblée de Corse",
+          "value": 5,
           "rang": 2
+        },
+        {
+          "key": "Conseiller.e départemental.e",
+          "value": 4,
+          "rang": 3
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
           "value": 2,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Sénateur/Sénatrice",
           "value": 2,
-          "rang": 2
+          "rang": 4
         },
         {
           "key": "Conseiller.e de Paris",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "Conseiller.e métropolitain.e de Lyon",
           "value": 1,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Conseiller.e régional.e",
+          "value": 1,
+          "rang": 6
+        },
+        {
+          "key": "Président.e d'un EPCI à fiscalité propre",
+          "value": 1,
+          "rang": 6
         }
       ]
     },
     "circonscription": {
-      "total": 66,
+      "total": 78,
       "valeurs": [
         {
           "key": "Montsecret-Clairefougère",
@@ -643,6 +810,11 @@
         },
         {
           "key": "Amange",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Antoingt",
           "value": 1,
           "rang": 2
         },
@@ -692,6 +864,11 @@
           "rang": 2
         },
         {
+          "key": "Boëcé",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Brion",
           "value": 1,
           "rang": 2
@@ -708,6 +885,11 @@
         },
         {
           "key": "Buisson",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "CC Celavu-Prunelli",
           "value": 1,
           "rang": 2
         },
@@ -772,6 +954,16 @@
           "rang": 2
         },
         {
+          "key": "Foucaucourt-sur-Thabas",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Franclens",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Frontenac",
           "value": 1,
           "rang": 2
@@ -807,7 +999,17 @@
           "rang": 2
         },
         {
+          "key": "Ham",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Harchéchamp",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Harponville",
           "value": 1,
           "rang": 2
         },
@@ -833,6 +1035,11 @@
         },
         {
           "key": "Le Favril",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Les Cent-Acres",
           "value": 1,
           "rang": 2
         },
@@ -872,6 +1079,11 @@
           "rang": 2
         },
         {
+          "key": "Nouvelle-Aquitaine",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Osmoy",
           "value": 1,
           "rang": 2
@@ -902,6 +1114,11 @@
           "rang": 2
         },
         {
+          "key": "Rouans",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Réveillon",
           "value": 1,
           "rang": 2
@@ -918,6 +1135,16 @@
         },
         {
           "key": "Saint-Pierre-le-Vieux",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Saint-Étienne-des-Sorts",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Saligny",
           "value": 1,
           "rang": 2
         },
@@ -964,11 +1191,11 @@
       ]
     },
     "departement": {
-      "total": 72,
+      "total": 91,
       "valeurs": [
         {
           "key": "Orne",
-          "value": 6,
+          "value": 7,
           "rang": 1
         },
         {
@@ -987,199 +1214,234 @@
           "rang": 3
         },
         {
+          "key": "Seine-Maritime",
+          "value": 4,
+          "rang": 3
+        },
+        {
           "key": "Aisne",
           "value": 3,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Corse-du-Sud",
+          "value": 3,
+          "rang": 6
         },
         {
           "key": "Eure-et-Loir",
           "value": 3,
-          "rang": 5
+          "rang": 6
         },
         {
-          "key": "Seine-Maritime",
+          "key": "Haute-Corse",
           "value": 3,
-          "rang": 5
+          "rang": 6
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 3,
+          "rang": 6
+        },
+        {
+          "key": "Yonne",
+          "value": 3,
+          "rang": 6
         },
         {
           "key": "Ardennes",
           "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Haute-Saône",
           "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Hautes-Pyrénées",
           "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Indre-et-Loire",
           "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Morbihan",
           "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Paris",
           "value": 2,
-          "rang": 8
+          "rang": 12
+        },
+        {
+          "key": "Pyrénées-Atlantiques",
+          "value": 2,
+          "rang": 12
         },
         {
           "key": "Saône-et-Loire",
           "value": 2,
-          "rang": 8
+          "rang": 12
+        },
+        {
+          "key": "Somme",
+          "value": 2,
+          "rang": 12
+        },
+        {
+          "key": "Val-d'Oise",
+          "value": 2,
+          "rang": 12
         },
         {
           "key": "Vosges",
           "value": 2,
-          "rang": 8
-        },
-        {
-          "key": "Yonne",
-          "value": 2,
-          "rang": 8
+          "rang": 12
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Charente",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Charente-Maritime",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Dordogne",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Drôme",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Essonne",
           "value": 1,
-          "rang": 17
+          "rang": 23
+        },
+        {
+          "key": "Gard",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Gers",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Haute-Loire",
           "value": 1,
-          "rang": 17
-        },
-        {
-          "key": "Haute-Savoie",
-          "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Isère",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Jura",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Loir-et-Cher",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 17
+          "rang": 23
+        },
+        {
+          "key": "Loire-Atlantique",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 17
+          "rang": 23
+        },
+        {
+          "key": "Meuse",
+          "value": 1,
+          "rang": 23
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Pas-de-Calais",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
-          "key": "Pyrénées-Atlantiques",
+          "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Seine-et-Marne",
           "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Tarn-et-Garonne",
           "value": 1,
-          "rang": 17
-        },
-        {
-          "key": "Val-d'Oise",
-          "value": 1,
-          "rang": 17
+          "rang": 23
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 17
+          "rang": 23
         }
       ]
     },
     "date": {
-      "total": 72,
+      "total": 91,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -1192,34 +1454,39 @@
           "rang": 2
         },
         {
+          "key": "2022-03-03",
+          "value": 19,
+          "rang": 3
+        },
+        {
           "key": "2022-02-24",
           "value": 11,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "2022-02-22",
           "value": 7,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-10",
           "value": 4,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-17",
           "value": 3,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     }

@@ -1,16 +1,21 @@
 {
   "nom": "Cantal",
-  "total": 52,
+  "total": 58,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 16,
+      "value": 18,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 13,
+      "value": 16,
       "rang": 2
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 4,
+      "rang": 3
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -25,12 +30,7 @@
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 5
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 3,
-      "rang": 5
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",

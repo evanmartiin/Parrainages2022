@@ -1,101 +1,111 @@
 {
   "nom": "Provence-Alpes-Côte d'Azur",
-  "total": 541,
+  "total": 592,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 200,
+      "value": 209,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 112,
+      "value": 119,
       "rang": 2
     },
     {
       "key": "LE PEN Marine",
-      "value": 55,
+      "value": 60,
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 35,
+      "key": "ZEMMOUR Éric",
+      "value": 39,
       "rang": 4
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 28,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 36,
       "rang": 5
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 25,
+      "value": 26,
       "rang": 6
     },
     {
-      "key": "JADOT Yannick",
-      "value": 15,
-      "rang": 7
-    },
-    {
       "key": "LASSALLE Jean",
-      "value": 15,
+      "value": 17,
       "rang": 7
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 14,
-      "rang": 9
+      "value": 15,
+      "rang": 8
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 15,
+      "rang": 8
     },
     {
       "key": "HIDALGO Anne",
-      "value": 12,
+      "value": 14,
       "rang": 10
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 11,
+      "rang": 11
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 8,
-      "rang": 11
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 6,
       "rang": 12
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 5,
+      "value": 7,
       "rang": 13
     },
     {
       "key": "THOUY Hélène",
-      "value": 4,
+      "value": 5,
       "rang": 14
     },
     {
-      "key": "EGGER Clara",
-      "value": 2,
-      "rang": 15
-    },
-    {
       "key": "KAZIB Anasse",
-      "value": 2,
+      "value": 3,
       "rang": 15
     },
     {
       "key": "ASSELINEAU François",
-      "value": 1,
-      "rang": 17
+      "value": 2,
+      "rang": 16
+    },
+    {
+      "key": "EGGER Clara",
+      "value": 2,
+      "rang": 16
     },
     {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 17
+      "rang": 18
+    },
+    {
+      "key": "FORTANÉ Jean-Marc",
+      "value": 1,
+      "rang": 18
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 17
+      "rang": 18
+    },
+    {
+      "key": "WAECHTER Antoine",
+      "value": 1,
+      "rang": 18
     }
   ]
 }

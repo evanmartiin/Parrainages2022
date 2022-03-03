@@ -1,44 +1,49 @@
 {
   "nom": "Ardennes",
-  "total": 142,
+  "total": 157,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 26,
+      "value": 28,
       "rang": 1
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 19,
+      "value": 21,
       "rang": 2
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 18,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 16,
-      "rang": 3
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 16,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 11,
+      "value": 12,
       "rang": 5
     },
     {
       "key": "ASSELINEAU François",
-      "value": 9,
+      "value": 10,
       "rang": 6
     },
     {
       "key": "LASSALLE Jean",
       "value": 9,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "KAZIB Anasse",
+      "value": 5,
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 5,
       "rang": 8
     },
@@ -50,57 +55,57 @@
     {
       "key": "HIDALGO Anne",
       "value": 4,
-      "rang": 10
+      "rang": 11
+    },
+    {
+      "key": "MIGUET Nicolas",
+      "value": 4,
+      "rang": 11
     },
     {
       "key": "POUTOU Philippe",
       "value": 4,
-      "rang": 10
+      "rang": 11
     },
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 12
+      "rang": 14
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 3,
-      "rang": 12
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 3,
-      "rang": 12
+      "rang": 14
     },
     {
       "key": "EGGER Clara",
       "value": 2,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "KOENIG Gaspard",
       "value": 2,
-      "rang": 15
+      "rang": 16
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 16
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "BARNIER Michel",
       "value": 1,
-      "rang": 18
+      "rang": 20
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 18
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 18
+      "rang": 20
     }
   ]
 }

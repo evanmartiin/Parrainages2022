@@ -1,6 +1,6 @@
 {
   "nom": "Martinique",
-  "total": 15,
+  "total": 23,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -8,34 +8,39 @@
       "rang": 1
     },
     {
+      "key": "TAUBIRA Christiane",
+      "value": 4,
+      "rang": 2
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 3,
+      "rang": 3
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 3,
+      "rang": 3
+    },
+    {
       "key": "ARTHAUD Nathalie",
       "value": 2,
-      "rang": 2
+      "rang": 5
     },
     {
       "key": "POUTOU Philippe",
       "value": 2,
-      "rang": 2
+      "rang": 5
     },
     {
       "key": "JADOT Yannick",
       "value": 1,
-      "rang": 4
-    },
-    {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 1,
-      "rang": 4
+      "rang": 7
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 1,
-      "rang": 4
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 1,
-      "rang": 4
+      "rang": 7
     }
   ]
 }

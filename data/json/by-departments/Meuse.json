@@ -1,6 +1,6 @@
 {
   "nom": "Meuse",
-  "total": 181,
+  "total": 193,
   "votes": [
     {
       "key": "ARTHAUD Nathalie",
@@ -9,12 +9,12 @@
     },
     {
       "key": "ASSELINEAU François",
-      "value": 22,
+      "value": 23,
       "rang": 2
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 21,
+      "value": 22,
       "rang": 3
     },
     {
@@ -24,23 +24,23 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 12,
+      "value": 14,
       "rang": 5
     },
     {
       "key": "LE PEN Marine",
-      "value": 11,
+      "value": 13,
       "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 12,
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 9,
-      "rang": 7
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 9,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -49,7 +49,7 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 5,
+      "value": 6,
       "rang": 10
     },
     {
@@ -88,6 +88,11 @@
       "rang": 16
     },
     {
+      "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 18
+    },
+    {
       "key": "KUZMANOVIC Georges",
       "value": 1,
       "rang": 18
@@ -104,6 +109,11 @@
     },
     {
       "key": "MONTEBOURG Arnaud",
+      "value": 1,
+      "rang": 18
+    },
+    {
+      "key": "RUFFIN François",
       "value": 1,
       "rang": 18
     }

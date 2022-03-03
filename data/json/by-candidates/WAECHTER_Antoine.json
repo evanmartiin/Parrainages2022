@@ -1,8 +1,8 @@
 {
   "nom": "WAECHTER Antoine",
-  "votes_confirmes": 4,
-  "votes_totaux": 4,
-  "rang": 28,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
+  "rang": 26,
   "valide": false,
   "parrainages": [
     {
@@ -36,15 +36,39 @@
       "circonscription": "Plénisette",
       "departement": "Jura",
       "date": "2022-02-24"
+    },
+    {
+      "genre": "M.",
+      "nom": "GUESNON David",
+      "fonction": "Maire",
+      "circonscription": "Fontenay-le-Marmion",
+      "departement": "Calvados",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "REDUREAU Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "Brizay",
+      "departement": "Indre-et-Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ARENA Xavier",
+      "fonction": "Maire",
+      "circonscription": "Murs",
+      "departement": "Vaucluse",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 4,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 3,
+          "value": 6,
           "rang": 1
         },
         {
@@ -55,11 +79,11 @@
       ]
     },
     "fonction": {
-      "total": 4,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 3,
+          "value": 6,
           "rang": 1
         },
         {
@@ -70,7 +94,7 @@
       ]
     },
     "circonscription": {
-      "total": 4,
+      "total": 7,
       "valeurs": [
         {
           "key": "Bourgogne-Franche-Comté",
@@ -78,7 +102,22 @@
           "rang": 1
         },
         {
+          "key": "Brizay",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Béon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Fontenay-le-Marmion",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Murs",
           "value": 1,
           "rang": 1
         },
@@ -95,8 +134,18 @@
       ]
     },
     "departement": {
-      "total": 4,
+      "total": 7,
       "valeurs": [
+        {
+          "key": "Calvados",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Jura",
           "value": 1,
@@ -113,6 +162,11 @@
           "rang": 1
         },
         {
+          "key": "Vaucluse",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Yonne",
           "value": 1,
           "rang": 1
@@ -120,27 +174,32 @@
       ]
     },
     "date": {
-      "total": 4,
+      "total": 7,
       "valeurs": [
+        {
+          "key": "2022-03-03",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-17",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-22",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-24",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

@@ -1,16 +1,21 @@
 {
   "nom": "Gironde",
-  "total": 214,
+  "total": 221,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 63,
+      "value": 64,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 27,
+      "value": 28,
       "rang": 2
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 21,
+      "rang": 3
     },
     {
       "key": "PÉCRESSE Valérie",
@@ -18,23 +23,18 @@
       "rang": 3
     },
     {
-      "key": "JADOT Yannick",
-      "value": 20,
-      "rang": 4
-    },
-    {
       "key": "LASSALLE Jean",
       "value": 19,
       "rang": 5
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 13,
+      "key": "LE PEN Marine",
+      "value": 15,
       "rang": 6
     },
     {
-      "key": "LE PEN Marine",
-      "value": 12,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 13,
       "rang": 7
     },
     {
@@ -84,6 +84,11 @@
     },
     {
       "key": "MIGUET Nicolas",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "PHILIPPE Edouard",
       "value": 1,
       "rang": 15
     }

@@ -1,7 +1,7 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 12,
-  "votes_totaux": 12,
+  "votes_confirmes": 16,
+  "votes_totaux": 16,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -100,15 +100,47 @@
       "circonscription": "Oisemont",
       "departement": "Somme",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "BROGNIART Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Valdallière",
+      "departement": "Calvados",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FAUCON Gilles",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Valdallière",
+      "departement": "Calvados",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BELLEC Olivier",
+      "fonction": "Maire",
+      "circonscription": "Trégunc",
+      "departement": "Finistère",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROZIAU Olivier",
+      "fonction": "Maire",
+      "circonscription": "Saint-Maximin",
+      "departement": "Isère",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 12,
+      "total": 16,
       "valeurs": [
         {
           "key": "M.",
-          "value": 8,
+          "value": 12,
           "rang": 1
         },
         {
@@ -119,82 +151,102 @@
       ]
     },
     "fonction": {
-      "total": 12,
+      "total": 16,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 12,
+          "value": 15,
           "rang": 1
+        },
+        {
+          "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 12,
+      "total": 16,
       "valeurs": [
+        {
+          "key": "Valdallière",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "Binarville",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Grand-Camp",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Grivillers",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Ingrannes",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Kalhausen",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Lihons",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Malleval",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Méru",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Neuvic",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Neuvilly",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Oisemont",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "Parcé-sur-Sarthe",
           "value": 1,
-          "rang": 1
+          "rang": 2
+        },
+        {
+          "key": "Saint-Maximin",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Trégunc",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "departement": {
-      "total": 12,
+      "total": 16,
       "valeurs": [
         {
           "key": "Somme",
@@ -202,84 +254,104 @@
           "rang": 1
         },
         {
+          "key": "Calvados",
+          "value": 2,
+          "rang": 2
+        },
+        {
           "key": "Dordogne",
           "value": 1,
-          "rang": 2
+          "rang": 3
+        },
+        {
+          "key": "Finistère",
+          "value": 1,
+          "rang": 3
+        },
+        {
+          "key": "Isère",
+          "value": 1,
+          "rang": 3
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Seine-Maritime",
           "value": 1,
-          "rang": 2
+          "rang": 3
         }
       ]
     },
     "date": {
-      "total": 12,
+      "total": 16,
       "valeurs": [
+        {
+          "key": "2022-03-03",
+          "value": 4,
+          "rang": 1
+        },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-03-01",
           "value": 3,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-03",
           "value": 1,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 4
+          "rang": 5
         },
         {
           "key": "2022-02-22",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

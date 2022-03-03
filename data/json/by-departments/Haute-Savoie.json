@@ -1,6 +1,6 @@
 {
   "nom": "Haute-Savoie",
-  "total": 87,
+  "total": 102,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -18,29 +18,39 @@
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 7,
-      "rang": 4
+      "key": "POUTOU Philippe",
+      "value": 9,
+      "rang": 3
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 6,
+      "value": 7,
+      "rang": 5
+    },
+    {
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 7,
       "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 6,
+      "value": 7,
       "rang": 5
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 5,
-      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 4,
       "rang": 8
+    },
+    {
+      "key": "KOENIG Gaspard",
+      "value": 3,
+      "rang": 9
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 3,
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
@@ -50,37 +60,47 @@
     {
       "key": "HIDALGO Anne",
       "value": 2,
-      "rang": 10
+      "rang": 12
     },
     {
       "key": "SMATI  Rafik",
       "value": 2,
-      "rang": 10
+      "rang": 12
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 2,
+      "rang": 12
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 12
+      "rang": 15
     },
     {
-      "key": "KOENIG Gaspard",
+      "key": "EGGER Clara",
       "value": 1,
-      "rang": 12
+      "rang": 15
     },
     {
-      "key": "LASSALLE Jean",
+      "key": "GIFFON Jean Baptiste",
       "value": 1,
-      "rang": 12
+      "rang": 15
     },
     {
       "key": "MARTINEZ Antoine",
       "value": 1,
-      "rang": 12
+      "rang": 15
     },
     {
       "key": "PESQUET Thomas",
       "value": 1,
-      "rang": 12
+      "rang": 15
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "nom": "ARTHAUD Nathalie",
-  "votes_confirmes": 568,
-  "votes_totaux": 568,
-  "rang": 9,
+  "votes_confirmes": 570,
+  "votes_totaux": 570,
+  "rang": 11,
   "valide": true,
   "parrainages": [
     {
@@ -4548,15 +4548,31 @@
       "circonscription": "Étaimpuis",
       "departement": "Seine-Maritime",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "PIQUET Stéphane",
+      "fonction": "Maire",
+      "circonscription": "La Bouëxière",
+      "departement": "Ille-et-Vilaine",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CAU Marie",
+      "fonction": "Maire",
+      "circonscription": "Tilloy-lez-Marchiennes",
+      "departement": "Nord",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 568,
+      "total": 570,
       "valeurs": [
         {
           "key": "M.",
-          "value": 457,
+          "value": 459,
           "rang": 1
         },
         {
@@ -4567,11 +4583,11 @@
       ]
     },
     "fonction": {
-      "total": 568,
+      "total": 570,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 517,
+          "value": 519,
           "rang": 1
         },
         {
@@ -4587,7 +4603,7 @@
       ]
     },
     "circonscription": {
-      "total": 567,
+      "total": 569,
       "valeurs": [
         {
           "key": "Livarot-Pays-d'Auge",
@@ -5616,6 +5632,11 @@
         },
         {
           "key": "La Boissière",
+          "value": 1,
+          "rang": 7
+        },
+        {
+          "key": "La Bouëxière",
           "value": 1,
           "rang": 7
         },
@@ -7040,6 +7061,11 @@
           "rang": 7
         },
         {
+          "key": "Tilloy-lez-Marchiennes",
+          "value": 1,
+          "rang": 7
+        },
+        {
           "key": "Tournon-Saint-Martin",
           "value": 1,
           "rang": 7
@@ -7372,7 +7398,7 @@
       ]
     },
     "departement": {
-      "total": 568,
+      "total": 570,
       "valeurs": [
         {
           "key": "Meuse",
@@ -7530,34 +7556,34 @@
           "rang": 29
         },
         {
+          "key": "Nord",
+          "value": 6,
+          "rang": 29
+        },
+        {
           "key": "Ardèche",
           "value": 5,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Gard",
           "value": 5,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Haute-Corse",
           "value": 5,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Haute-Garonne",
           "value": 5,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Hautes-Alpes",
           "value": 5,
-          "rang": 32
-        },
-        {
-          "key": "Nord",
-          "value": 5,
-          "rang": 32
+          "rang": 33
         },
         {
           "key": "Aube",
@@ -7605,6 +7631,11 @@
           "rang": 44
         },
         {
+          "key": "Ille-et-Vilaine",
+          "value": 3,
+          "rang": 44
+        },
+        {
           "key": "Indre-et-Loire",
           "value": 3,
           "rang": 44
@@ -7622,52 +7653,47 @@
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Aude",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Haut-Rhin",
           "value": 2,
-          "rang": 50
-        },
-        {
-          "key": "Ille-et-Vilaine",
-          "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Loir-et-Cher",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Loire-Atlantique",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Martinique",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Nièvre",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Rhône",
           "value": 2,
-          "rang": 50
+          "rang": 51
         },
         {
           "key": "Allier",
@@ -7752,7 +7778,7 @@
       ]
     },
     "date": {
-      "total": 568,
+      "total": 570,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -7798,6 +7824,11 @@
           "key": "2022-02-24",
           "value": 3,
           "rang": 9
+        },
+        {
+          "key": "2022-03-03",
+          "value": 2,
+          "rang": 10
         }
       ]
     }

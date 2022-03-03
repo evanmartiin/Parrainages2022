@@ -1,8 +1,8 @@
 {
   "nom": "ROUSSEL Fabien",
-  "votes_confirmes": 613,
-  "votes_totaux": 613,
-  "rang": 7,
+  "votes_confirmes": 619,
+  "votes_totaux": 619,
+  "rang": 8,
   "valide": true,
   "parrainages": [
     {
@@ -4908,30 +4908,78 @@
       "circonscription": "La Réunion",
       "departement": "La Réunion",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "CAMARD Sophie",
+      "fonction": "Maire d'arrondissement",
+      "circonscription": "",
+      "departement": "Bouches-du-Rhône",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SANSU Nicolas",
+      "fonction": "Maire",
+      "circonscription": "Vierzon",
+      "departement": "Cher",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "THURU Gérald",
+      "fonction": "Maire",
+      "circonscription": "Millonfosse",
+      "departement": "Nord",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "GODART Nicole",
+      "fonction": "Maire",
+      "circonscription": "Monchy-Breton",
+      "departement": "Pas-de-Calais",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FATTA Henri",
+      "fonction": "Maire",
+      "circonscription": "Oursbelille",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAURENT Jean-Luc",
+      "fonction": "Maire",
+      "circonscription": "Le Kremlin-Bicêtre",
+      "departement": "Val-de-Marne",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 613,
+      "total": 619,
       "valeurs": [
         {
           "key": "M.",
-          "value": 439,
+          "value": 443,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 174,
+          "value": 176,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 613,
+      "total": 619,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 383,
+          "value": 388,
           "rang": 1
         },
         {
@@ -4975,6 +5023,11 @@
           "rang": 9
         },
         {
+          "key": "Maire d'arrondissement",
+          "value": 1,
+          "rang": 10
+        },
+        {
           "key": "Président du conseil consulaire",
           "value": 1,
           "rang": 10
@@ -4982,7 +5035,7 @@
       ]
     },
     "circonscription": {
-      "total": 470,
+      "total": 475,
       "valeurs": [
         {
           "key": "Occitanie",
@@ -6015,6 +6068,11 @@
           "rang": 14
         },
         {
+          "key": "Le Kremlin-Bicêtre",
+          "value": 1,
+          "rang": 14
+        },
+        {
           "key": "Le Martinet",
           "value": 1,
           "rang": 14
@@ -6170,6 +6228,11 @@
           "rang": 14
         },
         {
+          "key": "Millonfosse",
+          "value": 1,
+          "rang": 14
+        },
+        {
           "key": "Mirandol-Bourgnounac",
           "value": 1,
           "rang": 14
@@ -6186,6 +6249,11 @@
         },
         {
           "key": "Monbéqui",
+          "value": 1,
+          "rang": 14
+        },
+        {
+          "key": "Monchy-Breton",
           "value": 1,
           "rang": 14
         },
@@ -6311,6 +6379,11 @@
         },
         {
           "key": "Orbigny",
+          "value": 1,
+          "rang": 14
+        },
+        {
+          "key": "Oursbelille",
           "value": 1,
           "rang": 14
         },
@@ -6960,6 +7033,11 @@
           "rang": 14
         },
         {
+          "key": "Vierzon",
+          "value": 1,
+          "rang": 14
+        },
+        {
           "key": "Vieure",
           "value": 1,
           "rang": 14
@@ -7057,11 +7135,11 @@
       ]
     },
     "departement": {
-      "total": 613,
+      "total": 619,
       "valeurs": [
         {
           "key": "Nord",
-          "value": 39,
+          "value": 40,
           "rang": 1
         },
         {
@@ -7071,7 +7149,7 @@
         },
         {
           "key": "Pas-de-Calais",
-          "value": 22,
+          "value": 23,
           "rang": 3
         },
         {
@@ -7090,39 +7168,44 @@
           "rang": 6
         },
         {
-          "key": "Paris",
-          "value": 16,
-          "rang": 7
+          "key": "Val-de-Marne",
+          "value": 17,
+          "rang": 6
         },
         {
-          "key": "Val-de-Marne",
+          "key": "Paris",
           "value": 16,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "Hautes-Pyrénées",
-          "value": 14,
-          "rang": 9
-        },
-        {
-          "key": "Oise",
-          "value": 14,
+          "value": 15,
           "rang": 9
         },
         {
           "key": "Bouches-du-Rhône",
-          "value": 13,
-          "rang": 11
+          "value": 14,
+          "rang": 10
+        },
+        {
+          "key": "Oise",
+          "value": 14,
+          "rang": 10
         },
         {
           "key": "Haute-Garonne",
           "value": 13,
-          "rang": 11
+          "rang": 12
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 13,
-          "rang": 11
+          "rang": 12
+        },
+        {
+          "key": "Cher",
+          "value": 12,
+          "rang": 14
         },
         {
           "key": "Somme",
@@ -7132,37 +7215,32 @@
         {
           "key": "Aisne",
           "value": 11,
-          "rang": 15
-        },
-        {
-          "key": "Cher",
-          "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Gironde",
           "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Haute-Vienne",
           "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Isère",
           "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Landes",
           "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Seine-Saint-Denis",
           "value": 11,
-          "rang": 15
+          "rang": 16
         },
         {
           "key": "Corrèze",
@@ -7537,7 +7615,7 @@
       ]
     },
     "date": {
-      "total": 613,
+      "total": 619,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -7583,6 +7661,11 @@
           "key": "2022-02-24",
           "value": 11,
           "rang": 9
+        },
+        {
+          "key": "2022-03-03",
+          "value": 6,
+          "rang": 10
         }
       ]
     }

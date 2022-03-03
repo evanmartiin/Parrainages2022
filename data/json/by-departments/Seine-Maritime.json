@@ -1,26 +1,26 @@
 {
   "nom": "Seine-Maritime",
-  "total": 201,
+  "total": 210,
   "votes": [
     {
-      "key": "HIDALGO Anne",
-      "value": 32,
+      "key": "PÉCRESSE Valérie",
+      "value": 33,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
+      "key": "HIDALGO Anne",
       "value": 32,
-      "rang": 1
+      "rang": 2
+    },
+    {
+      "key": "MACRON Emmanuel",
+      "value": 27,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 24,
-      "rang": 3
-    },
-    {
-      "key": "MACRON Emmanuel",
-      "value": 24,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -29,7 +29,7 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 13,
+      "value": 14,
       "rang": 6
     },
     {
@@ -59,28 +59,28 @@
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 3,
+      "value": 4,
+      "rang": 12
+    },
+    {
+      "key": "THOUY Hélène",
+      "value": 4,
       "rang": 12
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 12
-    },
-    {
-      "key": "ASSELINEAU François",
-      "value": 2,
       "rang": 14
     },
     {
       "key": "POUTOU Philippe",
-      "value": 2,
+      "value": 3,
       "rang": 14
     },
     {
-      "key": "THOUY Hélène",
+      "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 14
+      "rang": 16
     },
     {
       "key": "CHICHE Arnaud",

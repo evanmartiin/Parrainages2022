@@ -1,7 +1,7 @@
 {
   "nom": "ASSELINEAU François",
-  "votes_confirmes": 263,
-  "votes_totaux": 263,
+  "votes_confirmes": 279,
+  "votes_totaux": 279,
   "rang": 13,
   "valide": false,
   "parrainages": [
@@ -2108,35 +2108,163 @@
       "circonscription": "Saint-Martin-d'Ordon",
       "departement": "Yonne",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUJON Régis",
+      "fonction": "Maire",
+      "circonscription": "Courmont",
+      "departement": "Aisne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "LIEGEART Philippe",
+      "fonction": "Maire",
+      "circonscription": "Saint-Lambert-et-Mont-de-Jeux",
+      "departement": "Ardennes",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MENNETRIER Alain",
+      "fonction": "Maire",
+      "circonscription": "Arrentières",
+      "departement": "Aube",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "RATINET Laurent",
+      "fonction": "Maire",
+      "circonscription": "Poligny",
+      "departement": "Aube",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BIANCONE Gilles",
+      "fonction": "Maire",
+      "circonscription": "Chaignay",
+      "departement": "Côte-d'Or",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MONA Frédéric",
+      "fonction": "Maire",
+      "circonscription": "Intréville",
+      "departement": "Eure-et-Loir",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CICUTTI Claude",
+      "fonction": "Maire",
+      "circonscription": "Montreuil-en-Touraine",
+      "departement": "Indre-et-Loire",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CASTERS Denis",
+      "fonction": "Maire",
+      "circonscription": "Orbais-l'Abbaye",
+      "departement": "Marne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "LAURENT Tatiana",
+      "fonction": "Maire",
+      "circonscription": "Maulan",
+      "departement": "Meuse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GRONNIER Denis",
+      "fonction": "Maire",
+      "circonscription": "Sarriac-Bigorre",
+      "departement": "Hautes-Pyrénées",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROBISCHUNG Francis",
+      "fonction": "Maire",
+      "circonscription": "Traubach-le-Bas",
+      "departement": "Haut-Rhin",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SARDA Didier",
+      "fonction": "Maire",
+      "circonscription": "Talloires-Montmin",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "GOUIRAND Alain",
+      "fonction": "Maire",
+      "circonscription": "La Motte-d'Aigues",
+      "departement": "Vaucluse",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROY Claude",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Sèvremont",
+      "departement": "Vendée",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELAGNEAU Emmanuel",
+      "fonction": "Maire",
+      "circonscription": "Ancy-le-Franc",
+      "departement": "Yonne",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "FRONTERA François",
+      "fonction": "Maire",
+      "circonscription": "Saint-Jean-de-Beauregard",
+      "departement": "Essonne",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 263,
+      "total": 279,
       "valeurs": [
         {
           "key": "M.",
-          "value": 204,
+          "value": 219,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 59,
+          "value": 60,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 263,
+      "total": 279,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 206,
+          "value": 221,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 55,
+          "value": 56,
           "rang": 2
         },
         {
@@ -2152,7 +2280,7 @@
       ]
     },
     "circonscription": {
-      "total": 262,
+      "total": 278,
       "valeurs": [
         {
           "key": "Mareuil en Périgord",
@@ -2215,6 +2343,11 @@
           "rang": 12
         },
         {
+          "key": "Ancy-le-Franc",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Andainville",
           "value": 1,
           "rang": 12
@@ -2236,6 +2369,11 @@
         },
         {
           "key": "Arrembécourt",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Arrentières",
           "value": 1,
           "rang": 12
         },
@@ -2425,6 +2563,11 @@
           "rang": 12
         },
         {
+          "key": "Chaignay",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Chailloué",
           "value": 1,
           "rang": 12
@@ -2511,6 +2654,11 @@
         },
         {
           "key": "Courcelles-lès-Semur",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Courmont",
           "value": 1,
           "rang": 12
         },
@@ -2685,6 +2833,11 @@
           "rang": 12
         },
         {
+          "key": "Intréville",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Jaucourt",
           "value": 1,
           "rang": 12
@@ -2726,6 +2879,11 @@
         },
         {
           "key": "La Croix-sur-Ourcq",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "La Motte-d'Aigues",
           "value": 1,
           "rang": 12
         },
@@ -2890,6 +3048,11 @@
           "rang": 12
         },
         {
+          "key": "Maulan",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Monchiet",
           "value": 1,
           "rang": 12
@@ -2901,6 +3064,11 @@
         },
         {
           "key": "Montoillot",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Montreuil-en-Touraine",
           "value": 1,
           "rang": 12
         },
@@ -2941,6 +3109,11 @@
         },
         {
           "key": "Olizy-Primat",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Orbais-l'Abbaye",
           "value": 1,
           "rang": 12
         },
@@ -3011,6 +3184,11 @@
         },
         {
           "key": "Poivres",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Poligny",
           "value": 1,
           "rang": 12
         },
@@ -3110,12 +3288,22 @@
           "rang": 12
         },
         {
+          "key": "Saint-Jean-de-Beauregard",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Saint-Jean-de-Crieulon",
           "value": 1,
           "rang": 12
         },
         {
           "key": "Saint-Joseph-des-Bancs",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Saint-Lambert-et-Mont-de-Jeux",
           "value": 1,
           "rang": 12
         },
@@ -3180,6 +3368,11 @@
           "rang": 12
         },
         {
+          "key": "Sarriac-Bigorre",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Sault-lès-Rethel",
           "value": 1,
           "rang": 12
@@ -3210,7 +3403,17 @@
           "rang": 12
         },
         {
+          "key": "Sèvremont",
+          "value": 1,
+          "rang": 12
+        },
+        {
           "key": "Sépeaux-Saint Romain",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Talloires-Montmin",
           "value": 1,
           "rang": 12
         },
@@ -3266,6 +3469,11 @@
         },
         {
           "key": "Tourouvre au Perche",
+          "value": 1,
+          "rang": 12
+        },
+        {
+          "key": "Traubach-le-Bas",
           "value": 1,
           "rang": 12
         },
@@ -3407,7 +3615,7 @@
       ]
     },
     "departement": {
-      "total": 263,
+      "total": 279,
       "valeurs": [
         {
           "key": "Haute-Marne",
@@ -3416,48 +3624,48 @@
         },
         {
           "key": "Côte-d'Or",
-          "value": 23,
+          "value": 24,
           "rang": 2
         },
         {
           "key": "Meuse",
-          "value": 22,
+          "value": 23,
           "rang": 3
         },
         {
           "key": "Aisne",
-          "value": 21,
+          "value": 22,
           "rang": 4
         },
         {
           "key": "Marne",
-          "value": 16,
+          "value": 17,
           "rang": 5
         },
         {
           "key": "Aube",
-          "value": 13,
+          "value": 15,
           "rang": 6
         },
         {
           "key": "Yonne",
-          "value": 10,
+          "value": 11,
           "rang": 7
         },
         {
           "key": "Ardennes",
-          "value": 9,
+          "value": 10,
           "rang": 8
         },
         {
           "key": "Moselle",
           "value": 9,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Orne",
           "value": 9,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Hérault",
@@ -3540,6 +3748,16 @@
           "rang": 24
         },
         {
+          "key": "Essonne",
+          "value": 2,
+          "rang": 24
+        },
+        {
+          "key": "Haut-Rhin",
+          "value": 2,
+          "rang": 24
+        },
+        {
           "key": "Haute-Saône",
           "value": 2,
           "rang": 24
@@ -3587,77 +3805,97 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
-          "key": "Essonne",
+          "key": "Eure-et-Loir",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Français de l'étranger",
           "value": 1,
-          "rang": 36
-        },
-        {
-          "key": "Haut-Rhin",
-          "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 36
+          "rang": 38
+        },
+        {
+          "key": "Haute-Savoie",
+          "value": 1,
+          "rang": 38
+        },
+        {
+          "key": "Hautes-Pyrénées",
+          "value": 1,
+          "rang": 38
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 1,
+          "rang": 38
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Lot-et-Garonne",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Morbihan",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 36
+          "rang": 38
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 36
+          "rang": 38
+        },
+        {
+          "key": "Vaucluse",
+          "value": 1,
+          "rang": 38
+        },
+        {
+          "key": "Vendée",
+          "value": 1,
+          "rang": 38
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 36
+          "rang": 38
         }
       ]
     },
     "date": {
-      "total": 263,
+      "total": 279,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -3690,19 +3928,24 @@
           "rang": 6
         },
         {
+          "key": "2022-03-03",
+          "value": 16,
+          "rang": 6
+        },
+        {
           "key": "2022-02-01",
           "value": 10,
-          "rang": 7
+          "rang": 8
         },
         {
           "key": "2022-02-17",
           "value": 7,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "2022-02-24",
           "value": 6,
-          "rang": 9
+          "rang": 10
         }
       ]
     }

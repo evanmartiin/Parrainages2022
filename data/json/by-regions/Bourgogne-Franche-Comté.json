@@ -1,70 +1,70 @@
 {
   "nom": "Bourgogne-Franche-Comté",
-  "total": 1099,
+  "total": 1167,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 224,
+      "value": 230,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 148,
+      "value": 159,
       "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 84,
+      "value": 88,
       "rang": 3
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 73,
+      "key": "ZEMMOUR Éric",
+      "value": 80,
       "rang": 4
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 70,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 74,
       "rang": 5
     },
     {
       "key": "POUTOU Philippe",
-      "value": 60,
+      "value": 69,
       "rang": 6
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 59,
+      "key": "HIDALGO Anne",
+      "value": 62,
       "rang": 7
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 56,
-      "rang": 8
+      "key": "LE PEN Marine",
+      "value": 62,
+      "rang": 7
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 60,
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 55,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 53,
-      "rang": 10
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 52,
       "rang": 11
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 39,
+      "value": 42,
       "rang": 12
     },
     {
       "key": "ASSELINEAU François",
-      "value": 37,
+      "value": 39,
       "rang": 13
     },
     {
@@ -84,13 +84,18 @@
     },
     {
       "key": "KUZMANOVIC Georges",
-      "value": 9,
+      "value": 10,
       "rang": 17
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 7,
+      "value": 8,
       "rang": 18
+    },
+    {
+      "key": "MARTINEZ Antoine",
+      "value": 4,
+      "rang": 19
     },
     {
       "key": "MIGUET Nicolas",
@@ -100,17 +105,12 @@
     {
       "key": "EGGER Clara",
       "value": 3,
-      "rang": 20
-    },
-    {
-      "key": "MARTINEZ Antoine",
-      "value": 3,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "WAECHTER Antoine",
       "value": 3,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "ROCCA Martin",
@@ -118,7 +118,17 @@
       "rang": 23
     },
     {
+      "key": "ARNAL Christian-Jacques",
+      "value": 1,
+      "rang": 24
+    },
+    {
       "key": "JUVING-BRUNET Alexandre",
+      "value": 1,
+      "rang": 24
+    },
+    {
+      "key": "MEURICE Guillaume",
       "value": 1,
       "rang": 24
     }

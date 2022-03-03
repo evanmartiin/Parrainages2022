@@ -1,15 +1,15 @@
 {
   "nom": "Manche",
-  "total": 134,
+  "total": 141,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 24,
+      "value": 25,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 22,
+      "value": 23,
       "rang": 2
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 14,
-      "rang": 4
+      "value": 15,
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -28,24 +28,24 @@
       "rang": 5
     },
     {
-      "key": "LE PEN Marine",
-      "value": 9,
-      "rang": 6
-    },
-    {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 9,
-      "rang": 6
+      "value": 10,
+      "rang": 5
     },
     {
       "key": "JADOT Yannick",
-      "value": 8,
-      "rang": 8
+      "value": 9,
+      "rang": 7
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 9,
+      "rang": 7
     },
     {
       "key": "ZEMMOUR Éric",
       "value": 8,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
@@ -58,34 +58,39 @@
       "rang": 11
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 11
+    },
+    {
       "key": "TAUBIRA Christiane",
       "value": 2,
       "rang": 11
     },
     {
+      "key": "EGGER Clara",
+      "value": 1,
+      "rang": 14
+    },
+    {
       "key": "MEURICE Guillaume",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 13
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 13
+      "rang": 14
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 13
+      "rang": 14
     }
   ]
 }

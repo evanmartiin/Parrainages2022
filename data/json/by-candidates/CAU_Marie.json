@@ -1,7 +1,7 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 5,
-  "votes_totaux": 5,
+  "votes_confirmes": 7,
+  "votes_totaux": 7,
   "rang": 26,
   "valide": false,
   "parrainages": [
@@ -44,31 +44,47 @@
       "circonscription": "Caligny",
       "departement": "Orne",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELBOS Michel",
+      "fonction": "Maire",
+      "circonscription": "Montredon",
+      "departement": "Lot",
+      "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE CESARE Salvatore",
+      "fonction": "Maire",
+      "circonscription": "Montigny-en-Ostrevent",
+      "departement": "Nord",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "M.",
-          "value": 5,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 5,
+          "value": 7,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Caligny",
@@ -94,15 +110,25 @@
           "key": "Le Bonhomme",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Montigny-en-Ostrevent",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Montredon",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
         {
           "key": "Nord",
-          "value": 2,
+          "value": 3,
           "rang": 1
         },
         {
@@ -116,6 +142,11 @@
           "rang": 2
         },
         {
+          "key": "Lot",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Orne",
           "value": 1,
           "rang": 2
@@ -123,32 +154,37 @@
       ]
     },
     "date": {
-      "total": 5,
+      "total": 7,
       "valeurs": [
+        {
+          "key": "2022-03-03",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "2022-02-08",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-15",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-17",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-24",
           "value": 1,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-03-01",
           "value": 1,
-          "rang": 1
+          "rang": 2
         }
       ]
     }

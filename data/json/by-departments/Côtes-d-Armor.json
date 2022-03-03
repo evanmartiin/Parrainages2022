@@ -1,10 +1,10 @@
 {
   "nom": "Côtes-d'Armor",
-  "total": 111,
+  "total": 117,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 29,
+      "value": 30,
       "rang": 1
     },
     {
@@ -33,24 +33,29 @@
       "rang": 6
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 6,
-      "rang": 7
-    },
-    {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 6,
+      "value": 7,
       "rang": 7
     },
     {
       "key": "POUTOU Philippe",
-      "value": 5,
+      "value": 7,
+      "rang": 7
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 6,
       "rang": 9
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 3,
+      "value": 4,
       "rang": 10
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 11
     },
     {
       "key": "KAZIB Anasse",
@@ -63,14 +68,9 @@
       "rang": 11
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 1,
-      "rang": 13
-    },
-    {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 13
+      "rang": 14
     }
   ]
 }

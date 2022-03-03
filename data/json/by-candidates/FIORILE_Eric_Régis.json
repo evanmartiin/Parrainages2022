@@ -1,8 +1,8 @@
 {
   "nom": "FIORILE Eric Régis",
-  "votes_confirmes": 1,
-  "votes_totaux": 1,
-  "rang": 36,
+  "votes_confirmes": 2,
+  "votes_totaux": 2,
+  "rang": 30,
   "valide": false,
   "parrainages": [
     {
@@ -12,22 +12,35 @@
       "circonscription": "Juvigny Val d'Andaine",
       "departement": "Orne",
       "date": "2022-02-17"
+    },
+    {
+      "genre": "M.",
+      "nom": "GARCIA Clément",
+      "fonction": "Maire",
+      "circonscription": "Saccourvielle",
+      "departement": "Haute-Garonne",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
     "genre": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "M.",
-          "value": 1,
+          "value": 2,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
           "value": 1,
@@ -36,18 +49,28 @@
       ]
     },
     "circonscription": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "Juvigny Val d'Andaine",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saccourvielle",
           "value": 1,
           "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
+        {
+          "key": "Haute-Garonne",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Orne",
           "value": 1,
@@ -56,10 +79,15 @@
       ]
     },
     "date": {
-      "total": 1,
+      "total": 2,
       "valeurs": [
         {
           "key": "2022-02-17",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "2022-03-03",
           "value": 1,
           "rang": 1
         }

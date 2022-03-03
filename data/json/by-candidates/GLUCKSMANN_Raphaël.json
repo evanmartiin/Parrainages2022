@@ -1,17 +1,17 @@
 {
-  "nom": "MARECHAL Philippe Célestin",
+  "nom": "GLUCKSMANN Raphaël",
   "votes_confirmes": 1,
   "votes_totaux": 1,
   "rang": 37,
   "valide": false,
   "parrainages": [
     {
-      "genre": "M.",
-      "nom": "MARECHAL Philippe",
+      "genre": "Mme",
+      "nom": "DURY Anne-Cécile",
       "fonction": "Maire",
-      "circonscription": "Balagny-sur-Thérain",
-      "departement": "Oise",
-      "date": "2022-02-08"
+      "circonscription": "Vals-des-Tilles",
+      "departement": "Haute-Marne",
+      "date": "2022-03-03"
     }
   ],
   "stats": {
@@ -19,7 +19,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "M.",
+          "key": "Mme",
           "value": 1,
           "rang": 1
         }
@@ -39,7 +39,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Balagny-sur-Thérain",
+          "key": "Vals-des-Tilles",
           "value": 1,
           "rang": 1
         }
@@ -49,7 +49,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "Oise",
+          "key": "Haute-Marne",
           "value": 1,
           "rang": 1
         }
@@ -59,7 +59,7 @@
       "total": 1,
       "valeurs": [
         {
-          "key": "2022-02-08",
+          "key": "2022-03-03",
           "value": 1,
           "rang": 1
         }

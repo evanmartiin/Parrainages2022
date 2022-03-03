@@ -1,6 +1,6 @@
 {
   "nom": "Hautes-Pyrénées",
-  "total": 119,
+  "total": 129,
   "votes": [
     {
       "key": "LASSALLE Jean",
@@ -9,12 +9,12 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 17,
+      "value": 19,
       "rang": 2
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 14,
+      "value": 15,
       "rang": 3
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 9,
+      "value": 11,
       "rang": 6
     },
     {
@@ -38,49 +38,54 @@
       "rang": 7
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 4,
+      "rang": 8
+    },
+    {
       "key": "JADOT Yannick",
       "value": 4,
       "rang": 8
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 3,
-      "rang": 9
-    },
-    {
       "key": "POUTOU Philippe",
-      "value": 3,
-      "rang": 9
+      "value": 4,
+      "rang": 8
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 3,
-      "rang": 9
+      "rang": 11
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 3,
+      "rang": 11
     },
     {
       "key": "KOENIG Gaspard",
       "value": 2,
-      "rang": 12
+      "rang": 13
     },
     {
-      "key": "TAUBIRA Christiane",
+      "key": "ZEMMOUR Éric",
       "value": 2,
-      "rang": 12
+      "rang": 13
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 1,
+      "rang": 15
     },
     {
       "key": "LE PEN Marine",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 14
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 1,
-      "rang": 14
+      "rang": 15
     }
   ]
 }
