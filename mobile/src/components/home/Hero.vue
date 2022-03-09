@@ -4,7 +4,7 @@
     <Splide :options="{ arrows: false }">
       <SplideSlide>
         <h1>{{ validatedCandidates }} candidats</h1>
-        <p>sont déjà qualifiés pour le premier tour de l'élection présidentielle</p>
+        <p>sont qualifiés pour le premier tour de l'élection présidentielle</p>
       </SplideSlide>
       <SplideSlide>
         <h1>{{ nbVotes }}</h1>
@@ -12,7 +12,7 @@
       </SplideSlide>
       <SplideSlide>
         <h1>{{ Math.round(100 - nbVotes / 420) }}%</h1>
-        <p>des parrainages n'ont pas encore été utilisés par les élus éligibles</p>
+        <p>des parrainages n'ont pas été utilisés par les élus éligibles</p>
       </SplideSlide>
     </Splide>
   </div>

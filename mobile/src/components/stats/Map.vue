@@ -3,7 +3,7 @@
   <h1>Statistiques générales</h1>
   <div class="map">
     <div class="carte">
-      <p>Nombre de parrainages au {{ today }}</p>
+      <p>Nombre de parrainages finaux</p>
         <svg id="depMap" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.674 609.464">
           <title>France DROM COM</title>
           <path
@@ -435,13 +435,9 @@ export default {
   setup(props) {
     const captions = ref([]);
     const loading = ref(null);
-    const today = ref(null);
 
     loading.value = true;
     let equality = false;
-
-    today.value = ('0' + new Date().getDate()).slice(-2) + '/'
-          + ('0' + (new Date().getMonth()+1)).slice(-2);
 
     props.deps.forEach(dep => {
       let color = colors.find(el => el.name === dep.votes[0].key);
@@ -464,8 +460,7 @@ export default {
 
     return {
       captions,
-      loading,
-      today
+      loading
     };
   },
   mounted() {
