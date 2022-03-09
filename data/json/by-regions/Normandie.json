@@ -1,15 +1,15 @@
 {
   "nom": "Normandie",
-  "total": 857,
+  "total": 901,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 159,
+      "key": "PÉCRESSE Valérie",
+      "value": 164,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 157,
+      "key": "MACRON Emmanuel",
+      "value": 162,
       "rang": 2
     },
     {
@@ -19,42 +19,42 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 66,
+      "value": 72,
       "rang": 4
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 57,
+      "value": 59,
       "rang": 5
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 53,
+      "value": 55,
       "rang": 6
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 49,
+      "value": 50,
       "rang": 7
     },
     {
       "key": "LE PEN Marine",
-      "value": 36,
+      "value": 38,
       "rang": 8
     },
     {
       "key": "JADOT Yannick",
-      "value": 35,
+      "value": 36,
       "rang": 9
     },
     {
       "key": "POUTOU Philippe",
-      "value": 25,
-      "rang": 10
+      "value": 36,
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
-      "value": 24,
+      "value": 25,
       "rang": 11
     },
     {
@@ -68,19 +68,19 @@
       "rang": 13
     },
     {
+      "key": "TAUBIRA Christiane",
+      "value": 14,
+      "rang": 14
+    },
+    {
       "key": "THOUY Hélène",
-      "value": 13,
+      "value": 14,
       "rang": 14
     },
     {
       "key": "KAZIB Anasse",
-      "value": 12,
-      "rang": 15
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 12,
-      "rang": 15
+      "value": 13,
+      "rang": 16
     },
     {
       "key": "KOENIG Gaspard",
@@ -89,7 +89,7 @@
     },
     {
       "key": "MIGUET Nicolas",
-      "value": 6,
+      "value": 7,
       "rang": 18
     },
     {
@@ -98,44 +98,54 @@
       "rang": 19
     },
     {
+      "key": "KUZMANOVIC Georges",
+      "value": 2,
+      "rang": 20
+    },
+    {
+      "key": "BÉKAERT Corinne",
+      "value": 1,
+      "rang": 21
+    },
+    {
       "key": "CAU Marie",
       "value": 1,
-      "rang": 20
+      "rang": 21
+    },
+    {
+      "key": "CAZENEUVE  Bernard",
+      "value": 1,
+      "rang": 21
     },
     {
       "key": "EGGER Clara",
       "value": 1,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "FIORILE Eric Régis",
       "value": 1,
-      "rang": 20
-    },
-    {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "MEURICE Guillaume",
       "value": 1,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "PHILIPPOT Florian",
       "value": 1,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "SCHOVANEC Josef",
       "value": 1,
-      "rang": 20
+      "rang": 21
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 20
+      "rang": 21
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "nom": "Loir-et-Cher",
-  "total": 76,
+  "total": 79,
   "votes": [
     {
       "key": "MACRON Emmanuel",
@@ -18,6 +18,11 @@
       "rang": 3
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 6,
+      "rang": 4
+    },
+    {
       "key": "POUTOU Philippe",
       "value": 6,
       "rang": 4
@@ -25,27 +30,22 @@
     {
       "key": "JADOT Yannick",
       "value": 5,
-      "rang": 5
-    },
-    {
-      "key": "DUPONT-AIGNAN Nicolas",
-      "value": 4,
       "rang": 6
     },
     {
       "key": "HIDALGO Anne",
       "value": 4,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "LASSALLE Jean",
       "value": 4,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 4,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "LE PEN Marine",
@@ -54,6 +54,11 @@
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 2,
+      "rang": 11
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 11
     },
@@ -68,19 +73,14 @@
       "rang": 11
     },
     {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 14
-    },
-    {
       "key": "ROUSSEL Fabien",
       "value": 1,
-      "rang": 14
+      "rang": 15
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 14
+      "rang": 15
     }
   ]
 }

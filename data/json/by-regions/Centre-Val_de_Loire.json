@@ -1,15 +1,15 @@
 {
   "nom": "Centre-Val de Loire",
-  "total": 495,
+  "total": 524,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 106,
+      "value": 111,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 65,
+      "value": 69,
       "rang": 2
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 30,
+      "value": 34,
       "rang": 5
     },
     {
@@ -33,28 +33,28 @@
       "rang": 6
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 26,
+      "key": "POUTOU Philippe",
+      "value": 27,
       "rang": 7
     },
     {
-      "key": "JADOT Yannick",
-      "value": 24,
+      "key": "LASSALLE Jean",
+      "value": 26,
       "rang": 8
+    },
+    {
+      "key": "JADOT Yannick",
+      "value": 25,
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 24,
-      "rang": 8
+      "rang": 10
     },
     {
       "key": "LE PEN Marine",
       "value": 23,
-      "rang": 10
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 19,
       "rang": 11
     },
     {
@@ -64,22 +64,22 @@
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 11,
+      "value": 13,
       "rang": 13
     },
     {
       "key": "THOUY Hélène",
-      "value": 9,
+      "value": 10,
       "rang": 14
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 8,
+      "rang": 15
     },
     {
       "key": "ASSELINEAU François",
       "value": 7,
-      "rang": 15
-    },
-    {
-      "key": "TAUBIRA Christiane",
-      "value": 5,
       "rang": 16
     },
     {
@@ -104,6 +104,11 @@
     },
     {
       "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 20
+    },
+    {
+      "key": "FORTANÉ Jean-Marc",
       "value": 1,
       "rang": 20
     },

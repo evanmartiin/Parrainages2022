@@ -1,7 +1,7 @@
 {
   "nom": "FORTANÉ Jean-Marc",
-  "votes_confirmes": 9,
-  "votes_totaux": 9,
+  "votes_confirmes": 12,
+  "votes_totaux": 12,
   "rang": 23,
   "valide": false,
   "parrainages": [
@@ -76,15 +76,39 @@
       "circonscription": "Ley",
       "departement": "Moselle",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "MARQUENET Gérard",
+      "fonction": "Maire",
+      "circonscription": "Verneuil-sur-Indre",
+      "departement": "Indre-et-Loire",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DELVERT Jean",
+      "fonction": "Maire",
+      "circonscription": "Baladou",
+      "departement": "Lot",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "BLANC Pierre",
+      "fonction": "Maire",
+      "circonscription": "Villebrumier",
+      "departement": "Tarn-et-Garonne",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "M.",
-          "value": 6,
+          "value": 9,
           "rang": 1
         },
         {
@@ -95,20 +119,25 @@
       ]
     },
     "fonction": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 9,
+          "value": 12,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Alleyras",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Baladou",
           "value": 1,
           "rang": 1
         },
@@ -151,11 +180,21 @@
           "key": "Savy-Berlette",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Verneuil-sur-Indre",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Villebrumier",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "Haute-Loire",
@@ -188,6 +227,16 @@
           "rang": 2
         },
         {
+          "key": "Indre-et-Loire",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Lot",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Moselle",
           "value": 1,
           "rang": 2
@@ -196,11 +245,16 @@
           "key": "Pas-de-Calais",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Tarn-et-Garonne",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "date": {
-      "total": 9,
+      "total": 12,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -208,19 +262,24 @@
           "rang": 1
         },
         {
+          "key": "2022-03-07",
+          "value": 3,
+          "rang": 2
+        },
+        {
           "key": "2022-02-22",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-03-03",
           "value": 2,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 4
+          "rang": 5
         }
       ]
     }

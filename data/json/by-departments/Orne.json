@@ -1,10 +1,10 @@
 {
   "nom": "Orne",
-  "total": 123,
+  "total": 127,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 36,
+      "value": 37,
       "rang": 1
     },
     {
@@ -13,14 +13,14 @@
       "rang": 2
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 9,
+      "key": "MACRON Emmanuel",
+      "value": 10,
       "rang": 3
     },
     {
-      "key": "MACRON Emmanuel",
+      "key": "ASSELINEAU François",
       "value": 9,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -38,6 +38,11 @@
       "rang": 5
     },
     {
+      "key": "HIDALGO Anne",
+      "value": 6,
+      "rang": 8
+    },
+    {
       "key": "LASSALLE Jean",
       "value": 6,
       "rang": 8
@@ -48,14 +53,9 @@
       "rang": 8
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 5,
-      "rang": 10
-    },
-    {
       "key": "POUTOU Philippe",
-      "value": 5,
-      "rang": 10
+      "value": 6,
+      "rang": 8
     },
     {
       "key": "MIGUET Nicolas",

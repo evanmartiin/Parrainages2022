@@ -1,7 +1,7 @@
 {
   "nom": "KUZMANOVIC Georges",
-  "votes_confirmes": 46,
-  "votes_totaux": 46,
+  "votes_confirmes": 49,
+  "votes_totaux": 49,
   "rang": 18,
   "valide": false,
   "parrainages": [
@@ -372,15 +372,39 @@
       "circonscription": "Passy",
       "departement": "Yonne",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "BAZIN-KRETZSCHMAR Didier",
+      "fonction": "Maire",
+      "circonscription": "Saint-Pierre-Aigle",
+      "departement": "Aisne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAUNOURY Hervé",
+      "fonction": "Maire",
+      "circonscription": "Falaise",
+      "departement": "Calvados",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "GARNAVAULT Philippe",
+      "fonction": "Maire",
+      "circonscription": "Saint-Cirgues-sur-Couze",
+      "departement": "Puy-de-Dôme",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 46,
+      "total": 49,
       "valeurs": [
         {
           "key": "M.",
-          "value": 43,
+          "value": 46,
           "rang": 1
         },
         {
@@ -391,11 +415,11 @@
       ]
     },
     "fonction": {
-      "total": 46,
+      "total": 49,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 43,
+          "value": 46,
           "rang": 1
         },
         {
@@ -411,7 +435,7 @@
       ]
     },
     "circonscription": {
-      "total": 46,
+      "total": 49,
       "valeurs": [
         {
           "key": "Assenoncourt",
@@ -470,6 +494,11 @@
         },
         {
           "key": "Eschwiller",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Falaise",
           "value": 1,
           "rang": 1
         },
@@ -579,6 +608,16 @@
           "rang": 1
         },
         {
+          "key": "Saint-Cirgues-sur-Couze",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Saint-Pierre-Aigle",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Sarreinsming",
           "value": 1,
           "rang": 1
@@ -646,7 +685,7 @@
       ]
     },
     "departement": {
-      "total": 46,
+      "total": 49,
       "valeurs": [
         {
           "key": "Moselle",
@@ -674,7 +713,17 @@
           "rang": 2
         },
         {
+          "key": "Aisne",
+          "value": 2,
+          "rang": 6
+        },
+        {
           "key": "Bas-Rhin",
+          "value": 2,
+          "rang": 6
+        },
+        {
+          "key": "Calvados",
           "value": 2,
           "rang": 6
         },
@@ -690,6 +739,11 @@
         },
         {
           "key": "Marne",
+          "value": 2,
+          "rang": 6
+        },
+        {
+          "key": "Puy-de-Dôme",
           "value": 2,
           "rang": 6
         },
@@ -711,77 +765,62 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 13
-        },
-        {
-          "key": "Aisne",
-          "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 13
-        },
-        {
-          "key": "Calvados",
-          "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Gard",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Indre",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Jura",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "La Réunion",
           "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 13
-        },
-        {
-          "key": "Puy-de-Dôme",
-          "value": 1,
-          "rang": 13
+          "rang": 16
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
-          "rang": 13
+          "rang": 16
         }
       ]
     },
     "date": {
-      "total": 46,
+      "total": 49,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -809,29 +848,34 @@
           "rang": 4
         },
         {
+          "key": "2022-03-07",
+          "value": 3,
+          "rang": 4
+        },
+        {
           "key": "2022-02-10",
           "value": 2,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-22",
           "value": 2,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-24",
           "value": 2,
-          "rang": 6
+          "rang": 7
         },
         {
           "key": "2022-02-01",
           "value": 1,
-          "rang": 9
+          "rang": 10
         },
         {
           "key": "2022-03-03",
           "value": 1,
-          "rang": 9
+          "rang": 10
         }
       ]
     }

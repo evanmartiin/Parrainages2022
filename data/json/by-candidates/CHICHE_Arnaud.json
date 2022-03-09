@@ -1,7 +1,7 @@
 {
   "nom": "CHICHE Arnaud",
-  "votes_confirmes": 16,
-  "votes_totaux": 16,
+  "votes_confirmes": 21,
+  "votes_totaux": 21,
   "rang": 21,
   "valide": false,
   "parrainages": [
@@ -132,15 +132,55 @@
       "circonscription": "Saint-Maximin",
       "departement": "Isère",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "ROUIT Daniel",
+      "fonction": "Maire",
+      "circonscription": "Serres",
+      "departement": "Hautes-Alpes",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DUCÈNE Philippe",
+      "fonction": "Maire",
+      "circonscription": "Val de Louyre et Caudeau",
+      "departement": "Dordogne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "LAGRENAUDIE Yannick",
+      "fonction": "Président d'un EPCI à fiscalité propre",
+      "circonscription": "CC du Pays de Saint Aulaye",
+      "departement": "Dordogne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "GAUDRAY Alain",
+      "fonction": "Maire",
+      "circonscription": "Fragnes-La Loyère",
+      "departement": "Saône-et-Loire",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "BELLINI Nans",
+      "fonction": "Maire",
+      "circonscription": "Châteauvieux",
+      "departement": "Var",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 16,
+      "total": 21,
       "valeurs": [
         {
           "key": "M.",
-          "value": 12,
+          "value": 17,
           "rang": 1
         },
         {
@@ -151,22 +191,27 @@
       ]
     },
     "fonction": {
-      "total": 16,
+      "total": 21,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 15,
+          "value": 19,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
           "value": 1,
           "rang": 2
+        },
+        {
+          "key": "Président.e d'un EPCI à fiscalité propre",
+          "value": 1,
+          "rang": 2
         }
       ]
     },
     "circonscription": {
-      "total": 16,
+      "total": 21,
       "valeurs": [
         {
           "key": "Valdallière",
@@ -175,6 +220,21 @@
         },
         {
           "key": "Binarville",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "CC du Pays de Saint Aulaye",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Châteauvieux",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Fragnes-La Loyère",
           "value": 1,
           "rang": 2
         },
@@ -239,15 +299,30 @@
           "rang": 2
         },
         {
+          "key": "Serres",
+          "value": 1,
+          "rang": 2
+        },
+        {
           "key": "Trégunc",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "Val de Louyre et Caudeau",
           "value": 1,
           "rang": 2
         }
       ]
     },
     "departement": {
-      "total": 16,
+      "total": 21,
       "valeurs": [
+        {
+          "key": "Dordogne",
+          "value": 3,
+          "rang": 1
+        },
         {
           "key": "Somme",
           "value": 3,
@@ -256,102 +331,117 @@
         {
           "key": "Calvados",
           "value": 2,
-          "rang": 2
-        },
-        {
-          "key": "Dordogne",
-          "value": 1,
           "rang": 3
         },
         {
           "key": "Finistère",
           "value": 1,
-          "rang": 3
+          "rang": 4
+        },
+        {
+          "key": "Hautes-Alpes",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "Isère",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Loire",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Loiret",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Nord",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 3
+          "rang": 4
+        },
+        {
+          "key": "Saône-et-Loire",
+          "value": 1,
+          "rang": 4
         },
         {
           "key": "Seine-Maritime",
           "value": 1,
-          "rang": 3
+          "rang": 4
+        },
+        {
+          "key": "Var",
+          "value": 1,
+          "rang": 4
         }
       ]
     },
     "date": {
-      "total": 16,
+      "total": 21,
       "valeurs": [
+        {
+          "key": "2022-03-07",
+          "value": 5,
+          "rang": 1
+        },
         {
           "key": "2022-03-03",
           "value": 4,
-          "rang": 1
+          "rang": 2
         },
         {
           "key": "2022-02-08",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-03-01",
           "value": 3,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "2022-02-03",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-22",
           "value": 1,
-          "rang": 5
+          "rang": 6
         }
       ]
     }

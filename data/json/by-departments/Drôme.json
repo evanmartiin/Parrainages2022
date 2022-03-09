@@ -1,31 +1,31 @@
 {
   "nom": "Drôme",
-  "total": 145,
+  "total": 151,
   "votes": [
+    {
+      "key": "PÉCRESSE Valérie",
+      "value": 26,
+      "rang": 1
+    },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 24,
-      "rang": 1
+      "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
       "value": 22,
-      "rang": 2
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 22,
-      "rang": 2
+      "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 11,
+      "value": 12,
       "rang": 4
     },
     {
       "key": "HIDALGO Anne",
       "value": 11,
-      "rang": 4
+      "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -44,7 +44,7 @@
     },
     {
       "key": "POUTOU Philippe",
-      "value": 6,
+      "value": 7,
       "rang": 9
     },
     {

@@ -1,7 +1,7 @@
 {
   "nom": "CAU Marie",
-  "votes_confirmes": 7,
-  "votes_totaux": 7,
+  "votes_confirmes": 8,
+  "votes_totaux": 8,
   "rang": 26,
   "valide": false,
   "parrainages": [
@@ -60,31 +60,39 @@
       "circonscription": "Montigny-en-Ostrevent",
       "departement": "Nord",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "CINO Georges",
+      "fonction": "Maire",
+      "circonscription": "Écaillon",
+      "departement": "Nord",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "M.",
-          "value": 7,
+          "value": 8,
           "rang": 1
         }
       ]
     },
     "fonction": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 7,
+          "value": 8,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "Caligny",
@@ -120,15 +128,20 @@
           "key": "Montredon",
           "value": 1,
           "rang": 1
+        },
+        {
+          "key": "Écaillon",
+          "value": 1,
+          "rang": 1
         }
       ]
     },
     "departement": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "Nord",
-          "value": 3,
+          "value": 4,
           "rang": 1
         },
         {
@@ -154,7 +167,7 @@
       ]
     },
     "date": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
         {
           "key": "2022-03-03",
@@ -183,6 +196,11 @@
         },
         {
           "key": "2022-03-01",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "2022-03-07",
           "value": 1,
           "rang": 2
         }

@@ -1,8 +1,8 @@
 {
   "nom": "SMATI  Rafik",
-  "votes_confirmes": 9,
-  "votes_totaux": 9,
-  "rang": 23,
+  "votes_confirmes": 10,
+  "votes_totaux": 10,
+  "rang": 24,
   "valide": false,
   "parrainages": [
     {
@@ -76,15 +76,23 @@
       "circonscription": "Harreberg",
       "departement": "Moselle",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "M.",
+      "nom": "JEANDEL Philippe",
+      "fonction": "Maire",
+      "circonscription": "Balgau",
+      "departement": "Haut-Rhin",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "M.",
-          "value": 6,
+          "value": 7,
           "rang": 1
         },
         {
@@ -95,11 +103,11 @@
       ]
     },
     "fonction": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 7,
+          "value": 8,
           "rang": 1
         },
         {
@@ -110,8 +118,13 @@
       ]
     },
     "circonscription": {
-      "total": 7,
+      "total": 8,
       "valeurs": [
+        {
+          "key": "Balgau",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Bizeneuille",
           "value": 1,
@@ -150,8 +163,13 @@
       ]
     },
     "departement": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
+        {
+          "key": "Haut-Rhin",
+          "value": 2,
+          "rang": 1
+        },
         {
           "key": "Haute-Savoie",
           "value": 2,
@@ -165,32 +183,27 @@
         {
           "key": "Ain",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 3
-        },
-        {
-          "key": "Haut-Rhin",
-          "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 3
+          "rang": 4
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 1,
-          "rang": 3
+          "rang": 4
         }
       ]
     },
     "date": {
-      "total": 9,
+      "total": 10,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -214,6 +227,11 @@
         },
         {
           "key": "2022-03-01",
+          "value": 1,
+          "rang": 4
+        },
+        {
+          "key": "2022-03-07",
           "value": 1,
           "rang": 4
         }

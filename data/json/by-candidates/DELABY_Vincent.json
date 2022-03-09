@@ -1,0 +1,69 @@
+{
+  "nom": "DELABY Vincent",
+  "votes_confirmes": 1,
+  "votes_totaux": 1,
+  "rang": 37,
+  "valide": false,
+  "parrainages": [
+    {
+      "genre": "M.",
+      "nom": "MAILLARD Christian",
+      "fonction": "Maire",
+      "circonscription": "Glay",
+      "departement": "Doubs",
+      "date": "2022-03-07"
+    }
+  ],
+  "stats": {
+    "genre": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "M.",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "fonction": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Maire",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "circonscription": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Glay",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "departement": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "Doubs",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    },
+    "date": {
+      "total": 1,
+      "valeurs": [
+        {
+          "key": "2022-03-07",
+          "value": 1,
+          "rang": 1
+        }
+      ]
+    }
+  }
+}

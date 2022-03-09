@@ -1,10 +1,10 @@
 {
   "nom": "La Réunion",
-  "total": 67,
+  "total": 75,
   "votes": [
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 27,
+      "value": 29,
       "rang": 1
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 7,
+      "value": 9,
       "rang": 3
     },
     {
@@ -24,23 +24,33 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 4,
+      "value": 5,
       "rang": 5
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 2,
+      "rang": 6
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
       "value": 1,
-      "rang": 6
+      "rang": 7
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 1,
+      "rang": 7
     },
     {
       "key": "KUZMANOVIC Georges",
       "value": 1,
-      "rang": 6
+      "rang": 7
     },
     {
       "key": "TAUBIRA Christiane",
       "value": 1,
-      "rang": 6
+      "rang": 7
     }
   ]
 }

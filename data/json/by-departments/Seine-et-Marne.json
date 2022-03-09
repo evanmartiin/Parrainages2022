@@ -1,16 +1,21 @@
 {
   "nom": "Seine-et-Marne",
-  "total": 203,
+  "total": 215,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 104,
+      "value": 105,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 29,
+      "value": 34,
       "rang": 2
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 13,
+      "rang": 3
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -18,29 +23,24 @@
       "rang": 3
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 11,
-      "rang": 4
+      "key": "POUTOU Philippe",
+      "value": 9,
+      "rang": 5
     },
     {
       "key": "LE PEN Marine",
       "value": 8,
-      "rang": 5
+      "rang": 6
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 7,
+      "key": "ZEMMOUR Éric",
+      "value": 8,
       "rang": 6
     },
     {
       "key": "THOUY Hélène",
       "value": 7,
-      "rang": 6
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 7,
-      "rang": 6
+      "rang": 8
     },
     {
       "key": "ROUSSEL Fabien",
@@ -69,6 +69,11 @@
     },
     {
       "key": "LASSALLE Jean",
+      "value": 1,
+      "rang": 12
+    },
+    {
+      "key": "MIGUET Nicolas",
       "value": 1,
       "rang": 12
     }

@@ -1,6 +1,6 @@
 {
   "nom": "Moselle",
-  "total": 224,
+  "total": 232,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -14,7 +14,7 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 24,
+      "value": 27,
       "rang": 3
     },
     {
@@ -29,18 +29,18 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 15,
+      "value": 16,
       "rang": 6
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 15,
+      "rang": 7
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 14,
-      "rang": 7
-    },
-    {
-      "key": "LASSALLE Jean",
-      "value": 14,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "JADOT Yannick",
@@ -54,12 +54,12 @@
     },
     {
       "key": "ASSELINEAU François",
-      "value": 9,
+      "value": 10,
       "rang": 11
     },
     {
       "key": "HIDALGO Anne",
-      "value": 9,
+      "value": 10,
       "rang": 11
     },
     {
@@ -99,6 +99,11 @@
     },
     {
       "key": "KOENIG Gaspard",
+      "value": 1,
+      "rang": 17
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 1,
       "rang": 17
     },

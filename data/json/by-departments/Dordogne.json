@@ -1,10 +1,10 @@
 {
   "nom": "Dordogne",
-  "total": 191,
+  "total": 203,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 32,
+      "value": 33,
       "rang": 1
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 21,
+      "value": 22,
       "rang": 3
     },
     {
@@ -24,22 +24,22 @@
     },
     {
       "key": "MÉLENCHON Jean-Luc",
-      "value": 14,
+      "value": 15,
+      "rang": 5
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 15,
       "rang": 5
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
-      "rang": 6
+      "value": 13,
+      "rang": 7
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 11,
-      "rang": 7
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 10,
       "rang": 8
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "key": "KAZIB Anasse",
-      "value": 8,
-      "rang": 10
+      "value": 9,
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
@@ -66,6 +66,11 @@
       "key": "JADOT Yannick",
       "value": 4,
       "rang": 13
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 3,
+      "rang": 14
     },
     {
       "key": "KUZMANOVIC Georges",
@@ -85,32 +90,27 @@
     {
       "key": "EGGER Clara",
       "value": 2,
-      "rang": 17
-    },
-    {
-      "key": "CHICHE Arnaud",
-      "value": 1,
       "rang": 18
     },
     {
       "key": "FESSARD DE FOUCAULT Bertrand",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 18
+      "rang": 19
     },
     {
       "key": "THOUY Hélène",
       "value": 1,
-      "rang": 18
+      "rang": 19
     }
   ]
 }

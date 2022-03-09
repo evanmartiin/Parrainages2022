@@ -1,6 +1,6 @@
 {
   "nom": "Deux-Sèvres",
-  "total": 53,
+  "total": 61,
   "votes": [
     {
       "key": "JADOT Yannick",
@@ -9,22 +9,22 @@
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 10,
-      "rang": 2
+      "value": 11,
+      "rang": 1
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 11,
+      "rang": 1
     },
     {
       "key": "HIDALGO Anne",
       "value": 9,
-      "rang": 3
-    },
-    {
-      "key": "PÉCRESSE Valérie",
-      "value": 7,
       "rang": 4
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 6,
+      "key": "PÉCRESSE Valérie",
+      "value": 8,
       "rang": 5
     },
     {
@@ -44,6 +44,11 @@
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
+      "value": 1,
+      "rang": 9
+    },
+    {
+      "key": "KAZIB Anasse",
       "value": 1,
       "rang": 9
     },

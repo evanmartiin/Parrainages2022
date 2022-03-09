@@ -1,25 +1,25 @@
 {
   "nom": "Provence-Alpes-Côte d'Azur",
-  "total": 592,
+  "total": 615,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 209,
+      "value": 213,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 119,
+      "value": 122,
       "rang": 2
     },
     {
       "key": "LE PEN Marine",
-      "value": 60,
+      "value": 64,
       "rang": 3
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 39,
+      "value": 40,
       "rang": 4
     },
     {
@@ -33,28 +33,28 @@
       "rang": 6
     },
     {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 17,
+      "rang": 7
+    },
+    {
       "key": "LASSALLE Jean",
       "value": 17,
       "rang": 7
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "HIDALGO Anne",
       "value": 15,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "JADOT Yannick",
       "value": 15,
-      "rang": 8
-    },
-    {
-      "key": "HIDALGO Anne",
-      "value": 14,
-      "rang": 10
+      "rang": 9
     },
     {
       "key": "POUTOU Philippe",
-      "value": 11,
+      "value": 14,
       "rang": 11
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 7,
-      "rang": 13
+      "value": 8,
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
-      "value": 5,
+      "value": 6,
       "rang": 14
     },
     {
@@ -83,29 +83,34 @@
       "rang": 16
     },
     {
+      "key": "CHICHE Arnaud",
+      "value": 2,
+      "rang": 16
+    },
+    {
       "key": "EGGER Clara",
+      "value": 2,
+      "rang": 16
+    },
+    {
+      "key": "KOENIG Gaspard",
       "value": 2,
       "rang": 16
     },
     {
       "key": "BÉKAERT Corinne",
       "value": 1,
-      "rang": 18
+      "rang": 20
     },
     {
       "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 18
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 18
+      "rang": 20
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 18
+      "rang": 20
     }
   ]
 }

@@ -1,11 +1,16 @@
 {
   "nom": "Charente",
-  "total": 103,
+  "total": 111,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 26,
+      "value": 28,
       "rang": 1
+    },
+    {
+      "key": "HIDALGO Anne",
+      "value": 12,
+      "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -13,14 +18,9 @@
       "rang": 2
     },
     {
-      "key": "HIDALGO Anne",
-      "value": 10,
-      "rang": 3
-    },
-    {
       "key": "LASSALLE Jean",
-      "value": 10,
-      "rang": 3
+      "value": 11,
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
@@ -28,14 +28,14 @@
       "rang": 5
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 8,
-      "rang": 6
+      "key": "POUTOU Philippe",
+      "value": 9,
+      "rang": 5
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 7,
-      "rang": 7
+      "key": "PÉCRESSE Valérie",
+      "value": 9,
+      "rang": 5
     },
     {
       "key": "JADOT Yannick",

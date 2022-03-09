@@ -1,61 +1,61 @@
 {
   "nom": "Aisne",
-  "total": 227,
+  "total": 251,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 28,
+      "value": 32,
       "rang": 1
     },
     {
       "key": "PÉCRESSE Valérie",
-      "value": 26,
+      "value": 28,
       "rang": 2
     },
     {
-      "key": "ASSELINEAU François",
-      "value": 22,
-      "rang": 3
-    },
-    {
-      "key": "ZEMMOUR Éric",
-      "value": 22,
+      "key": "POUTOU Philippe",
+      "value": 27,
       "rang": 3
     },
     {
       "key": "ARTHAUD Nathalie",
-      "value": 21,
-      "rang": 5
+      "value": 22,
+      "rang": 4
+    },
+    {
+      "key": "ASSELINEAU François",
+      "value": 22,
+      "rang": 4
+    },
+    {
+      "key": "ZEMMOUR Éric",
+      "value": 22,
+      "rang": 4
     },
     {
       "key": "LE PEN Marine",
-      "value": 19,
-      "rang": 6
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 18,
+      "value": 20,
       "rang": 7
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 16,
+      "value": 17,
       "rang": 8
+    },
+    {
+      "key": "KAZIB Anasse",
+      "value": 12,
+      "rang": 9
     },
     {
       "key": "MÉLENCHON Jean-Luc",
       "value": 11,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 11,
-      "rang": 9
-    },
-    {
-      "key": "KAZIB Anasse",
-      "value": 10,
-      "rang": 11
+      "rang": 10
     },
     {
       "key": "JADOT Yannick",
@@ -64,21 +64,26 @@
     },
     {
       "key": "HIDALGO Anne",
-      "value": 3,
+      "value": 4,
       "rang": 13
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 3,
+      "value": 4,
       "rang": 13
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 13
+      "rang": 15
     },
     {
       "key": "EGGER Clara",
+      "value": 2,
+      "rang": 16
+    },
+    {
+      "key": "KUZMANOVIC Georges",
       "value": 2,
       "rang": 16
     },
@@ -88,14 +93,9 @@
       "rang": 16
     },
     {
-      "key": "KUZMANOVIC Georges",
-      "value": 1,
-      "rang": 18
-    },
-    {
       "key": "THOUY Hélène",
-      "value": 1,
-      "rang": 18
+      "value": 2,
+      "rang": 16
     }
   ]
 }

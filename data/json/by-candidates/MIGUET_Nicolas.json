@@ -1,7 +1,7 @@
 {
   "nom": "MIGUET Nicolas",
-  "votes_confirmes": 35,
-  "votes_totaux": 35,
+  "votes_confirmes": 40,
+  "votes_totaux": 40,
   "rang": 19,
   "valide": false,
   "parrainages": [
@@ -284,15 +284,55 @@
       "circonscription": "Aillon-le-Vieux",
       "departement": "Savoie",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "SARONI Patrick",
+      "fonction": "Maire",
+      "circonscription": "Le Plantay",
+      "departement": "Ain",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "BRECIN Jean-Yves",
+      "fonction": "Maire",
+      "circonscription": "Dialan sur Chaîne",
+      "departement": "Calvados",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DIETRICH Christophe",
+      "fonction": "Maire",
+      "circonscription": "Laigneville",
+      "departement": "Oise",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "LEMOINE Christian",
+      "fonction": "Maire",
+      "circonscription": "Caramany",
+      "departement": "Pyrénées-Orientales",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "JAIRE Eric",
+      "fonction": "Maire",
+      "circonscription": "Boulancourt",
+      "departement": "Seine-et-Marne",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 35,
+      "total": 40,
       "valeurs": [
         {
           "key": "M.",
-          "value": 30,
+          "value": 35,
           "rang": 1
         },
         {
@@ -303,11 +343,11 @@
       ]
     },
     "fonction": {
-      "total": 35,
+      "total": 40,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 33,
+          "value": 38,
           "rang": 1
         },
         {
@@ -323,7 +363,7 @@
       ]
     },
     "circonscription": {
-      "total": 34,
+      "total": 39,
       "valeurs": [
         {
           "key": "Abaucourt-Hautecourt",
@@ -346,12 +386,22 @@
           "rang": 1
         },
         {
+          "key": "Boulancourt",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Brouains",
           "value": 1,
           "rang": 1
         },
         {
           "key": "Campagne",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Caramany",
           "value": 1,
           "rang": 1
         },
@@ -372,6 +422,11 @@
         },
         {
           "key": "Curières",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Dialan sur Chaîne",
           "value": 1,
           "rang": 1
         },
@@ -407,6 +462,16 @@
         },
         {
           "key": "La Lande-Saint-Siméon",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Laigneville",
+          "value": 1,
+          "rang": 1
+        },
+        {
+          "key": "Le Plantay",
           "value": 1,
           "rang": 1
         },
@@ -498,7 +563,7 @@
       ]
     },
     "departement": {
-      "total": 35,
+      "total": 40,
       "valeurs": [
         {
           "key": "Ardennes",
@@ -509,6 +574,11 @@
           "key": "Orne",
           "value": 3,
           "rang": 2
+        },
+        {
+          "key": "Ain",
+          "value": 2,
+          "rang": 3
         },
         {
           "key": "Aisne",
@@ -526,114 +596,124 @@
           "rang": 3
         },
         {
+          "key": "Oise",
+          "value": 2,
+          "rang": 3
+        },
+        {
           "key": "Savoie",
           "value": 2,
           "rang": 3
         },
         {
-          "key": "Ain",
-          "value": 1,
-          "rang": 7
-        },
-        {
           "key": "Aveyron",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Bas-Rhin",
           "value": 1,
-          "rang": 7
+          "rang": 9
+        },
+        {
+          "key": "Calvados",
+          "value": 1,
+          "rang": 9
         },
         {
           "key": "Côte-d'Or",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Gironde",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Haute-Marne",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Indre-et-Loire",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Landes",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Lozère",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Manche",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Marne",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Meuse",
           "value": 1,
-          "rang": 7
-        },
-        {
-          "key": "Oise",
-          "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Puy-de-Dôme",
           "value": 1,
-          "rang": 7
+          "rang": 9
+        },
+        {
+          "key": "Pyrénées-Orientales",
+          "value": 1,
+          "rang": 9
         },
         {
           "key": "Sarthe",
           "value": 1,
-          "rang": 7
+          "rang": 9
+        },
+        {
+          "key": "Seine-et-Marne",
+          "value": 1,
+          "rang": 9
         },
         {
           "key": "Val-d'Oise",
           "value": 1,
-          "rang": 7
+          "rang": 9
         },
         {
           "key": "Vosges",
           "value": 1,
-          "rang": 7
+          "rang": 9
         }
       ]
     },
     "date": {
-      "total": 35,
+      "total": 40,
       "valeurs": [
         {
           "key": "2022-03-01",
@@ -656,14 +736,19 @@
           "rang": 4
         },
         {
+          "key": "2022-03-07",
+          "value": 5,
+          "rang": 5
+        },
+        {
           "key": "2022-02-15",
           "value": 3,
-          "rang": 5
+          "rang": 6
         },
         {
           "key": "2022-02-03",
           "value": 2,
-          "rang": 6
+          "rang": 7
         }
       ]
     }

@@ -1,21 +1,21 @@
 {
   "nom": "Haute-Garonne",
-  "total": 237,
+  "total": 250,
   "votes": [
     {
       "key": "HIDALGO Anne",
-      "value": 95,
+      "value": 96,
       "rang": 1
     },
     {
       "key": "LASSALLE Jean",
-      "value": 25,
+      "value": 26,
       "rang": 2
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 24,
-      "rang": 3
+      "value": 26,
+      "rang": 2
     },
     {
       "key": "MÉLENCHON Jean-Luc",
@@ -29,38 +29,38 @@
     },
     {
       "key": "JADOT Yannick",
-      "value": 11,
+      "value": 12,
       "rang": 6
+    },
+    {
+      "key": "POUTOU Philippe",
+      "value": 11,
+      "rang": 7
     },
     {
       "key": "PÉCRESSE Valérie",
       "value": 9,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "KAZIB Anasse",
       "value": 8,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LE PEN Marine",
       "value": 7,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 6,
+      "value": 7,
       "rang": 10
     },
     {
       "key": "ARTHAUD Nathalie",
       "value": 5,
-      "rang": 11
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 5,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
@@ -89,6 +89,11 @@
     },
     {
       "key": "FIORILE Eric Régis",
+      "value": 1,
+      "rang": 15
+    },
+    {
+      "key": "HERROU Cédric",
       "value": 1,
       "rang": 15
     },

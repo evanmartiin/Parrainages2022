@@ -1,8 +1,8 @@
 {
   "nom": "BÉKAERT Corinne",
-  "votes_confirmes": 5,
-  "votes_totaux": 5,
-  "rang": 29,
+  "votes_confirmes": 6,
+  "votes_totaux": 6,
+  "rang": 28,
   "valide": false,
   "parrainages": [
     {
@@ -44,11 +44,19 @@
       "circonscription": "Courteuil",
       "departement": "Oise",
       "date": "2022-03-01"
+    },
+    {
+      "genre": "Mme",
+      "nom": "JULIEN-FARCIS Sophie",
+      "fonction": "Maire",
+      "circonscription": "Champeaux",
+      "departement": "Manche",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
         {
           "key": "M.",
@@ -57,24 +65,29 @@
         },
         {
           "key": "Mme",
-          "value": 1,
+          "value": 2,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 5,
+          "value": 6,
           "rang": 1
         }
       ]
     },
     "circonscription": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
+        {
+          "key": "Champeaux",
+          "value": 1,
+          "rang": 1
+        },
         {
           "key": "Courteuil",
           "value": 1,
@@ -103,7 +116,7 @@
       ]
     },
     "departement": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
         {
           "key": "Bas-Rhin",
@@ -121,6 +134,11 @@
           "rang": 1
         },
         {
+          "key": "Manche",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Nord",
           "value": 1,
           "rang": 1
@@ -133,7 +151,7 @@
       ]
     },
     "date": {
-      "total": 5,
+      "total": 6,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -152,6 +170,11 @@
         },
         {
           "key": "2022-03-01",
+          "value": 1,
+          "rang": 2
+        },
+        {
+          "key": "2022-03-07",
           "value": 1,
           "rang": 2
         }

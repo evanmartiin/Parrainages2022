@@ -1,10 +1,10 @@
 {
   "nom": "Indre-et-Loire",
-  "total": 76,
+  "total": 82,
   "votes": [
     {
       "key": "MACRON Emmanuel",
-      "value": 17,
+      "value": 18,
       "rang": 1
     },
     {
@@ -28,6 +28,11 @@
       "rang": 5
     },
     {
+      "key": "POUTOU Philippe",
+      "value": 4,
+      "rang": 5
+    },
+    {
       "key": "ZEMMOUR Éric",
       "value": 4,
       "rang": 5
@@ -35,62 +40,67 @@
     {
       "key": "ARTHAUD Nathalie",
       "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "EGGER Clara",
       "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "LASSALLE Jean",
       "value": 3,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 7
+      "rang": 8
+    },
+    {
+      "key": "DUPONT-AIGNAN Nicolas",
+      "value": 2,
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",
       "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 11
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "THOUY Hélène",
       "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "ASSELINEAU François",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
-      "key": "DUPONT-AIGNAN Nicolas",
+      "key": "FORTANÉ Jean-Marc",
       "value": 1,
-      "rang": 15
+      "rang": 16
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 15
+      "rang": 16
+    },
+    {
+      "key": "TAUBIRA Christiane",
+      "value": 1,
+      "rang": 16
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 15
+      "rang": 16
     }
   ]
 }

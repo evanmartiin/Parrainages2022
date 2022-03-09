@@ -1,29 +1,34 @@
 {
   "nom": "Manche",
-  "total": 141,
+  "total": 152,
   "votes": [
     {
-      "key": "MACRON Emmanuel",
-      "value": 25,
+      "key": "PÉCRESSE Valérie",
+      "value": 26,
       "rang": 1
     },
     {
-      "key": "PÉCRESSE Valérie",
-      "value": 23,
+      "key": "MACRON Emmanuel",
+      "value": 25,
       "rang": 2
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 15,
+      "value": 17,
       "rang": 3
     },
     {
       "key": "HIDALGO Anne",
       "value": 15,
-      "rang": 3
+      "rang": 4
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 10,
+      "rang": 5
+    },
+    {
+      "key": "LE PEN Marine",
       "value": 10,
       "rang": 5
     },
@@ -35,17 +40,12 @@
     {
       "key": "JADOT Yannick",
       "value": 9,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 9,
-      "rang": 7
+      "rang": 8
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 8,
-      "rang": 9
+      "value": 9,
+      "rang": 8
     },
     {
       "key": "ASSELINEAU François",
@@ -53,19 +53,29 @@
       "rang": 10
     },
     {
-      "key": "LASSALLE Jean",
-      "value": 2,
-      "rang": 11
-    },
-    {
       "key": "POUTOU Philippe",
-      "value": 2,
+      "value": 3,
       "rang": 11
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 2,
+      "value": 3,
       "rang": 11
+    },
+    {
+      "key": "LASSALLE Jean",
+      "value": 2,
+      "rang": 13
+    },
+    {
+      "key": "BÉKAERT Corinne",
+      "value": 1,
+      "rang": 14
+    },
+    {
+      "key": "CAZENEUVE  Bernard",
+      "value": 1,
+      "rang": 14
     },
     {
       "key": "EGGER Clara",

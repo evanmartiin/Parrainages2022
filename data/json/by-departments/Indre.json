@@ -1,6 +1,6 @@
 {
   "nom": "Indre",
-  "total": 70,
+  "total": 73,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
@@ -24,11 +24,16 @@
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 5,
+      "value": 6,
       "rang": 5
     },
     {
       "key": "ARTHAUD Nathalie",
+      "value": 4,
+      "rang": 6
+    },
+    {
+      "key": "MACRON Emmanuel",
       "value": 4,
       "rang": 6
     },
@@ -40,32 +45,27 @@
     {
       "key": "JADOT Yannick",
       "value": 3,
-      "rang": 8
+      "rang": 9
     },
     {
-      "key": "MACRON Emmanuel",
+      "key": "POUTOU Philippe",
       "value": 3,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 3,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "ASSELINEAU François",
       "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "LE PEN Marine",
       "value": 2,
-      "rang": 11
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 2,
-      "rang": 11
+      "rang": 12
     },
     {
       "key": "KOENIG Gaspard",

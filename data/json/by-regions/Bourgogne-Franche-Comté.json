@@ -1,15 +1,15 @@
 {
   "nom": "Bourgogne-Franche-Comté",
-  "total": 1167,
+  "total": 1214,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 230,
+      "value": 239,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 159,
+      "value": 165,
       "rang": 2
     },
     {
@@ -18,34 +18,39 @@
       "rang": 3
     },
     {
-      "key": "ZEMMOUR Éric",
-      "value": 80,
+      "key": "POUTOU Philippe",
+      "value": 83,
       "rang": 4
     },
     {
-      "key": "MÉLENCHON Jean-Luc",
-      "value": 74,
+      "key": "ZEMMOUR Éric",
+      "value": 80,
       "rang": 5
     },
     {
-      "key": "POUTOU Philippe",
-      "value": 69,
+      "key": "MÉLENCHON Jean-Luc",
+      "value": 75,
       "rang": 6
     },
     {
       "key": "HIDALGO Anne",
-      "value": 62,
-      "rang": 7
-    },
-    {
-      "key": "LE PEN Marine",
-      "value": 62,
+      "value": 65,
       "rang": 7
     },
     {
       "key": "LASSALLE Jean",
-      "value": 60,
+      "value": 63,
+      "rang": 8
+    },
+    {
+      "key": "LE PEN Marine",
+      "value": 62,
       "rang": 9
+    },
+    {
+      "key": "ARTHAUD Nathalie",
+      "value": 55,
+      "rang": 10
     },
     {
       "key": "JADOT Yannick",
@@ -53,23 +58,18 @@
       "rang": 10
     },
     {
-      "key": "ARTHAUD Nathalie",
-      "value": 53,
-      "rang": 11
-    },
-    {
       "key": "TAUBIRA Christiane",
-      "value": 42,
+      "value": 45,
       "rang": 12
     },
     {
       "key": "ASSELINEAU François",
-      "value": 39,
+      "value": 40,
       "rang": 13
     },
     {
       "key": "ROUSSEL Fabien",
-      "value": 32,
+      "value": 33,
       "rang": 14
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "key": "KOENIG Gaspard",
-      "value": 8,
+      "value": 9,
       "rang": 18
     },
     {
@@ -119,6 +119,21 @@
     },
     {
       "key": "ARNAL Christian-Jacques",
+      "value": 1,
+      "rang": 24
+    },
+    {
+      "key": "CHAUDOT Michel",
+      "value": 1,
+      "rang": 24
+    },
+    {
+      "key": "CHICHE Arnaud",
+      "value": 1,
+      "rang": 24
+    },
+    {
+      "key": "DELABY Vincent",
       "value": 1,
       "rang": 24
     },

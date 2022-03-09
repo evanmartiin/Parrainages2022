@@ -1,7 +1,7 @@
 {
   "nom": "EGGER Clara",
-  "votes_confirmes": 34,
-  "votes_totaux": 34,
+  "votes_confirmes": 36,
+  "votes_totaux": 36,
   "rang": 20,
   "valide": false,
   "parrainages": [
@@ -276,30 +276,46 @@
       "circonscription": "Machilly",
       "departement": "Haute-Savoie",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "Mme",
+      "nom": "JUANOLE Gisèle",
+      "fonction": "Maire",
+      "circonscription": "Lamanère",
+      "departement": "Pyrénées-Orientales",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "AVOUAC Boris",
+      "fonction": "Maire",
+      "circonscription": "Saint-Laurent",
+      "departement": "Haute-Savoie",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 34,
+      "total": 36,
       "valeurs": [
         {
           "key": "M.",
-          "value": 26,
+          "value": 27,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 8,
+          "value": 9,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 34,
+      "total": 36,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 32,
+          "value": 34,
           "rang": 1
         },
         {
@@ -315,7 +331,7 @@
       ]
     },
     "circonscription": {
-      "total": 34,
+      "total": 36,
       "valeurs": [
         {
           "key": "Aiglun",
@@ -388,6 +404,11 @@
           "rang": 1
         },
         {
+          "key": "Lamanère",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Le Bourg",
           "value": 1,
           "rang": 1
@@ -443,6 +464,11 @@
           "rang": 1
         },
         {
+          "key": "Saint-Laurent",
+          "value": 1,
+          "rang": 1
+        },
+        {
           "key": "Sarremezan",
           "value": 1,
           "rang": 1
@@ -490,7 +516,7 @@
       ]
     },
     "departement": {
-      "total": 34,
+      "total": 36,
       "valeurs": [
         {
           "key": "Creuse",
@@ -523,6 +549,11 @@
           "rang": 3
         },
         {
+          "key": "Haute-Savoie",
+          "value": 2,
+          "rang": 3
+        },
+        {
           "key": "Nord",
           "value": 2,
           "rang": 3
@@ -530,97 +561,97 @@
         {
           "key": "Alpes-Maritimes",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Ardèche",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Ariège",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Aude",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Doubs",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Français de l'étranger",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Haute-Garonne",
           "value": 1,
-          "rang": 8
-        },
-        {
-          "key": "Haute-Savoie",
-          "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Haute-Saône",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Haute-Vienne",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Lot",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Manche",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Meurthe-et-Moselle",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Moselle",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Nièvre",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Oise",
           "value": 1,
-          "rang": 8
+          "rang": 9
+        },
+        {
+          "key": "Pyrénées-Orientales",
+          "value": 1,
+          "rang": 9
         },
         {
           "key": "Rhône",
           "value": 1,
-          "rang": 8
+          "rang": 9
         },
         {
           "key": "Vaucluse",
           "value": 1,
-          "rang": 8
+          "rang": 9
         }
       ]
     },
     "date": {
-      "total": 34,
+      "total": 36,
       "valeurs": [
         {
           "key": "2022-02-15",
@@ -663,9 +694,14 @@
           "rang": 8
         },
         {
+          "key": "2022-03-07",
+          "value": 2,
+          "rang": 8
+        },
+        {
           "key": "2022-02-10",
           "value": 1,
-          "rang": 9
+          "rang": 10
         }
       ]
     }

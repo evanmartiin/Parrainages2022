@@ -1,6 +1,6 @@
 {
   "nom": "Tarn-et-Garonne",
-  "total": 31,
+  "total": 34,
   "votes": [
     {
       "key": "HIDALGO Anne",
@@ -14,7 +14,7 @@
     },
     {
       "key": "ZEMMOUR Éric",
-      "value": 4,
+      "value": 5,
       "rang": 3
     },
     {
@@ -24,6 +24,11 @@
     },
     {
       "key": "LE PEN Marine",
+      "value": 2,
+      "rang": 4
+    },
+    {
+      "key": "POUTOU Philippe",
       "value": 2,
       "rang": 4
     },
@@ -38,24 +43,24 @@
       "rang": 4
     },
     {
+      "key": "FORTANÉ Jean-Marc",
+      "value": 1,
+      "rang": 9
+    },
+    {
       "key": "KOENIG Gaspard",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "LASSALLE Jean",
       "value": 1,
-      "rang": 8
+      "rang": 9
     },
     {
       "key": "MACRON Emmanuel",
       "value": 1,
-      "rang": 8
-    },
-    {
-      "key": "POUTOU Philippe",
-      "value": 1,
-      "rang": 8
+      "rang": 9
     }
   ]
 }

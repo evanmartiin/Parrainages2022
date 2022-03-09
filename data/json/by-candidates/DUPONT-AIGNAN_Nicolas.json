@@ -1,7 +1,7 @@
 {
   "nom": "DUPONT-AIGNAN Nicolas",
-  "votes_confirmes": 582,
-  "votes_totaux": 582,
+  "votes_confirmes": 600,
+  "votes_totaux": 600,
   "rang": 10,
   "valide": true,
   "parrainages": [
@@ -4660,40 +4660,184 @@
       "circonscription": "Les Trois-Bassins",
       "departement": "La Réunion",
       "date": "2022-03-03"
+    },
+    {
+      "genre": "M.",
+      "nom": "VASSEUR Jérôme",
+      "fonction": "Maire",
+      "circonscription": "Ly-Fontaine",
+      "departement": "Aisne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "MAOUI Serge",
+      "fonction": "Maire",
+      "circonscription": "Lazer",
+      "departement": "Hautes-Alpes",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "MONTI Bruno",
+      "fonction": "Maire",
+      "circonscription": "Cause-de-Clérans",
+      "departement": "Dordogne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "MOYNIER Arnaud",
+      "fonction": "Maire",
+      "circonscription": "Beaulieu",
+      "departement": "Hérault",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "Mme",
+      "nom": "FOURRÉ Odile",
+      "fonction": "Maire",
+      "circonscription": "Ménétréols-sous-Vatan",
+      "departement": "Indre",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "BESNARD Max",
+      "fonction": "Maire",
+      "circonscription": "Dierre",
+      "departement": "Indre-et-Loire",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHOPIN Gérard",
+      "fonction": "Maire",
+      "circonscription": "Theillay",
+      "departement": "Loir-et-Cher",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DENIAU Michel",
+      "fonction": "Maire",
+      "circonscription": "Épuisay",
+      "departement": "Loir-et-Cher",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "CRIONAY Timothée",
+      "fonction": "Maire",
+      "circonscription": "Saint-Victor-sur-Rhins",
+      "departement": "Loire",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "FLACHAT Jean-Claude",
+      "fonction": "Maire",
+      "circonscription": "La Valla-en-Gier",
+      "departement": "Loire",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "CLÉROT Philippe",
+      "fonction": "Maire",
+      "circonscription": "La Feuillie",
+      "departement": "Manche",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "FEUARDANT Marc",
+      "fonction": "Maire délégué d'une commune associée ou d'une commune déléguée",
+      "circonscription": "Bricquebec-en-Cotentin",
+      "departement": "Manche",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "GARNIER Roger",
+      "fonction": "Maire",
+      "circonscription": "Montreuil-Poulay",
+      "departement": "Mayenne",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "CHRISTOPHE Gérard",
+      "fonction": "Maire",
+      "circonscription": "Foameix-Ornel",
+      "departement": "Meuse",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DRION Denis",
+      "fonction": "Maire",
+      "circonscription": "Niederrœdern",
+      "departement": "Bas-Rhin",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "Mme",
+      "nom": "RICHAUD Joëlle",
+      "fonction": "Maire",
+      "circonscription": "Saint-Martin-de-la-Brasque",
+      "departement": "Vaucluse",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "M.",
+      "nom": "DE RUGY Maxence",
+      "fonction": "Conseiller départemental",
+      "circonscription": "",
+      "departement": "Vendée",
+      "date": "2022-03-07"
+    },
+    {
+      "genre": "Mme",
+      "nom": "MIRE Pauline",
+      "fonction": "Maire",
+      "circonscription": "Ollainville",
+      "departement": "Vosges",
+      "date": "2022-03-07"
     }
   ],
   "stats": {
     "genre": {
-      "total": 582,
+      "total": 600,
       "valeurs": [
         {
           "key": "M.",
-          "value": 521,
+          "value": 536,
           "rang": 1
         },
         {
           "key": "Mme",
-          "value": 61,
+          "value": 64,
           "rang": 2
         }
       ]
     },
     "fonction": {
-      "total": 582,
+      "total": 600,
       "valeurs": [
         {
           "key": "Maire",
-          "value": 553,
+          "value": 569,
           "rang": 1
         },
         {
           "key": "Maire délégué.e d'une commune associée ou d'une commune déléguée",
-          "value": 21,
+          "value": 22,
           "rang": 2
         },
         {
           "key": "Conseiller.e départemental.e",
-          "value": 4,
+          "value": 5,
           "rang": 3
         },
         {
@@ -4709,12 +4853,17 @@
       ]
     },
     "circonscription": {
-      "total": 578,
+      "total": 595,
       "valeurs": [
         {
           "key": "Valdallière",
           "value": 5,
           "rang": 1
+        },
+        {
+          "key": "Beaulieu",
+          "value": 2,
+          "rang": 2
         },
         {
           "key": "Bourgogne-Franche-Comté",
@@ -4759,2792 +4908,2867 @@
         {
           "key": "8ème circonscription",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Achain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Adé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Affracourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aillianville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aisey-sur-Seine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Almenêches",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Alzing",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Amanty",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Amayé-sur-Seulles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Anglefort",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aougny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aouste",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aouze",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Arbrissel",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Arcizac-ez-Angles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ardelles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Argillières",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Artaix",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Asnières-en-Bessin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Asnières-sur-Oise",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Athienville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aubencheul-au-Bac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aubenton",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aubeterre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Audignicourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Audrix",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Auflance",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Augerans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Augerville-la-Rivière",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aulnay-l'Aître",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Aumâtre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Autevielle-Saint-Martin-Bideren",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Auzers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Avant-lès-Ramerupt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Avelesges",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bach",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Baffie",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bailleul-la-Vallée",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ballans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bannay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bantigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Barby",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Barou-en-Auge",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Barquet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bassemberg",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bassillac et Auberoche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bathernay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Battexey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bazien",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Beauchemin",
           "value": 1,
-          "rang": 10
-        },
-        {
-          "key": "Beaulieu",
-          "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Beaupouyet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Beauregard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Beauvernois",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Becquigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Begnécourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Beine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Belfays",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Belhomert-Guéhouville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bellefonds",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Belloy-Saint-Léonard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Belmont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bermering",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bernwiller",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Berstett",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Besse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bettegney-Saint-Brice",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bezange-la-Petite",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bicqueley",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Blandy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bleurville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boisbergues",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boismorand",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boisse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boisseaux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boissy-Lamberville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bonrepos-Riquet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bosquel",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bouillac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bouin-Plumoison",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boulaincourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bouranton",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bourg-Fidèle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bourgeauville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bourgheim",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bourguignon-lès-la-Charité",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bourseville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boussicourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boustroff",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Boviolles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brandeville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Branne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bransles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brassy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brechainville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Breil-sur-Roya",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Breuville",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Bricquebec-en-Cotentin",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Bricquebosq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brie",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brie-sous-Matha",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Brieux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bréhain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Buanes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bult",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Busnes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bédeille",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Béthisy-Saint-Martin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Bézaudun-sur-Bîne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cabas-Loumassès",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cabrières-d'Aigues",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Camlez",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Canchy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cannelle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Canny-sur-Thérain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Carnoux-en-Provence",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Cause-de-Clérans",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Celles-sur-Ource",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Celsoy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cenans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Censerey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cernay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chambain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Champagne-en-Valromey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Champagny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Changy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chapaize",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chartronges",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chassey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chaudenay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chazot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chef-Haut",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Choisies",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Châteauneuf-de-Randon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Châtillon-sur-Broué",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Châtres",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Chêne-Bernard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cintray",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Clavans-en-Haut-Oisans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Clesles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cliron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Coinces",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Collonge-la-Madeleine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Commerveil",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Concremiers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Connigis",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Contre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cordebugle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cormeilles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cornot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Corvol-d'Embernard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Couin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Coulommiers-la-Tour",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Courcelles-sur-Aire",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Courcerac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Courgenay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Courtemanche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Courtesoult-et-Gatey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Crosne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cruseilles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Cuverville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dagny-Lambercy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dahlenheim",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dalhain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Damblain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dambron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dampierre-le-Château",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dangers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dangolsheim",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Davenescourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Deux-Grosnes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dialan sur Chaîne",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Dierre",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Dogneville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dommartin-le-Coq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dommartin-le-Saint-Père",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Domèvre-sur-Vezouze",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Doulevant-le-Petit",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dragey-Ronthon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Désandans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Elsenheim",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Enghien-les-Bains",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ercuis",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ermenonville-la-Petite",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Espèche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Esquéhéries",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Euzet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Eygurande-et-Gardedeuil",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Farincourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fauconcourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ferrières-le-Lac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fescamps",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fierville-les-Mines",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Flagy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Flaignes-Havys",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Flammerécourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Flassans-sur-Issole",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Floressas",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Flêtre",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Foameix-Ornel",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Foissy-lès-Vézelay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fontaine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fontaine-Uterte",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fontarèches",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fontiers-Cabardès",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Frais",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Frampas",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Franken",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fraroz",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Frebécourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fresnois-la-Montagne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fressancourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fricamps",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Frécourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fréménil",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Fumichon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Féternes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gaujacq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Geffosses",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gennes-Ivergny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Germaines",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Germainville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gesnes-en-Argonne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gidy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gignéville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gilley",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gincla",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gizy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Goux-lès-Dambelin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Grand Est",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Granges-les-Beaumont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Grindorff-Bizing",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Grumesnil",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gueutteville-les-Grès",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gurgy-la-Ville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Gâprée",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Haironville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hannocourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Harprich",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hartzviller",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hauteville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hecken",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hennecourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Heuqueville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hinckange",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Houdelaincourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Huberville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Humbauville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hâcourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Hévilliers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Incourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ippécourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Janvry",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Jars",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Juilly",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Justiniac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Juvincourt-et-Damary",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Kerling-lès-Sierck",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Bastide-d'Engras",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Beaume",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Celle-sous-Gouzon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Chailleuse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Chaize-le-Vicomte",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Chapelle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Chapelle-Villars",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Cheppe",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Croix-en-Champagne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Fage-Montivernoux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Ferté",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "La Feuillie",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "La Framboisière",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Grange",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "La Rivière-Enverse",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "La Valla-en-Gier",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Labosse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lacaussade",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ladoix-Serrigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lafauche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lagarde-Paréol",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lamath",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lanchères",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Larajasse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Larrey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lasserrade",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Laumesfeld",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Laval-le-Prieuré",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lavernoy",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Lazer",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Le Bersac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Cercueil",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Chauchet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Fied",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Heaulme",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Luhier",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Luot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Mesnil-Aubry",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Mémont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Le Ployron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Les Noës",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Les Petites-Loges",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Les Places",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Les Trois-Bassins",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Leurville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Levoncourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Liffol-le-Petit",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Limbrassac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Linay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lingeard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Linzeux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Liorac-sur-Louyre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Livry-Louvercy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lostroff",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Loubers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Loudrefing",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Loulle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Luby-Betmont",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Ly-Fontaine",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Légéville-et-Bonfays",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Léouville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Lœuilley",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marainville-sur-Madon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marchais",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marcilly-le-Hayer",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marestmontiers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Margerie-Hancourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Martainville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Martigny-Courpierre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marvaux-Vieux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Marzy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Matha",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Maucourt-sur-Orne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Maudétour-en-Vexin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mauny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mauran",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Menthonnex-en-Bornes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Merville-Franceville-Plage",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mesmont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mesnay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Metz-le-Comte",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Meunet-sur-Vatan",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Meurcé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Millay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Molring",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Moncourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mont-Saint-Jean",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montagnac-sur-Lède",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montbrun-des-Corbières",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montbéliardot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montfroc",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montignac-le-Coq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montigny-les-Jongleurs",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montigny-sur-Aube",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montiron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montjustin-et-Velotte",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montlaur-en-Diois",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montmirey-la-Ville",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Montreuil-Poulay",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Montreuil-l'Argillé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montreuil-la-Cambe",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Montreux-Jeune",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Morancourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Morand",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Moranville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Morfontaine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mortrée",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mouthier-en-Bresse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Moyenneville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mussey-sur-Marne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ménil-sur-Belvitte",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Ménétréols-sous-Vatan",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Mérial",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Mévouillon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nanchez",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nantillois",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Narbief",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Niederrœdern",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Niedersteinbach",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nielles-lès-Ardres",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Niévroz",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nochize",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nogent-le-Bernard",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nossage-et-Bénévent",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nossoncourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Notre-Dame-de-Londres",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Nécy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Néry",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Oberlarg",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Ollainville",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Oricourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Orliac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Oron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ouanne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ozolles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pacé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Padoux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Passy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Payns",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pettonville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pieusse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Plesnoy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Plourac'h",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Poinson-lès-Grancey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Poissons",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ponsonnas",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pont-sur-Madon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pontigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Port-sur-Seille",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Porte-du-Quercy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Poulangy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pouliacq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pruzilly",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Puget-sur-Argens",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Pévy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Quatre-Champs",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Quevauvillers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rampieux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ranzières",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ratzwiller",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rauville-la-Bigot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Renneville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rethel",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Reuilly-Sauvigny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Reutenbourg",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rieux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rogna",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rolbing",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rolleboise",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Romain-aux-Bois",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Romilly-la-Puthenaye",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rorbach-lès-Dieuze",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rosoy-en-Multien",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Rougemont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ruffigné",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sachin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sailly-en-Ostrevent",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sailly-le-Sec",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sainneville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Agnan",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Arnoult",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Aubin-Rivière",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Christophe-d'Allier",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Couat-du-Razès",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Denis-d'Orques",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Denis-des-Puits",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Epvre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Forgeux-Lespinasse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Girons-d'Aiguevives",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Huruge",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Jean-de-Nay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Jean-de-Tholome",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Julien-de-Jonzy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Laurent-du-Cros",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Léonard-en-Beauce",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Maixent-de-Beugné",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Saint-Martin-de-la-Brasque",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Saint-Martin-du-Puy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Michel-de-Villadeix",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Morel",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Nizier-d'Azergues",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Prest",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Privat",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Rémy-de-Chaudes-Aigues",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Salvy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Saturnin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Savournin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Souplet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Urbain-Maconcourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Utin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Vallier",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Saint-Victor-sur-Rhins",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Saint-Vidal",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saint-Éloy-d'Allier",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sainte-Eulalie-en-Royans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sainte-Maure",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Salles",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sancy-les-Cheminots",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Santilly",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sapogne-sur-Marche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sarrewerden",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sasnières",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saudron",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saulmory-Villefranche",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saulxures-sur-Moselotte",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sauvagnat",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Savigny-le-Vieux",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Secourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Segonzac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Semallé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Semoine",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Semur-en-Vallon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Servon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Somsois",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Soncourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sornéville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sougy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Soumont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Souzy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Soyers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Steinbrunn-le-Haut",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sugny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Sèvremont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Séderon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tanay",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tartonne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tendu",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Terrefondrée",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Theillay",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Thin-le-Moutier",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Thollet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Thonnance-lès-Joinville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Théville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Toulx-Sainte-Croix",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tramolé",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tremblois-lès-Carignan",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tronchy",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Trugny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Trémilly",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Trémolat",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Trémonzey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Tudelle",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Turcey",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Téterchen",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vadans",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Val-de-Chalvagne",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Valence-en-Brie",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Valeyrac",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Valherbasse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Valletot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Valserres",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vannaire",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Varenne-Saint-Germain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Varrains",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vaudreuille",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vavray-le-Grand",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Venouse",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Verdon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vergaville",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vernix",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vernonvilliers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vers-sous-Sellières",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Viffort",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vigneux-Hocquet",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ville-devant-Chaumont",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Ville-sur-Ancre",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villeberny",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villeblevin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villecourt",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villeneuve-d'Aval",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Viller",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villers-devant-Mouzon",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villers-sous-Pareid",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villiers",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Villy-le-Moutier",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vilory",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vilsberg",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vinneuf",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Violot",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vireux-Molhain",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Vovray-en-Bornes",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Wamin",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Wolfersdorf",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Yerres",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Yoncq",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Écorches",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Écuires",
           "value": 1,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Épouville",
           "value": 1,
-          "rang": 10
+          "rang": 11
+        },
+        {
+          "key": "Épuisay",
+          "value": 1,
+          "rang": 11
         },
         {
           "key": "Étretat",
           "value": 1,
-          "rang": 10
+          "rang": 11
         }
       ]
     },
     "departement": {
-      "total": 582,
+      "total": 600,
       "valeurs": [
         {
           "key": "Haute-Marne",
@@ -7552,14 +7776,14 @@
           "rang": 1
         },
         {
-          "key": "Moselle",
-          "value": 28,
+          "key": "Vosges",
+          "value": 29,
           "rang": 2
         },
         {
-          "key": "Vosges",
+          "key": "Moselle",
           "value": 28,
-          "rang": 2
+          "rang": 3
         },
         {
           "key": "Somme",
@@ -7583,51 +7807,56 @@
         },
         {
           "key": "Aisne",
-          "value": 16,
+          "value": 17,
+          "rang": 8
+        },
+        {
+          "key": "Manche",
+          "value": 17,
           "rang": 8
         },
         {
           "key": "Meuse",
-          "value": 16,
+          "value": 17,
           "rang": 8
         },
         {
           "key": "Calvados",
           "value": 15,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Jura",
           "value": 15,
-          "rang": 10
-        },
-        {
-          "key": "Manche",
-          "value": 15,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Saône-et-Loire",
           "value": 15,
-          "rang": 10
+          "rang": 11
         },
         {
           "key": "Dordogne",
-          "value": 12,
+          "value": 13,
           "rang": 14
         },
         {
           "key": "Doubs",
           "value": 12,
-          "rang": 14
+          "rang": 15
         },
         {
           "key": "Eure-et-Loir",
           "value": 12,
-          "rang": 14
+          "rang": 15
         },
         {
           "key": "Aube",
+          "value": 11,
+          "rang": 17
+        },
+        {
+          "key": "Bas-Rhin",
           "value": 11,
           "rang": 17
         },
@@ -7652,14 +7881,9 @@
           "rang": 17
         },
         {
-          "key": "Bas-Rhin",
-          "value": 10,
-          "rang": 22
-        },
-        {
           "key": "Oise",
           "value": 10,
-          "rang": 22
+          "rang": 23
         },
         {
           "key": "Drôme",
@@ -7702,6 +7926,21 @@
           "rang": 31
         },
         {
+          "key": "Hautes-Alpes",
+          "value": 6,
+          "rang": 31
+        },
+        {
+          "key": "Indre",
+          "value": 6,
+          "rang": 31
+        },
+        {
+          "key": "Loir-et-Cher",
+          "value": 6,
+          "rang": 31
+        },
+        {
           "key": "Sarthe",
           "value": 6,
           "rang": 31
@@ -7709,262 +7948,252 @@
         {
           "key": "Charente-Maritime",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Essonne",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
-          "key": "Hautes-Alpes",
+          "key": "Loire",
           "value": 5,
-          "rang": 33
-        },
-        {
-          "key": "Indre",
-          "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Nièvre",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Nord",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Seine-et-Marne",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Val-d'Oise",
           "value": 5,
-          "rang": 33
+          "rang": 36
         },
         {
           "key": "Ain",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
           "key": "Gers",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
           "key": "Hautes-Pyrénées",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
-          "key": "Loir-et-Cher",
+          "key": "Hérault",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
           "key": "Lot-et-Garonne",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
           "key": "Rhône",
           "value": 4,
-          "rang": 41
+          "rang": 43
         },
         {
           "key": "Alpes-de-Haute-Provence",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Creuse",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Gard",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Haute-Garonne",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Haute-Loire",
           "value": 3,
-          "rang": 47
-        },
-        {
-          "key": "Hérault",
-          "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Isère",
           "value": 3,
-          "rang": 47
-        },
-        {
-          "key": "Loire",
-          "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Lot",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Maine-et-Loire",
           "value": 3,
-          "rang": 47
+          "rang": 49
         },
         {
           "key": "Pyrénées-Atlantiques",
           "value": 3,
-          "rang": 47
+          "rang": 49
+        },
+        {
+          "key": "Vaucluse",
+          "value": 3,
+          "rang": 49
+        },
+        {
+          "key": "Vendée",
+          "value": 3,
+          "rang": 49
         },
         {
           "key": "Ariège",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Bouches-du-Rhône",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Cantal",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Charente",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Côtes-d'Armor",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Gironde",
           "value": 2,
-          "rang": 58
+          "rang": 60
+        },
+        {
+          "key": "Indre-et-Loire",
+          "value": 2,
+          "rang": 60
         },
         {
           "key": "Landes",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Lozère",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Puy-de-Dôme",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Territoire de Belfort",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Var",
           "value": 2,
-          "rang": 58
-        },
-        {
-          "key": "Vaucluse",
-          "value": 2,
-          "rang": 58
-        },
-        {
-          "key": "Vendée",
-          "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Vienne",
           "value": 2,
-          "rang": 58
+          "rang": 60
         },
         {
           "key": "Allier",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Alpes-Maritimes",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Cher",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Corrèze",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Corse-du-Sud",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Deux-Sèvres",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Ille-et-Vilaine",
           "value": 1,
-          "rang": 72
-        },
-        {
-          "key": "Indre-et-Loire",
-          "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "La Réunion",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Loire-Atlantique",
           "value": 1,
-          "rang": 72
+          "rang": 73
+        },
+        {
+          "key": "Mayenne",
+          "value": 1,
+          "rang": 73
         },
         {
           "key": "Tarn",
           "value": 1,
-          "rang": 72
+          "rang": 73
         },
         {
           "key": "Yvelines",
           "value": 1,
-          "rang": 72
+          "rang": 73
         }
       ]
     },
     "date": {
-      "total": 582,
+      "total": 600,
       "valeurs": [
         {
           "key": "2022-02-08",
@@ -8012,9 +8241,14 @@
           "rang": 9
         },
         {
+          "key": "2022-03-07",
+          "value": 18,
+          "rang": 10
+        },
+        {
           "key": "2022-02-01",
           "value": 10,
-          "rang": 10
+          "rang": 11
         }
       ]
     }

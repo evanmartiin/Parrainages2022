@@ -1,25 +1,25 @@
 {
   "nom": "Pays de la Loire",
-  "total": 394,
+  "total": 409,
   "votes": [
     {
       "key": "PÉCRESSE Valérie",
-      "value": 102,
+      "value": 105,
       "rang": 1
     },
     {
       "key": "MACRON Emmanuel",
-      "value": 87,
+      "value": 90,
       "rang": 2
     },
     {
       "key": "HIDALGO Anne",
-      "value": 45,
+      "value": 48,
       "rang": 3
     },
     {
       "key": "JADOT Yannick",
-      "value": 34,
+      "value": 35,
       "rang": 4
     },
     {
@@ -34,23 +34,23 @@
     },
     {
       "key": "LE PEN Marine",
-      "value": 15,
+      "value": 16,
       "rang": 7
     },
     {
       "key": "TAUBIRA Christiane",
-      "value": 14,
+      "value": 15,
       "rang": 8
     },
     {
       "key": "DUPONT-AIGNAN Nicolas",
-      "value": 12,
+      "value": 14,
       "rang": 9
     },
     {
       "key": "ROUSSEL Fabien",
       "value": 12,
-      "rang": 9
+      "rang": 10
     },
     {
       "key": "LASSALLE Jean",
@@ -73,6 +73,11 @@
       "rang": 14
     },
     {
+      "key": "KOENIG Gaspard",
+      "value": 2,
+      "rang": 15
+    },
+    {
       "key": "THOUY Hélène",
       "value": 2,
       "rang": 15
@@ -80,32 +85,27 @@
     {
       "key": "CHICHE Arnaud",
       "value": 1,
-      "rang": 16
-    },
-    {
-      "key": "KOENIG Gaspard",
-      "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "MEURICE Guillaume",
       "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "MIGUET Nicolas",
       "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "SAINT-PAUL Laetitia",
       "value": 1,
-      "rang": 16
+      "rang": 17
     },
     {
       "key": "WAECHTER Antoine",
       "value": 1,
-      "rang": 16
+      "rang": 17
     }
   ]
 }
